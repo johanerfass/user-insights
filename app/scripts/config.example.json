@@ -1,7 +1,11 @@
 {
   "reddit": {
     "enabled": true,
-    "queries": ["Voi scooter", "Voi ebike", "Voi app"],
+    "queries": [
+      "Voi scooter",
+      "Voi ebike",
+      "Voi app"
+    ],
     "subreddits": [],
     "limit": 50,
     "userAgent": "voi-rider-signal-bot/1.0 (contact: you@voiapp.io)"
@@ -9,13 +13,25 @@
   "appStore": {
     "enabled": true,
     "appId": "REPLACE_WITH_VOI_APP_STORE_ID",
-    "countries": ["gb", "se", "de", "fr", "es"],
+    "countries": [
+      "gb",
+      "se",
+      "de",
+      "fr",
+      "es"
+    ],
     "pages": 1
   },
   "googlePlay": {
     "enabled": true,
-    "appId": "com.voiapp.voi",
-    "countries": ["gb", "se", "de", "fr", "es"],
+    "appId": "io.voiapp.voi",
+    "countries": [
+      "gb",
+      "se",
+      "de",
+      "fr",
+      "es"
+    ],
     "num": 50
   },
   "trustpilot": {
@@ -29,11 +45,27 @@
     "enabled": true,
     "googleNews": {
       "enabled": true,
-      "queries": ["Voi scooter", "Voi ebike", "Voi micromobility"],
+      "queries": [
+        "Voi scooter",
+        "Voi ebike",
+        "Voi micromobility"
+      ],
       "editions": [
-        { "hl": "en-GB", "gl": "GB", "lang": "en" },
-        { "hl": "sv", "gl": "SE", "lang": "sv" },
-        { "hl": "de", "gl": "DE", "lang": "de" }
+        {
+          "hl": "en-GB",
+          "gl": "GB",
+          "lang": "en"
+        },
+        {
+          "hl": "sv",
+          "gl": "SE",
+          "lang": "sv"
+        },
+        {
+          "hl": "de",
+          "gl": "DE",
+          "lang": "de"
+        }
       ]
     },
     "feeds": {
@@ -43,19 +75,31 @@
   },
   "x": {
     "enabled": true,
-    "queries": ["Voi scooter", "Voi ebike"],
+    "queries": [
+      "Voi scooter",
+      "Voi ebike"
+    ],
     "maxResults": 25,
     "bearerTokenEnvVar": "X_BEARER_TOKEN"
   },
   "mastodon": {
     "enabled": true,
-    "instances": ["mastodon.social"],
-    "hashtags": ["escooter", "voi", "micromobility"],
+    "instances": [
+      "mastodon.social"
+    ],
+    "hashtags": [
+      "escooter",
+      "voi",
+      "micromobility"
+    ],
     "limit": 40
   },
   "bluesky": {
     "enabled": true,
-    "queries": ["Voi scooter", "Voi ebike"],
+    "queries": [
+      "Voi scooter",
+      "Voi ebike"
+    ],
     "limit": 25,
     "identifierEnvVar": "BLUESKY_IDENTIFIER",
     "appPasswordEnvVar": "BLUESKY_APP_PASSWORD"
@@ -63,10 +107,22 @@
   "window": {
     "minPostsForWindow": 5,
     "candidates": [
-      { "label": "Last week", "days": 7 },
-      { "label": "Last month", "days": 30 },
-      { "label": "Last 6 weeks", "days": 42 },
-      { "label": "Last quarter", "days": 90 }
+      {
+        "label": "Last week",
+        "days": 7
+      },
+      {
+        "label": "Last month",
+        "days": 30
+      },
+      {
+        "label": "Last 6 weeks",
+        "days": 42
+      },
+      {
+        "label": "Last quarter",
+        "days": 90
+      }
     ]
   },
   "sourceLabels": [
