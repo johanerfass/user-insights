@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Rider signal — What people are saying about us</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='14' fill='%23F26961'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <div id="stage-wrap">
+    <div id="board" data-screen-label="Signal board">
+
+      <header class="board-header">
+        <div class="board-header__title">
+          <div class="board-header__eyebrow">
+            <span class="dot dot--coral"></span>
+            <span class="eyebrow-text">Rider signal</span>
+          </div>
+          <h1 class="board-h1">What people are saying about us</h1>
+        </div>
+        <div class="board-header__meta">
+          <div class="pill pill--light">
+            <span class="pill__label">Window</span>
+            <span class="pill__value" data-field="windowLabel"></span>
+          </div>
+          <div class="pill pill--dark">
+            <span class="pill__label">Checked</span>
+            <span class="pill__value" data-field="checkedLabel"></span>
+          </div>
+        </div>
+      </header>
+
+      <main class="board-main">
+
+        <section class="quote-card" id="quote-card">
+          <div class="quote-card__top">
+            <div class="quote-card__source-line">
+              <span class="badge badge--source" data-field="post.source"></span>
+              <span class="muted" data-field="post.market"></span>
+              <span class="dot-sep">·</span>
+              <span class="muted" data-field="post.date"></span>
+            </div>
+            <div class="quote-card__sentiment">
+              <span class="dot" id="sentiment-dot"></span>
+              <span class="sentiment-label" data-field="post.sentiment"></span>
+            </div>
+          </div>
+
+          <blockquote class="quote-card__quote" data-field="post.quote"></blockquote>
+
+          <div class="quote-card__bottom">
+            <div class="theme-chips" id="theme-chips"></div>
+            <span class="counter" id="post-counter"></span>
+          </div>
+
+          <div class="progress-track">
+            <div class="progress-fill" id="progress-fill"></div>
+          </div>
+        </section>
+
+        <section class="side-col">
+
+          <div class="card sentiment-card">
+            <span class="card-label">Sentiment of sampled posts</span>
+            <div class="sentiment-bar" id="sentiment-bar">
+              <div class="sentiment-bar__seg sentiment-bar__seg--negative"></div>
+              <div class="sentiment-bar__seg sentiment-bar__seg--mixed"></div>
+              <div class="sentiment-bar__seg sentiment-bar__seg--positive"></div>
+            </div>
+            <div class="sentiment-legend">
+              <span><b id="neg-count"></b> negative</span>
+              <span><b id="mixed-count"></b> mixed</span>
+              <span><b id="pos-count"></b> positive</span>
+            </div>
+          </div>
+
+          <div class="card themes-card">
+            <span class="card-label">Themes this window</span>
+            <div class="theme-rows" id="theme-rows"></div>
+          </div>
+
+          <div class="card sources-card">
+            <span class="card-label">Where it came from</span>
+            <div class="source-chips" id="source-chips"></div>
+          </div>
+
+        </section>
+      </main>
+
+      <footer class="board-footer">
+        <span>Public rider feedback, collected by hand from open sources. Quotes are riders' own words, shortened.</span>
+        <div class="board-footer__rotate">
+          <span class="dot dot--sky"></span>
+          <span>Rotating every <span id="rotate-label"></span> · arrow keys to step through</span>
+        </div>
+      </footer>
+    </div>
+  </div>
+
+  <script src="./board.js"></script>
+</body>
+</html>

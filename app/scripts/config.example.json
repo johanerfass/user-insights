@@ -1,0 +1,43 @@
+{
+  "reddit": {
+    "enabled": true,
+    "queries": ["Voi scooter", "Voi ebike", "Voi app"],
+    "subreddits": [],
+    "limit": 50,
+    "userAgent": "voi-rider-signal-bot/1.0 (contact: you@voiapp.io)"
+  },
+  "appStore": {
+    "enabled": true,
+    "appId": "REPLACE_WITH_VOI_APP_STORE_ID",
+    "countries": ["gb", "se", "de", "fr", "es"],
+    "pages": 1
+  },
+  "googlePlay": {
+    "enabled": true,
+    "appId": "com.voiapp.voi",
+    "countries": ["gb", "se", "de", "fr", "es"],
+    "num": 50
+  },
+  "trustpilot": {
+    "enabled": true,
+    "businessUnitId": "REPLACE_WITH_TRUSTPILOT_BUSINESS_UNIT_ID",
+    "apiKeyEnvVar": "TRUSTPILOT_API_KEY",
+    "csvImportPath": "./data/trustpilot-import.csv",
+    "perPage": 100
+  },
+  "window": {
+    "minPostsForWindow": 5,
+    "candidates": [
+      { "label": "Last week", "days": 7 },
+      { "label": "Last month", "days": 30 },
+      { "label": "Last 6 weeks", "days": 42 },
+      { "label": "Last quarter", "days": 90 }
+    ]
+  },
+  "sourceLabels": ["Trustpilot", "App Store", "Google Play", "Reddit"],
+  "rotateSeconds": 12,
+  "classification": {
+    "useClaude": false,
+    "model": "claude-haiku-4-5-20251001"
+  }
+}

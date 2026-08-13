@@ -1,0 +1,142 @@
+{
+  "generatedAt": "2026-08-13T06:00:00Z",
+  "checkedLabel": "13 Aug 2026",
+  "windowLabel": "Last 6 weeks",
+  "rotateSeconds": 12,
+  "posts": [
+    {
+      "id": "trustpilot-2026-08-03-a",
+      "source": "Trustpilot",
+      "market": "London, UK",
+      "date": "3 Aug 2026",
+      "sentiment": "Negative",
+      "quote": "“Basic bikes are not good. Clunky and feel unsafe. Often in worse condition than competitors.”",
+      "themes": ["Vehicle condition", "vs. Lime"],
+      "url": null
+    },
+    {
+      "id": "trustpilot-2026-08-03-b",
+      "source": "Trustpilot",
+      "market": "London, UK",
+      "date": "3 Aug 2026",
+      "sentiment": "Negative",
+      "quote": "“Has issues with parking all the time. They often have outdated info as to P locations.”",
+      "themes": ["Parking data", "App reliability"],
+      "url": null
+    },
+    {
+      "id": "trustpilot-2026-07-16-a",
+      "source": "Trustpilot",
+      "market": "Cheltenham, UK",
+      "date": "16 Jul 2026",
+      "sentiment": "Negative",
+      "quote": "“I have been let down by being charged for scooters I did not use.”",
+      "themes": ["Billing", "Trust"],
+      "url": null
+    },
+    {
+      "id": "trustpilot-2026-07-10-a",
+      "source": "Trustpilot",
+      "market": "UK",
+      "date": "10 Jul 2026",
+      "sentiment": "Negative",
+      "quote": "“You park in a bike/scooter spot and they charge you a penalty! Even though they have gps.”",
+      "themes": ["Parking fines", "Geofencing"],
+      "url": null
+    },
+    {
+      "id": "trustpilot-2026-07-06-a",
+      "source": "Trustpilot",
+      "market": "UK",
+      "date": "6 Jul 2026",
+      "sentiment": "Negative",
+      "quote": "“They dump bikes outside of parking spaces, invading the road and going over the curb.”",
+      "themes": ["Street clutter", "Non-rider voice"],
+      "url": null
+    },
+    {
+      "id": "trustpilot-2026-06-30-a",
+      "source": "Trustpilot",
+      "market": "London, UK",
+      "date": "30 Jun 2026",
+      "sentiment": "Positive",
+      "quote": "“Took a Voi from Covent Garden to King’s Cross today because the Underground was severely delayed.”",
+      "themes": ["Transit backup", "Use case"],
+      "url": null
+    },
+    {
+      "id": "trustpilot-2026-05-20-a",
+      "source": "Trustpilot",
+      "market": "UK",
+      "date": "20 May 2026",
+      "sentiment": "Mixed",
+      "quote": "“While the team were responsive, the final position was that the holder is used ‘at your own risk’.”",
+      "themes": ["Phone holder", "Claims"],
+      "url": null
+    },
+    {
+      "id": "trustpilot-2026-promo-a",
+      "source": "Trustpilot",
+      "market": "UK",
+      "date": "2026",
+      "sentiment": "Negative",
+      "quote": "“In 2026, one has to activate a code — without being told, mind you — to have their first free ride.”",
+      "themes": ["Promo codes", "First ride"],
+      "url": null
+    },
+    {
+      "id": "appstore-recent-a",
+      "source": "App Store",
+      "market": "Europe",
+      "date": "Recent",
+      "sentiment": "Negative",
+      "quote": "“I’ve rented three. The first two were broken and charged me anyways.”",
+      "themes": ["Broken vehicles", "Refunds"],
+      "url": null
+    },
+    {
+      "id": "appstore-recent-b",
+      "source": "App Store",
+      "market": "Seville, ES",
+      "date": "Recent",
+      "sentiment": "Negative",
+      "quote": "“It’s actually dangerous how slow the scooters go now because all the other bikers/scooters have to pass you.”",
+      "themes": ["Slow zones", "Safety"],
+      "url": null
+    },
+    {
+      "id": "googleplay-2026-07-a",
+      "source": "Google Play",
+      "market": "Germany",
+      "date": "Jul 2026",
+      "sentiment": "Mixed",
+      "quote": "“Die Kameraerfassung ist seit ein paar Monaten extrem lahm und kostet Nerven.”",
+      "themes": ["QR scanning", "App performance"],
+      "url": null
+    },
+    {
+      "id": "appstore-recent-c",
+      "source": "App Store",
+      "market": "Europe",
+      "date": "Recent",
+      "sentiment": "Positive",
+      "quote": "“Thankfully a kind customer service employee refunded me — shout out to the great people who work in customer service!”",
+      "themes": ["Support", "Recovery"],
+      "url": null
+    }
+  ],
+  "sentimentSummary": { "negative": 7, "mixed": 2, "positive": 3 },
+  "themes": [
+    { "label": "Billing & charges", "count": 5, "trend": "up", "delta": 2 },
+    { "label": "App reliability", "count": 4, "trend": "up", "delta": 1 },
+    { "label": "Parking & fines", "count": 3, "trend": "up", "delta": 1 },
+    { "label": "Vehicle condition", "count": 3, "trend": "flat", "delta": 0 },
+    { "label": "Slow zones & speed", "count": 2, "trend": "down", "delta": -1 }
+  ],
+  "sources": [
+    { "label": "Trustpilot", "count": 8 },
+    { "label": "App Store", "count": 3 },
+    { "label": "Google Play", "count": 1 },
+    { "label": "Reddit", "count": 0 }
+  ]
+}

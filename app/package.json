@@ -1,0 +1,18 @@
+{
+  "name": "voi-rider-signal-board",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Daily rider-feedback signal board for a TV screen: fetches public reviews about Voi, classifies them, and renders a rotating carousel.",
+  "type": "module",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "fetch": "node scripts/fetch-posts.mjs",
+    "test": "node --test scripts/test/*.test.mjs",
+    "serve": "node scripts/serve.mjs"
+  },
+  "optionalDependencies": {
+    "google-play-scraper": "^10.0.0"
+  }
+}

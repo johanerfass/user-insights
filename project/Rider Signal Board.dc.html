@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<meta name="viewport" content="width=1920">
+<link rel="stylesheet" href="_ds/reef-design-system-voi-abe13f86-d3d8-4d3d-b62d-d55834a3b7a4/colors_and_type.css">
+<script src="_ds/reef-design-system-voi-abe13f86-d3d8-4d3d-b62d-d55834a3b7a4/_ds_bundle.js"></script>
+<style>
+html, body { margin: 0; padding: 0; background: #faf4ec; }
+a { color: #B04A44; text-decoration: none; }
+a:hover { color: #F26961; }
+</style>
+</helmet>
+<div data-theme="light" data-screen-label="Signal board" style="width: 1920px; height: 1080px; box-sizing: border-box; padding: 44px 56px 36px; font-family: Sora, system-ui, sans-serif; color: #282425; display: grid; grid-template-rows: auto 1fr auto; gap: 30px; background-image: radial-gradient(ellipse at 12% 88%, rgba(242,105,97,0.18) 0%, transparent 55%), radial-gradient(ellipse at 88% 8%, rgba(171,209,234,0.22) 0%, transparent 55%); background-color: #faf4ec; overflow: hidden;">
+
+  <header style="display: flex; align-items: flex-end; justify-content: space-between; gap: 40px;">
+    <div style="display: flex; flex-direction: column; gap: 10px;">
+      <div style="display: flex; align-items: center; gap: 14px;">
+        <span style="width: 14px; height: 14px; border-radius: 999px; background: #F26961;"></span>
+        <span style="font-size: 22px; font-weight: 700; letter-spacing: 0.14em; text-transform: uppercase; color: #6B6567;">Rider signal</span>
+      </div>
+      <h1 style="margin: 0; font-size: 62px; line-height: 1; font-weight: 600; letter-spacing: -0.04em;">What people are saying about us</h1>
+    </div>
+    <div style="display: flex; align-items: flex-end; gap: 18px;">
+      <div style="background: #ffffff; border-radius: 999px; padding: 14px 26px; box-shadow: 2px 4px 0 rgba(0,0,0,0.08); display: flex; align-items: center; gap: 12px;">
+        <span style="font-size: 20px; font-weight: 300; color: #6B6567;">Window</span>
+        <span style="font-size: 24px; font-weight: 600; letter-spacing: -0.02em;">{{ windowLabel }}</span>
+      </div>
+      <div style="background: #282425; color: #ffffff; border-radius: 999px; padding: 14px 26px; display: flex; align-items: center; gap: 12px;">
+        <span style="font-size: 20px; font-weight: 300; color: #C9C4C5;">Checked</span>
+        <span style="font-size: 24px; font-weight: 600; letter-spacing: -0.02em;">{{ checkedLabel }}</span>
+      </div>
+    </div>
+  </header>
+
+  <main style="display: grid; grid-template-columns: 1.55fr 1fr; gap: 30px; min-height: 0;">
+
+    <section style="background: #ffffff; border-radius: 32px; box-shadow: 2px 4px 0 rgba(0,0,0,0.08); padding: 44px 48px 36px; display: grid; grid-template-rows: auto 1fr auto; gap: 26px; min-height: 0; position: relative; overflow: hidden;">
+      <div style="display: flex; align-items: center; justify-content: space-between; gap: 24px;">
+        <div style="display: flex; align-items: center; gap: 14px;">
+          <span style="font-size: 22px; font-weight: 700; padding: 8px 18px; border-radius: 999px; background: #F2F2F6; color: #282425;">{{ post.source }}</span>
+          <span style="font-size: 22px; font-weight: 300; color: #6B6567;">{{ post.market }}</span>
+          <span style="font-size: 22px; font-weight: 300; color: #A9A3A5;">·</span>
+          <span style="font-size: 22px; font-weight: 300; color: #6B6567;">{{ post.date }}</span>
+        </div>
+        <div style="display: flex; align-items: center; gap: 12px;">
+          <span style="width: 12px; height: 12px; border-radius: 999px; background: {{ post.dot }};"></span>
+          <span style="font-size: 22px; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; color: #6B6567;">{{ post.sentiment }}</span>
+        </div>
+      </div>
+
+      <blockquote style="margin: 0; align-self: center; font-size: 52px; line-height: 1.18; font-weight: 300; letter-spacing: -0.03em; text-wrap: pretty; color: #282425;">{{ post.quote }}</blockquote>
+
+      <div style="display: flex; align-items: center; justify-content: space-between; gap: 24px;">
+        <div style="display: flex; align-items: center; gap: 12px;">
+          <sc-for list="{{ post.themes }}" as="theme" hint-placeholder-count="2">
+            <span style="font-size: 20px; font-weight: 400; padding: 10px 20px; border-radius: 999px; border: 1px solid #E8E4E5; color: #4A4547;">{{ theme }}</span>
+          </sc-for>
+        </div>
+        <span style="font-size: 24px; font-weight: 600; color: #A9A3A5; letter-spacing: -0.02em;">{{ counter }}</span>
+      </div>
+
+      <div style="position: absolute; left: 0; right: 0; bottom: 0; height: 6px; background: #F2F2F6;">
+        <div style="height: 100%; background: #282425; width: {{ progress }};"></div>
+      </div>
+    </section>
+
+    <section style="display: grid; grid-template-rows: auto 1fr auto; gap: 22px; min-height: 0;">
+
+      <div style="background: #ffffff; border-radius: 32px; box-shadow: 2px 4px 0 rgba(0,0,0,0.08); padding: 30px 34px; display: flex; flex-direction: column; gap: 18px;">
+        <span style="font-size: 20px; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: #6B6567;">Sentiment of sampled posts</span>
+        <div style="display: flex; height: 26px; border-radius: 999px; overflow: hidden; gap: 3px;">
+          <div style="width: 58%; background: #B04A44;"></div>
+          <div style="width: 17%; background: #ABD1EA;"></div>
+          <div style="width: 25%; background: #2D7A3A;"></div>
+        </div>
+        <div style="display: flex; justify-content: space-between; font-size: 22px; font-weight: 300; color: #4A4547;">
+          <span><b style="font-weight: 700;">7</b> negative</span>
+          <span><b style="font-weight: 700;">2</b> mixed</span>
+          <span><b style="font-weight: 700;">3</b> positive</span>
+        </div>
+      </div>
+
+      <div style="background: #ffffff; border-radius: 32px; box-shadow: 2px 4px 0 rgba(0,0,0,0.08); padding: 26px 34px; display: flex; flex-direction: column; gap: 16px; min-height: 0; overflow: hidden;">
+        <span style="font-size: 20px; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: #6B6567;">Themes this window</span>
+        <div style="display: flex; flex-direction: column; gap: 12px; min-height: 0;">
+          <sc-for list="{{ themeRows }}" as="row" hint-placeholder-count="5">
+            <div style="display: grid; grid-template-columns: 1fr auto auto; align-items: center; gap: 16px;">
+              <div style="display: flex; flex-direction: column; gap: 8px;">
+                <span style="font-size: 24px; font-weight: 400; letter-spacing: -0.02em;">{{ row.label }}</span>
+                <div style="height: 8px; border-radius: 999px; background: #F2F2F6;">
+                  <div style="height: 100%; border-radius: 999px; background: #282425; width: {{ row.width }};"></div>
+                </div>
+              </div>
+              <span style="font-size: 24px; font-weight: 700; color: #282425; min-width: 32px; text-align: right;">{{ row.count }}</span>
+              <span style="font-size: 20px; font-weight: 400; color: #6B6567; min-width: 54px; text-align: right;">{{ row.trend }}</span>
+            </div>
+          </sc-for>
+        </div>
+      </div>
+
+      <div style="background: #ffffff; border-radius: 32px; box-shadow: 2px 4px 0 rgba(0,0,0,0.08); padding: 26px 34px; display: flex; flex-direction: column; gap: 14px;">
+        <span style="font-size: 20px; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: #6B6567;">Where it came from</span>
+        <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+          <sc-for list="{{ sourceRows }}" as="src" hint-placeholder-count="4">
+            <span style="font-size: 21px; font-weight: 400; padding: 10px 18px; border-radius: 999px; background: #F2F2F6; color: #4A4547;">{{ src }}</span>
+          </sc-for>
+        </div>
+      </div>
+
+    </section>
+  </main>
+
+  <footer style="display: flex; align-items: center; justify-content: space-between; gap: 30px; font-size: 20px; font-weight: 300; color: #6B6567;">
+    <span>Public rider feedback, collected by hand from open sources. Quotes are riders' own words, shortened.</span>
+    <div style="display: flex; align-items: center; gap: 12px;">
+      <span style="width: 10px; height: 10px; border-radius: 999px; background: #ABD1EA;"></span>
+      <span>Rotating every {{ rotateLabel }} · arrow keys to step through</span>
+    </div>
+  </footer>
+</div>
+
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props="{&quot;$preview&quot;:{&quot;width&quot;:1920,&quot;height&quot;:1080},&quot;rotateSeconds&quot;:{&quot;editor&quot;:&quot;range&quot;,&quot;default&quot;:12,&quot;min&quot;:4,&quot;max&quot;:30,&quot;step&quot;:1,&quot;unit&quot;:&quot;s&quot;,&quot;tsType&quot;:&quot;number&quot;,&quot;section&quot;:&quot;Playback&quot;},&quot;paused&quot;:{&quot;editor&quot;:&quot;boolean&quot;,&quot;default&quot;:false,&quot;tsType&quot;:&quot;boolean&quot;,&quot;section&quot;:&quot;Playback&quot;},&quot;windowLabel&quot;:{&quot;editor&quot;:&quot;text&quot;,&quot;default&quot;:&quot;Last 6 weeks&quot;,&quot;tsType&quot;:&quot;string&quot;,&quot;section&quot;:&quot;Header&quot;},&quot;checkedLabel&quot;:{&quot;editor&quot;:&quot;text&quot;,&quot;default&quot;:&quot;13 Aug 2026&quot;,&quot;tsType&quot;:&quot;string&quot;,&quot;section&quot;:&quot;Header&quot;}}">
+const POSTS = [
+  { source: "Trustpilot", market: "London, UK", date: "3 Aug 2026", sentiment: "Negative",
+    quote: "\u201CBasic bikes are not good. Clunky and feel unsafe. Often in worse condition than competitors.\u201D",
+    themes: ["Vehicle condition", "vs. Lime"] },
+  { source: "Trustpilot", market: "London, UK", date: "3 Aug 2026", sentiment: "Negative",
+    quote: "\u201CHas issues with parking all the time. They often have outdated info as to P locations.\u201D",
+    themes: ["Parking data", "App reliability"] },
+  { source: "Trustpilot", market: "Cheltenham, UK", date: "16 Jul 2026", sentiment: "Negative",
+    quote: "\u201CI have been let down by being charged for scooters I did not use.\u201D",
+    themes: ["Billing", "Trust"] },
+  { source: "Trustpilot", market: "UK", date: "10 Jul 2026", sentiment: "Negative",
+    quote: "\u201CYou park in a bike/scooter spot and they charge you a penalty! Even though they have gps.\u201D",
+    themes: ["Parking fines", "Geofencing"] },
+  { source: "Trustpilot", market: "UK", date: "6 Jul 2026", sentiment: "Negative",
+    quote: "\u201CThey dump bikes outside of parking spaces, invading the road and going over the curb.\u201D",
+    themes: ["Street clutter", "Non-rider voice"] },
+  { source: "Trustpilot", market: "London, UK", date: "30 Jun 2026", sentiment: "Positive",
+    quote: "\u201CTook a Voi from Covent Garden to King\u2019s Cross today because the Underground was severely delayed.\u201D",
+    themes: ["Transit backup", "Use case"] },
+  { source: "Trustpilot", market: "UK", date: "20 May 2026", sentiment: "Mixed",
+    quote: "\u201CWhile the team were responsive, the final position was that the holder is used \u2018at your own risk\u2019.\u201D",
+    themes: ["Phone holder", "Claims"] },
+  { source: "Trustpilot", market: "UK", date: "2026", sentiment: "Negative",
+    quote: "\u201CIn 2026, one has to activate a code \u2014 without being told, mind you \u2014 to have their first free ride.\u201D",
+    themes: ["Promo codes", "First ride"] },
+  { source: "App Store", market: "Europe", date: "Recent", sentiment: "Negative",
+    quote: "\u201CI\u2019ve rented three. The first two were broken and charged me anyways.\u201D",
+    themes: ["Broken vehicles", "Refunds"] },
+  { source: "App Store", market: "Seville, ES", date: "Recent", sentiment: "Negative",
+    quote: "\u201CIt\u2019s actually dangerous how slow the scooters go now because all the other bikers/scooters have to pass you.\u201D",
+    themes: ["Slow zones", "Safety"] },
+  { source: "Google Play", market: "Germany", date: "Jul 2026", sentiment: "Mixed",
+    quote: "\u201CDie Kameraerfassung ist seit ein paar Monaten extrem lahm und kostet Nerven.\u201D",
+    themes: ["QR scanning", "App performance"] },
+  { source: "App Store", market: "Europe", date: "Recent", sentiment: "Positive",
+    quote: "\u201CThankfully a kind customer service employee refunded me \u2014 shout out to the great people who work in customer service!\u201D",
+    themes: ["Support", "Recovery"] },
+];
+
+const DOTS = { Negative: "#B04A44", Mixed: "#ABD1EA", Positive: "#2D7A3A" };
+
+const THEMES = [
+  { label: "Billing & charges", count: 5, trend: "\u25B2 +2", width: "100%" },
+  { label: "App reliability", count: 4, trend: "\u25B2 +1", width: "80%" },
+  { label: "Parking & fines", count: 3, trend: "\u25B2 +1", width: "60%" },
+  { label: "Vehicle condition", count: 3, trend: "\u2013", width: "60%" },
+  { label: "Slow zones & speed", count: 2, trend: "\u25BC \u22121", width: "40%" },
+];
+
+const SOURCES = ["Trustpilot · 8", "App Store · 3", "Google Play · 1", "Reddit · 0 this pass"];
+
+class Component extends DCLogic {
+  state = { i: 0, elapsed: 0 };
+
+  componentDidMount() {
+    this.tick = setInterval(() => {
+      if (this.props.paused) return;
+      const step = 0.1;
+      const dur = this.rotate();
+      this.setState(s => (s.elapsed + step >= dur
+        ? { i: (s.i + 1) % POSTS.length, elapsed: 0 }
+        : { elapsed: s.elapsed + step }));
+    }, 100);
+    this.onKey = e => {
+      if (e.key === "ArrowRight") this.setState(s => ({ i: (s.i + 1) % POSTS.length, elapsed: 0 }));
+      if (e.key === "ArrowLeft") this.setState(s => ({ i: (s.i - 1 + POSTS.length) % POSTS.length, elapsed: 0 }));
+    };
+    window.addEventListener("keydown", this.onKey);
+  }
+
+  componentWillUnmount() {
+    clearInterval(this.tick);
+    window.removeEventListener("keydown", this.onKey);
+  }
+
+  rotate() { return Math.max(3, this.props.rotateSeconds ?? 12); }
+
+  renderVals() {
+    const post = POSTS[this.state.i];
+    const dur = this.rotate();
+    return {
+      post: Object.assign({}, post, { dot: DOTS[post.sentiment] || "#A9A3A5" }),
+      themeRows: THEMES,
+      sourceRows: SOURCES,
+      counter: (this.state.i + 1) + " / " + POSTS.length,
+      progress: Math.min(100, (this.state.elapsed / dur) * 100).toFixed(1) + "%",
+      rotateLabel: dur + "s",
+      rotateSeconds: dur,
+      windowLabel: this.props.windowLabel ?? "Last 6 weeks",
+      checkedLabel: this.props.checkedLabel ?? "13 Aug 2026",
+    };
+  }
+}
+
+</script>
+</body>
+</html>

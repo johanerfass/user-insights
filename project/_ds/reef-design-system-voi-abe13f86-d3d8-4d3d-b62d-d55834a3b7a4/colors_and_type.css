@@ -1,0 +1,669 @@
+/* =============================================================
+   Reef Design System — Voi
+   Source of truth: Figma variables (palette / theme / sizing).
+   ============================================================= */
+@import url("https://rsms.me/inter/inter.css");
+
+/* ---------- Fonts ---------- */
+@font-face { font-family:"Sora"; src:url("./fonts/Sora-Light.ttf")     format("truetype"); font-weight:300; font-style:normal; font-display:swap; }
+@font-face { font-family:"Sora"; src:url("./fonts/Sora-Regular.ttf")   format("truetype"); font-weight:400; font-style:normal; font-display:swap; }
+@font-face { font-family:"Sora"; src:url("./fonts/Sora-Medium.ttf")    format("truetype"); font-weight:500; font-style:normal; font-display:swap; }
+@font-face { font-family:"Sora"; src:url("./fonts/Sora-SemiBold.ttf")  format("truetype"); font-weight:600; font-style:normal; font-display:swap; }
+@font-face { font-family:"Sora"; src:url("./fonts/Sora-Bold.ttf")      format("truetype"); font-weight:700; font-style:normal; font-display:swap; }
+@font-face { font-family:"Sora"; src:url("./fonts/Sora-ExtraBold.ttf") format("truetype"); font-weight:800; font-style:normal; font-display:swap; }
+
+/* =============================================================
+   PALETTE — raw hex (mirrors Figma "palette" collection 1:1)
+   ============================================================= */
+:root {
+  /* core */
+  --core-black:  #000000;
+  --core-tire:   #282425;
+  --core-white:  #ffffff;
+  --core-coral:  #f26961;
+  --core-rose:   #f8b3ad;
+  --core-sand:   #faf4ec;
+
+  /* supporting */
+  --supporting-pink:     #ffdcd9;
+  --supporting-salmon:   #f58e87;
+  --supporting-brick:    #d04740;
+  --supporting-cherry:   #8d0601;
+  --supporting-chestnut: #500402;
+  --supporting-sky:      #abd1ea;
+  --supporting-overcast: #89abc8;
+  --supporting-thunder:  #6785a5;
+  --supporting-sea:      #455f85;
+  --supporting-space:    #243860;
+
+  /* neutral */
+  --neutral-pearl:    #f2f2f6;
+  --neutral-chalk:    #edebed;
+  --neutral-shell:    #e8e4e5;
+  --neutral-marble:   #d0cccd;
+  --neutral-granite:  #b8b4b5;
+  --neutral-gravel:   #989495;
+  --neutral-slate:    #787475;
+  --neutral-tarmac:   #585455;
+  --neutral-basalt:   #403c3d;
+  --neutral-graphite: #322e2f;
+  --neutral-charcoal: #2d292a;
+  --neutral-rubber:   #1f1c1d;
+  --neutral-asphalt:  #161314;
+
+  /* alert */
+  --alert-success:       #008545; --alert-success-dark:   #005d30; --alert-success-light:   #4daa7d;
+  --alert-success10:     #0085451a; --alert-success20:     #00854533;
+  --alert-warning:       #ffb100; --alert-warning-dark:   #b27c00; --alert-warning-light:   #ffc84d;
+  --alert-warning10:     #ffb1001a; --alert-warning20:     #ffb10033;
+  --alert-error:         #ed0a02; --alert-error-dark:     #a60701; --alert-error-light:     #f4716c;
+  --alert-error10:       #ed0a021a; --alert-error20:       #ed0a0233;
+  --alert-info:          #0075db; --alert-info-dark:      #005299; --alert-info-light:      #4d9ee6;
+  --alert-info10:        #0075db1a; --alert-info20:        #0075db33;
+  --alert-mandatory:     #c802e9; --alert-mandatory-dark: #8c01a3; --alert-mandatory-light: #d94ef0;
+  --alert-mandatory10:   #c802e91a; --alert-mandatory20:   #c802e933;
+  --alert-pending:       #52d1dc; --alert-pending-dark:   #39929a; --alert-pending-light:   #86dfe7;
+  --alert-pending10:     #52d1dc1a; --alert-pending20:     #52d1dc33;
+
+  /* transparent */
+  --transparent-black-10:#0000001a; --transparent-black-20:#00000033; --transparent-black-30:#0000004d;
+  --transparent-black-40:#00000066; --transparent-black-50:#00000080; --transparent-black-60:#00000099;
+  --transparent-black-70:#000000b2; --transparent-black-80:#000000cc; --transparent-black-90:#000000e5;
+  --transparent-white-0: #ffffff00; --transparent-white-10:#ffffff1a; --transparent-white-20:#ffffff33;
+  --transparent-white-30:#ffffff4d; --transparent-white-40:#ffffff66; --transparent-white-50:#ffffff80;
+  --transparent-white-60:#ffffff99; --transparent-white-70:#ffffffb2; --transparent-white-80:#ffffffcc;
+  --transparent-white-90:#ffffffe5;
+}
+
+/* =============================================================
+   THEME — semantic tokens (Light = default, Dark = [data-theme="dark"])
+   Mirrors Figma "theme" collection. These are what components read.
+   ============================================================= */
+:root,
+[data-theme="light"] {
+  /* content */
+  --content-disabled:            var(--neutral-granite);
+  --content-nonadaptable-black:  var(--core-black);
+  --content-nonadaptable-white:  var(--core-white);
+
+  --content-heading-primary:     var(--core-black);
+  --content-heading-secondary:   var(--core-tire);
+  --content-heading-accent:      var(--core-coral);
+  --content-heading-inverted:    var(--core-white);
+
+  --content-body-primary:        var(--core-tire);
+  --content-body-secondary:      var(--neutral-graphite);
+  --content-body-tertiary:       var(--neutral-tarmac);
+  --content-body-inverted:       var(--core-white);
+
+  --content-icon-primary:        var(--core-black);
+  --content-icon-brand:          var(--core-coral);
+  --content-icon-inverted:       var(--core-white);
+
+  --content-inline-link-enabled: var(--supporting-brick);
+  --content-inline-link-hover:   var(--core-coral);
+  --content-inline-link-pressed: var(--supporting-cherry);
+
+  --content-alert-info:          var(--alert-info);
+  --content-alert-success:       var(--alert-success);
+  --content-alert-warning:       var(--alert-warning);
+  --content-alert-error:         var(--alert-error);
+
+  /* surface */
+  --surface-overlay-enabled:  var(--core-white);
+  --surface-overlay-hover:    var(--neutral-chalk);
+  --surface-overlay-pressed:  var(--neutral-shell);
+
+  --surface-raised-enabled:   var(--core-white);
+  --surface-raised-hover:     var(--neutral-chalk);
+  --surface-raised-pressed:   var(--neutral-shell);
+
+  --surface-base-enabled:     var(--neutral-pearl);
+  --surface-base-hover:       var(--neutral-chalk);
+  --surface-base-pressed:     var(--neutral-shell);
+
+  --surface-brand-enabled:    var(--core-sand);
+  --surface-brand-hover:      var(--neutral-shell);
+  --surface-brand-pressed:    var(--neutral-marble);
+
+  --surface-backdrop:         var(--transparent-black-40);
+  --surface-loader:           var(--transparent-black-10);
+
+  /* fill */
+  --fill-disabled:             var(--neutral-chalk);
+  --fill-disabled-transparent: var(--transparent-white-60);
+
+  --fill-neutral-soft-enabled:   var(--neutral-shell);
+  --fill-neutral-soft-hover:     var(--neutral-marble);
+  --fill-neutral-soft-pressed:   var(--neutral-granite);
+  --fill-neutral-medium-enabled: var(--neutral-granite);
+  --fill-neutral-medium-hover:   var(--neutral-gravel);
+  --fill-neutral-medium-pressed: var(--neutral-slate);
+  --fill-neutral-hard-enabled:   var(--core-tire);
+  --fill-neutral-hard-hover:     var(--neutral-basalt);
+  --fill-neutral-hard-pressed:   var(--core-black);
+
+  --fill-brand-soft-enabled:     var(--supporting-pink);
+  --fill-brand-soft-hover:       var(--core-rose);
+  --fill-brand-soft-pressed:     var(--supporting-salmon);
+  --fill-brand-medium-enabled:   var(--core-coral);
+  --fill-brand-medium-hover:     var(--supporting-salmon);
+  --fill-brand-medium-pressed:   var(--supporting-brick);
+  --fill-brand-medium-accessible-enabled: var(--supporting-brick);
+  --fill-brand-medium-accessible-hover:   var(--core-coral);
+  --fill-brand-medium-accessible-pressed: var(--supporting-cherry);
+  --fill-brand-hard-enabled:     var(--supporting-chestnut);
+  --fill-brand-hard-hover:       var(--supporting-cherry);
+  --fill-brand-hard-pressed:     var(--supporting-brick);
+
+  --fill-accent-soft-enabled:    var(--supporting-sky);
+  --fill-accent-soft-hover:      var(--supporting-overcast);
+  --fill-accent-soft-pressed:    var(--supporting-thunder);
+  --fill-accent-medium-enabled:  var(--supporting-sea);
+  --fill-accent-medium-hover:    var(--supporting-thunder);
+  --fill-accent-medium-pressed:  var(--supporting-space);
+  --fill-accent-hard-enabled:    var(--supporting-space);
+  --fill-accent-hard-hover:      var(--supporting-sea);
+  --fill-accent-hard-pressed:    var(--supporting-thunder);
+
+  --fill-alert-info-enabled:        var(--alert-info);
+  --fill-alert-info-hover:          var(--alert-info-light);
+  --fill-alert-info-pressed:        var(--alert-info-dark);
+  --fill-alert-info-transparent:    var(--alert-info10);
+  --fill-alert-success-enabled:     var(--alert-success);
+  --fill-alert-success-hover:       var(--alert-success-light);
+  --fill-alert-success-pressed:     var(--alert-success-dark);
+  --fill-alert-success-transparent: var(--alert-success10);
+  --fill-alert-warning-enabled:     var(--alert-warning);
+  --fill-alert-warning-hover:       var(--alert-warning-light);
+  --fill-alert-warning-pressed:     var(--alert-warning-dark);
+  --fill-alert-warning-transparent: var(--alert-warning10);
+  --fill-alert-error-enabled:       var(--alert-error);
+  --fill-alert-error-hover:         var(--alert-error-light);
+  --fill-alert-error-pressed:       var(--alert-error-dark);
+  --fill-alert-error-transparent:   var(--alert-error10);
+  --fill-alert-mandatory-enabled:   var(--alert-mandatory);
+  --fill-alert-mandatory-hover:     var(--alert-mandatory-light);
+  --fill-alert-mandatory-pressed:   var(--alert-mandatory-dark);
+  --fill-alert-mandatory-transparent: var(--alert-mandatory10);
+  --fill-alert-pending-enabled:     var(--alert-pending);
+  --fill-alert-pending-hover:       var(--alert-pending-light);
+  --fill-alert-pending-pressed:     var(--alert-pending-dark);
+  --fill-alert-pending-transparent: var(--alert-pending10);
+
+  --badge-text: "Badge";
+}
+
+[data-theme="dark"] {
+  --content-disabled:            var(--neutral-tarmac);
+  --content-nonadaptable-black:  var(--core-black);
+  --content-nonadaptable-white:  var(--core-white);
+
+  --content-heading-primary:     var(--core-white);
+  --content-heading-secondary:   var(--neutral-pearl);
+  --content-heading-accent:      var(--core-coral);
+  --content-heading-inverted:    var(--core-black);
+
+  --content-body-primary:        var(--core-white);
+  --content-body-secondary:      var(--neutral-pearl);
+  --content-body-tertiary:       var(--neutral-granite);
+  --content-body-inverted:       var(--core-tire);
+
+  --content-icon-primary:        var(--core-white);
+  --content-icon-brand:          var(--core-coral);
+  --content-icon-inverted:       var(--core-black);
+
+  --content-inline-link-enabled: var(--core-coral);
+  --content-inline-link-hover:   var(--supporting-salmon);
+  --content-inline-link-pressed: var(--supporting-brick);
+
+  --surface-overlay-enabled:  var(--core-tire);
+  --surface-overlay-hover:    var(--neutral-graphite);
+  --surface-overlay-pressed:  var(--neutral-charcoal);
+  --surface-raised-enabled:   var(--neutral-rubber);
+  --surface-raised-hover:     var(--neutral-graphite);
+  --surface-raised-pressed:   var(--neutral-charcoal);
+  --surface-base-enabled:     var(--neutral-asphalt);
+  --surface-base-hover:       var(--neutral-graphite);
+  --surface-base-pressed:     var(--neutral-charcoal);
+  --surface-brand-enabled:    var(--core-black);
+  --surface-brand-hover:      var(--neutral-asphalt);
+  --surface-brand-pressed:    var(--core-tire);
+  --surface-backdrop:         var(--transparent-black-60);
+  --surface-loader:            var(--transparent-white-10);
+
+  --fill-disabled:             var(--neutral-graphite);
+  --fill-disabled-transparent: var(--transparent-white-20);
+
+  --fill-neutral-soft-enabled:   var(--neutral-basalt);
+  --fill-neutral-soft-hover:     var(--neutral-tarmac);
+  --fill-neutral-soft-pressed:   var(--neutral-graphite);
+  --fill-neutral-medium-enabled: var(--neutral-slate);
+  --fill-neutral-medium-hover:   var(--neutral-gravel);
+  --fill-neutral-medium-pressed: var(--neutral-tarmac);
+  --fill-neutral-hard-enabled:   var(--core-white);
+  --fill-neutral-hard-hover:     var(--neutral-shell);
+  --fill-neutral-hard-pressed:   var(--neutral-granite);
+
+  --fill-brand-soft-enabled:     var(--supporting-chestnut);
+  --fill-brand-soft-hover:       var(--supporting-cherry);
+  --fill-brand-soft-pressed:     var(--supporting-brick);
+  --fill-brand-medium-enabled:   var(--core-coral);
+  --fill-brand-medium-hover:     var(--supporting-salmon);
+  --fill-brand-medium-pressed:   var(--supporting-brick);
+  --fill-brand-medium-accessible-enabled: var(--core-coral);
+  --fill-brand-medium-accessible-hover:   var(--supporting-salmon);
+  --fill-brand-medium-accessible-pressed: var(--supporting-brick);
+  --fill-brand-hard-enabled:     var(--core-rose);
+  --fill-brand-hard-hover:       var(--supporting-salmon);
+  --fill-brand-hard-pressed:     var(--core-coral);
+
+  --fill-accent-soft-enabled:    var(--supporting-space);
+  --fill-accent-soft-hover:      var(--supporting-sea);
+  --fill-accent-soft-pressed:    var(--supporting-thunder);
+  --fill-accent-medium-enabled:  var(--supporting-thunder);
+  --fill-accent-medium-hover:    var(--supporting-overcast);
+  --fill-accent-medium-pressed:  var(--supporting-sea);
+  --fill-accent-hard-enabled:    var(--supporting-sky);
+  --fill-accent-hard-hover:      var(--supporting-overcast);
+  --fill-accent-hard-pressed:    var(--supporting-thunder);
+  /* alert tokens identical to light — already inherited */
+}
+
+/* =============================================================
+   SIZING — Figma "sizing" collection (small = default, large >=768px)
+   ============================================================= */
+:root {
+  /* fixed grid spacing */
+  --grid-system-fixed-spacing-none:   0rem;
+  --grid-system-fixed-spacing-size-1: 0.25rem;
+  --grid-system-fixed-spacing-size-2: 0.5rem;
+  --grid-system-fixed-spacing-size-3: 0.75rem;
+  --grid-system-fixed-spacing-size-4: 1rem;
+  --grid-system-fixed-spacing-size-5: 1.25rem;
+  --grid-system-fixed-spacing-size-6: 1.5rem;
+  --grid-system-fixed-spacing-size-7: 2rem;
+  --grid-system-fixed-spacing-size-8: 2.5rem;
+  --grid-system-fixed-spacing-size-9: 3rem;
+  --grid-system-fixed-spacing-size-10: 3.5rem;
+  --grid-system-fixed-spacing-size-11: 4rem;
+  --grid-system-fixed-spacing-size-12: 5rem;
+
+  /* flex grid spacing — small */
+  --grid-system-flex-spacing-none: 0rem;
+  --grid-system-flex-spacing-xs:   0.25rem;
+  --grid-system-flex-spacing-sm:   0.5rem;
+  --grid-system-flex-spacing-md:   0.75rem;
+  --grid-system-flex-spacing-lg:   1rem;
+  --grid-system-flex-spacing-xl:   1.25rem;
+  --grid-system-flex-spacing-2xl:  1.5rem;
+  --grid-system-flex-spacing-3xl:  2rem;
+  --grid-system-flex-spacing-4xl:  2.5rem;
+  --grid-system-flex-spacing-5xl:  3rem;
+  --grid-system-flex-spacing-6xl:  3.5rem;
+
+  /* type sizes — small */
+  --font-size-body-xs:  0.625rem;
+  --font-size-body-sm:  0.75rem;
+  --font-size-body-md:  0.875rem;
+  --font-size-body-lg:  1rem;
+  --font-size-body-xl:  1.125rem;
+
+  --font-size-elements-xs: 0.625rem;
+  --font-size-elements-sm: 0.75rem;
+  --font-size-elements-md: 0.875rem;
+  --font-size-elements-lg: 1rem;
+  --font-size-elements-xl: 1.5rem;
+
+  --font-size-heading-h5: 1rem;
+  --font-size-heading-h4: 1.25rem;
+  --font-size-heading-h3: 1.5rem;
+  --font-size-heading-h2: 2rem;
+  --font-size-heading-h1: 2.5rem;
+  --font-size-heading-display-2: 3rem;
+  --font-size-heading-display-1: 4rem;
+
+  /* type families & weights */
+  --font-family-body:     "Sora", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --font-family-elements: "Sora", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --font-family-heading:  "Sora", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --font-weight-light:    300;
+  --font-weight-regular:  400;
+  --font-weight-semibold: 600;
+  --font-weight-bold:     700;
+}
+
+/* large breakpoint (≥768px) — overrides */
+@media (min-width: 768px) {
+  :root {
+    --grid-system-flex-spacing-xs:   0.5rem;
+    --grid-system-flex-spacing-sm:   0.75rem;
+    --grid-system-flex-spacing-md:   1rem;
+    --grid-system-flex-spacing-lg:   1.25rem;
+    --grid-system-flex-spacing-xl:   1.5rem;
+    --grid-system-flex-spacing-2xl:  2rem;
+    --grid-system-flex-spacing-3xl:  2.5rem;
+    --grid-system-flex-spacing-4xl:  3rem;
+    --grid-system-flex-spacing-5xl:  3.5rem;
+    --grid-system-flex-spacing-6xl:  4rem;
+
+    --font-size-body-xs:  0.75rem;
+    --font-size-body-sm:  0.875rem;
+    --font-size-body-md:  1rem;
+    --font-size-body-lg:  1.125rem;
+    --font-size-body-xl:  1.5rem;
+
+    --font-size-heading-h5: 1.25rem;
+    --font-size-heading-h4: 2.5rem;
+    --font-size-heading-h3: 3rem;
+    --font-size-heading-h2: 3.5rem;
+    --font-size-heading-h1: 4rem;
+    --font-size-heading-display-2: 5rem;
+    --font-size-heading-display-1: 9rem;
+  }
+}
+
+/* =============================================================
+   LEGACY ALIASES — keep older preview files working.
+   These map our previous custom names to the official Figma tokens.
+   ============================================================= */
+:root {
+  /* palette aliases */
+  --color-coral:     var(--core-coral);
+  --color-rose:      var(--core-rose);
+  --color-sand:      var(--core-sand);
+  --color-white:     var(--core-white);
+  --color-tire:      var(--core-tire);
+  --color-black:     var(--core-black);
+  --color-pink:      var(--supporting-pink);
+  --color-salmon:    var(--supporting-salmon);
+  --color-brick:     var(--supporting-brick);
+  --color-cherry:    var(--supporting-cherry);
+  --color-chestnut:  var(--supporting-chestnut);
+  --color-sky:       var(--supporting-sky);
+  --color-overcast:  var(--supporting-overcast);
+  --color-thunder:   var(--supporting-thunder);
+  --color-sea:       var(--supporting-sea);
+  --color-space:     var(--supporting-space);
+  --color-pearl:     var(--neutral-pearl);
+  --color-chalk:     var(--neutral-chalk);
+  --color-shell:     var(--neutral-shell);
+  --color-marble:    var(--neutral-marble);
+  --color-granite:   var(--neutral-granite);
+  --color-gravel:    var(--neutral-gravel);
+  --color-slate:     var(--neutral-slate);
+  --color-tarmac:    var(--neutral-tarmac);
+  --color-basalt:    var(--neutral-basalt);
+  --color-graphite:  var(--neutral-graphite);
+  --color-charcoal:  var(--neutral-charcoal);
+  --color-rubber:    var(--neutral-rubber);
+  --color-asphalt:   var(--neutral-asphalt);
+
+  --color-success-light: var(--alert-success-light);
+  --color-success:       var(--alert-success);
+  --color-success-dark:  var(--alert-success-dark);
+  --color-warning-light: var(--alert-warning-light);
+  --color-warning:       var(--alert-warning);
+  --color-warning-dark:  var(--alert-warning-dark);
+  --color-error-light:   var(--alert-error-light);
+  --color-error:         var(--alert-error);
+  --color-error-dark:    var(--alert-error-dark);
+  --color-info-light:    var(--alert-info-light);
+  --color-info:          var(--alert-info);
+  --color-info-dark:     var(--alert-info-dark);
+  --color-mandatory-light: var(--alert-mandatory-light);
+  --color-mandatory:       var(--alert-mandatory);
+  --color-mandatory-dark:  var(--alert-mandatory-dark);
+  --color-pending-light:   var(--alert-pending-light);
+  --color-pending:         var(--alert-pending);
+  --color-pending-dark:    var(--alert-pending-dark);
+
+  --color-black-a10: var(--transparent-black-10);
+  --color-black-a20: var(--transparent-black-20);
+  --color-black-a40: var(--transparent-black-40);
+  --color-black-a60: var(--transparent-black-60);
+  --color-black-a80: var(--transparent-black-80);
+  --color-white-a10: var(--transparent-white-10);
+  --color-white-a40: var(--transparent-white-40);
+  --color-white-a80: var(--transparent-white-80);
+
+  /* surface / fg / action aliases (light) */
+  --bg:              var(--surface-base-enabled);
+  --surface-base:    var(--surface-overlay-enabled);
+  --surface-raised:  var(--surface-raised-enabled);
+  --surface-sand:    var(--surface-brand-enabled);
+  --surface-sunken:  var(--neutral-chalk);
+  --surface-inverse: var(--core-tire);
+
+  --fg-1: var(--content-body-primary);
+  --fg-2: var(--content-body-secondary);
+  --fg-3: var(--content-body-tertiary);
+  --fg-4: var(--content-disabled);
+  --fg-on-dark:  var(--content-body-inverted);
+  --fg-on-brand: var(--content-nonadaptable-white);
+
+  --border-1: var(--neutral-shell);
+  --border-2: var(--neutral-marble);
+  --border-3: var(--neutral-granite);
+  --border-focus: var(--alert-info);
+
+  --action-fill:           var(--fill-neutral-hard-enabled);
+  --action-fill-hover:     var(--fill-neutral-hard-hover);
+  --action-fill-pressed:   var(--fill-neutral-hard-pressed);
+  --action-fill-disabled:  var(--fill-disabled);
+  --action-on-fill:        var(--core-white);
+  --action-contrast:         var(--surface-overlay-enabled);
+  --action-contrast-hover:   var(--surface-overlay-hover);
+  --action-contrast-pressed: var(--surface-overlay-pressed);
+  --action-outline-border:   var(--neutral-granite);
+  --action-outline-hover-bg: var(--neutral-chalk);
+  --action-outline-pressed-bg: var(--neutral-shell);
+
+  --brand:       var(--fill-brand-medium-enabled);
+  --brand-soft:  var(--core-rose);
+  --brand-muted: var(--supporting-pink);
+  --on-brand:    var(--core-white);
+
+  --scrim:      var(--surface-backdrop);
+  --scrim-deep: var(--transparent-black-60);
+
+  /* shadows */
+  --shadow-shallow:    0 0 16px 0 rgba(0,0,0,0.12);
+  --shadow-deep-below: 0 16px 48px 0 rgba(0,0,0,0.12);
+  --shadow-deep-above: 0 -16px 48px 0 rgba(0,0,0,0.12);
+  --shadow-card:       0 0 16px 0 rgba(0,0,0,0.08);
+  --shadow-focus:      0 0 0 4px var(--core-white), 0 0 0 8px var(--alert-info);
+  --shadow-focus-sm:   0 0 0 2px var(--core-white), 0 0 0 5px var(--alert-info);
+
+  /* radii */
+  --radius-xs:   4px;
+  --radius-sm:   8px;
+  --radius-md:   16px;
+  --radius-lg:   24px;
+  --radius-xl:   32px;
+  --radius-2xl:  40px;
+  --radius-pill: 999px;
+
+  /* spacing aliases (4pt) */
+  --space-0:  0;
+  --space-1:  4px;
+  --space-2:  8px;
+  --space-3:  12px;
+  --space-4:  16px;
+  --space-5:  20px;
+  --space-6:  24px;
+  --space-8:  32px;
+  --space-10: 40px;
+  --space-12: 48px;
+  --space-16: 64px;
+  --space-20: 80px;
+
+  /* type aliases */
+  --font-sans: var(--font-family-body);
+  --font-mono: "Space Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  --fw-light: 300; --fw-regular: 400; --fw-medium: 500; --fw-semibold: 600; --fw-bold: 700; --fw-extrabold: 800;
+
+  /* Heading scale (small viewport defaults from Figma "sizing/small") */
+  --display-1-size: var(--font-size-heading-display-1); --display-1-lh: 1.00; --display-1-tracking: -0.04em; --display-1-weight: 600;
+  --display-2-size: var(--font-size-heading-display-2); --display-2-lh: 1.00; --display-2-tracking: -0.04em; --display-2-weight: 600;
+  --h1-size: var(--font-size-heading-h1); --h1-lh: 1.05; --h1-tracking: -0.04em; --h1-weight: 700;
+  --h2-size: var(--font-size-heading-h2); --h2-lh: 1.10; --h2-tracking: -0.04em; --h2-weight: 700;
+  --h3-size: var(--font-size-heading-h3); --h3-lh: 1.15; --h3-tracking: -0.04em; --h3-weight: 600;
+  --h4-size: var(--font-size-heading-h4); --h4-lh: 1.20; --h4-tracking: -0.02em; --h4-weight: 600;
+  --h5-size: var(--font-size-heading-h5); --h5-lh: 1.25; --h5-tracking: -0.02em; --h5-weight: 600;
+
+  --body-lg-size: var(--font-size-body-xl); --body-lg-lh: 1.45; --body-lg-weight: 400;
+  --body-size:    var(--font-size-body-lg); --body-lh: 1.50;    --body-weight: 400;
+  --body-sm-size: var(--font-size-body-md); --body-sm-lh: 1.45; --body-sm-weight: 400;
+  --caption-size: var(--font-size-body-sm); --caption-lh: 1.35; --caption-weight: 500;
+  --micro-size:   var(--font-size-body-xs); --micro-lh: 1.20;   --micro-weight: 600;
+
+  --label-lg-size: var(--font-size-elements-lg); --label-lg-weight: 700;
+  --label-size:    var(--font-size-elements-md); --label-weight: 700;
+  --label-sm-size: var(--font-size-elements-sm); --label-sm-weight: 700;
+}
+
+/* =============================================================
+   SEMANTIC ELEMENT STYLES
+   ============================================================= */
+html, body {
+  font-family: var(--font-family-body);
+  color: var(--content-body-primary);
+  background: var(--surface-base-enabled);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+.reef-display-1 { font-family:var(--font-family-heading); font-weight:var(--display-1-weight); font-size:var(--display-1-size); line-height:var(--display-1-lh); letter-spacing:var(--display-1-tracking); color:var(--content-heading-primary); }
+.reef-display-2 { font-family:var(--font-family-heading); font-weight:var(--display-2-weight); font-size:var(--display-2-size); line-height:var(--display-2-lh); letter-spacing:var(--display-2-tracking); color:var(--content-heading-primary); }
+.reef-h1, h1.reef { font-family:var(--font-family-heading); font-weight:var(--h1-weight); font-size:var(--h1-size); line-height:var(--h1-lh); letter-spacing:var(--h1-tracking); color:var(--content-heading-primary); margin:0; }
+.reef-h2, h2.reef { font-family:var(--font-family-heading); font-weight:var(--h2-weight); font-size:var(--h2-size); line-height:var(--h2-lh); letter-spacing:var(--h2-tracking); color:var(--content-heading-primary); margin:0; }
+.reef-h3, h3.reef { font-family:var(--font-family-heading); font-weight:var(--h3-weight); font-size:var(--h3-size); line-height:var(--h3-lh); letter-spacing:var(--h3-tracking); color:var(--content-heading-primary); margin:0; }
+.reef-h4, h4.reef { font-family:var(--font-family-heading); font-weight:var(--h4-weight); font-size:var(--h4-size); line-height:var(--h4-lh); letter-spacing:var(--h4-tracking); color:var(--content-heading-primary); margin:0; }
+.reef-h5, h5.reef { font-family:var(--font-family-heading); font-weight:var(--h5-weight); font-size:var(--h5-size); line-height:var(--h5-lh); color:var(--content-heading-primary); margin:0; }
+
+.reef-body-lg { font-size:var(--body-lg-size); line-height:var(--body-lg-lh); font-weight:var(--body-lg-weight); color:var(--content-body-primary); }
+.reef-body    { font-size:var(--body-size);    line-height:var(--body-lh);    font-weight:var(--body-weight);    color:var(--content-body-primary); }
+.reef-body-sm { font-size:var(--body-sm-size); line-height:var(--body-sm-lh); font-weight:var(--body-sm-weight); color:var(--content-body-secondary); }
+.reef-caption { font-size:var(--caption-size); line-height:var(--caption-lh); font-weight:var(--caption-weight); color:var(--content-body-tertiary); letter-spacing:0.01em; }
+.reef-micro   { font-size:var(--micro-size);   line-height:var(--micro-lh);   font-weight:var(--micro-weight);   color:var(--content-body-tertiary); letter-spacing:0.04em; text-transform:uppercase; }
+
+.reef-label-lg { font-size:var(--label-lg-size); font-weight:var(--label-lg-weight); line-height:1; }
+.reef-label    { font-size:var(--label-size);    font-weight:var(--label-weight);    line-height:1; }
+.reef-label-sm { font-size:var(--label-sm-size); font-weight:var(--label-sm-weight); line-height:1; }
+
+.reef-mono { font-family: var(--font-mono); }
+
+/* =============================================================
+   REEF 2026 — Direction A "Glass Aurora"
+   Opt-in layer. Add `class="reef26"` to <body> (or any wrapper).
+   ============================================================= */
+:root {
+  --sand-2026:     #FDFAF5;
+  --glass-fill:    rgba(255,255,255,.62);
+  --glass-fill-hi: rgba(255,255,255,.82);
+  --glass-border:  rgba(255,255,255,.85);
+  --glass-hair:    rgba(40,36,37,.06);
+  --glass-shadow:
+    0 1px 0 0 rgba(255,255,255,.9) inset,
+    0 20px 40px -16px rgba(40,36,37,.16),
+    0 2px 6px -2px rgba(40,36,37,.08);
+
+  --spring:  cubic-bezier(.34, 1.56, .64, 1);
+  --easeOut: cubic-bezier(.20, .80, .20, 1);
+
+  --font-display: "Inter","Inter var",ui-sans-serif,system-ui,sans-serif;
+}
+@supports (font-variation-settings: normal) {
+  :root { --font-display: "Inter var","Inter",ui-sans-serif,system-ui,sans-serif; }
+}
+
+body.reef26, .reef26 { background: var(--sand-2026); color: var(--core-tire); }
+.reef26 .aurora { position:fixed; inset:0; z-index:0; pointer-events:none; overflow:hidden; }
+.reef26 .aurora::before, .reef26 .aurora::after { content:""; position:absolute; border-radius:50%; filter:blur(70px); opacity:.85; }
+.reef26 .aurora::before { width:560px; height:560px; left:-140px; top:-80px; background:radial-gradient(closest-side, rgba(248,179,173,.75), transparent 70%); }
+.reef26 .aurora::after  { width:520px; height:520px; right:-160px; bottom:-100px; background:radial-gradient(closest-side, rgba(252,228,189,.8), transparent 70%); }
+.reef26 .aurora .blob3  { position:absolute; left:35%; top:40%; width:380px; height:380px; border-radius:50%; filter:blur(80px); background:radial-gradient(closest-side, rgba(242,105,97,.30), transparent 70%); }
+.reef26 > *:not(.aurora) { position:relative; z-index:1; }
+
+.reef26 .glass {
+  background: var(--glass-fill);
+  backdrop-filter: blur(18px) saturate(140%);
+  -webkit-backdrop-filter: blur(18px) saturate(140%);
+  border: 1px solid var(--glass-border);
+  border-radius: 22px;
+  box-shadow: var(--glass-shadow);
+}
+.reef26 .glass--hi { background: var(--glass-fill-hi); }
+
+.reef26 .reef-display-1, .reef26 .reef-display-2,
+.reef26 .reef-h1, .reef26 h1.reef,
+.reef26 .reef-h2, .reef26 h2.reef,
+.reef26 .reef-h3, .reef26 h3.reef,
+.reef26 .reef-h4, .reef26 h4.reef,
+.reef26 .reef-h5, .reef26 h5.reef {
+  font-family: var(--font-display);
+  letter-spacing: -0.045em;
+  font-weight: 600;
+}
+.reef26 .reef-h4, .reef26 h4.reef,
+.reef26 .reef-h5, .reef26 h5.reef { letter-spacing: -0.02em; }
+
+.reef26 .btn26 { font-family:var(--font-display); font-weight:600; font-size:14px; letter-spacing:-.015em; height:40px; padding:0 18px; border-radius:12px; border:0; cursor:pointer; display:inline-flex; align-items:center; justify-content:center; gap:8px; white-space:nowrap; transition:background-color .15s var(--easeOut), color .15s var(--easeOut), border-color .15s var(--easeOut); }
+.reef26 .btn26:focus-visible { outline:2px solid var(--core-tire); outline-offset:2px; }
+.reef26 .btn26 svg { width:16px; height:16px; stroke:currentColor; fill:none; stroke-width:2; stroke-linecap:round; stroke-linejoin:round; }
+
+.reef26 .btn26--primary { background: var(--core-tire); color:#fff; }
+.reef26 .btn26--primary:hover { background:#000; }
+.reef26 .btn26--primary:active { background: var(--neutral-asphalt); }
+.reef26 .btn26--coral { background: var(--core-coral); color:#fff; }
+.reef26 .btn26--coral:hover { background: var(--supporting-brick); }
+.reef26 .btn26--coral:active { background: var(--supporting-cherry); }
+.reef26 .btn26--secondary { background:#fff; color: var(--core-tire); box-shadow: inset 0 0 0 1px rgba(40,36,37,.14); }
+.reef26 .btn26--secondary:hover { box-shadow: inset 0 0 0 1px rgba(40,36,37,.35); }
+.reef26 .btn26--secondary:active { background:#F6F3EE; }
+.reef26 .btn26--ghost { background:transparent; color: var(--core-tire); }
+.reef26 .btn26--ghost:hover { background: rgba(40,36,37,.06); }
+.reef26 .btn26--ghost:active { background: rgba(40,36,37,.10); }
+.reef26 .btn26--glass { background: rgba(255,255,255,.7); color: var(--core-tire); box-shadow: inset 0 0 0 1px rgba(40,36,37,.1); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); }
+.reef26 .btn26--glass:hover { background: rgba(255,255,255,.9); }
+.reef26 .btn26--sm { height:32px; padding:0 12px; font-size:13px; border-radius:10px; }
+.reef26 .btn26--lg { height:48px; padding:0 22px; font-size:15px; border-radius:14px; }
+.reef26 .btn26[aria-disabled="true"], .reef26 .btn26:disabled { background: rgba(40,36,37,.08); color: rgba(40,36,37,.35); cursor:not-allowed; box-shadow:none; }
+
+.reef26 .chip26 { font-family:var(--font-display); font-weight:500; font-size:12.5px; letter-spacing:-.005em; height:30px; padding:0 12px; border-radius:999px; display:inline-flex; align-items:center; gap:6px; background: rgba(255,255,255,.7); border:1px solid rgba(40,36,37,.08); color: var(--core-tire); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); transition: all .18s var(--spring); cursor:pointer; }
+.reef26 .chip26:hover { background: rgba(255,255,255,.85); }
+.reef26 .chip26.on { background: var(--core-tire); color:#fff; border-color: var(--core-tire); }
+.reef26 .chip26--coral { background: var(--supporting-pink); color: var(--supporting-cherry); border-color: rgba(242,105,97,.2); }
+.reef26 .chip26--coral .dot { width:6px; height:6px; border-radius:999px; background: var(--core-coral); }
+
+.reef26 .sw26 { width:44px; height:26px; border-radius:999px; position:relative; display:inline-block; background: rgba(40,36,37,.12); border:1px solid rgba(40,36,37,.06); transition: background .2s var(--easeOut); cursor:pointer; }
+.reef26 .sw26::after { content:""; position:absolute; top:2px; left:2px; width:20px; height:20px; border-radius:50%; background:#fff; box-shadow: 0 2px 5px rgba(0,0,0,.2); transition: left .24s var(--spring); }
+.reef26 .sw26.on { background: var(--core-tire); border-color: var(--core-tire); }
+.reef26 .sw26.on::after { left:20px; }
+
+.reef26 .cb26 { width:20px; height:20px; border-radius:6px; background: rgba(255,255,255,.8); border:1.5px solid rgba(40,36,37,.22); display:inline-grid; place-items:center; transition: all .18s var(--spring); cursor:pointer; }
+.reef26 .cb26.on { background: var(--core-tire); border-color: var(--core-tire); }
+.reef26 .cb26.on::after { content:""; width:10px; height:6px; border:2px solid #fff; border-top:0; border-right:0; transform: rotate(-45deg) translate(1px,-1px); }
+
+.reef26 .rd26 { width:20px; height:20px; border-radius:50%; background: rgba(255,255,255,.8); border:1.5px solid rgba(40,36,37,.22); display:inline-grid; place-items:center; transition: all .18s var(--spring); cursor:pointer; }
+.reef26 .rd26.on { border:2px solid var(--core-tire); }
+.reef26 .rd26.on::after { content:""; width:10px; height:10px; border-radius:50%; background: var(--core-tire); }
+
+.reef26 .input26 { display:flex; align-items:center; gap:10px; padding:0 14px; height:44px; border-radius:14px; background: rgba(255,255,255,.7); border:1px solid rgba(40,36,37,.10); box-shadow: 0 1px 0 0 rgba(255,255,255,.7) inset, 0 1px 2px rgba(40,36,37,.04); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); transition: border-color .15s var(--easeOut), box-shadow .2s var(--easeOut); }
+.reef26 .input26:focus-within { border-color: rgba(40,36,37,.35); box-shadow: 0 0 0 4px rgba(242,105,97,.15), 0 1px 0 0 rgba(255,255,255,.7) inset; }
+.reef26 .input26 input { border:0; background:transparent; outline:0; flex:1; font:400 14px/1 var(--font-family-body); color: var(--core-tire); }
+.reef26 .input26 input::placeholder { color: var(--neutral-gravel); }
+.reef26 .input26 svg { width:16px; height:16px; stroke: var(--neutral-slate); fill:none; stroke-width:2; stroke-linecap:round; stroke-linejoin:round; }
+.reef26 .input26 kbd { font:500 10px/1 var(--font-display); padding:3px 6px; border-radius:5px; background: rgba(40,36,37,.06); color: var(--neutral-tarmac); }
+
+.reef26 .rowcard26 { padding:14px 16px; border-radius:16px; display:flex; align-items:center; gap:12px; background: rgba(255,255,255,.55); border:1px solid rgba(255,255,255,.8); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); }
+.reef26 .rowcard26 .av { width:30px; height:30px; border-radius:10px; background: var(--core-coral); color:#fff; font:700 11px/1 var(--font-display); display:grid; place-items:center; }
+.reef26 .rowcard26 .t { flex:1; min-width:0; }
+.reef26 .rowcard26 .n { font-family: var(--font-display); font-weight:600; font-size:13px; letter-spacing:-.01em; }
+.reef26 .rowcard26 .m { font-family: var(--font-family-body); font-size:11.5px; color: var(--neutral-slate); margin-top:2px; }
+.reef26 .rowcard26 .k { font-family: var(--font-display); font-weight:600; font-size:13px; letter-spacing:-.02em; padding:4px 10px; border-radius:999px; background: rgba(40,36,37,.06); color: var(--core-tire); }
+
+.reef26 .label26 { font-family: var(--font-display); font-weight:600; font-size:10px; letter-spacing:.2em; text-transform:uppercase; opacity:.55; margin:0 0 12px; }
+.reef26 .sep26   { height:1px; width:100%; background: currentColor; opacity:.08; margin:4px 0; }
