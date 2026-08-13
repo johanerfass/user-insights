@@ -189,7 +189,7 @@
         <button class="gate__button" type="submit">Unlock</button>
       </form>
 
-      <p class="gate__foot">Internal board. Quotes are public rider feedback, shortened.</p>
+      <p class="gate__foot">Internal board made by Johan Erfass — get in touch for access.</p>
     </div>
   </div>
 
@@ -236,7 +236,16 @@
 
           <div class="quote-card__bottom">
             <div class="theme-chips" id="theme-chips"></div>
-            <span class="counter" id="post-counter"></span>
+            <div class="quote-card__end">
+              <a class="source-link" id="source-link" target="_blank" rel="noopener noreferrer">
+                <span class="source-link__qr" id="source-qr" aria-hidden="true"></span>
+                <span class="source-link__text">
+                  <span class="source-link__cta">Scan to read the original</span>
+                  <span class="source-link__host" id="source-host"></span>
+                </span>
+              </a>
+              <span class="counter" id="post-counter"></span>
+            </div>
           </div>
 
           <div class="progress-track">
@@ -274,7 +283,12 @@
       </main>
 
       <footer class="board-footer">
-        <span>Public rider feedback, collected by hand from open sources. Quotes are riders' own words, shortened.</span>
+        <span class="board-footer__note">
+          Collected automatically from public sources. Sentiment and themes are
+          auto-classified, so read them as signal rather than verdict. Quotes and
+          headlines are the source's own words, shortened.
+          <span class="board-footer__by">Made by Johan Erfass</span>
+        </span>
         <div class="board-footer__rotate">
           <span class="dot dot--sky"></span>
           <span>Rotating every <span id="rotate-label"></span> · arrow keys to step through</span>
@@ -327,6 +341,7 @@
     input.focus();
   })();
   </script>
+  <script src="./qr.js"></script>
   <script src="./board.js"></script>
 </body>
 </html>

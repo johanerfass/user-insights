@@ -249,6 +249,66 @@ html, body {
   white-space: nowrap;
 }
 
+/* Source attribution: a QR for people standing in front of the TV, and a
+   real link for anyone reading the board in a browser. */
+.quote-card__end {
+  display: flex;
+  align-items: center;
+  gap: 32px;
+  flex: none;
+}
+.source-link {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  text-decoration: none;
+  color: inherit;
+}
+.source-link.is-hidden { display: none; }
+
+/* 160px is roughly 10cm on a 55" screen, which keeps a typical review URL
+   (30-40 modules) comfortably scannable. Very long links — Google News
+   redirectors run past 200 characters — need a denser symbol and a closer
+   phone; see the QR note in the README. */
+.source-link__qr {
+  width: 160px;
+  height: 160px;
+  flex: none;
+  padding: 8px;
+  box-sizing: border-box;
+  background: var(--white);
+  border: 1px solid var(--shell-border);
+  border-radius: 16px;
+}
+.source-link__qr svg {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.source-link__text {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  min-width: 0;
+}
+.source-link__cta {
+  font-size: 18px;
+  font-weight: 300;
+  color: var(--label-gray);
+  white-space: nowrap;
+}
+.source-link__host {
+  font-size: 22px;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  color: var(--tire);
+  max-width: 320px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
 .progress-track {
   position: absolute;
   left: 0;
@@ -394,6 +454,20 @@ html, body {
   align-items: center;
   gap: 12px;
   white-space: nowrap;
+}
+.board-footer__note {
+  max-width: 1220px;
+  text-wrap: pretty;
+}
+.board-footer__by {
+  font-weight: 500;
+  color: var(--theme-text);
+  white-space: nowrap;
+}
+.board-footer__by::before {
+  content: " · ";
+  font-weight: 300;
+  color: var(--dot-sep-gray);
 }
 
 /* ---------- empty state ---------- */

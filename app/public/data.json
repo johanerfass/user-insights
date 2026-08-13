@@ -11,7 +11,10 @@
       "date": "3 Aug 2026",
       "sentiment": "Negative",
       "quote": "“Basic bikes are not good. Clunky and feel unsafe. Often in worse condition than competitors.”",
-      "themes": ["Vehicle condition", "vs. Lime"],
+      "themes": [
+        "Vehicle condition",
+        "vs. Lime"
+      ],
       "url": null
     },
     {
@@ -21,7 +24,10 @@
       "date": "3 Aug 2026",
       "sentiment": "Negative",
       "quote": "“Has issues with parking all the time. They often have outdated info as to P locations.”",
-      "themes": ["Parking data", "App reliability"],
+      "themes": [
+        "Parking data",
+        "App reliability"
+      ],
       "url": null
     },
     {
@@ -31,7 +37,10 @@
       "date": "16 Jul 2026",
       "sentiment": "Negative",
       "quote": "“I have been let down by being charged for scooters I did not use.”",
-      "themes": ["Billing", "Trust"],
+      "themes": [
+        "Billing",
+        "Trust"
+      ],
       "url": null
     },
     {
@@ -41,7 +50,10 @@
       "date": "10 Jul 2026",
       "sentiment": "Negative",
       "quote": "“You park in a bike/scooter spot and they charge you a penalty! Even though they have gps.”",
-      "themes": ["Parking fines", "Geofencing"],
+      "themes": [
+        "Parking fines",
+        "Geofencing"
+      ],
       "url": null
     },
     {
@@ -51,7 +63,10 @@
       "date": "6 Jul 2026",
       "sentiment": "Negative",
       "quote": "“They dump bikes outside of parking spaces, invading the road and going over the curb.”",
-      "themes": ["Street clutter", "Non-rider voice"],
+      "themes": [
+        "Street clutter",
+        "Non-rider voice"
+      ],
       "url": null
     },
     {
@@ -61,7 +76,10 @@
       "date": "30 Jun 2026",
       "sentiment": "Positive",
       "quote": "“Took a Voi from Covent Garden to King’s Cross today because the Underground was severely delayed.”",
-      "themes": ["Transit backup", "Use case"],
+      "themes": [
+        "Transit backup",
+        "Use case"
+      ],
       "url": null
     },
     {
@@ -71,7 +89,10 @@
       "date": "20 May 2026",
       "sentiment": "Mixed",
       "quote": "“While the team were responsive, the final position was that the holder is used ‘at your own risk’.”",
-      "themes": ["Phone holder", "Claims"],
+      "themes": [
+        "Phone holder",
+        "Claims"
+      ],
       "url": null
     },
     {
@@ -81,7 +102,10 @@
       "date": "2026",
       "sentiment": "Negative",
       "quote": "“In 2026, one has to activate a code — without being told, mind you — to have their first free ride.”",
-      "themes": ["Promo codes", "First ride"],
+      "themes": [
+        "Promo codes",
+        "First ride"
+      ],
       "url": null
     },
     {
@@ -91,7 +115,10 @@
       "date": "Recent",
       "sentiment": "Negative",
       "quote": "“I’ve rented three. The first two were broken and charged me anyways.”",
-      "themes": ["Broken vehicles", "Refunds"],
+      "themes": [
+        "Broken vehicles",
+        "Refunds"
+      ],
       "url": null
     },
     {
@@ -101,7 +128,10 @@
       "date": "Recent",
       "sentiment": "Negative",
       "quote": "“It’s actually dangerous how slow the scooters go now because all the other bikers/scooters have to pass you.”",
-      "themes": ["Slow zones", "Safety"],
+      "themes": [
+        "Slow zones",
+        "Safety"
+      ],
       "url": null
     },
     {
@@ -111,8 +141,11 @@
       "date": "Jul 2026",
       "sentiment": "Mixed",
       "quote": "“Die Kameraerfassung ist seit ein paar Monaten extrem lahm und kostet Nerven.”",
-      "themes": ["QR scanning", "App performance"],
-      "url": null
+      "themes": [
+        "QR scanning",
+        "App performance"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi"
     },
     {
       "id": "appstore-recent-c",
@@ -121,22 +154,107 @@
       "date": "Recent",
       "sentiment": "Positive",
       "quote": "“Thankfully a kind customer service employee refunded me — shout out to the great people who work in customer service!”",
-      "themes": ["Support", "Recovery"],
+      "themes": [
+        "Support",
+        "Recovery"
+      ],
       "url": null
+    },
+    {
+      "id": "news-seed-bbc-northants",
+      "source": "News",
+      "market": "BBC",
+      "date": "11 Jun 2026",
+      "sentiment": "Positive",
+      "quote": "“Voi invests £3m for safety improvements across Northamptonshire”",
+      "themes": [
+        "Safety",
+        "Investment"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPTHJKY2tuX1hXRFdwbnN3Q2FCOE8zTFVQV0t4VElYLXRwdkZiSUJkLXNJRWV0RnVyUWV2WmF6VHdfTzVhRGlTMnZtYXR4S2ZuTnVKSTJoaVMyQQ?oc=5"
+    },
+    {
+      "id": "news-seed-bbc-newareas",
+      "source": "News",
+      "market": "BBC",
+      "date": "11 Jun 2026",
+      "sentiment": "Mixed",
+      "quote": "“E-scooters could soon be rolled out to new areas”",
+      "themes": [
+        "Expansion"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52N3U0aTduQjZoZUtaczVIQkR0bUg4OFNxamwxYW1ZbUxQS05OM2h5dXpIRUxQenpQREwxTXVVZFJvUnRVZUVkcnhDb2R0SkNjOHNtdXBkR0hfdkIt?oc=5"
     }
   ],
-  "sentimentSummary": { "negative": 7, "mixed": 2, "positive": 3 },
+  "sentimentSummary": {
+    "negative": 8,
+    "mixed": 3,
+    "positive": 3
+  },
   "themes": [
-    { "label": "Billing & charges", "count": 5, "trend": "up", "delta": 2 },
-    { "label": "App reliability", "count": 4, "trend": "up", "delta": 1 },
-    { "label": "Parking & fines", "count": 3, "trend": "up", "delta": 1 },
-    { "label": "Vehicle condition", "count": 3, "trend": "flat", "delta": 0 },
-    { "label": "Slow zones & speed", "count": 2, "trend": "down", "delta": -1 }
+    {
+      "label": "Billing & charges",
+      "count": 5,
+      "trend": "up",
+      "delta": 2
+    },
+    {
+      "label": "App reliability",
+      "count": 4,
+      "trend": "up",
+      "delta": 1
+    },
+    {
+      "label": "Parking & fines",
+      "count": 3,
+      "trend": "up",
+      "delta": 1
+    },
+    {
+      "label": "Vehicle condition",
+      "count": 3,
+      "trend": "flat",
+      "delta": 0
+    },
+    {
+      "label": "Slow zones & speed",
+      "count": 2,
+      "trend": "down",
+      "delta": -1
+    }
   ],
   "sources": [
-    { "label": "Trustpilot", "count": 8 },
-    { "label": "App Store", "count": 3 },
-    { "label": "Google Play", "count": 1 },
-    { "label": "Reddit", "count": 0 }
+    {
+      "label": "Trustpilot",
+      "count": 8
+    },
+    {
+      "label": "App Store",
+      "count": 3
+    },
+    {
+      "label": "Google Play",
+      "count": 1
+    },
+    {
+      "label": "Reddit",
+      "count": 0
+    },
+    {
+      "label": "News",
+      "count": 2
+    },
+    {
+      "label": "X",
+      "count": 0
+    },
+    {
+      "label": "Mastodon",
+      "count": 0
+    },
+    {
+      "label": "Bluesky",
+      "count": 0
+    }
   ]
 }

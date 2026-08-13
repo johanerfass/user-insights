@@ -1,8 +1,11 @@
 # Rider signal board
 
-A TV-screen dashboard of what riders are publicly saying about Voi — pulled
-from Trustpilot, the App Store, Google Play and Reddit, classified by
-sentiment and theme, and shown as a rotating carousel. This is the production
+A TV-screen dashboard of what people are publicly saying about Voi — pulled
+from review sites (Trustpilot, the App Store, Google Play), news coverage
+(Google News plus any RSS feed you add) and social platforms (Reddit, X,
+Mastodon, Bluesky), classified by sentiment and theme, and shown as a
+rotating carousel. Each slide carries a QR code and a link back to the
+original post. This is the production
 implementation of the `Rider Signal Board.dc.html` design exported from
 Claude Design (see `../project/` and `../chats/` for the original design
 source and brief).
@@ -54,6 +57,9 @@ windowing, aggregation) — they run against fixtures, no network needed.
   browser tab left open 24/7 doesn't accumulate memory/state drift.
 - Renders a plain "No new rider chatter this window" message if `posts` is
   empty, instead of breaking.
+- Shows a **QR code and a clickable link** for each post's `url` — the QR is
+  for whoever is standing in front of the TV, the link for anyone reading the
+  board in a browser. Posts with a null `url` simply hide the block.
 - Fonts (Sora) and all colors/spacing are copied verbatim from the Claude
   Design export so it's pixel-matched — see `project/Rider Signal
   Board.dc.html` for the original.
@@ -89,6 +95,31 @@ the bundled pipeline).
 The board computes all bar widths/percentages client-side from these counts
 — nothing is pre-baked, so `data.json` is the single source of truth.
 
+`url` drives both the link and the QR code on each slide. Leave it `null` and
+that block is hidden.
+
+The `public/data.json` committed here is **seed data** so the board renders
+before you've configured any sources. Most of its quotes are illustrative
+(carried over from the original design mock) and deliberately have no `url`;
+the two `News` entries are real BBC headlines with real links. `npm run fetch`
+overwrites the whole file.
+
+### QR codes (`public/qr.js`)
+
+A small dependency-free encoder: byte mode, versions 1–15, ECC level L or M.
+That range is deliberate — past version 15 (77×77 modules) the modules are too
+small to read off a screen. It renders one `<path>` per symbol as inline SVG,
+so nothing is fetched at runtime and the board still works fully offline.
+
+The encoder is verified in three ways (see `scripts/test/qr.test.mjs`): every
+function pattern matches the `segno` reference encoder exactly, symbols decode
+back to their input with all Reed-Solomon syndromes zero, and it refuses to
+emit anything it can't encode rather than producing a broken symbol.
+
+Sizing note: the QR box is 160px in the 1920×1080 design, roughly 10cm on a
+55" screen. A normal review URL needs ~30–40 modules and scans easily; a
+200-character Google News redirector needs ~50 and wants a closer phone.
+
 ## The pipeline (`scripts/`)
 
 `npm run fetch` (`scripts/fetch-posts.mjs`) does, in order:
@@ -114,6 +145,11 @@ The board computes all bar widths/percentages client-side from these counts
 | App Store | Apple's public RSS customer-reviews feed | No |
 | Google Play | Community `google-play-scraper` package (optional dep) | No, but unofficial — see caveat below |
 | Trustpilot | Trustpilot Business API | **Yes** — API key + business unit ID |
+| News | Google News RSS search, per market edition | No |
+| News (own feeds) | Any RSS/Atom feed URL you list in `feeds.urls` | No |
+| Mastodon | Public hashtag timelines on the instances you list | No |
+| X | X API v2 recent search | **Yes** — paid tier, see caveat below |
+| Bluesky | `app.bsky.feed.searchPosts`, after an app-password login | **Yes** — handle + app password |
 
 Configure all of this in `scripts/config.json` (copy from
 `scripts/config.example.json`):
@@ -140,7 +176,30 @@ Configure all of this in `scripts/config.json` (copy from
   changes their page structure; treat it as best-effort.
 - **Reddit search is keyword-based** (`\bvoi\b`, word-boundary matched so it
   doesn't catch "void"/"voice"). Tune `reddit.queries` if you're getting
-  noise or missing relevant posts.
+  noise or missing relevant posts. News, Mastodon, X and Bluesky apply the
+  same word-boundary filter, which does mean a post mentioning only
+  "@voiscooters" is dropped.
+- **X has no free tier.** Recent search needs a paid X API plan. Without
+  `X_BEARER_TOKEN` the source logs one line and contributes nothing — it's the
+  only source here that can't run key-less at all.
+- **Bluesky needs credentials despite being "public".**
+  `public.api.bsky.app` answers `searchPosts` with a 403, so the fetcher logs
+  in via `createSession` using an **app password** (revocable in Bluesky
+  settings — don't use the account password) and searches with the returned
+  token.
+- **Mastodon search doesn't work unauthenticated** — `/api/v2/search` returns
+  empty statuses without a token, so this reads public **hashtag timelines**
+  instead. Consequence: only *tagged* posts are visible, coverage depends
+  entirely on your `mastodon.hashtags` list, and each instance is its own
+  silo, so list every instance you care about.
+- **Google News `<link>` is a redirector**, not the publisher's URL, and it's
+  long (~170–210 characters). The outlet name comes from each item's
+  `<source>` element, falling back to the link's hostname. Results are
+  per-edition, so add an `hl`/`gl`/`lang` entry for every market you follow.
+- **`scripts/lib/rss.mjs` is a regex reader, not a real XML parser** (the
+  no-dependency rule). It handles CDATA, entity decoding, tag stripping and
+  self-closing Atom `<link href>`, and fails soft to empty strings — but treat
+  it as best-effort, like `google-play-scraper`.
 
 ### Sentiment & theme classification (`scripts/lib/classify.mjs`)
 

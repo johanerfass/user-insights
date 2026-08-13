@@ -25,6 +25,41 @@
     "csvImportPath": "./data/trustpilot-import.csv",
     "perPage": 100
   },
+  "news": {
+    "enabled": true,
+    "googleNews": {
+      "enabled": true,
+      "queries": ["Voi scooter", "Voi ebike", "Voi micromobility"],
+      "editions": [
+        { "hl": "en-GB", "gl": "GB", "lang": "en" },
+        { "hl": "sv", "gl": "SE", "lang": "sv" },
+        { "hl": "de", "gl": "DE", "lang": "de" }
+      ]
+    },
+    "feeds": {
+      "enabled": true,
+      "urls": []
+    }
+  },
+  "x": {
+    "enabled": true,
+    "queries": ["Voi scooter", "Voi ebike"],
+    "maxResults": 25,
+    "bearerTokenEnvVar": "X_BEARER_TOKEN"
+  },
+  "mastodon": {
+    "enabled": true,
+    "instances": ["mastodon.social"],
+    "hashtags": ["escooter", "voi", "micromobility"],
+    "limit": 40
+  },
+  "bluesky": {
+    "enabled": true,
+    "queries": ["Voi scooter", "Voi ebike"],
+    "limit": 25,
+    "identifierEnvVar": "BLUESKY_IDENTIFIER",
+    "appPasswordEnvVar": "BLUESKY_APP_PASSWORD"
+  },
   "window": {
     "minPostsForWindow": 5,
     "candidates": [
@@ -34,7 +69,16 @@
       { "label": "Last quarter", "days": 90 }
     ]
   },
-  "sourceLabels": ["Trustpilot", "App Store", "Google Play", "Reddit"],
+  "sourceLabels": [
+    "Trustpilot",
+    "App Store",
+    "Google Play",
+    "Reddit",
+    "News",
+    "X",
+    "Mastodon",
+    "Bluesky"
+  ],
   "rotateSeconds": 12,
   "classification": {
     "useClaude": false,

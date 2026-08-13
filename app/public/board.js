@@ -35,7 +35,14 @@
     sourceChips: document.getElementById("source-chips"),
     rotateLabel: document.getElementById("rotate-label"),
     quoteCard: document.getElementById("quote-card"),
+    sourceLink: document.getElementById("source-link"),
+    sourceHost: document.getElementById("source-host"),
+    sourceQr: document.getElementById("source-qr"),
   };
+
+  // Rendered QR SVGs, keyed by URL — the carousel revisits the same posts on
+  // every loop and encoding is the most expensive thing on a slide change.
+  const qrCache = new Map();
 
   const state = {
     data: null,
@@ -107,6 +114,47 @@
     }
   }
 
+  /** Host without "www.", e.g. "bbc.co.uk" — short enough for the card. */
+  function displayHost(url) {
+    try {
+      return new URL(url).hostname.replace(/^www\./, "");
+    } catch {
+      return "";
+    }
+  }
+
+  function renderSource(post) {
+    if (!el.sourceLink) return;
+
+    const url = post && post.url;
+    const host = url ? displayHost(url) : "";
+    // No usable link (some sources, e.g. CSV-imported reviews, have none).
+    if (!host) {
+      el.sourceLink.classList.add("is-hidden");
+      el.sourceLink.removeAttribute("href");
+      return;
+    }
+
+    el.sourceLink.classList.remove("is-hidden");
+    el.sourceLink.href = url;
+    el.sourceHost.textContent = host;
+
+    if (!qrCache.has(url)) {
+      let markup = "";
+      try {
+        markup = window.QR.svg(url, { level: "L", quiet: 2 });
+      } catch (err) {
+        // Over the version-15 capacity, or qr.js failed to load — show the
+        // link on its own rather than breaking the slide.
+        console.warn("[board] QR encode failed:", err.message);
+      }
+      qrCache.set(url, markup);
+    }
+    const svg = qrCache.get(url);
+    el.sourceQr.innerHTML = svg;
+    el.sourceQr.style.display = svg ? "" : "none";
+  }
+
   function renderSlide() {
     const post = currentPost();
     const posts = (state.data && state.data.posts) || [];
@@ -121,6 +169,7 @@
       el.themeChips.innerHTML = "";
       el.counter.textContent = "0 / 0";
       el.postQuote.textContent = "";
+      renderSource(null);
       const empty = document.createElement("div");
       empty.className = "empty-state";
       empty.textContent = "No new rider chatter this window.";
@@ -143,6 +192,8 @@
       chip.textContent = theme;
       el.themeChips.appendChild(chip);
     }
+
+    renderSource(post);
 
     el.counter.textContent = `${state.index + 1} / ${posts.length}`;
   }

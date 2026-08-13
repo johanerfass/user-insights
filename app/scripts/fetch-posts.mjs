@@ -7,6 +7,10 @@ import { fetchRedditPosts } from "./lib/reddit.mjs";
 import { fetchAppStoreReviews } from "./lib/appstore.mjs";
 import { fetchGooglePlayReviews } from "./lib/googleplay.mjs";
 import { fetchTrustpilotReviews } from "./lib/trustpilot.mjs";
+import { fetchNewsPosts } from "./lib/news.mjs";
+import { fetchXPosts } from "./lib/x.mjs";
+import { fetchMastodonPosts } from "./lib/mastodon.mjs";
+import { fetchBlueskyPosts } from "./lib/bluesky.mjs";
 import { classifyHeuristic, classifyWithClaude } from "./lib/classify.mjs";
 import { pickWindow } from "./lib/window.mjs";
 import { buildBoardData } from "./lib/aggregate.mjs";
@@ -79,7 +83,7 @@ async function main() {
   const config = await loadConfig();
 
   console.log("[fetch-posts] fetching from all sources…");
-  const [reddit, appstore, googleplay, trustpilot] = await Promise.all([
+  const [reddit, appstore, googleplay, trustpilot, news, x, mastodon, bluesky] = await Promise.all([
     fetchRedditPosts(config.reddit).catch((e) => {
       console.warn(`[reddit] ${e.message}`);
       return [];
@@ -96,15 +100,41 @@ async function main() {
       console.warn(`[trustpilot] ${e.message}`);
       return [];
     }),
+    fetchNewsPosts(config.news).catch((e) => {
+      console.warn(`[news] ${e.message}`);
+      return [];
+    }),
+    fetchXPosts(config.x).catch((e) => {
+      console.warn(`[x] ${e.message}`);
+      return [];
+    }),
+    fetchMastodonPosts(config.mastodon).catch((e) => {
+      console.warn(`[mastodon] ${e.message}`);
+      return [];
+    }),
+    fetchBlueskyPosts(config.bluesky).catch((e) => {
+      console.warn(`[bluesky] ${e.message}`);
+      return [];
+    }),
   ]);
 
-  let all = dedupe([...reddit, ...appstore, ...googleplay, ...trustpilot])
+  let all = dedupe([
+    ...reddit,
+    ...appstore,
+    ...googleplay,
+    ...trustpilot,
+    ...news,
+    ...x,
+    ...mastodon,
+    ...bluesky,
+  ])
     .map((p) => ({ ...p, quote: normalizeQuote(p.quote) }))
     .filter((p) => p.quote && p.quote.length > 6);
 
   console.log(
     `[fetch-posts] collected ${all.length} candidate posts ` +
-      `(reddit ${reddit.length}, app store ${appstore.length}, google play ${googleplay.length}, trustpilot ${trustpilot.length})`
+      `(reddit ${reddit.length}, app store ${appstore.length}, google play ${googleplay.length}, trustpilot ${trustpilot.length}, ` +
+      `news ${news.length}, x ${x.length}, mastodon ${mastodon.length}, bluesky ${bluesky.length})`
   );
 
   all = await classifyAll(all, config);
