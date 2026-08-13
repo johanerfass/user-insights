@@ -375,7 +375,7 @@ html, body {
 .theme-rows {
   display: flex;
   flex-direction: column;
-  gap: 12px;
+  gap: 10px;
   min-height: 0;
   overflow: hidden;
 }
@@ -428,12 +428,14 @@ html, body {
 .source-chips {
   display: flex;
   flex-wrap: wrap;
-  gap: 10px;
+  gap: 9px;
 }
+/* Sized so all eight configured sources fit two rows rather than three —
+   the third row used to steal a theme row from the card above. */
 .source-chip {
-  font-size: 21px;
+  font-size: 19px;
   font-weight: 400;
-  padding: 10px 18px;
+  padding: 8px 15px;
   border-radius: 999px;
   background: var(--pearl);
   color: var(--theme-text);

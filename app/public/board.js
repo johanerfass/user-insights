@@ -104,7 +104,11 @@
       el.themeRows.appendChild(wrap);
     }
 
-    const sources = data.sources || [];
+    // Contributors first — with eight sources configured, the ones that
+    // actually produced posts should read before the quiet ones.
+    const sources = (data.sources || [])
+      .slice()
+      .sort((a, b) => (b.count || 0) - (a.count || 0));
     el.sourceChips.innerHTML = "";
     for (const src of sources) {
       const chip = document.createElement("span");
