@@ -1,9 +1,129 @@
 {
-  "generatedAt": "2026-08-14T07:38:29.247Z",
-  "checkedLabel": "14 Aug 2026",
+  "generatedAt": "2026-08-15T06:45:58.890Z",
+  "checkedLabel": "15 Aug 2026",
   "windowLabel": "Last week",
   "rotateSeconds": 12,
   "posts": [
+    {
+      "id": "googleplay-gb-ab050efd-753a-4cbc-8215-f5f9fe0ff674",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Doesn't work. Applied free ride discount and it keeps saying session expired”",
+      "themes": [
+        "First ride"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=ab050efd-753a-4cbc-8215-f5f9fe0ff674"
+    },
+    {
+      "id": "googleplay-se-ab050efd-753a-4cbc-8215-f5f9fe0ff674",
+      "source": "Google Play",
+      "market": "SE",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Doesn't work. Applied free ride discount and it keeps saying session expired”",
+      "themes": [
+        "First ride"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=ab050efd-753a-4cbc-8215-f5f9fe0ff674"
+    },
+    {
+      "id": "googleplay-de-ab050efd-753a-4cbc-8215-f5f9fe0ff674",
+      "source": "Google Play",
+      "market": "DE",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Doesn't work. Applied free ride discount and it keeps saying session expired”",
+      "themes": [
+        "First ride"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=ab050efd-753a-4cbc-8215-f5f9fe0ff674"
+    },
+    {
+      "id": "googleplay-fr-ab050efd-753a-4cbc-8215-f5f9fe0ff674",
+      "source": "Google Play",
+      "market": "FR",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Doesn't work. Applied free ride discount and it keeps saying session expired”",
+      "themes": [
+        "First ride"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=ab050efd-753a-4cbc-8215-f5f9fe0ff674"
+    },
+    {
+      "id": "googleplay-es-ab050efd-753a-4cbc-8215-f5f9fe0ff674",
+      "source": "Google Play",
+      "market": "ES",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Doesn't work. Applied free ride discount and it keeps saying session expired”",
+      "themes": [
+        "First ride"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=ab050efd-753a-4cbc-8215-f5f9fe0ff674"
+    },
+    {
+      "id": "googleplay-gb-695be484-2860-4e1f-a46c-6e08fac8e4e7",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“cannot get past the enter your email stage on the app, keeps saying error has occurred”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=695be484-2860-4e1f-a46c-6e08fac8e4e7"
+    },
+    {
+      "id": "googleplay-se-695be484-2860-4e1f-a46c-6e08fac8e4e7",
+      "source": "Google Play",
+      "market": "SE",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“cannot get past the enter your email stage on the app, keeps saying error has occurred”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=695be484-2860-4e1f-a46c-6e08fac8e4e7"
+    },
+    {
+      "id": "googleplay-de-695be484-2860-4e1f-a46c-6e08fac8e4e7",
+      "source": "Google Play",
+      "market": "DE",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“cannot get past the enter your email stage on the app, keeps saying error has occurred”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=695be484-2860-4e1f-a46c-6e08fac8e4e7"
+    },
+    {
+      "id": "googleplay-fr-695be484-2860-4e1f-a46c-6e08fac8e4e7",
+      "source": "Google Play",
+      "market": "FR",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“cannot get past the enter your email stage on the app, keeps saying error has occurred”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=695be484-2860-4e1f-a46c-6e08fac8e4e7"
+    },
+    {
+      "id": "googleplay-es-695be484-2860-4e1f-a46c-6e08fac8e4e7",
+      "source": "Google Play",
+      "market": "ES",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“cannot get past the enter your email stage on the app, keeps saying error has occurred”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=695be484-2860-4e1f-a46c-6e08fac8e4e7"
+    },
     {
       "id": "googleplay-gb-fd3abef4-f151-4e8f-8978-2e08ba272016",
       "source": "Google Play",
@@ -68,7 +188,7 @@
       "id": "googleplay-gb-37f62018-3879-4286-afbd-aea2b985daa7",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "11 Aug 2026",
       "sentiment": "Negative",
       "quote": "“Awful and nothing less. in my opinion this is the worst bike companies I've ever experienced; I live round about Bellingham and there is a few bikes around the area and they were hosting 15 minutes for free. I took it, got on the bike and rode to my destination but when I got off to end my ride it said I had to drive…”",
       "themes": [
@@ -80,7 +200,7 @@
       "id": "googleplay-se-37f62018-3879-4286-afbd-aea2b985daa7",
       "source": "Google Play",
       "market": "SE",
-      "date": "Recent",
+      "date": "11 Aug 2026",
       "sentiment": "Negative",
       "quote": "“Awful and nothing less. in my opinion this is the worst bike companies I've ever experienced; I live round about Bellingham and there is a few bikes around the area and they were hosting 15 minutes for free. I took it, got on the bike and rode to my destination but when I got off to end my ride it said I had to drive…”",
       "themes": [
@@ -92,7 +212,7 @@
       "id": "googleplay-de-37f62018-3879-4286-afbd-aea2b985daa7",
       "source": "Google Play",
       "market": "DE",
-      "date": "Recent",
+      "date": "11 Aug 2026",
       "sentiment": "Negative",
       "quote": "“Awful and nothing less. in my opinion this is the worst bike companies I've ever experienced; I live round about Bellingham and there is a few bikes around the area and they were hosting 15 minutes for free. I took it, got on the bike and rode to my destination but when I got off to end my ride it said I had to drive…”",
       "themes": [
@@ -104,7 +224,7 @@
       "id": "googleplay-fr-37f62018-3879-4286-afbd-aea2b985daa7",
       "source": "Google Play",
       "market": "FR",
-      "date": "Recent",
+      "date": "11 Aug 2026",
       "sentiment": "Negative",
       "quote": "“Awful and nothing less. in my opinion this is the worst bike companies I've ever experienced; I live round about Bellingham and there is a few bikes around the area and they were hosting 15 minutes for free. I took it, got on the bike and rode to my destination but when I got off to end my ride it said I had to drive…”",
       "themes": [
@@ -116,7 +236,7 @@
       "id": "googleplay-es-37f62018-3879-4286-afbd-aea2b985daa7",
       "source": "Google Play",
       "market": "ES",
-      "date": "Recent",
+      "date": "11 Aug 2026",
       "sentiment": "Negative",
       "quote": "“Awful and nothing less. in my opinion this is the worst bike companies I've ever experienced; I live round about Bellingham and there is a few bikes around the area and they were hosting 15 minutes for free. I took it, got on the bike and rode to my destination but when I got off to end my ride it said I had to drive…”",
       "themes": [
@@ -128,7 +248,7 @@
       "id": "googleplay-gb-23bf10b5-a4e6-4868-8971-40f5af432f23",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "11 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“can't park the bike or end ride touch charged waste service”",
       "themes": [
@@ -140,7 +260,7 @@
       "id": "googleplay-se-23bf10b5-a4e6-4868-8971-40f5af432f23",
       "source": "Google Play",
       "market": "SE",
-      "date": "Recent",
+      "date": "11 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“can't park the bike or end ride touch charged waste service”",
       "themes": [
@@ -152,7 +272,7 @@
       "id": "googleplay-de-23bf10b5-a4e6-4868-8971-40f5af432f23",
       "source": "Google Play",
       "market": "DE",
-      "date": "Recent",
+      "date": "11 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“can't park the bike or end ride touch charged waste service”",
       "themes": [
@@ -164,7 +284,7 @@
       "id": "googleplay-fr-23bf10b5-a4e6-4868-8971-40f5af432f23",
       "source": "Google Play",
       "market": "FR",
-      "date": "Recent",
+      "date": "11 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“can't park the bike or end ride touch charged waste service”",
       "themes": [
@@ -176,7 +296,7 @@
       "id": "googleplay-es-23bf10b5-a4e6-4868-8971-40f5af432f23",
       "source": "Google Play",
       "market": "ES",
-      "date": "Recent",
+      "date": "11 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“can't park the bike or end ride touch charged waste service”",
       "themes": [
@@ -423,259 +543,43 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=2f5cd3fe-c2f9-4a59-9c4e-dcf5715ffc57"
-    },
-    {
-      "id": "googleplay-gb-64874692-2946-4ee3-a5ae-917a62510ed8",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "8 Aug 2026",
-      "sentiment": "Positive",
-      "quote": "“I love how you can turn any ordinary selfie into custom artistic portraits& avatars using AI. The creativity is endless,so many fun and artsy themes,and very easy sharing format. Very fun and cool app for sure! more apps like this: HeyGen,Canva,D-ID,Hypic. Hope you enjoy this as much as I have!!:)”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=64874692-2946-4ee3-a5ae-917a62510ed8"
-    },
-    {
-      "id": "googleplay-se-64874692-2946-4ee3-a5ae-917a62510ed8",
-      "source": "Google Play",
-      "market": "SE",
-      "date": "8 Aug 2026",
-      "sentiment": "Positive",
-      "quote": "“I love how you can turn any ordinary selfie into custom artistic portraits& avatars using AI. The creativity is endless,so many fun and artsy themes,and very easy sharing format. Very fun and cool app for sure! more apps like this: HeyGen,Canva,D-ID,Hypic. Hope you enjoy this as much as I have!!:)”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=64874692-2946-4ee3-a5ae-917a62510ed8"
-    },
-    {
-      "id": "googleplay-de-64874692-2946-4ee3-a5ae-917a62510ed8",
-      "source": "Google Play",
-      "market": "DE",
-      "date": "8 Aug 2026",
-      "sentiment": "Positive",
-      "quote": "“I love how you can turn any ordinary selfie into custom artistic portraits& avatars using AI. The creativity is endless,so many fun and artsy themes,and very easy sharing format. Very fun and cool app for sure! more apps like this: HeyGen,Canva,D-ID,Hypic. Hope you enjoy this as much as I have!!:)”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=64874692-2946-4ee3-a5ae-917a62510ed8"
-    },
-    {
-      "id": "googleplay-fr-64874692-2946-4ee3-a5ae-917a62510ed8",
-      "source": "Google Play",
-      "market": "FR",
-      "date": "8 Aug 2026",
-      "sentiment": "Positive",
-      "quote": "“I love how you can turn any ordinary selfie into custom artistic portraits& avatars using AI. The creativity is endless,so many fun and artsy themes,and very easy sharing format. Very fun and cool app for sure! more apps like this: HeyGen,Canva,D-ID,Hypic. Hope you enjoy this as much as I have!!:)”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=64874692-2946-4ee3-a5ae-917a62510ed8"
-    },
-    {
-      "id": "googleplay-es-64874692-2946-4ee3-a5ae-917a62510ed8",
-      "source": "Google Play",
-      "market": "ES",
-      "date": "8 Aug 2026",
-      "sentiment": "Positive",
-      "quote": "“I love how you can turn any ordinary selfie into custom artistic portraits& avatars using AI. The creativity is endless,so many fun and artsy themes,and very easy sharing format. Very fun and cool app for sure! more apps like this: HeyGen,Canva,D-ID,Hypic. Hope you enjoy this as much as I have!!:)”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=64874692-2946-4ee3-a5ae-917a62510ed8"
-    },
-    {
-      "id": "googleplay-gb-414d689e-5022-4381-9afb-1df979b3575f",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "8 Aug 2026",
-      "sentiment": "Negative",
-      "quote": "“I took one ride when it showed nearly 100%, and then E Scooter was having a problem with acceleration. I felt like the service was very bad after conversation with service and felt no respect.”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=414d689e-5022-4381-9afb-1df979b3575f"
-    },
-    {
-      "id": "googleplay-se-414d689e-5022-4381-9afb-1df979b3575f",
-      "source": "Google Play",
-      "market": "SE",
-      "date": "8 Aug 2026",
-      "sentiment": "Negative",
-      "quote": "“I took one ride when it showed nearly 100%, and then E Scooter was having a problem with acceleration. I felt like the service was very bad after conversation with service and felt no respect.”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=414d689e-5022-4381-9afb-1df979b3575f"
-    },
-    {
-      "id": "googleplay-de-414d689e-5022-4381-9afb-1df979b3575f",
-      "source": "Google Play",
-      "market": "DE",
-      "date": "8 Aug 2026",
-      "sentiment": "Negative",
-      "quote": "“I took one ride when it showed nearly 100%, and then E Scooter was having a problem with acceleration. I felt like the service was very bad after conversation with service and felt no respect.”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=414d689e-5022-4381-9afb-1df979b3575f"
-    },
-    {
-      "id": "googleplay-fr-414d689e-5022-4381-9afb-1df979b3575f",
-      "source": "Google Play",
-      "market": "FR",
-      "date": "8 Aug 2026",
-      "sentiment": "Negative",
-      "quote": "“I took one ride when it showed nearly 100%, and then E Scooter was having a problem with acceleration. I felt like the service was very bad after conversation with service and felt no respect.”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=414d689e-5022-4381-9afb-1df979b3575f"
-    },
-    {
-      "id": "googleplay-es-414d689e-5022-4381-9afb-1df979b3575f",
-      "source": "Google Play",
-      "market": "ES",
-      "date": "8 Aug 2026",
-      "sentiment": "Negative",
-      "quote": "“I took one ride when it showed nearly 100%, and then E Scooter was having a problem with acceleration. I felt like the service was very bad after conversation with service and felt no respect.”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=414d689e-5022-4381-9afb-1df979b3575f"
-    },
-    {
-      "id": "mastodon-mastodon.social-117056175259726996",
-      "source": "Mastodon",
-      "market": "@firstapproximation",
-      "date": "7 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“@ davecykl I generally find that there aren’t enough parking areas for # Voi bikes in Edinburgh. I often find it easier to walk because there isn’t a good parking spot close to where I’m going.”",
-      "themes": [
-        "Parking data"
-      ],
-      "url": "https://mastodon.social/@firstapproximation/117056175259726996"
-    },
-    {
-      "id": "mastodon-mastodon.social-117055875898367859",
-      "source": "Mastodon",
-      "market": "@davecykl",
-      "date": "7 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“Unfortunately the # Edinburgh # citybike scheme does not seem to be working well for # EdFests # EdFringe # EIF just now. There are •lots• of bikes near venues (yeayy) but not enough parking docks: you can hire a bike, but you won’t be able to park it anywhere near another venue as all the dock areas are full(!). Let’…”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://mastodon.social/@davecykl/117055875898367859"
-    },
-    {
-      "id": "googleplay-gb-783cc5ae-e47a-42c3-b42a-1ddba2240a19",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "7 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“okayish”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=783cc5ae-e47a-42c3-b42a-1ddba2240a19"
-    },
-    {
-      "id": "googleplay-se-783cc5ae-e47a-42c3-b42a-1ddba2240a19",
-      "source": "Google Play",
-      "market": "SE",
-      "date": "7 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“okayish”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=783cc5ae-e47a-42c3-b42a-1ddba2240a19"
-    },
-    {
-      "id": "googleplay-de-783cc5ae-e47a-42c3-b42a-1ddba2240a19",
-      "source": "Google Play",
-      "market": "DE",
-      "date": "7 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“okayish”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=783cc5ae-e47a-42c3-b42a-1ddba2240a19"
-    },
-    {
-      "id": "googleplay-fr-783cc5ae-e47a-42c3-b42a-1ddba2240a19",
-      "source": "Google Play",
-      "market": "FR",
-      "date": "7 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“okayish”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=783cc5ae-e47a-42c3-b42a-1ddba2240a19"
-    },
-    {
-      "id": "googleplay-es-783cc5ae-e47a-42c3-b42a-1ddba2240a19",
-      "source": "Google Play",
-      "market": "ES",
-      "date": "7 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“okayish”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=783cc5ae-e47a-42c3-b42a-1ddba2240a19"
-    },
-    {
-      "id": "news-6ivn6v",
-      "source": "News",
-      "market": "London Borough of Hounslow",
-      "date": "7 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“Celebrating a Year of Forest and Voi E-Bikes in Hounslow: Free Rides and Greener Streets! - London Borough of Hounslow”",
-      "themes": [
-        "First ride"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV0xkcE82dWNmSEpPTlNIUHRHVFlnY2lCQVdrV3Fza1d2c2NZalNTSUt1S3JEQkVMRWdEamFhay0yYk1RQ01fTGh2Ukl1dGhuOGk3WDNBVDJKSmFRSnpEaTdmZnpfYU5wX2JSQVJzQVV1Vl9OcHcweFhmR2R3cmFBU2NWVW5aQ3hpYWNVUWFBemVNcklIcTVxT0x3VVpKNU5zZk5qTFhuVUk2MVctNllEYVhSaUprR085QTFyLU5ELVdXMGYyU0lBZDFFZHJpdEZn?oc=5"
     }
   ],
   "sentimentSummary": {
-    "negative": 15,
-    "mixed": 23,
-    "positive": 15
+    "negative": 10,
+    "mixed": 25,
+    "positive": 10
   },
   "themes": [
     {
       "label": "General feedback",
-      "count": 36,
+      "count": 25,
+      "trend": "down",
+      "delta": -11
+    },
+    {
+      "label": "First ride",
+      "count": 5,
       "trend": "up",
-      "delta": 36
+      "delta": 4
     },
     {
       "label": "Parking data",
-      "count": 6,
-      "trend": "up",
-      "delta": 6
+      "count": 5,
+      "trend": "down",
+      "delta": -1
     },
     {
       "label": "Billing",
       "count": 5,
-      "trend": "up",
-      "delta": 5
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "vs. Lime",
       "count": 5,
-      "trend": "up",
-      "delta": 5
-    },
-    {
-      "label": "First ride",
-      "count": 1,
-      "trend": "up",
-      "delta": 1
+      "trend": "flat",
+      "delta": 0
     }
   ],
   "sources": [
@@ -689,7 +593,7 @@
     },
     {
       "label": "Google Play",
-      "count": 50
+      "count": 45
     },
     {
       "label": "Reddit",
@@ -697,7 +601,7 @@
     },
     {
       "label": "News",
-      "count": 1
+      "count": 0
     },
     {
       "label": "X",
@@ -705,7 +609,7 @@
     },
     {
       "label": "Mastodon",
-      "count": 2
+      "count": 0
     },
     {
       "label": "Bluesky",
