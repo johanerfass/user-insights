@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-08-15T06:45:58.890Z",
-  "checkedLabel": "15 Aug 2026",
+  "generatedAt": "2026-08-16T06:47:27.596Z",
+  "checkedLabel": "16 Aug 2026",
   "windowLabel": "Last week",
   "rotateSeconds": 12,
   "posts": [
+    {
+      "id": "googleplay-gb-4e725773-604e-44e5-83d9-e7191e198166",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Negative",
+      "quote": "“When I want to unlock the bike it says \"something went wrong with the paiement method\" and I cannot unlock it. WHILE I HAVE TWO ACTIVE PASSES. The same paiement method is okay to buy the passes but not to unlock the bike? I used my credit card and google pay on two different phones. Same problem. People unlocked the b…”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=4e725773-604e-44e5-83d9-e7191e198166"
+    },
+    {
+      "id": "googleplay-se-4e725773-604e-44e5-83d9-e7191e198166",
+      "source": "Google Play",
+      "market": "SE",
+      "date": "Recent",
+      "sentiment": "Negative",
+      "quote": "“When I want to unlock the bike it says \"something went wrong with the paiement method\" and I cannot unlock it. WHILE I HAVE TWO ACTIVE PASSES. The same paiement method is okay to buy the passes but not to unlock the bike? I used my credit card and google pay on two different phones. Same problem. People unlocked the b…”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=4e725773-604e-44e5-83d9-e7191e198166"
+    },
+    {
+      "id": "googleplay-de-4e725773-604e-44e5-83d9-e7191e198166",
+      "source": "Google Play",
+      "market": "DE",
+      "date": "Recent",
+      "sentiment": "Negative",
+      "quote": "“When I want to unlock the bike it says \"something went wrong with the paiement method\" and I cannot unlock it. WHILE I HAVE TWO ACTIVE PASSES. The same paiement method is okay to buy the passes but not to unlock the bike? I used my credit card and google pay on two different phones. Same problem. People unlocked the b…”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=4e725773-604e-44e5-83d9-e7191e198166"
+    },
+    {
+      "id": "googleplay-fr-4e725773-604e-44e5-83d9-e7191e198166",
+      "source": "Google Play",
+      "market": "FR",
+      "date": "Recent",
+      "sentiment": "Negative",
+      "quote": "“When I want to unlock the bike it says \"something went wrong with the paiement method\" and I cannot unlock it. WHILE I HAVE TWO ACTIVE PASSES. The same paiement method is okay to buy the passes but not to unlock the bike? I used my credit card and google pay on two different phones. Same problem. People unlocked the b…”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=4e725773-604e-44e5-83d9-e7191e198166"
+    },
+    {
+      "id": "googleplay-es-4e725773-604e-44e5-83d9-e7191e198166",
+      "source": "Google Play",
+      "market": "ES",
+      "date": "Recent",
+      "sentiment": "Negative",
+      "quote": "“When I want to unlock the bike it says \"something went wrong with the paiement method\" and I cannot unlock it. WHILE I HAVE TWO ACTIVE PASSES. The same paiement method is okay to buy the passes but not to unlock the bike? I used my credit card and google pay on two different phones. Same problem. People unlocked the b…”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=4e725773-604e-44e5-83d9-e7191e198166"
+    },
     {
       "id": "googleplay-gb-ab050efd-753a-4cbc-8215-f5f9fe0ff674",
       "source": "Google Play",
@@ -128,7 +188,7 @@
       "id": "googleplay-gb-fd3abef4-f151-4e8f-8978-2e08ba272016",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "12 Aug 2026",
       "sentiment": "Positive",
       "quote": "“Let's you ride out into the no-ride zone and then cuts out once you're 3 streets away from a parking spot and expects you to drag it all the way back. The dark mode map looks the same colour, so it's not easy to tell you've gone out of the ride zone. It should cut out immediately or warn you rather than letting you ke…”",
       "themes": [
@@ -140,7 +200,7 @@
       "id": "googleplay-se-fd3abef4-f151-4e8f-8978-2e08ba272016",
       "source": "Google Play",
       "market": "SE",
-      "date": "Recent",
+      "date": "12 Aug 2026",
       "sentiment": "Positive",
       "quote": "“Let's you ride out into the no-ride zone and then cuts out once you're 3 streets away from a parking spot and expects you to drag it all the way back. The dark mode map looks the same colour, so it's not easy to tell you've gone out of the ride zone. It should cut out immediately or warn you rather than letting you ke…”",
       "themes": [
@@ -152,7 +212,7 @@
       "id": "googleplay-de-fd3abef4-f151-4e8f-8978-2e08ba272016",
       "source": "Google Play",
       "market": "DE",
-      "date": "Recent",
+      "date": "12 Aug 2026",
       "sentiment": "Positive",
       "quote": "“Let's you ride out into the no-ride zone and then cuts out once you're 3 streets away from a parking spot and expects you to drag it all the way back. The dark mode map looks the same colour, so it's not easy to tell you've gone out of the ride zone. It should cut out immediately or warn you rather than letting you ke…”",
       "themes": [
@@ -164,7 +224,7 @@
       "id": "googleplay-fr-fd3abef4-f151-4e8f-8978-2e08ba272016",
       "source": "Google Play",
       "market": "FR",
-      "date": "Recent",
+      "date": "12 Aug 2026",
       "sentiment": "Positive",
       "quote": "“Let's you ride out into the no-ride zone and then cuts out once you're 3 streets away from a parking spot and expects you to drag it all the way back. The dark mode map looks the same colour, so it's not easy to tell you've gone out of the ride zone. It should cut out immediately or warn you rather than letting you ke…”",
       "themes": [
@@ -176,7 +236,7 @@
       "id": "googleplay-es-fd3abef4-f151-4e8f-8978-2e08ba272016",
       "source": "Google Play",
       "market": "ES",
-      "date": "Recent",
+      "date": "12 Aug 2026",
       "sentiment": "Positive",
       "quote": "“Let's you ride out into the no-ride zone and then cuts out once you're 3 streets away from a parking spot and expects you to drag it all the way back. The dark mode map looks the same colour, so it's not easy to tell you've gone out of the ride zone. It should cut out immediately or warn you rather than letting you ke…”",
       "themes": [
@@ -483,66 +543,6 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=9da659bb-14f1-433e-8759-40d92ec4c8d7"
-    },
-    {
-      "id": "googleplay-gb-2f5cd3fe-c2f9-4a59-9c4e-dcf5715ffc57",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "8 Aug 2026",
-      "sentiment": "Negative",
-      "quote": "“Terrible payment card experience. I cannot use a password manager to paste my 16 digit number without the focusing field moving to the next box. I suspect my clipboard has spaces in it and the app doesn't play well with it. I entered my info(manually) and didn't see that I had to out my name. I got the error saying no…”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=2f5cd3fe-c2f9-4a59-9c4e-dcf5715ffc57"
-    },
-    {
-      "id": "googleplay-se-2f5cd3fe-c2f9-4a59-9c4e-dcf5715ffc57",
-      "source": "Google Play",
-      "market": "SE",
-      "date": "8 Aug 2026",
-      "sentiment": "Negative",
-      "quote": "“Terrible payment card experience. I cannot use a password manager to paste my 16 digit number without the focusing field moving to the next box. I suspect my clipboard has spaces in it and the app doesn't play well with it. I entered my info(manually) and didn't see that I had to out my name. I got the error saying no…”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=2f5cd3fe-c2f9-4a59-9c4e-dcf5715ffc57"
-    },
-    {
-      "id": "googleplay-de-2f5cd3fe-c2f9-4a59-9c4e-dcf5715ffc57",
-      "source": "Google Play",
-      "market": "DE",
-      "date": "8 Aug 2026",
-      "sentiment": "Negative",
-      "quote": "“Terrible payment card experience. I cannot use a password manager to paste my 16 digit number without the focusing field moving to the next box. I suspect my clipboard has spaces in it and the app doesn't play well with it. I entered my info(manually) and didn't see that I had to out my name. I got the error saying no…”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=2f5cd3fe-c2f9-4a59-9c4e-dcf5715ffc57"
-    },
-    {
-      "id": "googleplay-fr-2f5cd3fe-c2f9-4a59-9c4e-dcf5715ffc57",
-      "source": "Google Play",
-      "market": "FR",
-      "date": "8 Aug 2026",
-      "sentiment": "Negative",
-      "quote": "“Terrible payment card experience. I cannot use a password manager to paste my 16 digit number without the focusing field moving to the next box. I suspect my clipboard has spaces in it and the app doesn't play well with it. I entered my info(manually) and didn't see that I had to out my name. I got the error saying no…”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=2f5cd3fe-c2f9-4a59-9c4e-dcf5715ffc57"
-    },
-    {
-      "id": "googleplay-es-2f5cd3fe-c2f9-4a59-9c4e-dcf5715ffc57",
-      "source": "Google Play",
-      "market": "ES",
-      "date": "8 Aug 2026",
-      "sentiment": "Negative",
-      "quote": "“Terrible payment card experience. I cannot use a password manager to paste my 16 digit number without the focusing field moving to the next box. I suspect my clipboard has spaces in it and the app doesn't play well with it. I entered my info(manually) and didn't see that I had to out my name. I got the error saying no…”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=2f5cd3fe-c2f9-4a59-9c4e-dcf5715ffc57"
     }
   ],
   "sentimentSummary": {
@@ -554,20 +554,20 @@
     {
       "label": "General feedback",
       "count": 25,
-      "trend": "down",
-      "delta": -11
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "First ride",
       "count": 5,
-      "trend": "up",
-      "delta": 4
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "Parking data",
       "count": 5,
-      "trend": "down",
-      "delta": -1
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "Billing",
