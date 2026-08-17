@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-08-16T06:47:27.596Z",
-  "checkedLabel": "16 Aug 2026",
+  "generatedAt": "2026-08-17T07:04:12.278Z",
+  "checkedLabel": "17 Aug 2026",
   "windowLabel": "Last week",
   "rotateSeconds": 12,
   "posts": [
+    {
+      "id": "googleplay-gb-20c712f3-8fa8-4bd5-92b9-c49b4e123bcf",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“hell no don't use this lime is better if you buy the monthly subscription that is 1 euro it saves a lot of money. Just compare it with lime it's the best.”",
+      "themes": [
+        "vs. Lime"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=20c712f3-8fa8-4bd5-92b9-c49b4e123bcf"
+    },
+    {
+      "id": "googleplay-se-20c712f3-8fa8-4bd5-92b9-c49b4e123bcf",
+      "source": "Google Play",
+      "market": "SE",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“hell no don't use this lime is better if you buy the monthly subscription that is 1 euro it saves a lot of money. Just compare it with lime it's the best.”",
+      "themes": [
+        "vs. Lime"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=20c712f3-8fa8-4bd5-92b9-c49b4e123bcf"
+    },
+    {
+      "id": "googleplay-de-20c712f3-8fa8-4bd5-92b9-c49b4e123bcf",
+      "source": "Google Play",
+      "market": "DE",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“hell no don't use this lime is better if you buy the monthly subscription that is 1 euro it saves a lot of money. Just compare it with lime it's the best.”",
+      "themes": [
+        "vs. Lime"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=20c712f3-8fa8-4bd5-92b9-c49b4e123bcf"
+    },
+    {
+      "id": "googleplay-fr-20c712f3-8fa8-4bd5-92b9-c49b4e123bcf",
+      "source": "Google Play",
+      "market": "FR",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“hell no don't use this lime is better if you buy the monthly subscription that is 1 euro it saves a lot of money. Just compare it with lime it's the best.”",
+      "themes": [
+        "vs. Lime"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=20c712f3-8fa8-4bd5-92b9-c49b4e123bcf"
+    },
+    {
+      "id": "googleplay-es-20c712f3-8fa8-4bd5-92b9-c49b4e123bcf",
+      "source": "Google Play",
+      "market": "ES",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“hell no don't use this lime is better if you buy the monthly subscription that is 1 euro it saves a lot of money. Just compare it with lime it's the best.”",
+      "themes": [
+        "vs. Lime"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=20c712f3-8fa8-4bd5-92b9-c49b4e123bcf"
+    },
     {
       "id": "googleplay-gb-4e725773-604e-44e5-83d9-e7191e198166",
       "source": "Google Play",
@@ -68,7 +128,7 @@
       "id": "googleplay-gb-ab050efd-753a-4cbc-8215-f5f9fe0ff674",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "13 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“Doesn't work. Applied free ride discount and it keeps saying session expired”",
       "themes": [
@@ -80,7 +140,7 @@
       "id": "googleplay-se-ab050efd-753a-4cbc-8215-f5f9fe0ff674",
       "source": "Google Play",
       "market": "SE",
-      "date": "Recent",
+      "date": "13 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“Doesn't work. Applied free ride discount and it keeps saying session expired”",
       "themes": [
@@ -92,7 +152,7 @@
       "id": "googleplay-de-ab050efd-753a-4cbc-8215-f5f9fe0ff674",
       "source": "Google Play",
       "market": "DE",
-      "date": "Recent",
+      "date": "13 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“Doesn't work. Applied free ride discount and it keeps saying session expired”",
       "themes": [
@@ -104,7 +164,7 @@
       "id": "googleplay-fr-ab050efd-753a-4cbc-8215-f5f9fe0ff674",
       "source": "Google Play",
       "market": "FR",
-      "date": "Recent",
+      "date": "13 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“Doesn't work. Applied free ride discount and it keeps saying session expired”",
       "themes": [
@@ -116,7 +176,7 @@
       "id": "googleplay-es-ab050efd-753a-4cbc-8215-f5f9fe0ff674",
       "source": "Google Play",
       "market": "ES",
-      "date": "Recent",
+      "date": "13 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“Doesn't work. Applied free ride discount and it keeps saying session expired”",
       "themes": [
@@ -128,7 +188,7 @@
       "id": "googleplay-gb-695be484-2860-4e1f-a46c-6e08fac8e4e7",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "13 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“cannot get past the enter your email stage on the app, keeps saying error has occurred”",
       "themes": [
@@ -140,7 +200,7 @@
       "id": "googleplay-se-695be484-2860-4e1f-a46c-6e08fac8e4e7",
       "source": "Google Play",
       "market": "SE",
-      "date": "Recent",
+      "date": "13 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“cannot get past the enter your email stage on the app, keeps saying error has occurred”",
       "themes": [
@@ -152,7 +212,7 @@
       "id": "googleplay-de-695be484-2860-4e1f-a46c-6e08fac8e4e7",
       "source": "Google Play",
       "market": "DE",
-      "date": "Recent",
+      "date": "13 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“cannot get past the enter your email stage on the app, keeps saying error has occurred”",
       "themes": [
@@ -164,7 +224,7 @@
       "id": "googleplay-fr-695be484-2860-4e1f-a46c-6e08fac8e4e7",
       "source": "Google Play",
       "market": "FR",
-      "date": "Recent",
+      "date": "13 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“cannot get past the enter your email stage on the app, keeps saying error has occurred”",
       "themes": [
@@ -176,7 +236,7 @@
       "id": "googleplay-es-695be484-2860-4e1f-a46c-6e08fac8e4e7",
       "source": "Google Play",
       "market": "ES",
-      "date": "Recent",
+      "date": "13 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“cannot get past the enter your email stage on the app, keeps saying error has occurred”",
       "themes": [
@@ -547,7 +607,7 @@
   ],
   "sentimentSummary": {
     "negative": 10,
-    "mixed": 25,
+    "mixed": 30,
     "positive": 10
   },
   "themes": [
@@ -556,6 +616,12 @@
       "count": 25,
       "trend": "flat",
       "delta": 0
+    },
+    {
+      "label": "vs. Lime",
+      "count": 10,
+      "trend": "up",
+      "delta": 5
     },
     {
       "label": "First ride",
@@ -574,12 +640,6 @@
       "count": 5,
       "trend": "flat",
       "delta": 0
-    },
-    {
-      "label": "vs. Lime",
-      "count": 5,
-      "trend": "flat",
-      "delta": 0
     }
   ],
   "sources": [
@@ -593,7 +653,7 @@
     },
     {
       "label": "Google Play",
-      "count": 45
+      "count": 50
     },
     {
       "label": "Reddit",
