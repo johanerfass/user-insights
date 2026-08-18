@@ -1,9 +1,33 @@
 {
-  "generatedAt": "2026-08-17T07:04:12.278Z",
-  "checkedLabel": "17 Aug 2026",
+  "generatedAt": "2026-08-18T06:51:40.471Z",
+  "checkedLabel": "18 Aug 2026",
   "windowLabel": "Last week",
   "rotateSeconds": 12,
   "posts": [
+    {
+      "id": "news-iy0lkb",
+      "source": "News",
+      "market": "Smart Cities World",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Micromobility - Demand for Voi e-bikes in Glasgow reaches new high - Smart Cities World”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTm10dk9qalQ5M21WT1dxMmNrN1hsZ0FzdUFjdXN4NWdwVmJKQ3dVMGxRNlR2MGx1SXpxXzZXZHYxMzhGZjZQclFuMGVuTWJzOUdOZ0JEaThGZVFDREFqa29XYlFGc3NBREE4R1B6cXVEa0FRZUpGNDRBbnV3X0dzYXdhRkFhWDlpUkV0bzVwMEZBNFZPU2dkSm5RSXZadllScF9zd013?oc=5"
+    },
+    {
+      "id": "news-8a4hh5",
+      "source": "News",
+      "market": "Smart Cities World",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Demand for Voi e-bikes in Glasgow reaches new high - Smart Cities World”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcHpqT3F5ZS1hUGxZN0lCWkdTUGlNcDVmQlVvcmxlZGNEUlk2ZDdLaU12LWdKUzduTTFVSm12dzQzOXNfN1kxVUNmY0RqSzhiR1V6emVMQm14MEM0ckxXUEE2RDRFbVZQV2tOeXdHd3hPQ0pCdHVDY01ZSGdiN01uR2RmWUVsY2FyZkdvYVJUOFp6dXd5aEtCVExn?oc=5"
+    },
     {
       "id": "googleplay-gb-20c712f3-8fa8-4bd5-92b9-c49b4e123bcf",
       "source": "Google Play",
@@ -68,7 +92,7 @@
       "id": "googleplay-gb-4e725773-604e-44e5-83d9-e7191e198166",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "14 Aug 2026",
       "sentiment": "Negative",
       "quote": "“When I want to unlock the bike it says \"something went wrong with the paiement method\" and I cannot unlock it. WHILE I HAVE TWO ACTIVE PASSES. The same paiement method is okay to buy the passes but not to unlock the bike? I used my credit card and google pay on two different phones. Same problem. People unlocked the b…”",
       "themes": [
@@ -80,7 +104,7 @@
       "id": "googleplay-se-4e725773-604e-44e5-83d9-e7191e198166",
       "source": "Google Play",
       "market": "SE",
-      "date": "Recent",
+      "date": "14 Aug 2026",
       "sentiment": "Negative",
       "quote": "“When I want to unlock the bike it says \"something went wrong with the paiement method\" and I cannot unlock it. WHILE I HAVE TWO ACTIVE PASSES. The same paiement method is okay to buy the passes but not to unlock the bike? I used my credit card and google pay on two different phones. Same problem. People unlocked the b…”",
       "themes": [
@@ -92,7 +116,7 @@
       "id": "googleplay-de-4e725773-604e-44e5-83d9-e7191e198166",
       "source": "Google Play",
       "market": "DE",
-      "date": "Recent",
+      "date": "14 Aug 2026",
       "sentiment": "Negative",
       "quote": "“When I want to unlock the bike it says \"something went wrong with the paiement method\" and I cannot unlock it. WHILE I HAVE TWO ACTIVE PASSES. The same paiement method is okay to buy the passes but not to unlock the bike? I used my credit card and google pay on two different phones. Same problem. People unlocked the b…”",
       "themes": [
@@ -104,7 +128,7 @@
       "id": "googleplay-fr-4e725773-604e-44e5-83d9-e7191e198166",
       "source": "Google Play",
       "market": "FR",
-      "date": "Recent",
+      "date": "14 Aug 2026",
       "sentiment": "Negative",
       "quote": "“When I want to unlock the bike it says \"something went wrong with the paiement method\" and I cannot unlock it. WHILE I HAVE TWO ACTIVE PASSES. The same paiement method is okay to buy the passes but not to unlock the bike? I used my credit card and google pay on two different phones. Same problem. People unlocked the b…”",
       "themes": [
@@ -116,7 +140,7 @@
       "id": "googleplay-es-4e725773-604e-44e5-83d9-e7191e198166",
       "source": "Google Play",
       "market": "ES",
-      "date": "Recent",
+      "date": "14 Aug 2026",
       "sentiment": "Negative",
       "quote": "“When I want to unlock the bike it says \"something went wrong with the paiement method\" and I cannot unlock it. WHILE I HAVE TWO ACTIVE PASSES. The same paiement method is okay to buy the passes but not to unlock the bike? I used my credit card and google pay on two different phones. Same problem. People unlocked the b…”",
       "themes": [
@@ -423,205 +447,25 @@
         "Billing"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=23bf10b5-a4e6-4868-8971-40f5af432f23"
-    },
-    {
-      "id": "googleplay-gb-a91d6879-dbf3-4619-8038-9f24650baaee",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "10 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“I gave them five ⭐⭐⭐⭐⭐ because they did not waste much of my time. lime and super, wasted about half an hour each. and they don't even have service here! voi doesn't have service, but it was quick.”",
-      "themes": [
-        "vs. Lime"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=a91d6879-dbf3-4619-8038-9f24650baaee"
-    },
-    {
-      "id": "googleplay-se-a91d6879-dbf3-4619-8038-9f24650baaee",
-      "source": "Google Play",
-      "market": "SE",
-      "date": "10 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“I gave them five ⭐⭐⭐⭐⭐ because they did not waste much of my time. lime and super, wasted about half an hour each. and they don't even have service here! voi doesn't have service, but it was quick.”",
-      "themes": [
-        "vs. Lime"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=a91d6879-dbf3-4619-8038-9f24650baaee"
-    },
-    {
-      "id": "googleplay-de-a91d6879-dbf3-4619-8038-9f24650baaee",
-      "source": "Google Play",
-      "market": "DE",
-      "date": "10 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“I gave them five ⭐⭐⭐⭐⭐ because they did not waste much of my time. lime and super, wasted about half an hour each. and they don't even have service here! voi doesn't have service, but it was quick.”",
-      "themes": [
-        "vs. Lime"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=a91d6879-dbf3-4619-8038-9f24650baaee"
-    },
-    {
-      "id": "googleplay-fr-a91d6879-dbf3-4619-8038-9f24650baaee",
-      "source": "Google Play",
-      "market": "FR",
-      "date": "10 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“I gave them five ⭐⭐⭐⭐⭐ because they did not waste much of my time. lime and super, wasted about half an hour each. and they don't even have service here! voi doesn't have service, but it was quick.”",
-      "themes": [
-        "vs. Lime"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=a91d6879-dbf3-4619-8038-9f24650baaee"
-    },
-    {
-      "id": "googleplay-es-a91d6879-dbf3-4619-8038-9f24650baaee",
-      "source": "Google Play",
-      "market": "ES",
-      "date": "10 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“I gave them five ⭐⭐⭐⭐⭐ because they did not waste much of my time. lime and super, wasted about half an hour each. and they don't even have service here! voi doesn't have service, but it was quick.”",
-      "themes": [
-        "vs. Lime"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=a91d6879-dbf3-4619-8038-9f24650baaee"
-    },
-    {
-      "id": "googleplay-gb-424b8f9b-b9dd-4d04-b7ba-bbac4722a089",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "10 Aug 2026",
-      "sentiment": "Positive",
-      "quote": "“Quite unreliable. Great when they work but it's quite common to unlock the bike only to realise it doesn't work properly. There is also a student deal available, but they seem to try hard to make it very difficult to access.”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=424b8f9b-b9dd-4d04-b7ba-bbac4722a089"
-    },
-    {
-      "id": "googleplay-se-424b8f9b-b9dd-4d04-b7ba-bbac4722a089",
-      "source": "Google Play",
-      "market": "SE",
-      "date": "10 Aug 2026",
-      "sentiment": "Positive",
-      "quote": "“Quite unreliable. Great when they work but it's quite common to unlock the bike only to realise it doesn't work properly. There is also a student deal available, but they seem to try hard to make it very difficult to access.”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=424b8f9b-b9dd-4d04-b7ba-bbac4722a089"
-    },
-    {
-      "id": "googleplay-de-424b8f9b-b9dd-4d04-b7ba-bbac4722a089",
-      "source": "Google Play",
-      "market": "DE",
-      "date": "10 Aug 2026",
-      "sentiment": "Positive",
-      "quote": "“Quite unreliable. Great when they work but it's quite common to unlock the bike only to realise it doesn't work properly. There is also a student deal available, but they seem to try hard to make it very difficult to access.”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=424b8f9b-b9dd-4d04-b7ba-bbac4722a089"
-    },
-    {
-      "id": "googleplay-fr-424b8f9b-b9dd-4d04-b7ba-bbac4722a089",
-      "source": "Google Play",
-      "market": "FR",
-      "date": "10 Aug 2026",
-      "sentiment": "Positive",
-      "quote": "“Quite unreliable. Great when they work but it's quite common to unlock the bike only to realise it doesn't work properly. There is also a student deal available, but they seem to try hard to make it very difficult to access.”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=424b8f9b-b9dd-4d04-b7ba-bbac4722a089"
-    },
-    {
-      "id": "googleplay-es-424b8f9b-b9dd-4d04-b7ba-bbac4722a089",
-      "source": "Google Play",
-      "market": "ES",
-      "date": "10 Aug 2026",
-      "sentiment": "Positive",
-      "quote": "“Quite unreliable. Great when they work but it's quite common to unlock the bike only to realise it doesn't work properly. There is also a student deal available, but they seem to try hard to make it very difficult to access.”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=424b8f9b-b9dd-4d04-b7ba-bbac4722a089"
-    },
-    {
-      "id": "googleplay-gb-9da659bb-14f1-433e-8759-40d92ec4c8d7",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "10 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“no parking in Wandsworth”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=9da659bb-14f1-433e-8759-40d92ec4c8d7"
-    },
-    {
-      "id": "googleplay-se-9da659bb-14f1-433e-8759-40d92ec4c8d7",
-      "source": "Google Play",
-      "market": "SE",
-      "date": "10 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“no parking in Wandsworth”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=9da659bb-14f1-433e-8759-40d92ec4c8d7"
-    },
-    {
-      "id": "googleplay-de-9da659bb-14f1-433e-8759-40d92ec4c8d7",
-      "source": "Google Play",
-      "market": "DE",
-      "date": "10 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“no parking in Wandsworth”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=9da659bb-14f1-433e-8759-40d92ec4c8d7"
-    },
-    {
-      "id": "googleplay-fr-9da659bb-14f1-433e-8759-40d92ec4c8d7",
-      "source": "Google Play",
-      "market": "FR",
-      "date": "10 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“no parking in Wandsworth”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=9da659bb-14f1-433e-8759-40d92ec4c8d7"
-    },
-    {
-      "id": "googleplay-es-9da659bb-14f1-433e-8759-40d92ec4c8d7",
-      "source": "Google Play",
-      "market": "ES",
-      "date": "10 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“no parking in Wandsworth”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=9da659bb-14f1-433e-8759-40d92ec4c8d7"
     }
   ],
   "sentimentSummary": {
     "negative": 10,
-    "mixed": 30,
-    "positive": 10
+    "mixed": 22,
+    "positive": 5
   },
   "themes": [
     {
       "label": "General feedback",
-      "count": 25,
-      "trend": "flat",
-      "delta": 0
+      "count": 17,
+      "trend": "down",
+      "delta": -8
     },
     {
       "label": "vs. Lime",
-      "count": 10,
-      "trend": "up",
-      "delta": 5
+      "count": 5,
+      "trend": "down",
+      "delta": -5
     },
     {
       "label": "First ride",
@@ -653,7 +497,7 @@
     },
     {
       "label": "Google Play",
-      "count": 50
+      "count": 35
     },
     {
       "label": "Reddit",
@@ -661,7 +505,7 @@
     },
     {
       "label": "News",
-      "count": 0
+      "count": 2
     },
     {
       "label": "X",
