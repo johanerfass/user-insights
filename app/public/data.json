@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-08-18T06:51:40.471Z",
-  "checkedLabel": "18 Aug 2026",
+  "generatedAt": "2026-08-19T06:51:36.364Z",
+  "checkedLabel": "19 Aug 2026",
   "windowLabel": "Last week",
   "rotateSeconds": 12,
   "posts": [
+    {
+      "id": "news-ze3y81",
+      "source": "News",
+      "market": "Cycling Industry News",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Voi calls for London-wide licensing framework for shared micromobility - Cycling Industry News”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbGhTZm5Tb2dxZW1XcS1TaDVtbl94VFk1NWRUOUEweXJXalFQUmFONExabnVXVHlXMnpGN2hPczFaZ0VfTU94RUxld0dZZmk5Y3Fxd3kxNTkzbDdYVU00c0JiM0JpTmo4VVdrbjFsX1ZnRGZFdzE4S3ZyUllFMnRWb0NTelQ2emFHTWZYVVdkR3NSMnVPNFhJVlZKZExEM0JQc3c?oc=5"
+    },
     {
       "id": "news-iy0lkb",
       "source": "News",
@@ -15,6 +27,71 @@
         "General feedback"
       ],
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTm10dk9qalQ5M21WT1dxMmNrN1hsZ0FzdUFjdXN4NWdwVmJKQ3dVMGxRNlR2MGx1SXpxXzZXZHYxMzhGZjZQclFuMGVuTWJzOUdOZ0JEaThGZVFDREFqa29XYlFGc3NBREE4R1B6cXVEa0FRZUpGNDRBbnV3X0dzYXdhRkFhWDlpUkV0bzVwMEZBNFZPU2dkSm5RSXZadllScF9zd013?oc=5"
+    },
+    {
+      "id": "googleplay-gb-e2114629-ef7f-4832-94f0-1ea310922f8a",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Negative",
+      "quote": "“I have been charged for broken bikes. i have had bikes that showed 40km battery, run out of charge after 5km. complaints are ignored. Map functionality is also sub-par: you cant see replacement bikes, when you are still cycling on an empty battery. you have to park and lock before you can see other bikes. and then wal…”",
+      "themes": [
+        "Broken vehicles",
+        "Billing"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=e2114629-ef7f-4832-94f0-1ea310922f8a"
+    },
+    {
+      "id": "googleplay-se-e2114629-ef7f-4832-94f0-1ea310922f8a",
+      "source": "Google Play",
+      "market": "SE",
+      "date": "Recent",
+      "sentiment": "Negative",
+      "quote": "“I have been charged for broken bikes. i have had bikes that showed 40km battery, run out of charge after 5km. complaints are ignored. Map functionality is also sub-par: you cant see replacement bikes, when you are still cycling on an empty battery. you have to park and lock before you can see other bikes. and then wal…”",
+      "themes": [
+        "Broken vehicles",
+        "Billing"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=e2114629-ef7f-4832-94f0-1ea310922f8a"
+    },
+    {
+      "id": "googleplay-de-e2114629-ef7f-4832-94f0-1ea310922f8a",
+      "source": "Google Play",
+      "market": "DE",
+      "date": "Recent",
+      "sentiment": "Negative",
+      "quote": "“I have been charged for broken bikes. i have had bikes that showed 40km battery, run out of charge after 5km. complaints are ignored. Map functionality is also sub-par: you cant see replacement bikes, when you are still cycling on an empty battery. you have to park and lock before you can see other bikes. and then wal…”",
+      "themes": [
+        "Broken vehicles",
+        "Billing"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=e2114629-ef7f-4832-94f0-1ea310922f8a"
+    },
+    {
+      "id": "googleplay-fr-e2114629-ef7f-4832-94f0-1ea310922f8a",
+      "source": "Google Play",
+      "market": "FR",
+      "date": "Recent",
+      "sentiment": "Negative",
+      "quote": "“I have been charged for broken bikes. i have had bikes that showed 40km battery, run out of charge after 5km. complaints are ignored. Map functionality is also sub-par: you cant see replacement bikes, when you are still cycling on an empty battery. you have to park and lock before you can see other bikes. and then wal…”",
+      "themes": [
+        "Broken vehicles",
+        "Billing"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=e2114629-ef7f-4832-94f0-1ea310922f8a"
+    },
+    {
+      "id": "googleplay-es-e2114629-ef7f-4832-94f0-1ea310922f8a",
+      "source": "Google Play",
+      "market": "ES",
+      "date": "Recent",
+      "sentiment": "Negative",
+      "quote": "“I have been charged for broken bikes. i have had bikes that showed 40km battery, run out of charge after 5km. complaints are ignored. Map functionality is also sub-par: you cant see replacement bikes, when you are still cycling on an empty battery. you have to park and lock before you can see other bikes. and then wal…”",
+      "themes": [
+        "Broken vehicles",
+        "Billing"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=e2114629-ef7f-4832-94f0-1ea310922f8a"
     },
     {
       "id": "news-8a4hh5",
@@ -29,10 +106,70 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcHpqT3F5ZS1hUGxZN0lCWkdTUGlNcDVmQlVvcmxlZGNEUlk2ZDdLaU12LWdKUzduTTFVSm12dzQzOXNfN1kxVUNmY0RqSzhiR1V6emVMQm14MEM0ckxXUEE2RDRFbVZQV2tOeXdHd3hPQ0pCdHVDY01ZSGdiN01uR2RmWUVsY2FyZkdvYVJUOFp6dXd5aEtCVExn?oc=5"
     },
     {
-      "id": "googleplay-gb-20c712f3-8fa8-4bd5-92b9-c49b4e123bcf",
+      "id": "googleplay-gb-d181c171-dbfa-41e7-98b2-ded1ebbe0ea8",
       "source": "Google Play",
       "market": "GB",
       "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“ride was ok but need more official parking spots”",
+      "themes": [
+        "Parking data"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=d181c171-dbfa-41e7-98b2-ded1ebbe0ea8"
+    },
+    {
+      "id": "googleplay-se-d181c171-dbfa-41e7-98b2-ded1ebbe0ea8",
+      "source": "Google Play",
+      "market": "SE",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“ride was ok but need more official parking spots”",
+      "themes": [
+        "Parking data"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=d181c171-dbfa-41e7-98b2-ded1ebbe0ea8"
+    },
+    {
+      "id": "googleplay-de-d181c171-dbfa-41e7-98b2-ded1ebbe0ea8",
+      "source": "Google Play",
+      "market": "DE",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“ride was ok but need more official parking spots”",
+      "themes": [
+        "Parking data"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=d181c171-dbfa-41e7-98b2-ded1ebbe0ea8"
+    },
+    {
+      "id": "googleplay-fr-d181c171-dbfa-41e7-98b2-ded1ebbe0ea8",
+      "source": "Google Play",
+      "market": "FR",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“ride was ok but need more official parking spots”",
+      "themes": [
+        "Parking data"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=d181c171-dbfa-41e7-98b2-ded1ebbe0ea8"
+    },
+    {
+      "id": "googleplay-es-d181c171-dbfa-41e7-98b2-ded1ebbe0ea8",
+      "source": "Google Play",
+      "market": "ES",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“ride was ok but need more official parking spots”",
+      "themes": [
+        "Parking data"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=d181c171-dbfa-41e7-98b2-ded1ebbe0ea8"
+    },
+    {
+      "id": "googleplay-gb-20c712f3-8fa8-4bd5-92b9-c49b4e123bcf",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "15 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“hell no don't use this lime is better if you buy the monthly subscription that is 1 euro it saves a lot of money. Just compare it with lime it's the best.”",
       "themes": [
@@ -44,7 +181,7 @@
       "id": "googleplay-se-20c712f3-8fa8-4bd5-92b9-c49b4e123bcf",
       "source": "Google Play",
       "market": "SE",
-      "date": "Recent",
+      "date": "15 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“hell no don't use this lime is better if you buy the monthly subscription that is 1 euro it saves a lot of money. Just compare it with lime it's the best.”",
       "themes": [
@@ -56,7 +193,7 @@
       "id": "googleplay-de-20c712f3-8fa8-4bd5-92b9-c49b4e123bcf",
       "source": "Google Play",
       "market": "DE",
-      "date": "Recent",
+      "date": "15 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“hell no don't use this lime is better if you buy the monthly subscription that is 1 euro it saves a lot of money. Just compare it with lime it's the best.”",
       "themes": [
@@ -68,7 +205,7 @@
       "id": "googleplay-fr-20c712f3-8fa8-4bd5-92b9-c49b4e123bcf",
       "source": "Google Play",
       "market": "FR",
-      "date": "Recent",
+      "date": "15 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“hell no don't use this lime is better if you buy the monthly subscription that is 1 euro it saves a lot of money. Just compare it with lime it's the best.”",
       "themes": [
@@ -80,7 +217,7 @@
       "id": "googleplay-es-20c712f3-8fa8-4bd5-92b9-c49b4e123bcf",
       "source": "Google Play",
       "market": "ES",
-      "date": "Recent",
+      "date": "15 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“hell no don't use this lime is better if you buy the monthly subscription that is 1 euro it saves a lot of money. Just compare it with lime it's the best.”",
       "themes": [
@@ -327,160 +464,46 @@
         "Parking data"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=fd3abef4-f151-4e8f-8978-2e08ba272016"
-    },
-    {
-      "id": "googleplay-gb-37f62018-3879-4286-afbd-aea2b985daa7",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "11 Aug 2026",
-      "sentiment": "Negative",
-      "quote": "“Awful and nothing less. in my opinion this is the worst bike companies I've ever experienced; I live round about Bellingham and there is a few bikes around the area and they were hosting 15 minutes for free. I took it, got on the bike and rode to my destination but when I got off to end my ride it said I had to drive…”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=37f62018-3879-4286-afbd-aea2b985daa7"
-    },
-    {
-      "id": "googleplay-se-37f62018-3879-4286-afbd-aea2b985daa7",
-      "source": "Google Play",
-      "market": "SE",
-      "date": "11 Aug 2026",
-      "sentiment": "Negative",
-      "quote": "“Awful and nothing less. in my opinion this is the worst bike companies I've ever experienced; I live round about Bellingham and there is a few bikes around the area and they were hosting 15 minutes for free. I took it, got on the bike and rode to my destination but when I got off to end my ride it said I had to drive…”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=37f62018-3879-4286-afbd-aea2b985daa7"
-    },
-    {
-      "id": "googleplay-de-37f62018-3879-4286-afbd-aea2b985daa7",
-      "source": "Google Play",
-      "market": "DE",
-      "date": "11 Aug 2026",
-      "sentiment": "Negative",
-      "quote": "“Awful and nothing less. in my opinion this is the worst bike companies I've ever experienced; I live round about Bellingham and there is a few bikes around the area and they were hosting 15 minutes for free. I took it, got on the bike and rode to my destination but when I got off to end my ride it said I had to drive…”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=37f62018-3879-4286-afbd-aea2b985daa7"
-    },
-    {
-      "id": "googleplay-fr-37f62018-3879-4286-afbd-aea2b985daa7",
-      "source": "Google Play",
-      "market": "FR",
-      "date": "11 Aug 2026",
-      "sentiment": "Negative",
-      "quote": "“Awful and nothing less. in my opinion this is the worst bike companies I've ever experienced; I live round about Bellingham and there is a few bikes around the area and they were hosting 15 minutes for free. I took it, got on the bike and rode to my destination but when I got off to end my ride it said I had to drive…”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=37f62018-3879-4286-afbd-aea2b985daa7"
-    },
-    {
-      "id": "googleplay-es-37f62018-3879-4286-afbd-aea2b985daa7",
-      "source": "Google Play",
-      "market": "ES",
-      "date": "11 Aug 2026",
-      "sentiment": "Negative",
-      "quote": "“Awful and nothing less. in my opinion this is the worst bike companies I've ever experienced; I live round about Bellingham and there is a few bikes around the area and they were hosting 15 minutes for free. I took it, got on the bike and rode to my destination but when I got off to end my ride it said I had to drive…”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=37f62018-3879-4286-afbd-aea2b985daa7"
-    },
-    {
-      "id": "googleplay-gb-23bf10b5-a4e6-4868-8971-40f5af432f23",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "11 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“can't park the bike or end ride touch charged waste service”",
-      "themes": [
-        "Billing"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=23bf10b5-a4e6-4868-8971-40f5af432f23"
-    },
-    {
-      "id": "googleplay-se-23bf10b5-a4e6-4868-8971-40f5af432f23",
-      "source": "Google Play",
-      "market": "SE",
-      "date": "11 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“can't park the bike or end ride touch charged waste service”",
-      "themes": [
-        "Billing"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=23bf10b5-a4e6-4868-8971-40f5af432f23"
-    },
-    {
-      "id": "googleplay-de-23bf10b5-a4e6-4868-8971-40f5af432f23",
-      "source": "Google Play",
-      "market": "DE",
-      "date": "11 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“can't park the bike or end ride touch charged waste service”",
-      "themes": [
-        "Billing"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=23bf10b5-a4e6-4868-8971-40f5af432f23"
-    },
-    {
-      "id": "googleplay-fr-23bf10b5-a4e6-4868-8971-40f5af432f23",
-      "source": "Google Play",
-      "market": "FR",
-      "date": "11 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“can't park the bike or end ride touch charged waste service”",
-      "themes": [
-        "Billing"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=23bf10b5-a4e6-4868-8971-40f5af432f23"
-    },
-    {
-      "id": "googleplay-es-23bf10b5-a4e6-4868-8971-40f5af432f23",
-      "source": "Google Play",
-      "market": "ES",
-      "date": "11 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“can't park the bike or end ride touch charged waste service”",
-      "themes": [
-        "Billing"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=23bf10b5-a4e6-4868-8971-40f5af432f23"
     }
   ],
   "sentimentSummary": {
     "negative": 10,
-    "mixed": 22,
+    "mixed": 23,
     "positive": 5
   },
   "themes": [
     {
       "label": "General feedback",
-      "count": 17,
+      "count": 13,
       "trend": "down",
-      "delta": -8
+      "delta": -4
+    },
+    {
+      "label": "Parking data",
+      "count": 10,
+      "trend": "up",
+      "delta": 5
+    },
+    {
+      "label": "Broken vehicles",
+      "count": 5,
+      "trend": "up",
+      "delta": 5
+    },
+    {
+      "label": "Billing",
+      "count": 5,
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "vs. Lime",
       "count": 5,
-      "trend": "down",
-      "delta": -5
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "First ride",
-      "count": 5,
-      "trend": "flat",
-      "delta": 0
-    },
-    {
-      "label": "Parking data",
-      "count": 5,
-      "trend": "flat",
-      "delta": 0
-    },
-    {
-      "label": "Billing",
       "count": 5,
       "trend": "flat",
       "delta": 0
@@ -505,7 +528,7 @@
     },
     {
       "label": "News",
-      "count": 2
+      "count": 3
     },
     {
       "label": "X",
