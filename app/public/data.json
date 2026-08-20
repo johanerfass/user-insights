@@ -1,9 +1,201 @@
 {
-  "generatedAt": "2026-08-19T06:51:36.364Z",
-  "checkedLabel": "19 Aug 2026",
+  "generatedAt": "2026-08-20T06:53:20.781Z",
+  "checkedLabel": "20 Aug 2026",
   "windowLabel": "Last week",
   "rotateSeconds": 12,
   "posts": [
+    {
+      "id": "news-1rsf3p9",
+      "source": "News",
+      "market": "London TV",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Voi calls on Sadiq Khan to use devolved powers and introduce pan-London micromobility licence - London TV”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbXYzQzFkUjBsTGNGaTVFYWJUN0pGUDVaRHp2Q0VKVC03MXVWWUVBNThGMnlmbnFFQjhua3B5cURUWTlySUZjU3l3WDFidlNiS2c0VHNwOV9pNVVERHBRTHRaVlZRM3F0dnNTUUtLeF9PWk5uUE9YN3pJTWxLWjhlek0xb1Fhc2hqejdtYmhmN2dHR1UxdXRHWEZSZjhfak1NalpWZ011LThFVldDMkx3alNRM2xYMHljaHc?oc=5"
+    },
+    {
+      "id": "googleplay-gb-948ef045-d6aa-4da7-97dc-087b55906b9f",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Positive",
+      "quote": "“great, even has discounts if you have low income”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=948ef045-d6aa-4da7-97dc-087b55906b9f"
+    },
+    {
+      "id": "googleplay-se-948ef045-d6aa-4da7-97dc-087b55906b9f",
+      "source": "Google Play",
+      "market": "SE",
+      "date": "Recent",
+      "sentiment": "Positive",
+      "quote": "“great, even has discounts if you have low income”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=948ef045-d6aa-4da7-97dc-087b55906b9f"
+    },
+    {
+      "id": "googleplay-de-948ef045-d6aa-4da7-97dc-087b55906b9f",
+      "source": "Google Play",
+      "market": "DE",
+      "date": "Recent",
+      "sentiment": "Positive",
+      "quote": "“great, even has discounts if you have low income”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=948ef045-d6aa-4da7-97dc-087b55906b9f"
+    },
+    {
+      "id": "googleplay-fr-948ef045-d6aa-4da7-97dc-087b55906b9f",
+      "source": "Google Play",
+      "market": "FR",
+      "date": "Recent",
+      "sentiment": "Positive",
+      "quote": "“great, even has discounts if you have low income”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=948ef045-d6aa-4da7-97dc-087b55906b9f"
+    },
+    {
+      "id": "googleplay-es-948ef045-d6aa-4da7-97dc-087b55906b9f",
+      "source": "Google Play",
+      "market": "ES",
+      "date": "Recent",
+      "sentiment": "Positive",
+      "quote": "“great, even has discounts if you have low income”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=948ef045-d6aa-4da7-97dc-087b55906b9f"
+    },
+    {
+      "id": "googleplay-gb-91c6ae9c-c8c9-4a9a-b9b3-88d609a7a2b0",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Nice trick deselecting previously selected discounts 😀 Here's your star for fraud behavior.”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=91c6ae9c-c8c9-4a9a-b9b3-88d609a7a2b0"
+    },
+    {
+      "id": "googleplay-se-91c6ae9c-c8c9-4a9a-b9b3-88d609a7a2b0",
+      "source": "Google Play",
+      "market": "SE",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Nice trick deselecting previously selected discounts 😀 Here's your star for fraud behavior.”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=91c6ae9c-c8c9-4a9a-b9b3-88d609a7a2b0"
+    },
+    {
+      "id": "googleplay-de-91c6ae9c-c8c9-4a9a-b9b3-88d609a7a2b0",
+      "source": "Google Play",
+      "market": "DE",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Nice trick deselecting previously selected discounts 😀 Here's your star for fraud behavior.”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=91c6ae9c-c8c9-4a9a-b9b3-88d609a7a2b0"
+    },
+    {
+      "id": "googleplay-fr-91c6ae9c-c8c9-4a9a-b9b3-88d609a7a2b0",
+      "source": "Google Play",
+      "market": "FR",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Nice trick deselecting previously selected discounts 😀 Here's your star for fraud behavior.”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=91c6ae9c-c8c9-4a9a-b9b3-88d609a7a2b0"
+    },
+    {
+      "id": "googleplay-es-91c6ae9c-c8c9-4a9a-b9b3-88d609a7a2b0",
+      "source": "Google Play",
+      "market": "ES",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Nice trick deselecting previously selected discounts 😀 Here's your star for fraud behavior.”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=91c6ae9c-c8c9-4a9a-b9b3-88d609a7a2b0"
+    },
+    {
+      "id": "googleplay-gb-417c127c-496e-481a-a97c-578e9833f871",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“funkar sälllan...och aldrig när man har bråttom”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=417c127c-496e-481a-a97c-578e9833f871"
+    },
+    {
+      "id": "googleplay-se-417c127c-496e-481a-a97c-578e9833f871",
+      "source": "Google Play",
+      "market": "SE",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“funkar sälllan...och aldrig när man har bråttom”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=417c127c-496e-481a-a97c-578e9833f871"
+    },
+    {
+      "id": "googleplay-de-417c127c-496e-481a-a97c-578e9833f871",
+      "source": "Google Play",
+      "market": "DE",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“funkar sälllan...och aldrig när man har bråttom”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=417c127c-496e-481a-a97c-578e9833f871"
+    },
+    {
+      "id": "googleplay-fr-417c127c-496e-481a-a97c-578e9833f871",
+      "source": "Google Play",
+      "market": "FR",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“funkar sälllan...och aldrig när man har bråttom”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=417c127c-496e-481a-a97c-578e9833f871"
+    },
+    {
+      "id": "googleplay-es-417c127c-496e-481a-a97c-578e9833f871",
+      "source": "Google Play",
+      "market": "ES",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“funkar sälllan...och aldrig när man har bråttom”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=417c127c-496e-481a-a97c-578e9833f871"
+    },
     {
       "id": "news-ze3y81",
       "source": "News",
@@ -404,97 +596,37 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=695be484-2860-4e1f-a46c-6e08fac8e4e7"
-    },
-    {
-      "id": "googleplay-gb-fd3abef4-f151-4e8f-8978-2e08ba272016",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "12 Aug 2026",
-      "sentiment": "Positive",
-      "quote": "“Let's you ride out into the no-ride zone and then cuts out once you're 3 streets away from a parking spot and expects you to drag it all the way back. The dark mode map looks the same colour, so it's not easy to tell you've gone out of the ride zone. It should cut out immediately or warn you rather than letting you ke…”",
-      "themes": [
-        "Parking data"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=fd3abef4-f151-4e8f-8978-2e08ba272016"
-    },
-    {
-      "id": "googleplay-se-fd3abef4-f151-4e8f-8978-2e08ba272016",
-      "source": "Google Play",
-      "market": "SE",
-      "date": "12 Aug 2026",
-      "sentiment": "Positive",
-      "quote": "“Let's you ride out into the no-ride zone and then cuts out once you're 3 streets away from a parking spot and expects you to drag it all the way back. The dark mode map looks the same colour, so it's not easy to tell you've gone out of the ride zone. It should cut out immediately or warn you rather than letting you ke…”",
-      "themes": [
-        "Parking data"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=fd3abef4-f151-4e8f-8978-2e08ba272016"
-    },
-    {
-      "id": "googleplay-de-fd3abef4-f151-4e8f-8978-2e08ba272016",
-      "source": "Google Play",
-      "market": "DE",
-      "date": "12 Aug 2026",
-      "sentiment": "Positive",
-      "quote": "“Let's you ride out into the no-ride zone and then cuts out once you're 3 streets away from a parking spot and expects you to drag it all the way back. The dark mode map looks the same colour, so it's not easy to tell you've gone out of the ride zone. It should cut out immediately or warn you rather than letting you ke…”",
-      "themes": [
-        "Parking data"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=fd3abef4-f151-4e8f-8978-2e08ba272016"
-    },
-    {
-      "id": "googleplay-fr-fd3abef4-f151-4e8f-8978-2e08ba272016",
-      "source": "Google Play",
-      "market": "FR",
-      "date": "12 Aug 2026",
-      "sentiment": "Positive",
-      "quote": "“Let's you ride out into the no-ride zone and then cuts out once you're 3 streets away from a parking spot and expects you to drag it all the way back. The dark mode map looks the same colour, so it's not easy to tell you've gone out of the ride zone. It should cut out immediately or warn you rather than letting you ke…”",
-      "themes": [
-        "Parking data"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=fd3abef4-f151-4e8f-8978-2e08ba272016"
-    },
-    {
-      "id": "googleplay-es-fd3abef4-f151-4e8f-8978-2e08ba272016",
-      "source": "Google Play",
-      "market": "ES",
-      "date": "12 Aug 2026",
-      "sentiment": "Positive",
-      "quote": "“Let's you ride out into the no-ride zone and then cuts out once you're 3 streets away from a parking spot and expects you to drag it all the way back. The dark mode map looks the same colour, so it's not easy to tell you've gone out of the ride zone. It should cut out immediately or warn you rather than letting you ke…”",
-      "themes": [
-        "Parking data"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=fd3abef4-f151-4e8f-8978-2e08ba272016"
     }
   ],
   "sentimentSummary": {
     "negative": 10,
-    "mixed": 23,
+    "mixed": 34,
     "positive": 5
   },
   "themes": [
     {
       "label": "General feedback",
-      "count": 13,
-      "trend": "down",
-      "delta": -4
-    },
-    {
-      "label": "Parking data",
-      "count": 10,
+      "count": 29,
       "trend": "up",
-      "delta": 5
+      "delta": 16
     },
     {
       "label": "Broken vehicles",
       "count": 5,
-      "trend": "up",
-      "delta": 5
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "Billing",
       "count": 5,
       "trend": "flat",
       "delta": 0
+    },
+    {
+      "label": "Parking data",
+      "count": 5,
+      "trend": "down",
+      "delta": -5
     },
     {
       "label": "vs. Lime",
@@ -520,7 +652,7 @@
     },
     {
       "label": "Google Play",
-      "count": 35
+      "count": 45
     },
     {
       "label": "Reddit",
@@ -528,7 +660,7 @@
     },
     {
       "label": "News",
-      "count": 3
+      "count": 4
     },
     {
       "label": "X",
