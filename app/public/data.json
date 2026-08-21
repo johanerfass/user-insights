@@ -1,9 +1,278 @@
 {
-  "generatedAt": "2026-08-20T06:53:20.781Z",
-  "checkedLabel": "20 Aug 2026",
+  "generatedAt": "2026-08-21T06:54:08.700Z",
+  "checkedLabel": "21 Aug 2026",
   "windowLabel": "Last week",
   "rotateSeconds": 12,
   "posts": [
+    {
+      "id": "news-cixuhp",
+      "source": "News",
+      "market": "Yahoo News UK",
+      "date": "Recent",
+      "sentiment": "Negative",
+      "quote": "“Parents spotted riding Edinburgh Voi bikes 'dangerously' with kids spark warning - Yahoo News UK”",
+      "themes": [
+        "Safety"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLXJaS2Z4eUZHZmJDMW5WcDA2d0NJem9fVWpJeEVJNWVlZGVzaXl4YWMteVdZb2tQMWVUYWVxZm5uRm9ENkJfRjJfT1kwZGc4LTltUWt3Z1gwV0RkRmhIemVSYkdrcnhQUjZGcy01OFQ3dlJESExmdlFCVUZoLUxuODhXNA?oc=5"
+    },
+    {
+      "id": "news-1cc2k1x",
+      "source": "News",
+      "market": "Cities Today",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Voi urges London-wide micromobility licence - Cities Today”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9IbHdOck85aHVLOS0zQzYxNFUzU21HU0ZtOUhuRTlCWFJWQVZiU05ud1dDS2ZGUXhudFZONDNYbGZVUHlwNTVEem9sQkpGOXRiRmZzdmhhZXFGbGNuZU82aW9KMHZUc2ZBNWxGSkhBZjBWbnFlQmlVZA?oc=5"
+    },
+    {
+      "id": "googleplay-gb-91bbe002-129e-4463-b4b5-e44eb49e309a",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Negative",
+      "quote": "“awfull”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=91bbe002-129e-4463-b4b5-e44eb49e309a"
+    },
+    {
+      "id": "googleplay-se-91bbe002-129e-4463-b4b5-e44eb49e309a",
+      "source": "Google Play",
+      "market": "SE",
+      "date": "Recent",
+      "sentiment": "Negative",
+      "quote": "“awfull”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=91bbe002-129e-4463-b4b5-e44eb49e309a"
+    },
+    {
+      "id": "googleplay-de-91bbe002-129e-4463-b4b5-e44eb49e309a",
+      "source": "Google Play",
+      "market": "DE",
+      "date": "Recent",
+      "sentiment": "Negative",
+      "quote": "“awfull”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=91bbe002-129e-4463-b4b5-e44eb49e309a"
+    },
+    {
+      "id": "googleplay-fr-91bbe002-129e-4463-b4b5-e44eb49e309a",
+      "source": "Google Play",
+      "market": "FR",
+      "date": "Recent",
+      "sentiment": "Negative",
+      "quote": "“awfull”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=91bbe002-129e-4463-b4b5-e44eb49e309a"
+    },
+    {
+      "id": "googleplay-es-91bbe002-129e-4463-b4b5-e44eb49e309a",
+      "source": "Google Play",
+      "market": "ES",
+      "date": "Recent",
+      "sentiment": "Negative",
+      "quote": "“awfull”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=91bbe002-129e-4463-b4b5-e44eb49e309a"
+    },
+    {
+      "id": "googleplay-gb-acc0d88f-58fb-4e54-aa19-7675622dc615",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Pile of shite, do not use these bikes. Electric power randomly cut out. Very restricted zones where you can park compared with lime”",
+      "themes": [
+        "vs. Lime"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=acc0d88f-58fb-4e54-aa19-7675622dc615"
+    },
+    {
+      "id": "googleplay-se-acc0d88f-58fb-4e54-aa19-7675622dc615",
+      "source": "Google Play",
+      "market": "SE",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Pile of shite, do not use these bikes. Electric power randomly cut out. Very restricted zones where you can park compared with lime”",
+      "themes": [
+        "vs. Lime"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=acc0d88f-58fb-4e54-aa19-7675622dc615"
+    },
+    {
+      "id": "googleplay-de-acc0d88f-58fb-4e54-aa19-7675622dc615",
+      "source": "Google Play",
+      "market": "DE",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Pile of shite, do not use these bikes. Electric power randomly cut out. Very restricted zones where you can park compared with lime”",
+      "themes": [
+        "vs. Lime"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=acc0d88f-58fb-4e54-aa19-7675622dc615"
+    },
+    {
+      "id": "googleplay-fr-acc0d88f-58fb-4e54-aa19-7675622dc615",
+      "source": "Google Play",
+      "market": "FR",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Pile of shite, do not use these bikes. Electric power randomly cut out. Very restricted zones where you can park compared with lime”",
+      "themes": [
+        "vs. Lime"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=acc0d88f-58fb-4e54-aa19-7675622dc615"
+    },
+    {
+      "id": "googleplay-es-acc0d88f-58fb-4e54-aa19-7675622dc615",
+      "source": "Google Play",
+      "market": "ES",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Pile of shite, do not use these bikes. Electric power randomly cut out. Very restricted zones where you can park compared with lime”",
+      "themes": [
+        "vs. Lime"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=acc0d88f-58fb-4e54-aa19-7675622dc615"
+    },
+    {
+      "id": "googleplay-gb-aaedcaed-483f-4626-8e96-4b4913e22801",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“its good but the parking is very limited and not enough bikes but cheaper then lime and easier to park then lime but if you expanded thNan I'd give 5 stars”",
+      "themes": [
+        "vs. Lime"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=aaedcaed-483f-4626-8e96-4b4913e22801"
+    },
+    {
+      "id": "googleplay-se-aaedcaed-483f-4626-8e96-4b4913e22801",
+      "source": "Google Play",
+      "market": "SE",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“its good but the parking is very limited and not enough bikes but cheaper then lime and easier to park then lime but if you expanded thNan I'd give 5 stars”",
+      "themes": [
+        "vs. Lime"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=aaedcaed-483f-4626-8e96-4b4913e22801"
+    },
+    {
+      "id": "googleplay-de-aaedcaed-483f-4626-8e96-4b4913e22801",
+      "source": "Google Play",
+      "market": "DE",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“its good but the parking is very limited and not enough bikes but cheaper then lime and easier to park then lime but if you expanded thNan I'd give 5 stars”",
+      "themes": [
+        "vs. Lime"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=aaedcaed-483f-4626-8e96-4b4913e22801"
+    },
+    {
+      "id": "googleplay-fr-aaedcaed-483f-4626-8e96-4b4913e22801",
+      "source": "Google Play",
+      "market": "FR",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“its good but the parking is very limited and not enough bikes but cheaper then lime and easier to park then lime but if you expanded thNan I'd give 5 stars”",
+      "themes": [
+        "vs. Lime"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=aaedcaed-483f-4626-8e96-4b4913e22801"
+    },
+    {
+      "id": "googleplay-es-aaedcaed-483f-4626-8e96-4b4913e22801",
+      "source": "Google Play",
+      "market": "ES",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“its good but the parking is very limited and not enough bikes but cheaper then lime and easier to park then lime but if you expanded thNan I'd give 5 stars”",
+      "themes": [
+        "vs. Lime"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=aaedcaed-483f-4626-8e96-4b4913e22801"
+    },
+    {
+      "id": "googleplay-gb-2f43812a-cafe-477b-b733-f6e858986d8e",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Negative",
+      "quote": "“Its scam adjacent as they never warn you that you csnt end the ride where you planned. Few parking areas to end rides, parking areas usually full so it doesnt let you park. No way to reserve a parking spot or check if there is space in advance. You just pay to be their bike vallet, moving their bikes where they want y…”",
+      "themes": [
+        "Parking data",
+        "Trust"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=2f43812a-cafe-477b-b733-f6e858986d8e"
+    },
+    {
+      "id": "googleplay-se-2f43812a-cafe-477b-b733-f6e858986d8e",
+      "source": "Google Play",
+      "market": "SE",
+      "date": "Recent",
+      "sentiment": "Negative",
+      "quote": "“Its scam adjacent as they never warn you that you csnt end the ride where you planned. Few parking areas to end rides, parking areas usually full so it doesnt let you park. No way to reserve a parking spot or check if there is space in advance. You just pay to be their bike vallet, moving their bikes where they want y…”",
+      "themes": [
+        "Parking data",
+        "Trust"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=2f43812a-cafe-477b-b733-f6e858986d8e"
+    },
+    {
+      "id": "googleplay-de-2f43812a-cafe-477b-b733-f6e858986d8e",
+      "source": "Google Play",
+      "market": "DE",
+      "date": "Recent",
+      "sentiment": "Negative",
+      "quote": "“Its scam adjacent as they never warn you that you csnt end the ride where you planned. Few parking areas to end rides, parking areas usually full so it doesnt let you park. No way to reserve a parking spot or check if there is space in advance. You just pay to be their bike vallet, moving their bikes where they want y…”",
+      "themes": [
+        "Parking data",
+        "Trust"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=2f43812a-cafe-477b-b733-f6e858986d8e"
+    },
+    {
+      "id": "googleplay-fr-2f43812a-cafe-477b-b733-f6e858986d8e",
+      "source": "Google Play",
+      "market": "FR",
+      "date": "Recent",
+      "sentiment": "Negative",
+      "quote": "“Its scam adjacent as they never warn you that you csnt end the ride where you planned. Few parking areas to end rides, parking areas usually full so it doesnt let you park. No way to reserve a parking spot or check if there is space in advance. You just pay to be their bike vallet, moving their bikes where they want y…”",
+      "themes": [
+        "Parking data",
+        "Trust"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=2f43812a-cafe-477b-b733-f6e858986d8e"
+    },
+    {
+      "id": "googleplay-es-2f43812a-cafe-477b-b733-f6e858986d8e",
+      "source": "Google Play",
+      "market": "ES",
+      "date": "Recent",
+      "sentiment": "Negative",
+      "quote": "“Its scam adjacent as they never warn you that you csnt end the ride where you planned. Few parking areas to end rides, parking areas usually full so it doesnt let you park. No way to reserve a parking spot or check if there is space in advance. You just pay to be their bike vallet, moving their bikes where they want y…”",
+      "themes": [
+        "Parking data",
+        "Trust"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=2f43812a-cafe-477b-b733-f6e858986d8e"
+    },
     {
       "id": "news-1rsf3p9",
       "source": "News",
@@ -212,7 +481,7 @@
       "id": "news-iy0lkb",
       "source": "News",
       "market": "Smart Cities World",
-      "date": "Recent",
+      "date": "17 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“Micromobility - Demand for Voi e-bikes in Glasgow reaches new high - Smart Cities World”",
       "themes": [
@@ -224,7 +493,7 @@
       "id": "googleplay-gb-e2114629-ef7f-4832-94f0-1ea310922f8a",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "17 Aug 2026",
       "sentiment": "Negative",
       "quote": "“I have been charged for broken bikes. i have had bikes that showed 40km battery, run out of charge after 5km. complaints are ignored. Map functionality is also sub-par: you cant see replacement bikes, when you are still cycling on an empty battery. you have to park and lock before you can see other bikes. and then wal…”",
       "themes": [
@@ -237,7 +506,7 @@
       "id": "googleplay-se-e2114629-ef7f-4832-94f0-1ea310922f8a",
       "source": "Google Play",
       "market": "SE",
-      "date": "Recent",
+      "date": "17 Aug 2026",
       "sentiment": "Negative",
       "quote": "“I have been charged for broken bikes. i have had bikes that showed 40km battery, run out of charge after 5km. complaints are ignored. Map functionality is also sub-par: you cant see replacement bikes, when you are still cycling on an empty battery. you have to park and lock before you can see other bikes. and then wal…”",
       "themes": [
@@ -250,7 +519,7 @@
       "id": "googleplay-de-e2114629-ef7f-4832-94f0-1ea310922f8a",
       "source": "Google Play",
       "market": "DE",
-      "date": "Recent",
+      "date": "17 Aug 2026",
       "sentiment": "Negative",
       "quote": "“I have been charged for broken bikes. i have had bikes that showed 40km battery, run out of charge after 5km. complaints are ignored. Map functionality is also sub-par: you cant see replacement bikes, when you are still cycling on an empty battery. you have to park and lock before you can see other bikes. and then wal…”",
       "themes": [
@@ -263,7 +532,7 @@
       "id": "googleplay-fr-e2114629-ef7f-4832-94f0-1ea310922f8a",
       "source": "Google Play",
       "market": "FR",
-      "date": "Recent",
+      "date": "17 Aug 2026",
       "sentiment": "Negative",
       "quote": "“I have been charged for broken bikes. i have had bikes that showed 40km battery, run out of charge after 5km. complaints are ignored. Map functionality is also sub-par: you cant see replacement bikes, when you are still cycling on an empty battery. you have to park and lock before you can see other bikes. and then wal…”",
       "themes": [
@@ -276,7 +545,7 @@
       "id": "googleplay-es-e2114629-ef7f-4832-94f0-1ea310922f8a",
       "source": "Google Play",
       "market": "ES",
-      "date": "Recent",
+      "date": "17 Aug 2026",
       "sentiment": "Negative",
       "quote": "“I have been charged for broken bikes. i have had bikes that showed 40km battery, run out of charge after 5km. complaints are ignored. Map functionality is also sub-par: you cant see replacement bikes, when you are still cycling on an empty battery. you have to park and lock before you can see other bikes. and then wal…”",
       "themes": [
@@ -286,22 +555,10 @@
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=e2114629-ef7f-4832-94f0-1ea310922f8a"
     },
     {
-      "id": "news-8a4hh5",
-      "source": "News",
-      "market": "Smart Cities World",
-      "date": "Recent",
-      "sentiment": "Mixed",
-      "quote": "“Demand for Voi e-bikes in Glasgow reaches new high - Smart Cities World”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcHpqT3F5ZS1hUGxZN0lCWkdTUGlNcDVmQlVvcmxlZGNEUlk2ZDdLaU12LWdKUzduTTFVSm12dzQzOXNfN1kxVUNmY0RqSzhiR1V6emVMQm14MEM0ckxXUEE2RDRFbVZQV2tOeXdHd3hPQ0pCdHVDY01ZSGdiN01uR2RmWUVsY2FyZkdvYVJUOFp6dXd5aEtCVExn?oc=5"
-    },
-    {
       "id": "googleplay-gb-d181c171-dbfa-41e7-98b2-ded1ebbe0ea8",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "17 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“ride was ok but need more official parking spots”",
       "themes": [
@@ -313,7 +570,7 @@
       "id": "googleplay-se-d181c171-dbfa-41e7-98b2-ded1ebbe0ea8",
       "source": "Google Play",
       "market": "SE",
-      "date": "Recent",
+      "date": "17 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“ride was ok but need more official parking spots”",
       "themes": [
@@ -325,7 +582,7 @@
       "id": "googleplay-de-d181c171-dbfa-41e7-98b2-ded1ebbe0ea8",
       "source": "Google Play",
       "market": "DE",
-      "date": "Recent",
+      "date": "17 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“ride was ok but need more official parking spots”",
       "themes": [
@@ -337,7 +594,7 @@
       "id": "googleplay-fr-d181c171-dbfa-41e7-98b2-ded1ebbe0ea8",
       "source": "Google Play",
       "market": "FR",
-      "date": "Recent",
+      "date": "17 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“ride was ok but need more official parking spots”",
       "themes": [
@@ -349,7 +606,7 @@
       "id": "googleplay-es-d181c171-dbfa-41e7-98b2-ded1ebbe0ea8",
       "source": "Google Play",
       "market": "ES",
-      "date": "Recent",
+      "date": "17 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“ride was ok but need more official parking spots”",
       "themes": [
@@ -476,130 +733,10 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=4e725773-604e-44e5-83d9-e7191e198166"
-    },
-    {
-      "id": "googleplay-gb-ab050efd-753a-4cbc-8215-f5f9fe0ff674",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "13 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“Doesn't work. Applied free ride discount and it keeps saying session expired”",
-      "themes": [
-        "First ride"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=ab050efd-753a-4cbc-8215-f5f9fe0ff674"
-    },
-    {
-      "id": "googleplay-se-ab050efd-753a-4cbc-8215-f5f9fe0ff674",
-      "source": "Google Play",
-      "market": "SE",
-      "date": "13 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“Doesn't work. Applied free ride discount and it keeps saying session expired”",
-      "themes": [
-        "First ride"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=ab050efd-753a-4cbc-8215-f5f9fe0ff674"
-    },
-    {
-      "id": "googleplay-de-ab050efd-753a-4cbc-8215-f5f9fe0ff674",
-      "source": "Google Play",
-      "market": "DE",
-      "date": "13 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“Doesn't work. Applied free ride discount and it keeps saying session expired”",
-      "themes": [
-        "First ride"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=ab050efd-753a-4cbc-8215-f5f9fe0ff674"
-    },
-    {
-      "id": "googleplay-fr-ab050efd-753a-4cbc-8215-f5f9fe0ff674",
-      "source": "Google Play",
-      "market": "FR",
-      "date": "13 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“Doesn't work. Applied free ride discount and it keeps saying session expired”",
-      "themes": [
-        "First ride"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=ab050efd-753a-4cbc-8215-f5f9fe0ff674"
-    },
-    {
-      "id": "googleplay-es-ab050efd-753a-4cbc-8215-f5f9fe0ff674",
-      "source": "Google Play",
-      "market": "ES",
-      "date": "13 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“Doesn't work. Applied free ride discount and it keeps saying session expired”",
-      "themes": [
-        "First ride"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=ab050efd-753a-4cbc-8215-f5f9fe0ff674"
-    },
-    {
-      "id": "googleplay-gb-695be484-2860-4e1f-a46c-6e08fac8e4e7",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "13 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“cannot get past the enter your email stage on the app, keeps saying error has occurred”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=695be484-2860-4e1f-a46c-6e08fac8e4e7"
-    },
-    {
-      "id": "googleplay-se-695be484-2860-4e1f-a46c-6e08fac8e4e7",
-      "source": "Google Play",
-      "market": "SE",
-      "date": "13 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“cannot get past the enter your email stage on the app, keeps saying error has occurred”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=695be484-2860-4e1f-a46c-6e08fac8e4e7"
-    },
-    {
-      "id": "googleplay-de-695be484-2860-4e1f-a46c-6e08fac8e4e7",
-      "source": "Google Play",
-      "market": "DE",
-      "date": "13 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“cannot get past the enter your email stage on the app, keeps saying error has occurred”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=695be484-2860-4e1f-a46c-6e08fac8e4e7"
-    },
-    {
-      "id": "googleplay-fr-695be484-2860-4e1f-a46c-6e08fac8e4e7",
-      "source": "Google Play",
-      "market": "FR",
-      "date": "13 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“cannot get past the enter your email stage on the app, keeps saying error has occurred”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=695be484-2860-4e1f-a46c-6e08fac8e4e7"
-    },
-    {
-      "id": "googleplay-es-695be484-2860-4e1f-a46c-6e08fac8e4e7",
-      "source": "Google Play",
-      "market": "ES",
-      "date": "13 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“cannot get past the enter your email stage on the app, keeps saying error has occurred”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=695be484-2860-4e1f-a46c-6e08fac8e4e7"
     }
   ],
   "sentimentSummary": {
-    "negative": 10,
+    "negative": 21,
     "mixed": 34,
     "positive": 5
   },
@@ -607,8 +744,26 @@
     {
       "label": "General feedback",
       "count": 29,
+      "trend": "flat",
+      "delta": 0
+    },
+    {
+      "label": "vs. Lime",
+      "count": 15,
       "trend": "up",
-      "delta": 16
+      "delta": 10
+    },
+    {
+      "label": "Parking data",
+      "count": 10,
+      "trend": "up",
+      "delta": 5
+    },
+    {
+      "label": "Trust",
+      "count": 5,
+      "trend": "up",
+      "delta": 5
     },
     {
       "label": "Broken vehicles",
@@ -618,24 +773,6 @@
     },
     {
       "label": "Billing",
-      "count": 5,
-      "trend": "flat",
-      "delta": 0
-    },
-    {
-      "label": "Parking data",
-      "count": 5,
-      "trend": "down",
-      "delta": -5
-    },
-    {
-      "label": "vs. Lime",
-      "count": 5,
-      "trend": "flat",
-      "delta": 0
-    },
-    {
-      "label": "First ride",
       "count": 5,
       "trend": "flat",
       "delta": 0
@@ -652,7 +789,7 @@
     },
     {
       "label": "Google Play",
-      "count": 45
+      "count": 55
     },
     {
       "label": "Reddit",
@@ -660,7 +797,7 @@
     },
     {
       "label": "News",
-      "count": 4
+      "count": 5
     },
     {
       "label": "X",
