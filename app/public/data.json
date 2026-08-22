@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-21T06:54:08.700Z",
-  "checkedLabel": "21 Aug 2026",
+  "generatedAt": "2026-08-22T06:47:55.223Z",
+  "checkedLabel": "22 Aug 2026",
   "windowLabel": "Last week",
   "rotateSeconds": 12,
   "posts": [
@@ -17,6 +17,66 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLXJaS2Z4eUZHZmJDMW5WcDA2d0NJem9fVWpJeEVJNWVlZGVzaXl4YWMteVdZb2tQMWVUYWVxZm5uRm9ENkJfRjJfT1kwZGc4LTltUWt3Z1gwV0RkRmhIemVSYkdrcnhQUjZGcy01OFQ3dlJESExmdlFCVUZoLUxuODhXNA?oc=5"
     },
     {
+      "id": "googleplay-gb-1f61a560-a00b-49dc-ac2a-967b774fa8ed",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Parking spaces are too limited, and they are being reduced. In addition, the cycling boundary is too restrictive. The bikes slow down too much on 20MPH zone too. This bike is comfortable to ride. I give it 1 star for that.”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=1f61a560-a00b-49dc-ac2a-967b774fa8ed"
+    },
+    {
+      "id": "googleplay-se-1f61a560-a00b-49dc-ac2a-967b774fa8ed",
+      "source": "Google Play",
+      "market": "SE",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Parking spaces are too limited, and they are being reduced. In addition, the cycling boundary is too restrictive. The bikes slow down too much on 20MPH zone too. This bike is comfortable to ride. I give it 1 star for that.”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=1f61a560-a00b-49dc-ac2a-967b774fa8ed"
+    },
+    {
+      "id": "googleplay-de-1f61a560-a00b-49dc-ac2a-967b774fa8ed",
+      "source": "Google Play",
+      "market": "DE",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Parking spaces are too limited, and they are being reduced. In addition, the cycling boundary is too restrictive. The bikes slow down too much on 20MPH zone too. This bike is comfortable to ride. I give it 1 star for that.”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=1f61a560-a00b-49dc-ac2a-967b774fa8ed"
+    },
+    {
+      "id": "googleplay-fr-1f61a560-a00b-49dc-ac2a-967b774fa8ed",
+      "source": "Google Play",
+      "market": "FR",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Parking spaces are too limited, and they are being reduced. In addition, the cycling boundary is too restrictive. The bikes slow down too much on 20MPH zone too. This bike is comfortable to ride. I give it 1 star for that.”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=1f61a560-a00b-49dc-ac2a-967b774fa8ed"
+    },
+    {
+      "id": "googleplay-es-1f61a560-a00b-49dc-ac2a-967b774fa8ed",
+      "source": "Google Play",
+      "market": "ES",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Parking spaces are too limited, and they are being reduced. In addition, the cycling boundary is too restrictive. The bikes slow down too much on 20MPH zone too. This bike is comfortable to ride. I give it 1 star for that.”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=1f61a560-a00b-49dc-ac2a-967b774fa8ed"
+    },
+    {
       "id": "news-1cc2k1x",
       "source": "News",
       "market": "Cities Today",
@@ -27,6 +87,66 @@
         "General feedback"
       ],
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9IbHdOck85aHVLOS0zQzYxNFUzU21HU0ZtOUhuRTlCWFJWQVZiU05ud1dDS2ZGUXhudFZONDNYbGZVUHlwNTVEem9sQkpGOXRiRmZzdmhhZXFGbGNuZU82aW9KMHZUc2ZBNWxGSkhBZjBWbnFlQmlVZA?oc=5"
+    },
+    {
+      "id": "googleplay-gb-dc1bc99b-b72e-45ea-ad95-5404e5c81c4e",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“good option for getting around town nerd strenght to riase or put down the stand!”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=dc1bc99b-b72e-45ea-ad95-5404e5c81c4e"
+    },
+    {
+      "id": "googleplay-se-dc1bc99b-b72e-45ea-ad95-5404e5c81c4e",
+      "source": "Google Play",
+      "market": "SE",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“good option for getting around town nerd strenght to riase or put down the stand!”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=dc1bc99b-b72e-45ea-ad95-5404e5c81c4e"
+    },
+    {
+      "id": "googleplay-de-dc1bc99b-b72e-45ea-ad95-5404e5c81c4e",
+      "source": "Google Play",
+      "market": "DE",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“good option for getting around town nerd strenght to riase or put down the stand!”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=dc1bc99b-b72e-45ea-ad95-5404e5c81c4e"
+    },
+    {
+      "id": "googleplay-fr-dc1bc99b-b72e-45ea-ad95-5404e5c81c4e",
+      "source": "Google Play",
+      "market": "FR",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“good option for getting around town nerd strenght to riase or put down the stand!”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=dc1bc99b-b72e-45ea-ad95-5404e5c81c4e"
+    },
+    {
+      "id": "googleplay-es-dc1bc99b-b72e-45ea-ad95-5404e5c81c4e",
+      "source": "Google Play",
+      "market": "ES",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“good option for getting around town nerd strenght to riase or put down the stand!”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=dc1bc99b-b72e-45ea-ad95-5404e5c81c4e"
     },
     {
       "id": "googleplay-gb-91bbe002-129e-4463-b4b5-e44eb49e309a",
@@ -289,7 +409,7 @@
       "id": "googleplay-gb-948ef045-d6aa-4da7-97dc-087b55906b9f",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "19 Aug 2026",
       "sentiment": "Positive",
       "quote": "“great, even has discounts if you have low income”",
       "themes": [
@@ -301,7 +421,7 @@
       "id": "googleplay-se-948ef045-d6aa-4da7-97dc-087b55906b9f",
       "source": "Google Play",
       "market": "SE",
-      "date": "Recent",
+      "date": "19 Aug 2026",
       "sentiment": "Positive",
       "quote": "“great, even has discounts if you have low income”",
       "themes": [
@@ -313,7 +433,7 @@
       "id": "googleplay-de-948ef045-d6aa-4da7-97dc-087b55906b9f",
       "source": "Google Play",
       "market": "DE",
-      "date": "Recent",
+      "date": "19 Aug 2026",
       "sentiment": "Positive",
       "quote": "“great, even has discounts if you have low income”",
       "themes": [
@@ -325,7 +445,7 @@
       "id": "googleplay-fr-948ef045-d6aa-4da7-97dc-087b55906b9f",
       "source": "Google Play",
       "market": "FR",
-      "date": "Recent",
+      "date": "19 Aug 2026",
       "sentiment": "Positive",
       "quote": "“great, even has discounts if you have low income”",
       "themes": [
@@ -337,7 +457,7 @@
       "id": "googleplay-es-948ef045-d6aa-4da7-97dc-087b55906b9f",
       "source": "Google Play",
       "market": "ES",
-      "date": "Recent",
+      "date": "19 Aug 2026",
       "sentiment": "Positive",
       "quote": "“great, even has discounts if you have low income”",
       "themes": [
@@ -349,7 +469,7 @@
       "id": "googleplay-gb-91c6ae9c-c8c9-4a9a-b9b3-88d609a7a2b0",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "18 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“Nice trick deselecting previously selected discounts 😀 Here's your star for fraud behavior.”",
       "themes": [
@@ -361,7 +481,7 @@
       "id": "googleplay-se-91c6ae9c-c8c9-4a9a-b9b3-88d609a7a2b0",
       "source": "Google Play",
       "market": "SE",
-      "date": "Recent",
+      "date": "18 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“Nice trick deselecting previously selected discounts 😀 Here's your star for fraud behavior.”",
       "themes": [
@@ -373,7 +493,7 @@
       "id": "googleplay-de-91c6ae9c-c8c9-4a9a-b9b3-88d609a7a2b0",
       "source": "Google Play",
       "market": "DE",
-      "date": "Recent",
+      "date": "18 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“Nice trick deselecting previously selected discounts 😀 Here's your star for fraud behavior.”",
       "themes": [
@@ -385,7 +505,7 @@
       "id": "googleplay-fr-91c6ae9c-c8c9-4a9a-b9b3-88d609a7a2b0",
       "source": "Google Play",
       "market": "FR",
-      "date": "Recent",
+      "date": "18 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“Nice trick deselecting previously selected discounts 😀 Here's your star for fraud behavior.”",
       "themes": [
@@ -397,7 +517,7 @@
       "id": "googleplay-es-91c6ae9c-c8c9-4a9a-b9b3-88d609a7a2b0",
       "source": "Google Play",
       "market": "ES",
-      "date": "Recent",
+      "date": "18 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“Nice trick deselecting previously selected discounts 😀 Here's your star for fraud behavior.”",
       "themes": [
@@ -409,7 +529,7 @@
       "id": "googleplay-gb-417c127c-496e-481a-a97c-578e9833f871",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "18 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“funkar sälllan...och aldrig när man har bråttom”",
       "themes": [
@@ -421,7 +541,7 @@
       "id": "googleplay-se-417c127c-496e-481a-a97c-578e9833f871",
       "source": "Google Play",
       "market": "SE",
-      "date": "Recent",
+      "date": "18 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“funkar sälllan...och aldrig när man har bråttom”",
       "themes": [
@@ -433,7 +553,7 @@
       "id": "googleplay-de-417c127c-496e-481a-a97c-578e9833f871",
       "source": "Google Play",
       "market": "DE",
-      "date": "Recent",
+      "date": "18 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“funkar sälllan...och aldrig när man har bråttom”",
       "themes": [
@@ -445,7 +565,7 @@
       "id": "googleplay-fr-417c127c-496e-481a-a97c-578e9833f871",
       "source": "Google Play",
       "market": "FR",
-      "date": "Recent",
+      "date": "18 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“funkar sälllan...och aldrig när man har bråttom”",
       "themes": [
@@ -457,7 +577,7 @@
       "id": "googleplay-es-417c127c-496e-481a-a97c-578e9833f871",
       "source": "Google Play",
       "market": "ES",
-      "date": "Recent",
+      "date": "18 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“funkar sälllan...och aldrig när man har bråttom”",
       "themes": [
@@ -469,7 +589,7 @@
       "id": "news-ze3y81",
       "source": "News",
       "market": "Cycling Industry News",
-      "date": "Recent",
+      "date": "18 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“Voi calls for London-wide licensing framework for shared micromobility - Cycling Industry News”",
       "themes": [
@@ -673,97 +793,37 @@
         "vs. Lime"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=20c712f3-8fa8-4bd5-92b9-c49b4e123bcf"
-    },
-    {
-      "id": "googleplay-gb-4e725773-604e-44e5-83d9-e7191e198166",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "14 Aug 2026",
-      "sentiment": "Negative",
-      "quote": "“When I want to unlock the bike it says \"something went wrong with the paiement method\" and I cannot unlock it. WHILE I HAVE TWO ACTIVE PASSES. The same paiement method is okay to buy the passes but not to unlock the bike? I used my credit card and google pay on two different phones. Same problem. People unlocked the b…”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=4e725773-604e-44e5-83d9-e7191e198166"
-    },
-    {
-      "id": "googleplay-se-4e725773-604e-44e5-83d9-e7191e198166",
-      "source": "Google Play",
-      "market": "SE",
-      "date": "14 Aug 2026",
-      "sentiment": "Negative",
-      "quote": "“When I want to unlock the bike it says \"something went wrong with the paiement method\" and I cannot unlock it. WHILE I HAVE TWO ACTIVE PASSES. The same paiement method is okay to buy the passes but not to unlock the bike? I used my credit card and google pay on two different phones. Same problem. People unlocked the b…”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=4e725773-604e-44e5-83d9-e7191e198166"
-    },
-    {
-      "id": "googleplay-de-4e725773-604e-44e5-83d9-e7191e198166",
-      "source": "Google Play",
-      "market": "DE",
-      "date": "14 Aug 2026",
-      "sentiment": "Negative",
-      "quote": "“When I want to unlock the bike it says \"something went wrong with the paiement method\" and I cannot unlock it. WHILE I HAVE TWO ACTIVE PASSES. The same paiement method is okay to buy the passes but not to unlock the bike? I used my credit card and google pay on two different phones. Same problem. People unlocked the b…”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=4e725773-604e-44e5-83d9-e7191e198166"
-    },
-    {
-      "id": "googleplay-fr-4e725773-604e-44e5-83d9-e7191e198166",
-      "source": "Google Play",
-      "market": "FR",
-      "date": "14 Aug 2026",
-      "sentiment": "Negative",
-      "quote": "“When I want to unlock the bike it says \"something went wrong with the paiement method\" and I cannot unlock it. WHILE I HAVE TWO ACTIVE PASSES. The same paiement method is okay to buy the passes but not to unlock the bike? I used my credit card and google pay on two different phones. Same problem. People unlocked the b…”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=4e725773-604e-44e5-83d9-e7191e198166"
-    },
-    {
-      "id": "googleplay-es-4e725773-604e-44e5-83d9-e7191e198166",
-      "source": "Google Play",
-      "market": "ES",
-      "date": "14 Aug 2026",
-      "sentiment": "Negative",
-      "quote": "“When I want to unlock the bike it says \"something went wrong with the paiement method\" and I cannot unlock it. WHILE I HAVE TWO ACTIVE PASSES. The same paiement method is okay to buy the passes but not to unlock the bike? I used my credit card and google pay on two different phones. Same problem. People unlocked the b…”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=4e725773-604e-44e5-83d9-e7191e198166"
     }
   ],
   "sentimentSummary": {
-    "negative": 21,
-    "mixed": 34,
+    "negative": 16,
+    "mixed": 44,
     "positive": 5
   },
   "themes": [
     {
       "label": "General feedback",
-      "count": 29,
-      "trend": "flat",
-      "delta": 0
+      "count": 34,
+      "trend": "up",
+      "delta": 5
     },
     {
       "label": "vs. Lime",
       "count": 15,
-      "trend": "up",
-      "delta": 10
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "Parking data",
       "count": 10,
-      "trend": "up",
-      "delta": 5
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "Trust",
       "count": 5,
-      "trend": "up",
-      "delta": 5
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "Broken vehicles",
@@ -789,7 +849,7 @@
     },
     {
       "label": "Google Play",
-      "count": 55
+      "count": 60
     },
     {
       "label": "Reddit",
