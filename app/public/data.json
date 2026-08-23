@@ -1,20 +1,152 @@
 {
-  "generatedAt": "2026-08-22T06:47:55.223Z",
-  "checkedLabel": "22 Aug 2026",
+  "generatedAt": "2026-08-23T06:48:46.161Z",
+  "checkedLabel": "23 Aug 2026",
   "windowLabel": "Last week",
   "rotateSeconds": 12,
   "posts": [
     {
-      "id": "news-cixuhp",
-      "source": "News",
-      "market": "Yahoo News UK",
+      "id": "mastodon-mastodon.social-117139100924392989",
+      "source": "Mastodon",
+      "market": "@alcornews.bsky.social@bsky.brid.gy",
       "date": "Recent",
-      "sentiment": "Negative",
-      "quote": "“Parents spotted riding Edinburgh Voi bikes 'dangerously' with kids spark warning - Yahoo News UK”",
+      "sentiment": "Mixed",
+      "quote": "“🤖🛰️🌐 #Technologie #Innovation #IA #IntelligenceArtificielle #Numérique #VOI voi.id/fr/teknologi... Google achète des données de S...”",
       "themes": [
-        "Safety"
+        "General feedback"
       ],
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLXJaS2Z4eUZHZmJDMW5WcDA2d0NJem9fVWpJeEVJNWVlZGVzaXl4YWMteVdZb2tQMWVUYWVxZm5uRm9ENkJfRjJfT1kwZGc4LTltUWt3Z1gwV0RkRmhIemVSYkdrcnhQUjZGcy01OFQ3dlJESExmdlFCVUZoLUxuODhXNA?oc=5"
+      "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:3l5f3rhsngpxljnskia73bj7/post/3mtoarnhx6c2f"
+    },
+    {
+      "id": "mastodon-mastodon.social-117139099433840783",
+      "source": "Mastodon",
+      "market": "@AlcorNews",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“🤖🛰️🌐 # Technologie # Innovation # IA # IntelligenceArtificielle # Numérique # VOI https:// voi.id/fr/teknologi/590580”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://mastodon.social/@AlcorNews/117139099433840783"
+    },
+    {
+      "id": "googleplay-gb-a0a1502b-2f99-4625-8d37-d074c1a6c8fb",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“it's wa so much fun ☺️”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=a0a1502b-2f99-4625-8d37-d074c1a6c8fb"
+    },
+    {
+      "id": "googleplay-se-a0a1502b-2f99-4625-8d37-d074c1a6c8fb",
+      "source": "Google Play",
+      "market": "SE",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“it's wa so much fun ☺️”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=a0a1502b-2f99-4625-8d37-d074c1a6c8fb"
+    },
+    {
+      "id": "googleplay-de-a0a1502b-2f99-4625-8d37-d074c1a6c8fb",
+      "source": "Google Play",
+      "market": "DE",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“it's wa so much fun ☺️”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=a0a1502b-2f99-4625-8d37-d074c1a6c8fb"
+    },
+    {
+      "id": "googleplay-fr-a0a1502b-2f99-4625-8d37-d074c1a6c8fb",
+      "source": "Google Play",
+      "market": "FR",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“it's wa so much fun ☺️”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=a0a1502b-2f99-4625-8d37-d074c1a6c8fb"
+    },
+    {
+      "id": "googleplay-es-a0a1502b-2f99-4625-8d37-d074c1a6c8fb",
+      "source": "Google Play",
+      "market": "ES",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“it's wa so much fun ☺️”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=a0a1502b-2f99-4625-8d37-d074c1a6c8fb"
+    },
+    {
+      "id": "googleplay-gb-fe055f0f-a952-44b0-b200-580aea43bbbe",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Parking Charge Traps — do NOT use this scooter is SE London. Unassuming riders will be allowed to hire a bike, but then told that there are no parking zones in your area only once you try to end the ride. If the bike is in a no parking zone, why let riders hire it with no warning?”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=fe055f0f-a952-44b0-b200-580aea43bbbe"
+    },
+    {
+      "id": "googleplay-se-fe055f0f-a952-44b0-b200-580aea43bbbe",
+      "source": "Google Play",
+      "market": "SE",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Parking Charge Traps — do NOT use this scooter is SE London. Unassuming riders will be allowed to hire a bike, but then told that there are no parking zones in your area only once you try to end the ride. If the bike is in a no parking zone, why let riders hire it with no warning?”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=fe055f0f-a952-44b0-b200-580aea43bbbe"
+    },
+    {
+      "id": "googleplay-de-fe055f0f-a952-44b0-b200-580aea43bbbe",
+      "source": "Google Play",
+      "market": "DE",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Parking Charge Traps — do NOT use this scooter is SE London. Unassuming riders will be allowed to hire a bike, but then told that there are no parking zones in your area only once you try to end the ride. If the bike is in a no parking zone, why let riders hire it with no warning?”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=fe055f0f-a952-44b0-b200-580aea43bbbe"
+    },
+    {
+      "id": "googleplay-fr-fe055f0f-a952-44b0-b200-580aea43bbbe",
+      "source": "Google Play",
+      "market": "FR",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Parking Charge Traps — do NOT use this scooter is SE London. Unassuming riders will be allowed to hire a bike, but then told that there are no parking zones in your area only once you try to end the ride. If the bike is in a no parking zone, why let riders hire it with no warning?”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=fe055f0f-a952-44b0-b200-580aea43bbbe"
+    },
+    {
+      "id": "googleplay-es-fe055f0f-a952-44b0-b200-580aea43bbbe",
+      "source": "Google Play",
+      "market": "ES",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Parking Charge Traps — do NOT use this scooter is SE London. Unassuming riders will be allowed to hire a bike, but then told that there are no parking zones in your area only once you try to end the ride. If the bike is in a no parking zone, why let riders hire it with no warning?”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=fe055f0f-a952-44b0-b200-580aea43bbbe"
     },
     {
       "id": "googleplay-gb-1f61a560-a00b-49dc-ac2a-967b774fa8ed",
@@ -152,7 +284,7 @@
       "id": "googleplay-gb-91bbe002-129e-4463-b4b5-e44eb49e309a",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "19 Aug 2026",
       "sentiment": "Negative",
       "quote": "“awfull”",
       "themes": [
@@ -164,7 +296,7 @@
       "id": "googleplay-se-91bbe002-129e-4463-b4b5-e44eb49e309a",
       "source": "Google Play",
       "market": "SE",
-      "date": "Recent",
+      "date": "19 Aug 2026",
       "sentiment": "Negative",
       "quote": "“awfull”",
       "themes": [
@@ -176,7 +308,7 @@
       "id": "googleplay-de-91bbe002-129e-4463-b4b5-e44eb49e309a",
       "source": "Google Play",
       "market": "DE",
-      "date": "Recent",
+      "date": "19 Aug 2026",
       "sentiment": "Negative",
       "quote": "“awfull”",
       "themes": [
@@ -188,7 +320,7 @@
       "id": "googleplay-fr-91bbe002-129e-4463-b4b5-e44eb49e309a",
       "source": "Google Play",
       "market": "FR",
-      "date": "Recent",
+      "date": "19 Aug 2026",
       "sentiment": "Negative",
       "quote": "“awfull”",
       "themes": [
@@ -200,7 +332,7 @@
       "id": "googleplay-es-91bbe002-129e-4463-b4b5-e44eb49e309a",
       "source": "Google Play",
       "market": "ES",
-      "date": "Recent",
+      "date": "19 Aug 2026",
       "sentiment": "Negative",
       "quote": "“awfull”",
       "themes": [
@@ -212,7 +344,7 @@
       "id": "googleplay-gb-acc0d88f-58fb-4e54-aa19-7675622dc615",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "19 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“Pile of shite, do not use these bikes. Electric power randomly cut out. Very restricted zones where you can park compared with lime”",
       "themes": [
@@ -224,7 +356,7 @@
       "id": "googleplay-se-acc0d88f-58fb-4e54-aa19-7675622dc615",
       "source": "Google Play",
       "market": "SE",
-      "date": "Recent",
+      "date": "19 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“Pile of shite, do not use these bikes. Electric power randomly cut out. Very restricted zones where you can park compared with lime”",
       "themes": [
@@ -236,7 +368,7 @@
       "id": "googleplay-de-acc0d88f-58fb-4e54-aa19-7675622dc615",
       "source": "Google Play",
       "market": "DE",
-      "date": "Recent",
+      "date": "19 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“Pile of shite, do not use these bikes. Electric power randomly cut out. Very restricted zones where you can park compared with lime”",
       "themes": [
@@ -248,7 +380,7 @@
       "id": "googleplay-fr-acc0d88f-58fb-4e54-aa19-7675622dc615",
       "source": "Google Play",
       "market": "FR",
-      "date": "Recent",
+      "date": "19 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“Pile of shite, do not use these bikes. Electric power randomly cut out. Very restricted zones where you can park compared with lime”",
       "themes": [
@@ -260,7 +392,7 @@
       "id": "googleplay-es-acc0d88f-58fb-4e54-aa19-7675622dc615",
       "source": "Google Play",
       "market": "ES",
-      "date": "Recent",
+      "date": "19 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“Pile of shite, do not use these bikes. Electric power randomly cut out. Very restricted zones where you can park compared with lime”",
       "themes": [
@@ -272,7 +404,7 @@
       "id": "googleplay-gb-aaedcaed-483f-4626-8e96-4b4913e22801",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "19 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“its good but the parking is very limited and not enough bikes but cheaper then lime and easier to park then lime but if you expanded thNan I'd give 5 stars”",
       "themes": [
@@ -284,7 +416,7 @@
       "id": "googleplay-se-aaedcaed-483f-4626-8e96-4b4913e22801",
       "source": "Google Play",
       "market": "SE",
-      "date": "Recent",
+      "date": "19 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“its good but the parking is very limited and not enough bikes but cheaper then lime and easier to park then lime but if you expanded thNan I'd give 5 stars”",
       "themes": [
@@ -296,7 +428,7 @@
       "id": "googleplay-de-aaedcaed-483f-4626-8e96-4b4913e22801",
       "source": "Google Play",
       "market": "DE",
-      "date": "Recent",
+      "date": "19 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“its good but the parking is very limited and not enough bikes but cheaper then lime and easier to park then lime but if you expanded thNan I'd give 5 stars”",
       "themes": [
@@ -308,7 +440,7 @@
       "id": "googleplay-fr-aaedcaed-483f-4626-8e96-4b4913e22801",
       "source": "Google Play",
       "market": "FR",
-      "date": "Recent",
+      "date": "19 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“its good but the parking is very limited and not enough bikes but cheaper then lime and easier to park then lime but if you expanded thNan I'd give 5 stars”",
       "themes": [
@@ -320,7 +452,7 @@
       "id": "googleplay-es-aaedcaed-483f-4626-8e96-4b4913e22801",
       "source": "Google Play",
       "market": "ES",
-      "date": "Recent",
+      "date": "19 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“its good but the parking is very limited and not enough bikes but cheaper then lime and easier to park then lime but if you expanded thNan I'd give 5 stars”",
       "themes": [
@@ -332,7 +464,7 @@
       "id": "googleplay-gb-2f43812a-cafe-477b-b733-f6e858986d8e",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "19 Aug 2026",
       "sentiment": "Negative",
       "quote": "“Its scam adjacent as they never warn you that you csnt end the ride where you planned. Few parking areas to end rides, parking areas usually full so it doesnt let you park. No way to reserve a parking spot or check if there is space in advance. You just pay to be their bike vallet, moving their bikes where they want y…”",
       "themes": [
@@ -345,7 +477,7 @@
       "id": "googleplay-se-2f43812a-cafe-477b-b733-f6e858986d8e",
       "source": "Google Play",
       "market": "SE",
-      "date": "Recent",
+      "date": "19 Aug 2026",
       "sentiment": "Negative",
       "quote": "“Its scam adjacent as they never warn you that you csnt end the ride where you planned. Few parking areas to end rides, parking areas usually full so it doesnt let you park. No way to reserve a parking spot or check if there is space in advance. You just pay to be their bike vallet, moving their bikes where they want y…”",
       "themes": [
@@ -358,7 +490,7 @@
       "id": "googleplay-de-2f43812a-cafe-477b-b733-f6e858986d8e",
       "source": "Google Play",
       "market": "DE",
-      "date": "Recent",
+      "date": "19 Aug 2026",
       "sentiment": "Negative",
       "quote": "“Its scam adjacent as they never warn you that you csnt end the ride where you planned. Few parking areas to end rides, parking areas usually full so it doesnt let you park. No way to reserve a parking spot or check if there is space in advance. You just pay to be their bike vallet, moving their bikes where they want y…”",
       "themes": [
@@ -371,7 +503,7 @@
       "id": "googleplay-fr-2f43812a-cafe-477b-b733-f6e858986d8e",
       "source": "Google Play",
       "market": "FR",
-      "date": "Recent",
+      "date": "19 Aug 2026",
       "sentiment": "Negative",
       "quote": "“Its scam adjacent as they never warn you that you csnt end the ride where you planned. Few parking areas to end rides, parking areas usually full so it doesnt let you park. No way to reserve a parking spot or check if there is space in advance. You just pay to be their bike vallet, moving their bikes where they want y…”",
       "themes": [
@@ -384,7 +516,7 @@
       "id": "googleplay-es-2f43812a-cafe-477b-b733-f6e858986d8e",
       "source": "Google Play",
       "market": "ES",
-      "date": "Recent",
+      "date": "19 Aug 2026",
       "sentiment": "Negative",
       "quote": "“Its scam adjacent as they never warn you that you csnt end the ride where you planned. Few parking areas to end rides, parking areas usually full so it doesnt let you park. No way to reserve a parking spot or check if there is space in advance. You just pay to be their bike vallet, moving their bikes where they want y…”",
       "themes": [
@@ -397,7 +529,7 @@
       "id": "news-1rsf3p9",
       "source": "News",
       "market": "London TV",
-      "date": "Recent",
+      "date": "19 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“Voi calls on Sadiq Khan to use devolved powers and introduce pan-London micromobility licence - London TV”",
       "themes": [
@@ -733,85 +865,25 @@
         "Parking data"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=d181c171-dbfa-41e7-98b2-ded1ebbe0ea8"
-    },
-    {
-      "id": "googleplay-gb-20c712f3-8fa8-4bd5-92b9-c49b4e123bcf",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "15 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“hell no don't use this lime is better if you buy the monthly subscription that is 1 euro it saves a lot of money. Just compare it with lime it's the best.”",
-      "themes": [
-        "vs. Lime"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=20c712f3-8fa8-4bd5-92b9-c49b4e123bcf"
-    },
-    {
-      "id": "googleplay-se-20c712f3-8fa8-4bd5-92b9-c49b4e123bcf",
-      "source": "Google Play",
-      "market": "SE",
-      "date": "15 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“hell no don't use this lime is better if you buy the monthly subscription that is 1 euro it saves a lot of money. Just compare it with lime it's the best.”",
-      "themes": [
-        "vs. Lime"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=20c712f3-8fa8-4bd5-92b9-c49b4e123bcf"
-    },
-    {
-      "id": "googleplay-de-20c712f3-8fa8-4bd5-92b9-c49b4e123bcf",
-      "source": "Google Play",
-      "market": "DE",
-      "date": "15 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“hell no don't use this lime is better if you buy the monthly subscription that is 1 euro it saves a lot of money. Just compare it with lime it's the best.”",
-      "themes": [
-        "vs. Lime"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=20c712f3-8fa8-4bd5-92b9-c49b4e123bcf"
-    },
-    {
-      "id": "googleplay-fr-20c712f3-8fa8-4bd5-92b9-c49b4e123bcf",
-      "source": "Google Play",
-      "market": "FR",
-      "date": "15 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“hell no don't use this lime is better if you buy the monthly subscription that is 1 euro it saves a lot of money. Just compare it with lime it's the best.”",
-      "themes": [
-        "vs. Lime"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=20c712f3-8fa8-4bd5-92b9-c49b4e123bcf"
-    },
-    {
-      "id": "googleplay-es-20c712f3-8fa8-4bd5-92b9-c49b4e123bcf",
-      "source": "Google Play",
-      "market": "ES",
-      "date": "15 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“hell no don't use this lime is better if you buy the monthly subscription that is 1 euro it saves a lot of money. Just compare it with lime it's the best.”",
-      "themes": [
-        "vs. Lime"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=20c712f3-8fa8-4bd5-92b9-c49b4e123bcf"
     }
   ],
   "sentimentSummary": {
-    "negative": 16,
-    "mixed": 44,
+    "negative": 15,
+    "mixed": 51,
     "positive": 5
   },
   "themes": [
     {
       "label": "General feedback",
-      "count": 34,
+      "count": 46,
       "trend": "up",
-      "delta": 5
+      "delta": 12
     },
     {
       "label": "vs. Lime",
-      "count": 15,
-      "trend": "flat",
-      "delta": 0
+      "count": 10,
+      "trend": "down",
+      "delta": -5
     },
     {
       "label": "Parking data",
@@ -849,7 +921,7 @@
     },
     {
       "label": "Google Play",
-      "count": 60
+      "count": 65
     },
     {
       "label": "Reddit",
@@ -857,7 +929,7 @@
     },
     {
       "label": "News",
-      "count": 5
+      "count": 4
     },
     {
       "label": "X",
@@ -865,7 +937,7 @@
     },
     {
       "label": "Mastodon",
-      "count": 0
+      "count": 2
     },
     {
       "label": "Bluesky",
