@@ -32,7 +32,13 @@ export async function fetchGooglePlayReviews(config = {}) {
       const list = res?.data || res || [];
       for (const r of list) {
         results.push({
-          id: `googleplay-${country}-${r.id}`,
+          // Deliberately not prefixed with the country. The scraper returns
+          // the same global review set whichever storefront you ask for — a
+          // live run came back with 14 reviews repeated across all five
+          // configured countries, identical ids and all — so including the
+          // country here defeated the dedupe in fetch-posts.mjs and put every
+          // review on the board five times over.
+          id: `googleplay-${r.id}`,
           source: "Google Play",
           market: country.toUpperCase(),
           dateRaw: r.date ? new Date(r.date).toISOString() : null,

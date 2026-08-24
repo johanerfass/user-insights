@@ -174,6 +174,13 @@ Configure all of this in `scripts/config.json` (copy from
   It's an optional dependency — if it isn't installed, that source is
   skipped rather than failing the run. Its behavior can break if Google
   changes their page structure; treat it as best-effort.
+- **`googlePlay.countries` does not actually segment reviews.** The scraper
+  returns the same global set whichever storefront you request: a live run
+  came back with 14 reviews repeated across all five configured countries,
+  identical review ids and all. Adding more countries therefore buys no extra
+  coverage, it just costs another request. The `market` label on a Google
+  Play post is whichever country was queried first, not where the reviewer
+  is.
 - **Reddit search is keyword-based** (`\bvoi\b`, word-boundary matched so it
   doesn't catch "void"/"voice"). Tune `reddit.queries` if you're getting
   noise or missing relevant posts. News, Mastodon, X and Bluesky apply the
