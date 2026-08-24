@@ -1,9 +1,81 @@
 {
-  "generatedAt": "2026-08-23T06:48:46.161Z",
-  "checkedLabel": "23 Aug 2026",
+  "generatedAt": "2026-08-24T07:07:06.797Z",
+  "checkedLabel": "24 Aug 2026",
   "windowLabel": "Last week",
   "rotateSeconds": 12,
   "posts": [
+    {
+      "id": "googleplay-gb-7fd55364-efed-46df-933e-2e573726c6d7",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Positive",
+      "quote": "“amazing”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=7fd55364-efed-46df-933e-2e573726c6d7"
+    },
+    {
+      "id": "googleplay-se-7fd55364-efed-46df-933e-2e573726c6d7",
+      "source": "Google Play",
+      "market": "SE",
+      "date": "Recent",
+      "sentiment": "Positive",
+      "quote": "“amazing”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=7fd55364-efed-46df-933e-2e573726c6d7"
+    },
+    {
+      "id": "googleplay-de-7fd55364-efed-46df-933e-2e573726c6d7",
+      "source": "Google Play",
+      "market": "DE",
+      "date": "Recent",
+      "sentiment": "Positive",
+      "quote": "“amazing”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=7fd55364-efed-46df-933e-2e573726c6d7"
+    },
+    {
+      "id": "googleplay-fr-7fd55364-efed-46df-933e-2e573726c6d7",
+      "source": "Google Play",
+      "market": "FR",
+      "date": "Recent",
+      "sentiment": "Positive",
+      "quote": "“amazing”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=7fd55364-efed-46df-933e-2e573726c6d7"
+    },
+    {
+      "id": "googleplay-es-7fd55364-efed-46df-933e-2e573726c6d7",
+      "source": "Google Play",
+      "market": "ES",
+      "date": "Recent",
+      "sentiment": "Positive",
+      "quote": "“amazing”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=7fd55364-efed-46df-933e-2e573726c6d7"
+    },
+    {
+      "id": "news-13x4882",
+      "source": "News",
+      "market": "Road.cc",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Thieves have been nicking batteries from Voi e-scooters in the West Midlands - Road.cc”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaDNIeVA0YnlLaGRYVWhuTUpIOXpaZkVfdE9EVEl2RVJkTDYzb05WaG4zWE9tVUJ4UjUwdGVNOVVCR3pHb3dFREl3RlZSeTNlcFZPSENaY2RuTTBnLXpzUDZkVmgzUk9QQlg4amZ0aWhEZ3pkejR3bHM2UllJNHo1ZldXMHcyLUg4LTRGRVBySHNRemdUWHJ0d2owcTJBcm5ndU9VZzMteWxLWnUtVnVTS3BxUk5iX0ZaTERmcg?oc=5"
+    },
     {
       "id": "mastodon-mastodon.social-117139100924392989",
       "source": "Mastodon",
@@ -152,7 +224,7 @@
       "id": "googleplay-gb-1f61a560-a00b-49dc-ac2a-967b774fa8ed",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "20 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“Parking spaces are too limited, and they are being reduced. In addition, the cycling boundary is too restrictive. The bikes slow down too much on 20MPH zone too. This bike is comfortable to ride. I give it 1 star for that.”",
       "themes": [
@@ -164,7 +236,7 @@
       "id": "googleplay-se-1f61a560-a00b-49dc-ac2a-967b774fa8ed",
       "source": "Google Play",
       "market": "SE",
-      "date": "Recent",
+      "date": "20 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“Parking spaces are too limited, and they are being reduced. In addition, the cycling boundary is too restrictive. The bikes slow down too much on 20MPH zone too. This bike is comfortable to ride. I give it 1 star for that.”",
       "themes": [
@@ -176,7 +248,7 @@
       "id": "googleplay-de-1f61a560-a00b-49dc-ac2a-967b774fa8ed",
       "source": "Google Play",
       "market": "DE",
-      "date": "Recent",
+      "date": "20 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“Parking spaces are too limited, and they are being reduced. In addition, the cycling boundary is too restrictive. The bikes slow down too much on 20MPH zone too. This bike is comfortable to ride. I give it 1 star for that.”",
       "themes": [
@@ -188,7 +260,7 @@
       "id": "googleplay-fr-1f61a560-a00b-49dc-ac2a-967b774fa8ed",
       "source": "Google Play",
       "market": "FR",
-      "date": "Recent",
+      "date": "20 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“Parking spaces are too limited, and they are being reduced. In addition, the cycling boundary is too restrictive. The bikes slow down too much on 20MPH zone too. This bike is comfortable to ride. I give it 1 star for that.”",
       "themes": [
@@ -200,7 +272,7 @@
       "id": "googleplay-es-1f61a560-a00b-49dc-ac2a-967b774fa8ed",
       "source": "Google Play",
       "market": "ES",
-      "date": "Recent",
+      "date": "20 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“Parking spaces are too limited, and they are being reduced. In addition, the cycling boundary is too restrictive. The bikes slow down too much on 20MPH zone too. This bike is comfortable to ride. I give it 1 star for that.”",
       "themes": [
@@ -212,7 +284,7 @@
       "id": "news-1cc2k1x",
       "source": "News",
       "market": "Cities Today",
-      "date": "Recent",
+      "date": "20 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“Voi urges London-wide micromobility licence - Cities Today”",
       "themes": [
@@ -224,7 +296,7 @@
       "id": "googleplay-gb-dc1bc99b-b72e-45ea-ad95-5404e5c81c4e",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "20 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“good option for getting around town nerd strenght to riase or put down the stand!”",
       "themes": [
@@ -236,7 +308,7 @@
       "id": "googleplay-se-dc1bc99b-b72e-45ea-ad95-5404e5c81c4e",
       "source": "Google Play",
       "market": "SE",
-      "date": "Recent",
+      "date": "20 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“good option for getting around town nerd strenght to riase or put down the stand!”",
       "themes": [
@@ -248,7 +320,7 @@
       "id": "googleplay-de-dc1bc99b-b72e-45ea-ad95-5404e5c81c4e",
       "source": "Google Play",
       "market": "DE",
-      "date": "Recent",
+      "date": "20 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“good option for getting around town nerd strenght to riase or put down the stand!”",
       "themes": [
@@ -260,7 +332,7 @@
       "id": "googleplay-fr-dc1bc99b-b72e-45ea-ad95-5404e5c81c4e",
       "source": "Google Play",
       "market": "FR",
-      "date": "Recent",
+      "date": "20 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“good option for getting around town nerd strenght to riase or put down the stand!”",
       "themes": [
@@ -272,7 +344,7 @@
       "id": "googleplay-es-dc1bc99b-b72e-45ea-ad95-5404e5c81c4e",
       "source": "Google Play",
       "market": "ES",
-      "date": "Recent",
+      "date": "20 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“good option for getting around town nerd strenght to riase or put down the stand!”",
       "themes": [
@@ -869,21 +941,21 @@
   ],
   "sentimentSummary": {
     "negative": 15,
-    "mixed": 51,
-    "positive": 5
+    "mixed": 52,
+    "positive": 10
   },
   "themes": [
     {
       "label": "General feedback",
-      "count": 46,
+      "count": 52,
       "trend": "up",
-      "delta": 12
+      "delta": 6
     },
     {
       "label": "vs. Lime",
       "count": 10,
-      "trend": "down",
-      "delta": -5
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "Parking data",
@@ -921,7 +993,7 @@
     },
     {
       "label": "Google Play",
-      "count": 65
+      "count": 70
     },
     {
       "label": "Reddit",
@@ -929,7 +1001,7 @@
     },
     {
       "label": "News",
-      "count": 4
+      "count": 5
     },
     {
       "label": "X",
