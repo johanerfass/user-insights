@@ -1,8 +1,7 @@
 import { fetchJson } from "./http.mjs";
 import { stripHtml } from "./rss.mjs";
 
-// Word-boundary match so "voi" doesn't hit inside "void"/"voice" etc.
-const VOI_WORD_RE = /\bvoi\b/i;
+import { mentionsVoi } from "./relevance.mjs";
 
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
@@ -34,7 +33,7 @@ export async function fetchMastodonPosts(config = {}) {
         for (const s of Array.isArray(statuses) ? statuses : []) {
           if (!s?.id) continue;
           const text = stripHtml(s.content || "");
-          if (!VOI_WORD_RE.test(text)) continue;
+          if (!mentionsVoi(text, { language: s.language })) continue;
           results.push({
             // Status ids are only unique within an instance.
             id: `mastodon-${instance}-${s.id}`,

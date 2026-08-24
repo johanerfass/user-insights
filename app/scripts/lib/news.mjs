@@ -1,9 +1,7 @@
 import { fetchText } from "./http.mjs";
 import { parseFeed } from "./rss.mjs";
 
-// Word-boundary match so "voi" doesn't hit inside "void"/"voice" etc. News
-// feeds need this more than most: a keyword search also returns Italian "voi".
-const VOI_WORD_RE = /\bvoi\b/i;
+import { mentionsVoi } from "./relevance.mjs";
 
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
@@ -78,7 +76,9 @@ async function fetchFeeds(config) {
 }
 
 function isAboutVoi(item) {
-  return VOI_WORD_RE.test(`${item.title}\n${item.summary}`);
+  // The feed query is already Voi-specific, so a bare mention is
+  // enough here — but the exclusion list still drops voi.id et al.
+  return mentionsVoi(`${item.title}\n${item.summary}`, { requireContext: false });
 }
 
 function toPost(item, market) {

@@ -47,7 +47,15 @@ export function parseFeed(xml = "") {
  */
 export function stripHtml(html) {
   const unescaped = decodeEntities(String(html ?? ""));
-  const withoutTags = unescaped.replace(/<[^>]*>/g, " ");
+  const withoutTags = unescaped
+    // Block boundaries become a space so paragraphs don't run together.
+    .replace(/<\/(?:p|div|li|h[1-6]|blockquote|tr)\s*>/gi, " ")
+    .replace(/<br\s*\/?>/gi, " ")
+    // Everything else is inline markup, and must collapse to nothing rather
+    // than a space: Mastodon writes hashtags as `#<span>voi</span>` and
+    // mentions as `@<span>user</span>`, which would otherwise come out as
+    // "# voi" and "@ user" on the board.
+    .replace(/<[^>]*>/g, "");
   return decodeEntities(withoutTags).replace(/\s+/g, " ").trim();
 }
 

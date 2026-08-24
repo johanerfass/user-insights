@@ -71,3 +71,13 @@ test("stripHtml: decodes named and numeric entities and drops tags", () => {
   assert.equal(stripHtml("keeps &copy; unknown entities"), "keeps &copy; unknown entities");
   assert.equal(stripHtml("<p>a</p><p>b</p>"), "a b");
 });
+
+test("stripHtml: inline tags collapse to nothing, block boundaries to a space", () => {
+  // Mastodon marks hashtags up as `#<span>voi</span>` and mentions as
+  // `@<span>user</span>`; turning those tags into spaces produced "# voi".
+  assert.equal(stripHtml('<a class="hashtag" href="#">#<span>voi</span></a>'), "#voi");
+  assert.equal(stripHtml('<a href="/@bob">@<span>bob</span></a> hi'), "@bob hi");
+  // Block-level boundaries still separate words.
+  assert.equal(stripHtml("x<br>y"), "x y");
+  assert.equal(stripHtml("<ul><li>a</li><li>b</li></ul>"), "a b");
+});

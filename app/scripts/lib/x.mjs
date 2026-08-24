@@ -1,7 +1,6 @@
 import { fetchJson } from "./http.mjs";
 
-// Word-boundary match so "voi" doesn't hit inside "void"/"voice" etc.
-const VOI_WORD_RE = /\bvoi\b/i;
+import { mentionsVoi } from "./relevance.mjs";
 
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
@@ -49,7 +48,7 @@ export async function fetchXPosts(config = {}) {
       for (const t of json?.data || []) {
         if (!t?.id) continue;
         const text = (t.text || "").trim();
-        if (!VOI_WORD_RE.test(text)) continue;
+        if (!mentionsVoi(text, { language: t.lang })) continue;
         const username = usernames.get(t.author_id);
         results.push({
           id: `x-${t.id}`,

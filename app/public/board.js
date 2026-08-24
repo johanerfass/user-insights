@@ -5,6 +5,11 @@
   const REFRESH_INTERVAL_MS = 5 * 60 * 1000; // re-check data.json every 5 minutes
   const TICK_MS = 100;
   const MIN_ROTATE_SECONDS = 3;
+  // Version 12 (65 modules) is the densest symbol still readable in the
+  // board's 160px QR box; see renderSource().
+  const MAX_QR_MODULES = 65;
+  const QUOTE_MAX_PX = 52; // matches .quote-card__quote in styles.css
+  const QUOTE_MIN_PX = 26;
   const DAILY_RELOAD_HOUR = 4; // local hour to hard-reload the page (low-traffic, keeps a 24/7 kiosk tab fresh)
 
   const SENTIMENT_COLOR = {
@@ -38,6 +43,7 @@
     sourceLink: document.getElementById("source-link"),
     sourceHost: document.getElementById("source-host"),
     sourceQr: document.getElementById("source-qr"),
+    sourceCta: document.querySelector(".source-link__cta"),
   };
 
   // Rendered QR SVGs, keyed by URL — the carousel revisits the same posts on
@@ -116,6 +122,29 @@
       chip.textContent = `${src.label} · ${src.count}`;
       el.sourceChips.appendChild(chip);
     }
+
+    fitThemes();
+    requestAnimationFrame(fitThemes);
+  }
+
+  /*
+   * The themes card has a fixed height budget but the pipeline emits as many
+   * themes as it finds, so drop whole rows that don't fit — `overflow: hidden`
+   * would otherwise slice one in half.
+   *
+   * Measured on .theme-rows, not .themes-card: the card clips its child
+   * internally, so the card's own scrollHeight never exceeds its clientHeight.
+   */
+  function fitThemes() {
+    if (!el.themeRows) return;
+    let guard = 0;
+    while (
+      el.themeRows.children.length > 1 &&
+      el.themeRows.scrollHeight > el.themeRows.clientHeight &&
+      guard++ < 40
+    ) {
+      el.themeRows.removeChild(el.themeRows.lastElementChild);
+    }
   }
 
   /** Host without "www.", e.g. "bbc.co.uk" — short enough for the card. */
@@ -146,7 +175,14 @@
     if (!qrCache.has(url)) {
       let markup = "";
       try {
-        markup = window.QR.svg(url, { level: "L", quiet: 2 });
+        const modules = window.QR.matrix(url, { level: "L" }).length;
+        // Past this the modules are under ~2.3px in a 160px box, which a phone
+        // can't reliably read off a TV. Google News links are redirectors and
+        // routinely run past 400 characters, so this does trigger in practice —
+        // an unscannable QR is worse than none, so fall back to the link.
+        if (modules <= MAX_QR_MODULES) {
+          markup = window.QR.svg(url, { level: "L", quiet: 2 });
+        }
       } catch (err) {
         // Over the version-15 capacity, or qr.js failed to load — show the
         // link on its own rather than breaking the slide.
@@ -157,6 +193,19 @@
     const svg = qrCache.get(url);
     el.sourceQr.innerHTML = svg;
     el.sourceQr.style.display = svg ? "" : "none";
+    el.sourceCta.textContent = svg ? "Scan to read the original" : "Read the original at";
+  }
+
+  // Quotes run to 320 characters and the card is a fixed size, so step the
+  // type down until it fits. Cheap: a handful of reflows on a slide change.
+  function fitQuote() {
+    el.postQuote.style.fontSize = "";
+    if (!el.quoteCard) return;
+    let size = parseFloat(getComputedStyle(el.postQuote).fontSize) || QUOTE_MAX_PX;
+    while (el.quoteCard.scrollHeight > el.quoteCard.clientHeight && size > QUOTE_MIN_PX) {
+      size -= 2;
+      el.postQuote.style.fontSize = size + "px";
+    }
   }
 
   function renderSlide() {
@@ -198,6 +247,10 @@
     }
 
     renderSource(post);
+    // After renderSource: the QR block changes the card's bottom row height,
+    // so the quote can only be measured once it's in place.
+    fitQuote();
+    requestAnimationFrame(fitQuote);
 
     el.counter.textContent = `${state.index + 1} / ${posts.length}`;
   }

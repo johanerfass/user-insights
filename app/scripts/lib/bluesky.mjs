@@ -1,7 +1,6 @@
 import { fetchJson } from "./http.mjs";
 
-// Word-boundary match so "voi" doesn't hit inside "void"/"voice" etc.
-const VOI_WORD_RE = /\bvoi\b/i;
+import { mentionsVoi } from "./relevance.mjs";
 
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
@@ -59,7 +58,7 @@ export async function fetchBlueskyPosts(config = {}) {
       );
       for (const p of json?.posts || []) {
         const text = (p?.record?.text || "").trim();
-        if (!VOI_WORD_RE.test(text)) continue;
+        if (!mentionsVoi(text, { language: p?.record?.langs?.[0] })) continue;
         const handle = p.author?.handle;
         // The web URL uses the record key — the last segment of the at:// URI.
         const rkey = (p.uri || "").split("/").pop();
