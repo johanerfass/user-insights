@@ -8,9 +8,10 @@
     "node": ">=18.0.0"
   },
   "scripts": {
-    "fetch": "node scripts/fetch-posts.mjs",
+    "fetch": "node scripts/fetch-posts.mjs && node scripts/health-check.mjs",
     "test": "node --test scripts/test/*.test.mjs",
-    "serve": "node scripts/serve.mjs"
+    "serve": "node scripts/serve.mjs",
+    "health": "node scripts/health-check.mjs"
   },
   "optionalDependencies": {
     "google-play-scraper": "^10.0.0"

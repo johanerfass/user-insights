@@ -251,6 +251,35 @@ actually publish `public/` — the important part is just that `npm run fetch`
 runs daily and `public/data.json` ends up wherever the TV's browser loads it
 from.
 
+## Health check
+
+```sh
+npm run health
+```
+
+`npm run fetch` ends with this automatically, and a failure stops the refresh
+being committed — the board keeps yesterday's data and GitHub emails you about
+the failed run. That's deliberate: publishing junk to a wall-mounted TV is
+worse than showing slightly stale data.
+
+Every rule exists because the pipeline reported success while quietly
+publishing something wrong:
+
+| Rule | Severity | Why it's there |
+|---|---|---|
+| Data older than 48h | fail | The scheduled fetch silently stopped |
+| Fewer than 5 posts | fail | Nothing worth rotating |
+| Under 60% unique quotes, overall or per source | fail | Google Play reviews were being published five times each |
+| Off-topic text (voi.id, Vietnamese "elephant") | fail | These reached the board before `lib/relevance.mjs` existed |
+| Missing fields, unparseable urls | fail | Malformed data breaks a slide |
+| `"# word"` spacing | warn | A `stripHtml` regression — Mastodon hashtags rendering as "# voi" |
+| An enabled source contributing nothing | warn | Expected without credentials; a red flag for one that used to work |
+| Every enabled source silent | fail | The whole pipeline is broken |
+
+The thresholds live at the top of `scripts/lib/health-rules.mjs`. If a check
+fires on data that's genuinely fine, widen the rule there rather than deleting
+the call.
+
 ## Testing
 
 ```sh
