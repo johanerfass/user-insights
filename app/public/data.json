@@ -1,9 +1,33 @@
 {
-  "generatedAt": "2026-08-25T06:55:34.275Z",
-  "checkedLabel": "25 Aug 2026",
+  "generatedAt": "2026-08-26T06:56:27.637Z",
+  "checkedLabel": "26 Aug 2026",
   "windowLabel": "Last week",
   "rotateSeconds": 12,
   "posts": [
+    {
+      "id": "news-1sx0v4a",
+      "source": "News",
+      "market": "Press and Journal",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Aberdeen taxi driver’s window ‘smashed by Voi e-bike rider’ - Press and Journal”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRzdTUWl4UkpkdUN5UUg5VEdsNDRWMFgtX0NqR2g1d0h0MndkWWdIbnB1SW16VDMwWFpTUUNkTWFnSU1NVWRDTDJydEU1anJla2YwSC1QSnhVWWNESTBYaWNIVmFRSWZFdVlOQ1BfMVlWemYyblRvc1pWYVpIUHFlR0tiS085aHJHenI4?oc=5"
+    },
+    {
+      "id": "googleplay-23a35c7a-5f12-42d7-afd2-e955c993e170",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Nice ride”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=23a35c7a-5f12-42d7-afd2-e955c993e170"
+    },
     {
       "id": "googleplay-c22fb0a0-9870-4110-9432-ed465d176760",
       "source": "Google Play",
@@ -20,7 +44,7 @@
       "id": "googleplay-7fd55364-efed-46df-933e-2e573726c6d7",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "22 Aug 2026",
       "sentiment": "Positive",
       "quote": "“amazing”",
       "themes": [
@@ -32,7 +56,7 @@
       "id": "news-13x4882",
       "source": "News",
       "market": "Road.cc",
-      "date": "Recent",
+      "date": "22 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“Thieves have been nicking batteries from Voi e-scooters in the West Midlands - Road.cc”",
       "themes": [
@@ -160,85 +184,37 @@
         "General feedback"
       ],
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbXYzQzFkUjBsTGNGaTVFYWJUN0pGUDVaRHp2Q0VKVC03MXVWWUVBNThGMnlmbnFFQjhua3B5cURUWTlySUZjU3l3WDFidlNiS2c0VHNwOV9pNVVERHBRTHRaVlZRM3F0dnNTUUtLeF9PWk5uUE9YN3pJTWxLWjhlek0xb1Fhc2hqejdtYmhmN2dHR1UxdXRHWEZSZjhfak1NalpWZ011LThFVldDMkx3alNRM2xYMHljaHc?oc=5"
-    },
-    {
-      "id": "googleplay-948ef045-d6aa-4da7-97dc-087b55906b9f",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "19 Aug 2026",
-      "sentiment": "Positive",
-      "quote": "“great, even has discounts if you have low income”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=948ef045-d6aa-4da7-97dc-087b55906b9f"
-    },
-    {
-      "id": "googleplay-91c6ae9c-c8c9-4a9a-b9b3-88d609a7a2b0",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "18 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“Nice trick deselecting previously selected discounts 😀 Here's your star for fraud behavior.”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=91c6ae9c-c8c9-4a9a-b9b3-88d609a7a2b0"
-    },
-    {
-      "id": "googleplay-417c127c-496e-481a-a97c-578e9833f871",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "18 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“funkar sälllan...och aldrig när man har bråttom”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=417c127c-496e-481a-a97c-578e9833f871"
-    },
-    {
-      "id": "news-ze3y81",
-      "source": "News",
-      "market": "Cycling Industry News",
-      "date": "18 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“Voi calls for London-wide licensing framework for shared micromobility - Cycling Industry News”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbGhTZm5Tb2dxZW1XcS1TaDVtbl94VFk1NWRUOUEweXJXalFQUmFONExabnVXVHlXMnpGN2hPczFaZ0VfTU94RUxld0dZZmk5Y3Fxd3kxNTkzbDdYVU00c0JiM0JpTmo4VVdrbjFsX1ZnRGZFdzE4S3ZyUllFMnRWb0NTelQ2emFHTWZYVVdkR3NSMnVPNFhJVlZKZExEM0JQc3c?oc=5"
     }
   ],
   "sentimentSummary": {
     "negative": 2,
-    "mixed": 13,
-    "positive": 2
+    "mixed": 12,
+    "positive": 1
   },
   "themes": [
     {
       "label": "General feedback",
-      "count": 14,
+      "count": 12,
       "trend": "down",
-      "delta": -38
+      "delta": -2
     },
     {
       "label": "vs. Lime",
       "count": 2,
-      "trend": "down",
-      "delta": -8
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "Parking data",
       "count": 1,
-      "trend": "down",
-      "delta": -9
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "Trust",
       "count": 1,
-      "trend": "down",
-      "delta": -4
+      "trend": "flat",
+      "delta": 0
     }
   ],
   "sources": [
@@ -252,7 +228,7 @@
     },
     {
       "label": "Google Play",
-      "count": 13
+      "count": 11
     },
     {
       "label": "Reddit",
