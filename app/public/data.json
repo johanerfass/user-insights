@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-27T17:29:47.611Z",
-  "checkedLabel": "27 Aug 2026",
+  "generatedAt": "2026-08-28T18:25:02.438Z",
+  "checkedLabel": "28 Aug 2026",
   "windowLabel": "Last month",
   "rotateSeconds": 12,
   "posts": [
@@ -15,6 +15,18 @@
         "vs. Lime"
       ],
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcnpnTll5anhXNXl0UnZHQ1lPLU9OWkxHWi1oUEViTXlobGRKak1NNFVTVTM3Und0OGxmLXVTSmJRejhqLXFTeFZldjJYLV9vUlFSaHB6TVQzejhEVmFIdzREV0ZoYkYxcHhWbWhoT2tlbzA4WDZVX0VDVEMwWUdYVGJ2Y1hmOXJWZkJvV2JQRThPU05sc3RkMUdjZXN0TVE1ZzdZcjJpNkV4WXlCVXBPeDlUUlZJVFQ5RUFpdHNldHRtcVRjVEE4QjRuYXJiRUJIOW85SU9B?oc=5"
+    },
+    {
+      "id": "googleplay-db2988cd-2c25-46ff-88ff-1a393973aeed",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“customer service is absolutely garbage! no help whatsoever! Hardly any parking bays when I needed one and the next one was another 20 min bike ride away! Wouldn't end the ride and I ended up missing 2 trains then forced to ride the bike to the parking bay incurring fees I shouldn't have to pay for! Absolutely joke of…”",
+      "themes": [
+        "Support"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=db2988cd-2c25-46ff-88ff-1a393973aeed"
     },
     {
       "id": "googleplay-2fc91422-5849-46f8-a30d-ae45734e917b",
@@ -57,7 +69,7 @@
       "id": "news-1sx0v4a",
       "source": "News",
       "market": "Press and Journal",
-      "date": "Recent",
+      "date": "25 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“Aberdeen taxi driver’s window ‘smashed by Voi e-bike rider’ - Press and Journal”",
       "themes": [
@@ -69,7 +81,7 @@
       "id": "googleplay-f7f8d136-8dc7-4cf1-8fdc-a62dce11d2c4",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "25 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“cruising”",
       "themes": [
@@ -221,18 +233,6 @@
         "Trust"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=2f43812a-cafe-477b-b733-f6e858986d8e"
-    },
-    {
-      "id": "news-1rsf3p9",
-      "source": "News",
-      "market": "London TV",
-      "date": "19 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“Voi calls on Sadiq Khan to use devolved powers and introduce pan-London micromobility licence - London TV”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbXYzQzFkUjBsTGNGaTVFYWJUN0pGUDVaRHp2Q0VKVC03MXVWWUVBNThGMnlmbnFFQjhua3B5cURUWTlySUZjU3l3WDFidlNiS2c0VHNwOV9pNVVERHBRTHRaVlZRM3F0dnNTUUtLeF9PWk5uUE9YN3pJTWxLWjhlek0xb1Fhc2hqejdtYmhmN2dHR1UxdXRHWEZSZjhfak1NalpWZ011LThFVldDMkx3alNRM2xYMHljaHc?oc=5"
     },
     {
       "id": "googleplay-948ef045-d6aa-4da7-97dc-087b55906b9f",
@@ -679,58 +679,46 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=df6b1c13-e6ba-4427-a768-5d7ce7393ee9"
-    },
-    {
-      "id": "googleplay-2eba7c4c-5008-466b-8f72-af332c04b4b9",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "29 Jul 2026",
-      "sentiment": "Mixed",
-      "quote": "“best handy, always near by”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=2eba7c4c-5008-466b-8f72-af332c04b4b9"
     }
   ],
   "sentimentSummary": {
     "negative": 9,
-    "mixed": 37,
+    "mixed": 36,
     "positive": 11
   },
   "themes": [
     {
       "label": "General feedback",
-      "count": 40,
-      "trend": "up",
-      "delta": 28
+      "count": 38,
+      "trend": "down",
+      "delta": -2
     },
     {
       "label": "vs. Lime",
       "count": 6,
-      "trend": "up",
-      "delta": 4
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "Parking data",
       "count": 6,
-      "trend": "up",
-      "delta": 5
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "Billing",
       "count": 4,
-      "trend": "up",
-      "delta": 4
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "Broken vehicles",
       "count": 2,
-      "trend": "up",
-      "delta": 2
+      "trend": "flat",
+      "delta": 0
     },
     {
-      "label": "Vehicle condition",
+      "label": "Support",
       "count": 1,
       "trend": "up",
       "delta": 1
@@ -755,7 +743,7 @@
     },
     {
       "label": "News",
-      "count": 6
+      "count": 5
     },
     {
       "label": "X",
