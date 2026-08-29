@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-08-28T18:25:02.438Z",
-  "checkedLabel": "28 Aug 2026",
+  "generatedAt": "2026-08-29T12:31:51.656Z",
+  "checkedLabel": "29 Aug 2026",
   "windowLabel": "Last month",
   "rotateSeconds": 12,
   "posts": [
+    {
+      "id": "googleplay-674d503d-65d0-49e0-a615-fc5bceb37e50",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Positive",
+      "quote": "“Great little scooter for doing the shopping 😁”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=674d503d-65d0-49e0-a615-fc5bceb37e50"
+    },
     {
       "id": "news-1yp0e5l",
       "source": "News",
@@ -56,7 +68,7 @@
       "id": "googleplay-1d7cfd68-b613-4202-9158-a57557e83678",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "25 Aug 2026",
       "sentiment": "Positive",
       "quote": "“I switched from Lime but am not staying. Likes: more availability in London, bikes are cleaner and in better condition than Lime, and you can always see bikes on the map, even if you've booked a bike. BUT the ride is not smooth. The speed is capped (standard) but the mechanism for controlling this makes the bike jerk…”",
       "themes": [
@@ -148,6 +160,18 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=fe055f0f-a952-44b0-b200-580aea43bbbe"
+    },
+    {
+      "id": "news-cixuhp",
+      "source": "News",
+      "market": "Yahoo News UK",
+      "date": "20 Aug 2026",
+      "sentiment": "Negative",
+      "quote": "“Parents spotted riding Edinburgh Voi bikes 'dangerously' with kids spark warning - Yahoo News UK”",
+      "themes": [
+        "Safety"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLXJaS2Z4eUZHZmJDMW5WcDA2d0NJem9fVWpJeEVJNWVlZGVzaXl4YWMteVdZb2tQMWVUYWVxZm5uRm9ENkJfRjJfT1kwZGc4LTltUWt3Z1gwV0RkRmhIemVSYkdrcnhQUjZGcy01OFQ3dlJESExmdlFCVUZoLUxuODhXNA?oc=5"
     },
     {
       "id": "googleplay-1f61a560-a00b-49dc-ac2a-967b774fa8ed",
@@ -269,18 +293,6 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=417c127c-496e-481a-a97c-578e9833f871"
-    },
-    {
-      "id": "news-ze3y81",
-      "source": "News",
-      "market": "Cycling Industry News",
-      "date": "18 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“Voi calls for London-wide licensing framework for shared micromobility - Cycling Industry News”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbGhTZm5Tb2dxZW1XcS1TaDVtbl94VFk1NWRUOUEweXJXalFQUmFONExabnVXVHlXMnpGN2hPczFaZ0VfTU94RUxld0dZZmk5Y3Fxd3kxNTkzbDdYVU00c0JiM0JpTmo4VVdrbjFsX1ZnRGZFdzE4S3ZyUllFMnRWb0NTelQ2emFHTWZYVVdkR3NSMnVPNFhJVlZKZExEM0JQc3c?oc=5"
     },
     {
       "id": "googleplay-e2114629-ef7f-4832-94f0-1ea310922f8a",
@@ -655,41 +667,17 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=a79a29b9-757f-42e0-a2cd-cecdccf115af"
-    },
-    {
-      "id": "googleplay-b6409c15-5a71-4171-a46b-9f65ef251f0e",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "30 Jul 2026",
-      "sentiment": "Mixed",
-      "quote": "“quick to setup, just make sure you don't try to navigate whilst your phone is in dark mode!”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=b6409c15-5a71-4171-a46b-9f65ef251f0e"
-    },
-    {
-      "id": "googleplay-df6b1c13-e6ba-4427-a768-5d7ce7393ee9",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "30 Jul 2026",
-      "sentiment": "Mixed",
-      "quote": "“I've been using this app for years when I travel. Today it didn't let me buy a pass. I tried with 5 different cards with no luck, until they blocked me for \"suspicious activity\". I got in touch with support, explained the situation, and his answer was to permanently block me and leave the conversation with no chance t…”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=df6b1c13-e6ba-4427-a768-5d7ce7393ee9"
     }
   ],
   "sentimentSummary": {
-    "negative": 9,
-    "mixed": 36,
-    "positive": 11
+    "negative": 10,
+    "mixed": 33,
+    "positive": 12
   },
   "themes": [
     {
       "label": "General feedback",
-      "count": 38,
+      "count": 36,
       "trend": "down",
       "delta": -2
     },
@@ -720,8 +708,8 @@
     {
       "label": "Support",
       "count": 1,
-      "trend": "up",
-      "delta": 1
+      "trend": "flat",
+      "delta": 0
     }
   ],
   "sources": [
@@ -735,7 +723,7 @@
     },
     {
       "label": "Google Play",
-      "count": 49
+      "count": 48
     },
     {
       "label": "Reddit",
