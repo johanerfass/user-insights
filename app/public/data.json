@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-08-29T12:31:51.656Z",
-  "checkedLabel": "29 Aug 2026",
+  "generatedAt": "2026-08-30T11:36:51.743Z",
+  "checkedLabel": "30 Aug 2026",
   "windowLabel": "Last month",
   "rotateSeconds": 12,
   "posts": [
+    {
+      "id": "googleplay-5d18afc5-815f-42b0-84f9-e36374c723ac",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Negative",
+      "quote": "“Worst bike service ever. Nowhere near value for money and the recent speed restrictions to 15mph are an absolute joke. An absolute rip-off.”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=5d18afc5-815f-42b0-84f9-e36374c723ac"
+    },
     {
       "id": "googleplay-674d503d-65d0-49e0-a615-fc5bceb37e50",
       "source": "Google Play",
@@ -17,22 +29,10 @@
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=674d503d-65d0-49e0-a615-fc5bceb37e50"
     },
     {
-      "id": "news-1yp0e5l",
-      "source": "News",
-      "market": "marketscreener.com",
-      "date": "Recent",
-      "sentiment": "Mixed",
-      "quote": "“E-scooter company Lime surges, opening the door to a Voi listing, according to Pareto - Di - marketscreener.com”",
-      "themes": [
-        "vs. Lime"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcnpnTll5anhXNXl0UnZHQ1lPLU9OWkxHWi1oUEViTXlobGRKak1NNFVTVTM3Und0OGxmLXVTSmJRejhqLXFTeFZldjJYLV9vUlFSaHB6TVQzejhEVmFIdzREV0ZoYkYxcHhWbWhoT2tlbzA4WDZVX0VDVEMwWUdYVGJ2Y1hmOXJWZkJvV2JQRThPU05sc3RkMUdjZXN0TVE1ZzdZcjJpNkV4WXlCVXBPeDlUUlZJVFQ5RUFpdHNldHRtcVRjVEE4QjRuYXJiRUJIOW85SU9B?oc=5"
-    },
-    {
       "id": "googleplay-db2988cd-2c25-46ff-88ff-1a393973aeed",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "27 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“customer service is absolutely garbage! no help whatsoever! Hardly any parking bays when I needed one and the next one was another 20 min bike ride away! Wouldn't end the ride and I ended up missing 2 trains then forced to ride the bike to the parking bay incurring fees I shouldn't have to pay for! Absolutely joke of…”",
       "themes": [
@@ -44,7 +44,7 @@
       "id": "googleplay-2fc91422-5849-46f8-a30d-ae45734e917b",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "26 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“Finding a parking spot is nearly impossible. And the 'find nearest parking spot' Feature doesn't help either. The feature routes you to a parking spot with a dark blue line on gray background. its impossible to see for a normal human being. After using this feature (costing me 10€ extra because apparently dortmund onl…”",
       "themes": [
@@ -56,7 +56,7 @@
       "id": "googleplay-42b6bf46-caa3-45c6-a6d3-f040df11705f",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "26 Aug 2026",
       "sentiment": "Positive",
       "quote": "“Fantastic, I like it but a little expensive.”",
       "themes": [
@@ -670,28 +670,28 @@
     }
   ],
   "sentimentSummary": {
-    "negative": 10,
-    "mixed": 33,
+    "negative": 11,
+    "mixed": 32,
     "positive": 12
   },
   "themes": [
     {
       "label": "General feedback",
-      "count": 36,
-      "trend": "down",
-      "delta": -2
-    },
-    {
-      "label": "vs. Lime",
-      "count": 6,
-      "trend": "flat",
-      "delta": 0
+      "count": 37,
+      "trend": "up",
+      "delta": 1
     },
     {
       "label": "Parking data",
       "count": 6,
       "trend": "flat",
       "delta": 0
+    },
+    {
+      "label": "vs. Lime",
+      "count": 5,
+      "trend": "down",
+      "delta": -1
     },
     {
       "label": "Billing",
@@ -723,7 +723,7 @@
     },
     {
       "label": "Google Play",
-      "count": 48
+      "count": 49
     },
     {
       "label": "Reddit",
@@ -731,7 +731,7 @@
     },
     {
       "label": "News",
-      "count": 5
+      "count": 4
     },
     {
       "label": "X",
