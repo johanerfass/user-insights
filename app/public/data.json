@@ -1,9 +1,33 @@
 {
-  "generatedAt": "2026-08-30T11:36:51.743Z",
-  "checkedLabel": "30 Aug 2026",
+  "generatedAt": "2026-08-31T13:12:46.690Z",
+  "checkedLabel": "31 Aug 2026",
   "windowLabel": "Last month",
   "rotateSeconds": 12,
   "posts": [
+    {
+      "id": "googleplay-d3007f48-da15-42ad-b89f-7a35061f3305",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“sold me a pass for Oslo and Bergen, now Bergen is closed and i can't use my pass”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=d3007f48-da15-42ad-b89f-7a35061f3305"
+    },
+    {
+      "id": "googleplay-c89e0792-ecf5-4b95-86cf-0bbc4b2285c4",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Negative",
+      "quote": "“Terrible first experience with Voi. The app let me unlock a bike without clearly warning that it was already in a “no ride zone”, so the electric assistance was disabled and I was left pedalling a very heavy bike manually. My destination was also a no ride zone, so I then had to contact support just to end the ride. I…”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=c89e0792-ecf5-4b95-86cf-0bbc4b2285c4"
+    },
     {
       "id": "googleplay-5d18afc5-815f-42b0-84f9-e36374c723ac",
       "source": "Google Play",
@@ -20,7 +44,7 @@
       "id": "googleplay-674d503d-65d0-49e0-a615-fc5bceb37e50",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "28 Aug 2026",
       "sentiment": "Positive",
       "quote": "“Great little scooter for doing the shopping 😁”",
       "themes": [
@@ -643,41 +667,17 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=b5ffadf2-edf5-49ff-9302-fb3e5b91d072"
-    },
-    {
-      "id": "googleplay-5193bd1c-e10d-4c5f-bd00-88333f3d9735",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "31 Jul 2026",
-      "sentiment": "Mixed",
-      "quote": "“It was great but the most recent update has for some reason made it so you can't select which scooter you want. So now if it picks a broken or slow one for you, tough luck that's the one you have to take. Why bring an update and just make the functionality objectively worse?”",
-      "themes": [
-        "Broken vehicles"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=5193bd1c-e10d-4c5f-bd00-88333f3d9735"
-    },
-    {
-      "id": "googleplay-a79a29b9-757f-42e0-a2cd-cecdccf115af",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "31 Jul 2026",
-      "sentiment": "Positive",
-      "quote": "“great company if you need a sharp ride”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=a79a29b9-757f-42e0-a2cd-cecdccf115af"
     }
   ],
   "sentimentSummary": {
-    "negative": 11,
+    "negative": 12,
     "mixed": 32,
-    "positive": 12
+    "positive": 11
   },
   "themes": [
     {
       "label": "General feedback",
-      "count": 37,
+      "count": 38,
       "trend": "up",
       "delta": 1
     },
@@ -690,8 +690,8 @@
     {
       "label": "vs. Lime",
       "count": 5,
-      "trend": "down",
-      "delta": -1
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "Billing",
@@ -700,16 +700,16 @@
       "delta": 0
     },
     {
-      "label": "Broken vehicles",
-      "count": 2,
-      "trend": "flat",
-      "delta": 0
-    },
-    {
       "label": "Support",
       "count": 1,
       "trend": "flat",
       "delta": 0
+    },
+    {
+      "label": "Vehicle condition",
+      "count": 1,
+      "trend": "up",
+      "delta": 1
     }
   ],
   "sources": [
