@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-31T13:12:46.690Z",
-  "checkedLabel": "31 Aug 2026",
+  "generatedAt": "2026-09-01T11:24:11.652Z",
+  "checkedLabel": "1 Sept 2026",
   "windowLabel": "Last month",
   "rotateSeconds": 12,
   "posts": [
@@ -32,7 +32,7 @@
       "id": "googleplay-5d18afc5-815f-42b0-84f9-e36374c723ac",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "28 Aug 2026",
       "sentiment": "Negative",
       "quote": "“Worst bike service ever. Nowhere near value for money and the recent speed restrictions to 15mph are an absolute joke. An absolute rip-off.”",
       "themes": [
@@ -184,18 +184,6 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=fe055f0f-a952-44b0-b200-580aea43bbbe"
-    },
-    {
-      "id": "news-cixuhp",
-      "source": "News",
-      "market": "Yahoo News UK",
-      "date": "20 Aug 2026",
-      "sentiment": "Negative",
-      "quote": "“Parents spotted riding Edinburgh Voi bikes 'dangerously' with kids spark warning - Yahoo News UK”",
-      "themes": [
-        "Safety"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLXJaS2Z4eUZHZmJDMW5WcDA2d0NJem9fVWpJeEVJNWVlZGVzaXl4YWMteVdZb2tQMWVUYWVxZm5uRm9ENkJfRjJfT1kwZGc4LTltUWt3Z1gwV0RkRmhIemVSYkdrcnhQUjZGcy01OFQ3dlJESExmdlFCVUZoLUxuODhXNA?oc=5"
     },
     {
       "id": "googleplay-1f61a560-a00b-49dc-ac2a-967b774fa8ed",
@@ -643,43 +631,19 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=15fd57e9-9dac-44ec-80dd-2fc774622a46"
-    },
-    {
-      "id": "googleplay-388e05d5-2348-442a-84eb-99259ce11c26",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "2 Aug 2026",
-      "sentiment": "Negative",
-      "quote": "“I unlocked a bike. Then I realised the bike was in the middle of a no parking zone and so was my destination. So I couldn't get off the bike until I had ridden it without power to the nearest parking zone (in the opposite direction to where I was going) just so that I could end the ride and then I was charged for it”",
-      "themes": [
-        "Billing"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=388e05d5-2348-442a-84eb-99259ce11c26"
-    },
-    {
-      "id": "googleplay-b5ffadf2-edf5-49ff-9302-fb3e5b91d072",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "1 Aug 2026",
-      "sentiment": "Positive",
-      "quote": "“So easy to us, fab way to see part of Glasgow!”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=b5ffadf2-edf5-49ff-9302-fb3e5b91d072"
     }
   ],
   "sentimentSummary": {
-    "negative": 12,
+    "negative": 10,
     "mixed": 32,
-    "positive": 11
+    "positive": 10
   },
   "themes": [
     {
       "label": "General feedback",
-      "count": 38,
-      "trend": "up",
-      "delta": 1
+      "count": 37,
+      "trend": "down",
+      "delta": -1
     },
     {
       "label": "Parking data",
@@ -695,9 +659,9 @@
     },
     {
       "label": "Billing",
-      "count": 4,
-      "trend": "flat",
-      "delta": 0
+      "count": 3,
+      "trend": "down",
+      "delta": -1
     },
     {
       "label": "Support",
@@ -708,8 +672,8 @@
     {
       "label": "Vehicle condition",
       "count": 1,
-      "trend": "up",
-      "delta": 1
+      "trend": "flat",
+      "delta": 0
     }
   ],
   "sources": [
@@ -723,7 +687,7 @@
     },
     {
       "label": "Google Play",
-      "count": 49
+      "count": 47
     },
     {
       "label": "Reddit",
@@ -731,7 +695,7 @@
     },
     {
       "label": "News",
-      "count": 4
+      "count": 3
     },
     {
       "label": "X",
