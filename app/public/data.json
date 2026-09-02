@@ -1,14 +1,38 @@
 {
-  "generatedAt": "2026-09-01T11:24:11.652Z",
-  "checkedLabel": "1 Sept 2026",
+  "generatedAt": "2026-09-02T10:58:00.299Z",
+  "checkedLabel": "2 Sept 2026",
   "windowLabel": "Last month",
   "rotateSeconds": 12,
   "posts": [
     {
-      "id": "googleplay-d3007f48-da15-42ad-b89f-7a35061f3305",
+      "id": "googleplay-dbcfb644-5c7d-4094-b3f0-b4e8b11ab42e",
       "source": "Google Play",
       "market": "GB",
       "date": "Recent",
+      "sentiment": "Negative",
+      "quote": "“Been using it since May 2026 without any issues, however recently since changing phones (Pixel 11 pro XL) speed is limited to 15 miles and when trying to follow help page instructions, I can't find ride mode -Bike settings, just ride mode settings for scooters.”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=dbcfb644-5c7d-4094-b3f0-b4e8b11ab42e"
+    },
+    {
+      "id": "googleplay-19de75f0-ed76-4ba3-91f3-c049ff897984",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“horrible prices”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=19de75f0-ed76-4ba3-91f3-c049ff897984"
+    },
+    {
+      "id": "googleplay-d3007f48-da15-42ad-b89f-7a35061f3305",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "29 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“sold me a pass for Oslo and Bergen, now Bergen is closed and i can't use my pass”",
       "themes": [
@@ -20,7 +44,7 @@
       "id": "googleplay-c89e0792-ecf5-4b95-86cf-0bbc4b2285c4",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "29 Aug 2026",
       "sentiment": "Negative",
       "quote": "“Terrible first experience with Voi. The app let me unlock a bike without clearly warning that it was already in a “no ride zone”, so the electric assistance was disabled and I was left pedalling a very heavy bike manually. My destination was also a no ride zone, so I then had to contact support just to end the ride. I…”",
       "themes": [
@@ -184,6 +208,18 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=fe055f0f-a952-44b0-b200-580aea43bbbe"
+    },
+    {
+      "id": "news-cixuhp",
+      "source": "News",
+      "market": "Yahoo News UK",
+      "date": "20 Aug 2026",
+      "sentiment": "Negative",
+      "quote": "“Parents spotted riding Edinburgh Voi bikes 'dangerously' with kids spark warning - Yahoo News UK”",
+      "themes": [
+        "Safety"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLXJaS2Z4eUZHZmJDMW5WcDA2d0NJem9fVWpJeEVJNWVlZGVzaXl4YWMteVdZb2tQMWVUYWVxZm5uRm9ENkJfRjJfT1kwZGc4LTltUWt3Z1gwV0RkRmhIemVSYkdrcnhQUjZGcy01OFQ3dlJESExmdlFCVUZoLUxuODhXNA?oc=5"
     },
     {
       "id": "googleplay-1f61a560-a00b-49dc-ac2a-967b774fa8ed",
@@ -476,18 +512,6 @@
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=2f5cd3fe-c2f9-4a59-9c4e-dcf5715ffc57"
     },
     {
-      "id": "googleplay-64874692-2946-4ee3-a5ae-917a62510ed8",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "8 Aug 2026",
-      "sentiment": "Positive",
-      "quote": "“I love how you can turn any ordinary selfie into custom artistic portraits& avatars using AI. The creativity is endless,so many fun and artsy themes,and very easy sharing format. Very fun and cool app for sure! more apps like this: HeyGen,Canva,D-ID,Hypic. Hope you enjoy this as much as I have!!:)”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=64874692-2946-4ee3-a5ae-917a62510ed8"
-    },
-    {
       "id": "googleplay-414d689e-5022-4381-9afb-1df979b3575f",
       "source": "Google Play",
       "market": "GB",
@@ -619,31 +643,19 @@
         "Parking data"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=7cffcc7a-9000-4b69-a2ac-bfb69dceebb9"
-    },
-    {
-      "id": "googleplay-15fd57e9-9dac-44ec-80dd-2fc774622a46",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "2 Aug 2026",
-      "sentiment": "Positive",
-      "quote": "“Excellent way to get around.”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=15fd57e9-9dac-44ec-80dd-2fc774622a46"
     }
   ],
   "sentimentSummary": {
-    "negative": 10,
-    "mixed": 32,
-    "positive": 10
+    "negative": 12,
+    "mixed": 33,
+    "positive": 8
   },
   "themes": [
     {
       "label": "General feedback",
       "count": 37,
-      "trend": "down",
-      "delta": -1
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "Parking data",
@@ -660,8 +672,8 @@
     {
       "label": "Billing",
       "count": 3,
-      "trend": "down",
-      "delta": -1
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "Support",
@@ -695,7 +707,7 @@
     },
     {
       "label": "News",
-      "count": 3
+      "count": 4
     },
     {
       "label": "X",
