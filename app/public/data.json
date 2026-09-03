@@ -1,9 +1,33 @@
 {
-  "generatedAt": "2026-09-02T10:58:00.299Z",
-  "checkedLabel": "2 Sept 2026",
+  "generatedAt": "2026-09-03T10:57:01.675Z",
+  "checkedLabel": "3 Sept 2026",
   "windowLabel": "Last month",
   "rotateSeconds": 12,
   "posts": [
+    {
+      "id": "googleplay-303d0f7c-8af5-42f9-b17d-5bf537a27b5b",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“cheaters! selling passes for towns where they don't operate”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=303d0f7c-8af5-42f9-b17d-5bf537a27b5b"
+    },
+    {
+      "id": "googleplay-a882ebb3-c5f6-46db-a634-1244c3644bfb",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“you aren't allowed to prefill payment options using auto-fill”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=a882ebb3-c5f6-46db-a634-1244c3644bfb"
+    },
     {
       "id": "googleplay-dbcfb644-5c7d-4094-b3f0-b4e8b11ab42e",
       "source": "Google Play",
@@ -210,18 +234,6 @@
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=fe055f0f-a952-44b0-b200-580aea43bbbe"
     },
     {
-      "id": "news-cixuhp",
-      "source": "News",
-      "market": "Yahoo News UK",
-      "date": "20 Aug 2026",
-      "sentiment": "Negative",
-      "quote": "“Parents spotted riding Edinburgh Voi bikes 'dangerously' with kids spark warning - Yahoo News UK”",
-      "themes": [
-        "Safety"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLXJaS2Z4eUZHZmJDMW5WcDA2d0NJem9fVWpJeEVJNWVlZGVzaXl4YWMteVdZb2tQMWVUYWVxZm5uRm9ENkJfRjJfT1kwZGc4LTltUWt3Z1gwV0RkRmhIemVSYkdrcnhQUjZGcy01OFQ3dlJESExmdlFCVUZoLUxuODhXNA?oc=5"
-    },
-    {
       "id": "googleplay-1f61a560-a00b-49dc-ac2a-967b774fa8ed",
       "source": "Google Play",
       "market": "GB",
@@ -256,6 +268,18 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=dc1bc99b-b72e-45ea-ad95-5404e5c81c4e"
+    },
+    {
+      "id": "news-cixuhp",
+      "source": "News",
+      "market": "Yahoo News UK",
+      "date": "20 Aug 2026",
+      "sentiment": "Negative",
+      "quote": "“Parents spotted riding Edinburgh Voi bikes 'dangerously' with kids spark warning - Yahoo News UK”",
+      "themes": [
+        "Safety"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLXJaS2Z4eUZHZmJDMW5WcDA2d0NJem9fVWpJeEVJNWVlZGVzaXl4YWMteVdZb2tQMWVUYWVxZm5uRm9ENkJfRjJfT1kwZGc4LTltUWt3Z1gwV0RkRmhIemVSYkdrcnhQUjZGcy01OFQ3dlJESExmdlFCVUZoLUxuODhXNA?oc=5"
     },
     {
       "id": "googleplay-91bbe002-129e-4463-b4b5-e44eb49e309a",
@@ -358,10 +382,10 @@
     {
       "id": "news-8a4hh5",
       "source": "News",
-      "market": "Smart Cities World",
+      "market": "smartcitiesworld.net",
       "date": "17 Aug 2026",
       "sentiment": "Mixed",
-      "quote": "“Demand for Voi e-bikes in Glasgow reaches new high - Smart Cities World”",
+      "quote": "“Demand for Voi e-bikes in Glasgow reaches new high - smartcitiesworld.net”",
       "themes": [
         "General feedback"
       ],
@@ -560,18 +584,6 @@
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=783cc5ae-e47a-42c3-b42a-1ddba2240a19"
     },
     {
-      "id": "googleplay-9882324d-f9c4-4f44-a295-d29fe0cca7a2",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "7 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“good price”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=9882324d-f9c4-4f44-a295-d29fe0cca7a2"
-    },
-    {
       "id": "googleplay-dba064c3-d762-430a-9a97-bef1db161026",
       "source": "Google Play",
       "market": "GB",
@@ -630,38 +642,25 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=19c8c810-cede-4496-87b5-9f51197cfaf0"
-    },
-    {
-      "id": "googleplay-7cffcc7a-9000-4b69-a2ac-bfb69dceebb9",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "4 Aug 2026",
-      "sentiment": "Negative",
-      "quote": "“Badly designed app. it's fine for a few uses but as soon as you become a frequent user of Voi, you're going to experience issues - from the UI sometimes blanking out so you get charged/warned for not taking a picture, to the app navigating you to other full spots when a parking spot is full. the app feels like a dice…”",
-      "themes": [
-        "Billing",
-        "Parking data"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=7cffcc7a-9000-4b69-a2ac-bfb69dceebb9"
     }
   ],
   "sentimentSummary": {
-    "negative": 12,
-    "mixed": 33,
+    "negative": 11,
+    "mixed": 34,
     "positive": 8
   },
   "themes": [
     {
       "label": "General feedback",
-      "count": 37,
-      "trend": "flat",
-      "delta": 0
+      "count": 38,
+      "trend": "up",
+      "delta": 1
     },
     {
       "label": "Parking data",
-      "count": 6,
-      "trend": "flat",
-      "delta": 0
+      "count": 5,
+      "trend": "down",
+      "delta": -1
     },
     {
       "label": "vs. Lime",
@@ -671,9 +670,9 @@
     },
     {
       "label": "Billing",
-      "count": 3,
-      "trend": "flat",
-      "delta": 0
+      "count": 2,
+      "trend": "down",
+      "delta": -1
     },
     {
       "label": "Support",
