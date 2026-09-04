@@ -1,9 +1,33 @@
 {
-  "generatedAt": "2026-09-03T10:57:01.675Z",
-  "checkedLabel": "3 Sept 2026",
+  "generatedAt": "2026-09-04T11:04:16.123Z",
+  "checkedLabel": "4 Sept 2026",
   "windowLabel": "Last month",
   "rotateSeconds": 12,
   "posts": [
+    {
+      "id": "googleplay-774677e0-3eef-4f79-a5dc-83321f07ca4e",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Positive",
+      "quote": "“The app is quite intuitive and works smoothly. I used the sharing service as a tourist for a few days and I liked it a lot”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=774677e0-3eef-4f79-a5dc-83321f07ca4e"
+    },
+    {
+      "id": "googleplay-0bcbaada-736c-4431-8a9d-fac5b1abe25b",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Best E-Scooter option in my experience”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=0bcbaada-736c-4431-8a9d-fac5b1abe25b"
+    },
     {
       "id": "googleplay-303d0f7c-8af5-42f9-b17d-5bf537a27b5b",
       "source": "Google Play",
@@ -32,7 +56,7 @@
       "id": "googleplay-dbcfb644-5c7d-4094-b3f0-b4e8b11ab42e",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "31 Aug 2026",
       "sentiment": "Negative",
       "quote": "“Been using it since May 2026 without any issues, however recently since changing phones (Pixel 11 pro XL) speed is limited to 15 miles and when trying to follow help page instructions, I can't find ride mode -Bike settings, just ride mode settings for scooters.”",
       "themes": [
@@ -44,7 +68,7 @@
       "id": "googleplay-19de75f0-ed76-4ba3-91f3-c049ff897984",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "31 Aug 2026",
       "sentiment": "Mixed",
       "quote": "“horrible prices”",
       "themes": [
@@ -99,6 +123,18 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=674d503d-65d0-49e0-a615-fc5bceb37e50"
+    },
+    {
+      "id": "news-1yp0e5l",
+      "source": "News",
+      "market": "marketscreener.com",
+      "date": "27 Aug 2026",
+      "sentiment": "Mixed",
+      "quote": "“E-scooter company Lime surges, opening the door to a Voi listing, according to Pareto - Di - marketscreener.com”",
+      "themes": [
+        "vs. Lime"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcnpnTll5anhXNXl0UnZHQ1lPLU9OWkxHWi1oUEViTXlobGRKak1NNFVTVTM3Und0OGxmLXVTSmJRejhqLXFTeFZldjJYLV9vUlFSaHB6TVQzejhEVmFIdzREV0ZoYkYxcHhWbWhoT2tlbzA4WDZVX0VDVEMwWUdYVGJ2Y1hmOXJWZkJvV2JQRThPU05sc3RkMUdjZXN0TVE1ZzdZcjJpNkV4WXlCVXBPeDlUUlZJVFQ5RUFpdHNldHRtcVRjVEE4QjRuYXJiRUJIOW85SU9B?oc=5"
     },
     {
       "id": "googleplay-db2988cd-2c25-46ff-88ff-1a393973aeed",
@@ -246,18 +282,6 @@
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=1f61a560-a00b-49dc-ac2a-967b774fa8ed"
     },
     {
-      "id": "news-1cc2k1x",
-      "source": "News",
-      "market": "Cities Today",
-      "date": "20 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“Voi urges London-wide micromobility licence - Cities Today”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9IbHdOck85aHVLOS0zQzYxNFUzU21HU0ZtOUhuRTlCWFJWQVZiU05ud1dDS2ZGUXhudFZONDNYbGZVUHlwNTVEem9sQkpGOXRiRmZzdmhhZXFGbGNuZU82aW9KMHZUc2ZBNWxGSkhBZjBWbnFlQmlVZA?oc=5"
-    },
-    {
       "id": "googleplay-dc1bc99b-b72e-45ea-ad95-5404e5c81c4e",
       "source": "Google Play",
       "market": "GB",
@@ -378,18 +402,6 @@
         "Billing"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=e2114629-ef7f-4832-94f0-1ea310922f8a"
-    },
-    {
-      "id": "news-8a4hh5",
-      "source": "News",
-      "market": "smartcitiesworld.net",
-      "date": "17 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“Demand for Voi e-bikes in Glasgow reaches new high - smartcitiesworld.net”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcHpqT3F5ZS1hUGxZN0lCWkdTUGlNcDVmQlVvcmxlZGNEUlk2ZDdLaU12LWdKUzduTTFVSm12dzQzOXNfN1kxVUNmY0RqSzhiR1V6emVMQm14MEM0ckxXUEE2RDRFbVZQV2tOeXdHd3hPQ0pCdHVDY01ZSGdiN01uR2RmWUVsY2FyZkdvYVJUOFp6dXd5aEtCVExn?oc=5"
     },
     {
       "id": "googleplay-d181c171-dbfa-41e7-98b2-ded1ebbe0ea8",
@@ -606,64 +618,28 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=c095dc7b-f9ba-47b9-8330-93111de6f14d"
-    },
-    {
-      "id": "googleplay-6c9f889b-3010-4992-981c-656e1603506c",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "5 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“jobbigt med parkeringen”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=6c9f889b-3010-4992-981c-656e1603506c"
-    },
-    {
-      "id": "googleplay-1846dc75-5767-4a36-bea4-8e5c65fbe380",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "4 Aug 2026",
-      "sentiment": "Positive",
-      "quote": "“Great service which I love but only gets 1 star as Rutherglen is not included! Increase the boundary please!!!!”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=1846dc75-5767-4a36-bea4-8e5c65fbe380"
-    },
-    {
-      "id": "googleplay-19c8c810-cede-4496-87b5-9f51197cfaf0",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "4 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“fulfills it's purpose”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=19c8c810-cede-4496-87b5-9f51197cfaf0"
     }
   ],
   "sentimentSummary": {
     "negative": 11,
-    "mixed": 34,
+    "mixed": 32,
     "positive": 8
   },
   "themes": [
     {
       "label": "General feedback",
-      "count": 38,
+      "count": 35,
+      "trend": "down",
+      "delta": -3
+    },
+    {
+      "label": "vs. Lime",
+      "count": 6,
       "trend": "up",
       "delta": 1
     },
     {
       "label": "Parking data",
-      "count": 5,
-      "trend": "down",
-      "delta": -1
-    },
-    {
-      "label": "vs. Lime",
       "count": 5,
       "trend": "flat",
       "delta": 0
@@ -671,8 +647,8 @@
     {
       "label": "Billing",
       "count": 2,
-      "trend": "down",
-      "delta": -1
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "Support",
@@ -698,7 +674,7 @@
     },
     {
       "label": "Google Play",
-      "count": 47
+      "count": 46
     },
     {
       "label": "Reddit",
@@ -706,7 +682,7 @@
     },
     {
       "label": "News",
-      "count": 4
+      "count": 3
     },
     {
       "label": "X",
