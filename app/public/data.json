@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-09-04T11:04:16.123Z",
-  "checkedLabel": "4 Sept 2026",
+  "generatedAt": "2026-09-05T10:17:46.484Z",
+  "checkedLabel": "5 Sept 2026",
   "windowLabel": "Last month",
   "rotateSeconds": 12,
   "posts": [
+    {
+      "id": "googleplay-e59e405a-2f70-49d8-acb0-a6cdd102cd9d",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“really good service especially on Isle of Wight where it's not over subscribed”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=e59e405a-2f70-49d8-acb0-a6cdd102cd9d"
+    },
     {
       "id": "googleplay-774677e0-3eef-4f79-a5dc-83321f07ca4e",
       "source": "Google Play",
@@ -44,7 +56,7 @@
       "id": "googleplay-a882ebb3-c5f6-46db-a634-1244c3644bfb",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "1 Sept 2026",
       "sentiment": "Mixed",
       "quote": "“you aren't allowed to prefill payment options using auto-fill”",
       "themes": [
@@ -123,18 +135,6 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=674d503d-65d0-49e0-a615-fc5bceb37e50"
-    },
-    {
-      "id": "news-1yp0e5l",
-      "source": "News",
-      "market": "marketscreener.com",
-      "date": "27 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“E-scooter company Lime surges, opening the door to a Voi listing, according to Pareto - Di - marketscreener.com”",
-      "themes": [
-        "vs. Lime"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcnpnTll5anhXNXl0UnZHQ1lPLU9OWkxHWi1oUEViTXlobGRKak1NNFVTVTM3Und0OGxmLXVTSmJRejhqLXFTeFZldjJYLV9vUlFSaHB6TVQzejhEVmFIdzREV0ZoYkYxcHhWbWhoT2tlbzA4WDZVX0VDVEMwWUdYVGJ2Y1hmOXJWZkJvV2JQRThPU05sc3RkMUdjZXN0TVE1ZzdZcjJpNkV4WXlCVXBPeDlUUlZJVFQ5RUFpdHNldHRtcVRjVEE4QjRuYXJiRUJIOW85SU9B?oc=5"
     },
     {
       "id": "googleplay-db2988cd-2c25-46ff-88ff-1a393973aeed",
@@ -280,6 +280,18 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=1f61a560-a00b-49dc-ac2a-967b774fa8ed"
+    },
+    {
+      "id": "news-1cc2k1x",
+      "source": "News",
+      "market": "Cities Today",
+      "date": "20 Aug 2026",
+      "sentiment": "Mixed",
+      "quote": "“Voi urges London-wide micromobility licence - Cities Today”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9IbHdOck85aHVLOS0zQzYxNFUzU21HU0ZtOUhuRTlCWFJWQVZiU05ud1dDS2ZGUXhudFZONDNYbGZVUHlwNTVEem9sQkpGOXRiRmZzdmhhZXFGbGNuZU82aW9KMHZUc2ZBNWxGSkhBZjBWbnFlQmlVZA?oc=5"
     },
     {
       "id": "googleplay-dc1bc99b-b72e-45ea-ad95-5404e5c81c4e",
@@ -622,27 +634,27 @@
   ],
   "sentimentSummary": {
     "negative": 11,
-    "mixed": 32,
+    "mixed": 33,
     "positive": 8
   },
   "themes": [
     {
       "label": "General feedback",
-      "count": 35,
-      "trend": "down",
-      "delta": -3
-    },
-    {
-      "label": "vs. Lime",
-      "count": 6,
+      "count": 37,
       "trend": "up",
-      "delta": 1
+      "delta": 2
     },
     {
       "label": "Parking data",
       "count": 5,
       "trend": "flat",
       "delta": 0
+    },
+    {
+      "label": "vs. Lime",
+      "count": 5,
+      "trend": "down",
+      "delta": -1
     },
     {
       "label": "Billing",
@@ -674,7 +686,7 @@
     },
     {
       "label": "Google Play",
-      "count": 46
+      "count": 47
     },
     {
       "label": "Reddit",
