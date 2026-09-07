@@ -1,9 +1,33 @@
 {
-  "generatedAt": "2026-09-06T10:37:51.274Z",
-  "checkedLabel": "6 Sept 2026",
+  "generatedAt": "2026-09-07T12:03:28.397Z",
+  "checkedLabel": "7 Sept 2026",
   "windowLabel": "Last month",
   "rotateSeconds": 12,
   "posts": [
+    {
+      "id": "googleplay-77b1a048-0b23-485b-b411-64d750876c17",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Positive",
+      "quote": "“fast and reliable”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=77b1a048-0b23-485b-b411-64d750876c17"
+    },
+    {
+      "id": "googleplay-636cbbbd-0c84-4273-b8e6-2be8eaf3afa7",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Negative",
+      "quote": "“The bikes are OK. The app has a horrible issue though. You can't use the bikes in outer London, and you can't end the journey in large chunks of inner London. Like the whole of Camden and Lewisham, it turns out. The help clearly shows the colours that indicate that. BUT in dark mode, they simply don't show on the actu…”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=636cbbbd-0c84-4273-b8e6-2be8eaf3afa7"
+    },
     {
       "id": "googleplay-9e27eb1d-ba8c-4146-a2f4-7c3cb8832119",
       "source": "Google Play",
@@ -20,7 +44,7 @@
       "id": "googleplay-e59e405a-2f70-49d8-acb0-a6cdd102cd9d",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "3 Sept 2026",
       "sentiment": "Mixed",
       "quote": "“really good service especially on Isle of Wight where it's not over subscribed”",
       "themes": [
@@ -198,18 +222,6 @@
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=1d7cfd68-b613-4202-9158-a57557e83678"
     },
     {
-      "id": "news-1sx0v4a",
-      "source": "News",
-      "market": "Press and Journal",
-      "date": "25 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“Aberdeen taxi driver’s window ‘smashed by Voi e-bike rider’ - Press and Journal”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRzdTUWl4UkpkdUN5UUg5VEdsNDRWMFgtX0NqR2g1d0h0MndkWWdIbnB1SW16VDMwWFpTUUNkTWFnSU1NVWRDTDJydEU1anJla2YwSC1QSnhVWWNESTBYaWNIVmFRSWZFdVlOQ1BfMVlWemYyblRvc1pWYVpIUHFlR0tiS085aHJHenI4?oc=5"
-    },
-    {
       "id": "googleplay-f7f8d136-8dc7-4cf1-8fdc-a62dce11d2c4",
       "source": "Google Play",
       "market": "GB",
@@ -220,6 +232,18 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=f7f8d136-8dc7-4cf1-8fdc-a62dce11d2c4"
+    },
+    {
+      "id": "news-1sx0v4a",
+      "source": "News",
+      "market": "pressandjournal.co.uk",
+      "date": "25 Aug 2026",
+      "sentiment": "Mixed",
+      "quote": "“Aberdeen taxi driver’s window ‘smashed by Voi e-bike rider’ - pressandjournal.co.uk”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRzdTUWl4UkpkdUN5UUg5VEdsNDRWMFgtX0NqR2g1d0h0MndkWWdIbnB1SW16VDMwWFpTUUNkTWFnSU1NVWRDTDJydEU1anJla2YwSC1QSnhVWWNESTBYaWNIVmFRSWZFdVlOQ1BfMVlWemYyblRvc1pWYVpIUHFlR0tiS085aHJHenI4?oc=5"
     },
     {
       "id": "googleplay-23a35c7a-5f12-42d7-afd2-e955c993e170",
@@ -570,79 +594,31 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=2f5cd3fe-c2f9-4a59-9c4e-dcf5715ffc57"
-    },
-    {
-      "id": "googleplay-414d689e-5022-4381-9afb-1df979b3575f",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "8 Aug 2026",
-      "sentiment": "Negative",
-      "quote": "“I took one ride when it showed nearly 100%, and then E Scooter was having a problem with acceleration. I felt like the service was very bad after conversation with service and felt no respect.”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=414d689e-5022-4381-9afb-1df979b3575f"
-    },
-    {
-      "id": "mastodon-mastodon.social-117056175259726996",
-      "source": "Mastodon",
-      "market": "@firstapproximation",
-      "date": "7 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“@davecykl I generally find that there aren’t enough parking areas for #Voi bikes in Edinburgh. I often find it easier to walk because there isn’t a good parking spot close to where I’m going.”",
-      "themes": [
-        "Parking data"
-      ],
-      "url": "https://mastodon.social/@firstapproximation/117056175259726996"
-    },
-    {
-      "id": "mastodon-mastodon.social-117055875898367859",
-      "source": "Mastodon",
-      "market": "@davecykl",
-      "date": "7 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“Unfortunately the #Edinburgh #citybike scheme does not seem to be working well for #EdFests #EdFringe #EIF just now. There are •lots• of bikes near venues (yeayy) but not enough parking docks: you can hire a bike, but you won’t be able to park it anywhere near another venue as all the dock areas are full(!). Let’s hop…”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://mastodon.social/@davecykl/117055875898367859"
-    },
-    {
-      "id": "googleplay-783cc5ae-e47a-42c3-b42a-1ddba2240a19",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "7 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“okayish”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=783cc5ae-e47a-42c3-b42a-1ddba2240a19"
     }
   ],
   "sentimentSummary": {
     "negative": 11,
-    "mixed": 32,
-    "positive": 8
+    "mixed": 29,
+    "positive": 9
   },
   "themes": [
     {
       "label": "General feedback",
-      "count": 36,
+      "count": 35,
       "trend": "down",
       "delta": -1
-    },
-    {
-      "label": "Parking data",
-      "count": 5,
-      "trend": "flat",
-      "delta": 0
     },
     {
       "label": "vs. Lime",
       "count": 5,
       "trend": "flat",
       "delta": 0
+    },
+    {
+      "label": "Parking data",
+      "count": 4,
+      "trend": "down",
+      "delta": -1
     },
     {
       "label": "Billing",
@@ -690,7 +666,7 @@
     },
     {
       "label": "Mastodon",
-      "count": 2
+      "count": 0
     },
     {
       "label": "Bluesky",
