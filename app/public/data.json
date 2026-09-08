@@ -1,9 +1,33 @@
 {
-  "generatedAt": "2026-09-07T12:03:28.397Z",
-  "checkedLabel": "7 Sept 2026",
+  "generatedAt": "2026-09-08T10:56:46.493Z",
+  "checkedLabel": "8 Sept 2026",
   "windowLabel": "Last month",
   "rotateSeconds": 12,
   "posts": [
+    {
+      "id": "news-8ya1j2",
+      "source": "News",
+      "market": "My London",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Voi e-bike operator refusing to leave London borough after missing out on contract - My London”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU1pXeG1zT3VhVWRyTEx2R2RGY0FBV0tJZm43cjFER3VfSEVUQjNZVGhtc194RlhVQ3E1YVpYamtzQXBheEh4RGpGeWdFNjFHWTJHNlFJVFVVZmp6WDc4cjhDMDlOaGphM21CNGM5cW12LVRqSDhIV1hJOUQ0dDB5WGhSdzLSAYoBQVVfeXFMT1gtci1UaDlJdXd3dmM3bEpNNHBva201eG9MczFFZWRDTWQyeTRCTUlXRWkzazBSNHhVTTlGcFdTWElDVThqUm9oRXdkeENNTkN6UXlMVm9qNVd3QmpzWWxfSWloa1JLd2tCUXd2ZnJUeGM1QjB6MFFGWWQ5Und2Z2hyUS1xWGZyQjFR?oc=5"
+    },
+    {
+      "id": "googleplay-ba1069fc-27da-405b-8342-eaaebefb866a",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Positive",
+      "quote": "“Great rides atrocious parking and customer service The bike purposefully wouldn't let you end rides in the ebike zone near my local station, regardless of how empty it was. This often meant having to end rides using the chatbot or by cycling away from the station to the next nearest spot. The whole thing strikes me as…”",
+      "themes": [
+        "Support"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=ba1069fc-27da-405b-8342-eaaebefb866a"
+    },
     {
       "id": "googleplay-77b1a048-0b23-485b-b411-64d750876c17",
       "source": "Google Play",
@@ -32,7 +56,7 @@
       "id": "googleplay-9e27eb1d-ba8c-4146-a2f4-7c3cb8832119",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "4 Sept 2026",
       "sentiment": "Mixed",
       "quote": "“very nice experience”",
       "themes": [
@@ -222,6 +246,18 @@
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=1d7cfd68-b613-4202-9158-a57557e83678"
     },
     {
+      "id": "news-1byee5d",
+      "source": "News",
+      "market": "Mynewsdesk",
+      "date": "25 Aug 2026",
+      "sentiment": "Mixed",
+      "quote": "“Learning from a Unicorn: Voi Brings Its AI Experience to GSAI - Mynewsdesk”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeTNvb3d3VzRiN0JkLVJhN1ROVFBCRk5mamlrc3dGdGJNM1BURzhnWF9zak1mVmh5ZmVHWUp3dl9XOVZ6ZXFTZW4yMHB5bnRoVlZUYjRJR0RVdkh4d1N5LVVvYVp6WGplWHNZbVdTQVRhamp6THN2T01GdmpRVW91OFdZYkhfYUhydXZja0M3NHRBWjdzNUxhTUJfWmdTQmg0NEx0ZHJHdVBIVDRIcVhZ?oc=5"
+    },
+    {
       "id": "googleplay-f7f8d136-8dc7-4cf1-8fdc-a62dce11d2c4",
       "source": "Google Play",
       "market": "GB",
@@ -236,10 +272,10 @@
     {
       "id": "news-1sx0v4a",
       "source": "News",
-      "market": "pressandjournal.co.uk",
+      "market": "Press and Journal",
       "date": "25 Aug 2026",
       "sentiment": "Mixed",
-      "quote": "“Aberdeen taxi driver’s window ‘smashed by Voi e-bike rider’ - pressandjournal.co.uk”",
+      "quote": "“Aberdeen taxi driver’s window ‘smashed by Voi e-bike rider’ - Press and Journal”",
       "themes": [
         "General feedback"
       ],
@@ -582,31 +618,19 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=9da659bb-14f1-433e-8759-40d92ec4c8d7"
-    },
-    {
-      "id": "googleplay-2f5cd3fe-c2f9-4a59-9c4e-dcf5715ffc57",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "8 Aug 2026",
-      "sentiment": "Negative",
-      "quote": "“Terrible payment card experience. I cannot use a password manager to paste my 16 digit number without the focusing field moving to the next box. I suspect my clipboard has spaces in it and the app doesn't play well with it. I entered my info(manually) and didn't see that I had to out my name. I got the error saying no…”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=2f5cd3fe-c2f9-4a59-9c4e-dcf5715ffc57"
     }
   ],
   "sentimentSummary": {
-    "negative": 11,
-    "mixed": 29,
-    "positive": 9
+    "negative": 10,
+    "mixed": 31,
+    "positive": 10
   },
   "themes": [
     {
       "label": "General feedback",
-      "count": 35,
-      "trend": "down",
-      "delta": -1
+      "count": 36,
+      "trend": "up",
+      "delta": 1
     },
     {
       "label": "vs. Lime",
@@ -617,18 +641,18 @@
     {
       "label": "Parking data",
       "count": 4,
-      "trend": "down",
-      "delta": -1
-    },
-    {
-      "label": "Billing",
-      "count": 2,
       "trend": "flat",
       "delta": 0
     },
     {
       "label": "Support",
-      "count": 1,
+      "count": 2,
+      "trend": "up",
+      "delta": 1
+    },
+    {
+      "label": "Billing",
+      "count": 2,
       "trend": "flat",
       "delta": 0
     },
@@ -658,7 +682,7 @@
     },
     {
       "label": "News",
-      "count": 3
+      "count": 5
     },
     {
       "label": "X",
