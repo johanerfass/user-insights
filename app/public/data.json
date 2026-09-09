@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-09-08T10:56:46.493Z",
-  "checkedLabel": "8 Sept 2026",
+  "generatedAt": "2026-09-09T11:01:19.739Z",
+  "checkedLabel": "9 Sept 2026",
   "windowLabel": "Last month",
   "rotateSeconds": 12,
   "posts": [
+    {
+      "id": "news-1ugboyt",
+      "source": "News",
+      "market": "London Evening Standard",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“E-bike operator Voi refusing to leave London borough despite losing contract - London Evening Standard”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSl81QWU4SVFMOFNDVHVOZ0tzYjdfY3JvZWk3cEQyQWN2X1ZBZWJ3VVd5SXlUMnBhNmtUT2JBRDAxWUFGVmgyblhSSkwyOE8tV01uSnlIU2FjN0Nxczc1emVvb3JjS3owR3F0WkhBZUxfS1NUcTRXRUlGYnBLc3BmZnlPX1pJd0RYUkhUSHZLN2JMRFZr?oc=5"
+    },
     {
       "id": "news-8ya1j2",
       "source": "News",
@@ -32,7 +44,7 @@
       "id": "googleplay-77b1a048-0b23-485b-b411-64d750876c17",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "6 Sept 2026",
       "sentiment": "Positive",
       "quote": "“fast and reliable”",
       "themes": [
@@ -44,7 +56,7 @@
       "id": "googleplay-636cbbbd-0c84-4273-b8e6-2be8eaf3afa7",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "5 Sept 2026",
       "sentiment": "Negative",
       "quote": "“The bikes are OK. The app has a horrible issue though. You can't use the bikes in outer London, and you can't end the journey in large chunks of inner London. Like the whole of Camden and Lewisham, it turns out. The help clearly shows the colours that indicate that. BUT in dark mode, they simply don't show on the actu…”",
       "themes": [
@@ -270,18 +282,6 @@
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=f7f8d136-8dc7-4cf1-8fdc-a62dce11d2c4"
     },
     {
-      "id": "news-1sx0v4a",
-      "source": "News",
-      "market": "Press and Journal",
-      "date": "25 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“Aberdeen taxi driver’s window ‘smashed by Voi e-bike rider’ - Press and Journal”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRzdTUWl4UkpkdUN5UUg5VEdsNDRWMFgtX0NqR2g1d0h0MndkWWdIbnB1SW16VDMwWFpTUUNkTWFnSU1NVWRDTDJydEU1anJla2YwSC1QSnhVWWNESTBYaWNIVmFRSWZFdVlOQ1BfMVlWemYyblRvc1pWYVpIUHFlR0tiS085aHJHenI4?oc=5"
-    },
-    {
       "id": "googleplay-23a35c7a-5f12-42d7-afd2-e955c993e170",
       "source": "Google Play",
       "market": "GB",
@@ -352,18 +352,6 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=1f61a560-a00b-49dc-ac2a-967b774fa8ed"
-    },
-    {
-      "id": "news-1cc2k1x",
-      "source": "News",
-      "market": "Cities Today",
-      "date": "20 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“Voi urges London-wide micromobility licence - Cities Today”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9IbHdOck85aHVLOS0zQzYxNFUzU21HU0ZtOUhuRTlCWFJWQVZiU05ud1dDS2ZGUXhudFZONDNYbGZVUHlwNTVEem9sQkpGOXRiRmZzdmhhZXFGbGNuZU82aW9KMHZUc2ZBNWxGSkhBZjBWbnFlQmlVZA?oc=5"
     },
     {
       "id": "googleplay-dc1bc99b-b72e-45ea-ad95-5404e5c81c4e",
@@ -437,6 +425,18 @@
         "Trust"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=2f43812a-cafe-477b-b733-f6e858986d8e"
+    },
+    {
+      "id": "news-1cc2k1x",
+      "source": "News",
+      "market": "Cities Today",
+      "date": "19 Aug 2026",
+      "sentiment": "Mixed",
+      "quote": "“Voi urges London-wide micromobility licence - Cities Today”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9IbHdOck85aHVLOS0zQzYxNFUzU21HU0ZtOUhuRTlCWFJWQVZiU05ud1dDS2ZGUXhudFZONDNYbGZVUHlwNTVEem9sQkpGOXRiRmZzdmhhZXFGbGNuZU82aW9KMHZUc2ZBNWxGSkhBZjBWbnFlQmlVZA?oc=5"
     },
     {
       "id": "googleplay-948ef045-d6aa-4da7-97dc-087b55906b9f",
@@ -594,43 +594,19 @@
         "vs. Lime"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=a91d6879-dbf3-4619-8038-9f24650baaee"
-    },
-    {
-      "id": "googleplay-424b8f9b-b9dd-4d04-b7ba-bbac4722a089",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "10 Aug 2026",
-      "sentiment": "Positive",
-      "quote": "“Quite unreliable. Great when they work but it's quite common to unlock the bike only to realise it doesn't work properly. There is also a student deal available, but they seem to try hard to make it very difficult to access.”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=424b8f9b-b9dd-4d04-b7ba-bbac4722a089"
-    },
-    {
-      "id": "googleplay-9da659bb-14f1-433e-8759-40d92ec4c8d7",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "10 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“no parking in Wandsworth”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=9da659bb-14f1-433e-8759-40d92ec4c8d7"
     }
   ],
   "sentimentSummary": {
     "negative": 10,
-    "mixed": 31,
-    "positive": 10
+    "mixed": 30,
+    "positive": 9
   },
   "themes": [
     {
       "label": "General feedback",
-      "count": 36,
-      "trend": "up",
-      "delta": 1
+      "count": 34,
+      "trend": "down",
+      "delta": -2
     },
     {
       "label": "vs. Lime",
@@ -647,8 +623,8 @@
     {
       "label": "Support",
       "count": 2,
-      "trend": "up",
-      "delta": 1
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "Billing",
@@ -674,7 +650,7 @@
     },
     {
       "label": "Google Play",
-      "count": 46
+      "count": 44
     },
     {
       "label": "Reddit",
