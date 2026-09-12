@@ -1,9 +1,45 @@
 {
-  "generatedAt": "2026-09-11T10:56:22.699Z",
-  "checkedLabel": "11 Sept 2026",
+  "generatedAt": "2026-09-12T10:23:53.881Z",
+  "checkedLabel": "12 Sept 2026",
   "windowLabel": "Last week",
   "rotateSeconds": 12,
   "posts": [
+    {
+      "id": "news-1vubznu",
+      "source": "News",
+      "market": "Road.cc",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Voi refuses to take bikes out of Ealing, Forest losing patience with Sadiq Khan, Also's highly anticipated TM-B e-bike faces more delays, Merseyrail e-bike ban protest + more | electric bike reviews, buying advice and news - ebiketips - Road.cc”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQWZzdFFPZlVMWDNNUGxyaHhSVW9HN2FXWTZ0bHlLR3BVbV9yZW1iVkpYeGlsaUVONGJpcG5oM1NWN3FzX0oxRW5DcGNnWktMTjVUa3RGWjRHQWRNc0JDbmZEeTZOYkF4TlVyZTBkZXNHeEM5NDRqV1A4dElRb2VrV19CaHExZGNYNHRVSkRpRzY1NWcteTFiNE5WRTlfRzRfaUJkQ29aRHhTRjhGUmNieTZMNHdTLXJVYXozRTE5Q2tjd1FSZjZJ?oc=5"
+    },
+    {
+      "id": "googleplay-fb975c1d-071a-4a96-b1dc-ddd8b1b134ce",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Negative",
+      "quote": "“awful. worst experience ever. they have like 3 parkings in London and all are far from where I needed to go. I lost my because of it. hate Voi. never again”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=fb975c1d-071a-4a96-b1dc-ddd8b1b134ce"
+    },
+    {
+      "id": "googleplay-35c8bbe7-c00e-4bc3-8ac5-603944c120f1",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Negative",
+      "quote": "“Had a frustrating experience recently when the scooter suddenly entered a slow zone on a public bike path. Scooter dropped to snail's pace of 5 to 6 km/hour while all the bikes on the same path speed past. Would have been faster to walk, but the slow zone was also a no-park zone in the app, so before you know it, you'…”",
+      "themes": [
+        "Geofencing"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=35c8bbe7-c00e-4bc3-8ac5-603944c120f1"
+    },
     {
       "id": "googleplay-c18c7a70-87db-4aab-8020-d557e5af6b61",
       "source": "Google Play",
@@ -66,22 +102,10 @@
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=ea3b7307-4775-432f-8ff4-d8b25c0b4ea8"
     },
     {
-      "id": "news-1ugboyt",
-      "source": "News",
-      "market": "London Evening Standard",
-      "date": "Recent",
-      "sentiment": "Mixed",
-      "quote": "“E-bike operator Voi refusing to leave London borough despite losing contract - London Evening Standard”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSl81QWU4SVFMOFNDVHVOZ0tzYjdfY3JvZWk3cEQyQWN2X1ZBZWJ3VVd5SXlUMnBhNmtUT2JBRDAxWUFGVmgyblhSSkwyOE8tV01uSnlIU2FjN0Nxczc1emVvb3JjS3owR3F0WkhBZUxfS1NUcTRXRUlGYnBLc3BmZnlPX1pJd0RYUkhUSHZLN2JMRFZr?oc=5"
-    },
-    {
       "id": "googleplay-ba208916-6254-4fc0-958d-284526f1283d",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "8 Sept 2026",
       "sentiment": "Mixed",
       "quote": "“Took my discount and could not even ride”",
       "themes": [
@@ -136,49 +160,43 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=636cbbbd-0c84-4273-b8e6-2be8eaf3afa7"
-    },
-    {
-      "id": "googleplay-9e27eb1d-ba8c-4146-a2f4-7c3cb8832119",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "4 Sept 2026",
-      "sentiment": "Mixed",
-      "quote": "“very nice experience”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=9e27eb1d-ba8c-4146-a2f4-7c3cb8832119"
     }
   ],
   "sentimentSummary": {
-    "negative": 4,
-    "mixed": 6,
+    "negative": 6,
+    "mixed": 5,
     "positive": 2
   },
   "themes": [
     {
       "label": "General feedback",
       "count": 10,
-      "trend": "down",
-      "delta": -25
+      "trend": "flat",
+      "delta": 0
+    },
+    {
+      "label": "Geofencing",
+      "count": 1,
+      "trend": "up",
+      "delta": 1
     },
     {
       "label": "First ride",
       "count": 1,
-      "trend": "up",
-      "delta": 1
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "Refunds",
       "count": 1,
-      "trend": "up",
-      "delta": 1
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "Support",
       "count": 1,
-      "trend": "down",
-      "delta": -1
+      "trend": "flat",
+      "delta": 0
     }
   ],
   "sources": [
@@ -192,7 +210,7 @@
     },
     {
       "label": "Google Play",
-      "count": 10
+      "count": 11
     },
     {
       "label": "Reddit",
