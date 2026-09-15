@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-09-14T12:19:07.668Z",
-  "checkedLabel": "14 Sept 2026",
+  "generatedAt": "2026-09-15T11:26:23.419Z",
+  "checkedLabel": "15 Sept 2026",
   "windowLabel": "Last week",
   "rotateSeconds": 12,
   "posts": [
+    {
+      "id": "googleplay-07da7cde-d069-44bd-b1b4-dcfadf9b4fc0",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“does not recognise any parking bays”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=07da7cde-d069-44bd-b1b4-dcfadf9b4fc0"
+    },
     {
       "id": "news-19skojv",
       "source": "News",
@@ -15,6 +27,18 @@
         "General feedback"
       ],
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNUlMQ2VWeEtNTFZxNmR3Mm5QODJ5LWJ1U3ZfUkdudEp5QWo3c3MxVXZxdHpQZWNoNXpqYVpDNjFrNHVVMkQxb2tvcWJBcmo5Rl9vTkxueXhDdk5VT0JGRUFTMExLcWpLRUN3OWp6VXdTVVRCMDM0Mi1kSnQ1T0l5OUZNY0VTOVEyUy1ESllXUk45MDJFQmpZ?oc=5"
+    },
+    {
+      "id": "googleplay-862fa1f7-7d75-4910-8cf4-99d1c64f887d",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“shittiest thing ever they just tryna rip people's money.”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=862fa1f7-7d75-4910-8cf4-99d1c64f887d"
     },
     {
       "id": "googleplay-e39648dc-63ac-4702-a90c-d15f44b4f472",
@@ -45,7 +69,7 @@
       "id": "news-1vubznu",
       "source": "News",
       "market": "Road.cc",
-      "date": "Recent",
+      "date": "11 Sept 2026",
       "sentiment": "Mixed",
       "quote": "“Voi refuses to take bikes out of Ealing, Forest losing patience with Sadiq Khan, Also's highly anticipated TM-B e-bike faces more delays, Merseyrail e-bike ban protest + more | electric bike reviews, buying advice and news - ebiketips - Road.cc”",
       "themes": [
@@ -161,43 +185,31 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=ba208916-6254-4fc0-958d-284526f1283d"
-    },
-    {
-      "id": "news-8ya1j2",
-      "source": "News",
-      "market": "My London",
-      "date": "8 Sept 2026",
-      "sentiment": "Mixed",
-      "quote": "“Voi e-bike operator refusing to leave London borough after missing out on contract - My London”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU1pXeG1zT3VhVWRyTEx2R2RGY0FBV0tJZm43cjFER3VfSEVUQjNZVGhtc194RlhVQ3E1YVpYamtzQXBheEh4RGpGeWdFNjFHWTJHNlFJVFVVZmp6WDc4cjhDMDlOaGphM21CNGM5cW12LVRqSDhIV1hJOUQ0dDB5WGhSdzLSAYoBQVVfeXFMT1gtci1UaDlJdXd3dmM3bEpNNHBva201eG9MczFFZWRDTWQyeTRCTUlXRWkzazBSNHhVTTlGcFdTWElDVThqUm9oRXdkeENNTkN6UXlMVm9qNVd3QmpzWWxfSWloa1JLd2tCUXd2ZnJUeGM1QjB6MFFGWWQ5Und2Z2hyUS1xWGZyQjFR?oc=5"
     }
   ],
   "sentimentSummary": {
     "negative": 6,
-    "mixed": 8,
+    "mixed": 9,
     "positive": 0
   },
   "themes": [
     {
       "label": "General feedback",
-      "count": 11,
-      "trend": "down",
-      "delta": -26
+      "count": 12,
+      "trend": "up",
+      "delta": 1
     },
     {
       "label": "Billing",
       "count": 1,
-      "trend": "up",
-      "delta": 1
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "Trust",
       "count": 1,
-      "trend": "up",
-      "delta": 1
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "Geofencing",
@@ -214,8 +226,8 @@
     {
       "label": "Refunds",
       "count": 1,
-      "trend": "up",
-      "delta": 1
+      "trend": "flat",
+      "delta": 0
     }
   ],
   "sources": [
@@ -229,7 +241,7 @@
     },
     {
       "label": "Google Play",
-      "count": 10
+      "count": 12
     },
     {
       "label": "Reddit",
@@ -237,7 +249,7 @@
     },
     {
       "label": "News",
-      "count": 4
+      "count": 3
     },
     {
       "label": "X",
