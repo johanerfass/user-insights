@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-09-15T11:26:23.419Z",
-  "checkedLabel": "15 Sept 2026",
+  "generatedAt": "2026-09-16T11:12:10.963Z",
+  "checkedLabel": "16 Sept 2026",
   "windowLabel": "Last week",
   "rotateSeconds": 12,
   "posts": [
+    {
+      "id": "googleplay-cb708dd4-4524-4b9a-845b-ef171fb47686",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“scummy app that continues billing you when you end the ride”",
+      "themes": [
+        "Billing"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=cb708dd4-4524-4b9a-845b-ef171fb47686"
+    },
     {
       "id": "googleplay-07da7cde-d069-44bd-b1b4-dcfadf9b4fc0",
       "source": "Google Play",
@@ -44,7 +56,7 @@
       "id": "googleplay-e39648dc-63ac-4702-a90c-d15f44b4f472",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "13 Sept 2026",
       "sentiment": "Negative",
       "quote": "“voi company scammers! first 10 min ride free !?? did ride 9 min get charged 1.60£ ! I know it's not a big amount to pay, but FREE it's meaning 0£ ! so my experience with company VOI scammers don't use them!”",
       "themes": [
@@ -57,7 +69,7 @@
       "id": "googleplay-2afed03f-861b-4e7e-96be-1fc029adf5f4",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "13 Sept 2026",
       "sentiment": "Mixed",
       "quote": "“Why do you encourage such laziness with these e scooters? I'm serious too, with these dumped everywhere taking up room on pathways it's made everywhere look like such a mess. People have legs to get around, people should use them.”",
       "themes": [
@@ -173,18 +185,6 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=ea3b7307-4775-432f-8ff4-d8b25c0b4ea8"
-    },
-    {
-      "id": "googleplay-ba208916-6254-4fc0-958d-284526f1283d",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "8 Sept 2026",
-      "sentiment": "Mixed",
-      "quote": "“Took my discount and could not even ride”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=ba208916-6254-4fc0-958d-284526f1283d"
     }
   ],
   "sentimentSummary": {
@@ -195,15 +195,15 @@
   "themes": [
     {
       "label": "General feedback",
-      "count": 12,
-      "trend": "up",
-      "delta": 1
+      "count": 11,
+      "trend": "down",
+      "delta": -1
     },
     {
       "label": "Billing",
-      "count": 1,
-      "trend": "flat",
-      "delta": 0
+      "count": 2,
+      "trend": "up",
+      "delta": 1
     },
     {
       "label": "Trust",
