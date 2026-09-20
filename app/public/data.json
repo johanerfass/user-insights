@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-19T10:37:10.574Z",
-  "checkedLabel": "19 Sept 2026",
+  "generatedAt": "2026-09-20T10:59:47.411Z",
+  "checkedLabel": "20 Sept 2026",
   "windowLabel": "Last week",
   "rotateSeconds": 12,
   "posts": [
@@ -53,10 +53,22 @@
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=08380c44-2219-45c2-be19-b55027760860"
     },
     {
+      "id": "news-v9ittd",
+      "source": "News",
+      "market": "Placera.se",
+      "date": "17 Sept 2026",
+      "sentiment": "Mixed",
+      "quote": "“Stark tillväxt för Voi - Placera.se”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE11R3p4Y3BwTFVqMTdHVXhHZXNmM0ZNemh6R0V4NDBMdkkwMS15VkdPRFFpYW9GelZsb205eURTSDQ4QlU3QlNqWnBCeTZXUkdFUFFwV0oxekdOMnhxdWpaYlFRWmJFZnFlTzN4TE05UXBydw?oc=5"
+    },
+    {
       "id": "googleplay-7602640e-6a0f-475a-ba99-374c2c30e1c1",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "16 Sept 2026",
       "sentiment": "Mixed",
       "quote": "“I downloaded the app to help a friend. it was a first ride and got told I would get my money back but instead I got charge even more and now I've got no money. where is my refund??”",
       "themes": [
@@ -69,7 +81,7 @@
       "id": "googleplay-610d1377-b5c9-4cca-bcb8-e17e7fac0bda",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "16 Sept 2026",
       "sentiment": "Mixed",
       "quote": "“dog water app. slightly cheaper than lime (although they have been increasing thier prices and presumably will soon achieve parity) but you regularly have to bike 10 minutes (walk) away to park the bike. only useful for regular journeys where you know you can park close to where you're going, and at that point just bu…”",
       "themes": [
@@ -116,10 +128,10 @@
     {
       "id": "news-19skojv",
       "source": "News",
-      "market": "Daily Echo",
+      "market": "dailyecho.co.uk",
       "date": "14 Sept 2026",
       "sentiment": "Mixed",
-      "quote": "“Drunk Voi e-scooter rider was almost three times over limit - Daily Echo”",
+      "quote": "“Drunk Voi e-scooter rider was almost three times over limit - dailyecho.co.uk”",
       "themes": [
         "General feedback"
       ],
@@ -136,35 +148,10 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=862fa1f7-7d75-4910-8cf4-99d1c64f887d"
-    },
-    {
-      "id": "googleplay-e39648dc-63ac-4702-a90c-d15f44b4f472",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "13 Sept 2026",
-      "sentiment": "Negative",
-      "quote": "“voi company scammers! first 10 min ride free !?? did ride 9 min get charged 1.60£ ! I know it's not a big amount to pay, but FREE it's meaning 0£ ! so my experience with company VOI scammers don't use them!”",
-      "themes": [
-        "Billing",
-        "Trust"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=e39648dc-63ac-4702-a90c-d15f44b4f472"
-    },
-    {
-      "id": "googleplay-2afed03f-861b-4e7e-96be-1fc029adf5f4",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "13 Sept 2026",
-      "sentiment": "Mixed",
-      "quote": "“Why do you encourage such laziness with these e scooters? I'm serious too, with these dumped everywhere taking up room on pathways it's made everywhere look like such a mess. People have legs to get around, people should use them.”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=2afed03f-861b-4e7e-96be-1fc029adf5f4"
     }
   ],
   "sentimentSummary": {
-    "negative": 1,
+    "negative": 0,
     "mixed": 12,
     "positive": 0
   },
@@ -172,38 +159,38 @@
     {
       "label": "General feedback",
       "count": 7,
-      "trend": "down",
-      "delta": -33
-    },
-    {
-      "label": "Billing",
-      "count": 2,
       "trend": "flat",
       "delta": 0
     },
     {
       "label": "Phone holder",
       "count": 1,
-      "trend": "up",
-      "delta": 1
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "Parking data",
       "count": 1,
-      "trend": "up",
-      "delta": 1
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "Refunds",
       "count": 1,
-      "trend": "down",
-      "delta": -1
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "First ride",
       "count": 1,
-      "trend": "down",
-      "delta": -1
+      "trend": "flat",
+      "delta": 0
+    },
+    {
+      "label": "vs. Lime",
+      "count": 1,
+      "trend": "up",
+      "delta": 1
     }
   ],
   "sources": [
@@ -217,7 +204,7 @@
     },
     {
       "label": "Google Play",
-      "count": 11
+      "count": 9
     },
     {
       "label": "Reddit",
@@ -225,7 +212,7 @@
     },
     {
       "label": "News",
-      "count": 2
+      "count": 3
     },
     {
       "label": "X",
