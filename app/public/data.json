@@ -1,9 +1,45 @@
 {
-  "generatedAt": "2026-09-22T11:16:26.321Z",
-  "checkedLabel": "22 Sept 2026",
-  "windowLabel": "Last month",
+  "generatedAt": "2026-09-23T11:09:29.303Z",
+  "checkedLabel": "23 Sept 2026",
+  "windowLabel": "Last week",
   "rotateSeconds": 12,
   "posts": [
+    {
+      "id": "news-13x4882",
+      "source": "News",
+      "market": "road.cc",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Thieves have been nicking batteries from Voi e-scooters in the West Midlands - road.cc”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaDNIeVA0YnlLaGRYVWhuTUpIOXpaZkVfdE9EVEl2RVJkTDYzb05WaG4zWE9tVUJ4UjUwdGVNOVVCR3pHb3dFREl3RlZSeTNlcFZPSENaY2RuTTBnLXpzUDZkVmgzUk9QQlg4amZ0aWhEZ3pkejR3bHM2UllJNHo1ZldXMHcyLUg4LTRGRVBySHNRemdUWHJ0d2owcTJBcm5ndU9VZzMteWxLWnUtVnVTS3BxUk5iX0ZaTERmcg?oc=5"
+    },
+    {
+      "id": "googleplay-f0f0df72-a765-4ca6-918e-991e9c2328ca",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“hab extra ein code geholt der laut app nicht gültig ist. nutzlos.”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=f0f0df72-a765-4ca6-918e-991e9c2328ca"
+    },
+    {
+      "id": "googleplay-29fe6817-581e-488c-8b5e-3523886b0849",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Negative",
+      "quote": "“Used to be quite dangerous when it started a few months ago as breaks would randomly engage - it is much better now!!”",
+      "themes": [
+        "Safety"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=29fe6817-581e-488c-8b5e-3523886b0849"
+    },
     {
       "id": "googleplay-57b73792-c469-42ed-a2d3-1f28e7bf7efa",
       "source": "Google Play",
@@ -20,7 +56,7 @@
       "id": "googleplay-5f105040-81a1-48b9-b60c-d660c0865333",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "19 Sept 2026",
       "sentiment": "Mixed",
       "quote": "“wayyyy to expensive, accidently payed over €50 for 2 hours of biking. so please check if there is a cheaper option in the town you're wanting to ride a bike... lots of cities of local programs.”",
       "themes": [
@@ -32,7 +68,7 @@
       "id": "googleplay-5c800fff-b1b9-48ea-a74d-67f21ecb8e50",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "19 Sept 2026",
       "sentiment": "Mixed",
       "quote": "“Defective app. Every time I try to add a payment method, it loads forever. No error. I let it load for 5 minutes before giving up. I guess they don't want my business.”",
       "themes": [
@@ -112,508 +148,49 @@
         "vs. Lime"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=610d1377-b5c9-4cca-bcb8-e17e7fac0bda"
-    },
-    {
-      "id": "googleplay-4d496884-ba5b-4f67-82e0-48fe52efa870",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "15 Sept 2026",
-      "sentiment": "Mixed",
-      "quote": "“App requires seeing your driving licence before you can unlock a scooter. I needed a scooter in a hurry and didn't have my licence with me, making this impossible and causing me to be late. Not sure why the app can't use driving licence details and confirm with DVLA?”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=4d496884-ba5b-4f67-82e0-48fe52efa870"
-    },
-    {
-      "id": "googleplay-cb708dd4-4524-4b9a-845b-ef171fb47686",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "14 Sept 2026",
-      "sentiment": "Mixed",
-      "quote": "“scummy app that continues billing you when you end the ride”",
-      "themes": [
-        "Billing"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=cb708dd4-4524-4b9a-845b-ef171fb47686"
-    },
-    {
-      "id": "googleplay-07da7cde-d069-44bd-b1b4-dcfadf9b4fc0",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "14 Sept 2026",
-      "sentiment": "Mixed",
-      "quote": "“does not recognise any parking bays”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=07da7cde-d069-44bd-b1b4-dcfadf9b4fc0"
-    },
-    {
-      "id": "news-19skojv",
-      "source": "News",
-      "market": "Daily Echo",
-      "date": "14 Sept 2026",
-      "sentiment": "Mixed",
-      "quote": "“Drunk Voi e-scooter rider was almost three times over limit - Daily Echo”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNUlMQ2VWeEtNTFZxNmR3Mm5QODJ5LWJ1U3ZfUkdudEp5QWo3c3MxVXZxdHpQZWNoNXpqYVpDNjFrNHVVMkQxb2tvcWJBcmo5Rl9vTkxueXhDdk5VT0JGRUFTMExLcWpLRUN3OWp6VXdTVVRCMDM0Mi1kSnQ1T0l5OUZNY0VTOVEyUy1ESllXUk45MDJFQmpZ?oc=5"
-    },
-    {
-      "id": "googleplay-862fa1f7-7d75-4910-8cf4-99d1c64f887d",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "13 Sept 2026",
-      "sentiment": "Mixed",
-      "quote": "“shittiest thing ever they just tryna rip people's money.”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=862fa1f7-7d75-4910-8cf4-99d1c64f887d"
-    },
-    {
-      "id": "googleplay-e39648dc-63ac-4702-a90c-d15f44b4f472",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "13 Sept 2026",
-      "sentiment": "Negative",
-      "quote": "“voi company scammers! first 10 min ride free !?? did ride 9 min get charged 1.60£ ! I know it's not a big amount to pay, but FREE it's meaning 0£ ! so my experience with company VOI scammers don't use them!”",
-      "themes": [
-        "Billing",
-        "Trust"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=e39648dc-63ac-4702-a90c-d15f44b4f472"
-    },
-    {
-      "id": "googleplay-2afed03f-861b-4e7e-96be-1fc029adf5f4",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "13 Sept 2026",
-      "sentiment": "Mixed",
-      "quote": "“Why do you encourage such laziness with these e scooters? I'm serious too, with these dumped everywhere taking up room on pathways it's made everywhere look like such a mess. People have legs to get around, people should use them.”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=2afed03f-861b-4e7e-96be-1fc029adf5f4"
-    },
-    {
-      "id": "news-1cme9g5",
-      "source": "News",
-      "market": "HAZ",
-      "date": "11 Sept 2026",
-      "sentiment": "Mixed",
-      "quote": "“Falsch abgestellte E-Scooter in Ronnenberg: Anbieter Voi erklärt sein Sanktionssystem - HAZ”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxORUF2THJEWk5va3BCb0hmRDNzblVzNjZZZmJvZ1RJb21IY0ljdzQ4WWwyTWI2LWNPMC1URDM1MU1pVGp1aXY5OGNVUDhOa1pkV2w2YnIxRktJa3VrX0M1OFVuQ3k0eFExQm5Vd28zNUZZWEhscW1LanJfc1ltbUFFYnJXdXUzUXRncWdxLUdaemowdWtwdXVzRENYSUI4bzZCQkVPa2Z4LTkzMDRveExGNG5iMDJLYUdLRlZnLUo2WkROSldGT3d6b3lBMU9ZUExDNWRsdGFGRXljQVF5VDM1SlNhXzFBRFcxVlFaaHQ3cmFhNlh60gGQAkFVX3lxTE1raTFncV9oc2R0NTRtNGdGV1RMU25tZTRQdmR5S0F5WHR1d294eEdyLUlMNXhONENsSlJfeWF5YjRoMWFaQ0RCNk0ydEVwdUVRem9TWjJUN0hrQnNRdXd2VGVNejBoaXg5VWlWbF92ZlRaY0FwYm05QndxRzAycUxrMTVJcEpsZFRTTkc2NTlJYVhJY0xhaHNKSTVSTHBrbzhVMTNtalRlLUtTU0RGbUhaRi14U2RtdTF3UzR0UmRaN2QwLTgxZ1pzb1puSHVpejJXbTNEeDdpT3d0cnFPOUh4UEp0T1M2T3pSbVBoTDFnd0xTVk1aSFJnV2pzNjItZENmbVVtVUdVcHFKUEZCS29S?oc=5"
-    },
-    {
-      "id": "googleplay-fb975c1d-071a-4a96-b1dc-ddd8b1b134ce",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "10 Sept 2026",
-      "sentiment": "Negative",
-      "quote": "“awful. worst experience ever. they have like 3 parkings in London and all are far from where I needed to go. I lost my because of it. hate Voi. never again”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=fb975c1d-071a-4a96-b1dc-ddd8b1b134ce"
-    },
-    {
-      "id": "googleplay-35c8bbe7-c00e-4bc3-8ac5-603944c120f1",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "10 Sept 2026",
-      "sentiment": "Negative",
-      "quote": "“Had a frustrating experience recently when the scooter suddenly entered a slow zone on a public bike path. Scooter dropped to snail's pace of 5 to 6 km/hour while all the bikes on the same path speed past. Would have been faster to walk, but the slow zone was also a no-park zone in the app, so before you know it, you'…”",
-      "themes": [
-        "Geofencing"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=35c8bbe7-c00e-4bc3-8ac5-603944c120f1"
-    },
-    {
-      "id": "googleplay-c18c7a70-87db-4aab-8020-d557e5af6b61",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "10 Sept 2026",
-      "sentiment": "Negative",
-      "quote": "“Used it for a 15mins cycle then it said parking was full go to this other one back from where I came, so I went then it said thats full too and go back to the one I picked it up from in the first place. joke of a app. you also can't speak to support while having am active reservation so any issues cant be dealt with”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=c18c7a70-87db-4aab-8020-d557e5af6b61"
-    },
-    {
-      "id": "googleplay-8de61b4d-bca3-464d-b855-265e912b1859",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "10 Sept 2026",
-      "sentiment": "Mixed",
-      "quote": "“the best e-scooter app 🛴”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=8de61b4d-bca3-464d-b855-265e912b1859"
-    },
-    {
-      "id": "googleplay-f71d7af4-fa4a-4e71-93df-5d91495ef25b",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "9 Sept 2026",
-      "sentiment": "Negative",
-      "quote": "“Wouldn't let me park back next to the two scooters I found it parked with so I had to double back and walk 5 minutes home anyway. which took more time and so cost me about a £1 to figure out where it would let me park and double back. A good experiment but has 2/3 the problem of buses, cost a fair bit (25p a minute) a…”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=f71d7af4-fa4a-4e71-93df-5d91495ef25b"
-    },
-    {
-      "id": "googleplay-70e4c154-6a21-4523-b1ac-a547f93c80b5",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "9 Sept 2026",
-      "sentiment": "Negative",
-      "quote": "“​Terrible false advertising. The bikes advertise 'First ride free' on the street, but they charge you anyway and claim it only applies to specific 'campaigns.' Customer service called my refund a 'goodwill gesture' instead of honoring their own promotion. Glasgow users, be fully warned—do not trust the free ride promo.”",
-      "themes": [
-        "First ride",
-        "Refunds"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=70e4c154-6a21-4523-b1ac-a547f93c80b5"
-    },
-    {
-      "id": "googleplay-ea3b7307-4775-432f-8ff4-d8b25c0b4ea8",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "9 Sept 2026",
-      "sentiment": "Mixed",
-      "quote": "“🙂would like to be able to reduce power assist. and bike needs a cup holder/water bottle holder, please.”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=ea3b7307-4775-432f-8ff4-d8b25c0b4ea8"
-    },
-    {
-      "id": "googleplay-ba208916-6254-4fc0-958d-284526f1283d",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "8 Sept 2026",
-      "sentiment": "Mixed",
-      "quote": "“Took my discount and could not even ride”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=ba208916-6254-4fc0-958d-284526f1283d"
-    },
-    {
-      "id": "news-8ya1j2",
-      "source": "News",
-      "market": "My London",
-      "date": "8 Sept 2026",
-      "sentiment": "Mixed",
-      "quote": "“Voi e-bike operator refusing to leave London borough after missing out on contract - My London”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU1pXeG1zT3VhVWRyTEx2R2RGY0FBV0tJZm43cjFER3VfSEVUQjNZVGhtc194RlhVQ3E1YVpYamtzQXBheEh4RGpGeWdFNjFHWTJHNlFJVFVVZmp6WDc4cjhDMDlOaGphM21CNGM5cW12LVRqSDhIV1hJOUQ0dDB5WGhSdzLSAYoBQVVfeXFMT1gtci1UaDlJdXd3dmM3bEpNNHBva201eG9MczFFZWRDTWQyeTRCTUlXRWkzazBSNHhVTTlGcFdTWElDVThqUm9oRXdkeENNTkN6UXlMVm9qNVd3QmpzWWxfSWloa1JLd2tCUXd2ZnJUeGM1QjB6MFFGWWQ5Und2Z2hyUS1xWGZyQjFR?oc=5"
-    },
-    {
-      "id": "googleplay-ba1069fc-27da-405b-8342-eaaebefb866a",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "7 Sept 2026",
-      "sentiment": "Positive",
-      "quote": "“Great rides atrocious parking and customer service The bike purposefully wouldn't let you end rides in the ebike zone near my local station, regardless of how empty it was. This often meant having to end rides using the chatbot or by cycling away from the station to the next nearest spot. The whole thing strikes me as…”",
-      "themes": [
-        "Support"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=ba1069fc-27da-405b-8342-eaaebefb866a"
-    },
-    {
-      "id": "googleplay-77b1a048-0b23-485b-b411-64d750876c17",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "6 Sept 2026",
-      "sentiment": "Positive",
-      "quote": "“fast and reliable”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=77b1a048-0b23-485b-b411-64d750876c17"
-    },
-    {
-      "id": "googleplay-636cbbbd-0c84-4273-b8e6-2be8eaf3afa7",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "5 Sept 2026",
-      "sentiment": "Negative",
-      "quote": "“The bikes are OK. The app has a horrible issue though. You can't use the bikes in outer London, and you can't end the journey in large chunks of inner London. Like the whole of Camden and Lewisham, it turns out. The help clearly shows the colours that indicate that. BUT in dark mode, they simply don't show on the actu…”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=636cbbbd-0c84-4273-b8e6-2be8eaf3afa7"
-    },
-    {
-      "id": "googleplay-9e27eb1d-ba8c-4146-a2f4-7c3cb8832119",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "4 Sept 2026",
-      "sentiment": "Mixed",
-      "quote": "“very nice experience”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=9e27eb1d-ba8c-4146-a2f4-7c3cb8832119"
-    },
-    {
-      "id": "googleplay-e59e405a-2f70-49d8-acb0-a6cdd102cd9d",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "3 Sept 2026",
-      "sentiment": "Mixed",
-      "quote": "“really good service especially on Isle of Wight where it's not over subscribed”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=e59e405a-2f70-49d8-acb0-a6cdd102cd9d"
-    },
-    {
-      "id": "googleplay-774677e0-3eef-4f79-a5dc-83321f07ca4e",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "3 Sept 2026",
-      "sentiment": "Positive",
-      "quote": "“The app is quite intuitive and works smoothly. I used the sharing service as a tourist for a few days and I liked it a lot”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=774677e0-3eef-4f79-a5dc-83321f07ca4e"
-    },
-    {
-      "id": "googleplay-0bcbaada-736c-4431-8a9d-fac5b1abe25b",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "2 Sept 2026",
-      "sentiment": "Mixed",
-      "quote": "“Best E-Scooter option in my experience”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=0bcbaada-736c-4431-8a9d-fac5b1abe25b"
-    },
-    {
-      "id": "googleplay-303d0f7c-8af5-42f9-b17d-5bf537a27b5b",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "2 Sept 2026",
-      "sentiment": "Mixed",
-      "quote": "“cheaters! selling passes for towns where they don't operate”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=303d0f7c-8af5-42f9-b17d-5bf537a27b5b"
-    },
-    {
-      "id": "googleplay-a882ebb3-c5f6-46db-a634-1244c3644bfb",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "1 Sept 2026",
-      "sentiment": "Mixed",
-      "quote": "“you aren't allowed to prefill payment options using auto-fill”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=a882ebb3-c5f6-46db-a634-1244c3644bfb"
-    },
-    {
-      "id": "googleplay-dbcfb644-5c7d-4094-b3f0-b4e8b11ab42e",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "31 Aug 2026",
-      "sentiment": "Negative",
-      "quote": "“Been using it since May 2026 without any issues, however recently since changing phones (Pixel 11 pro XL) speed is limited to 15 miles and when trying to follow help page instructions, I can't find ride mode -Bike settings, just ride mode settings for scooters.”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=dbcfb644-5c7d-4094-b3f0-b4e8b11ab42e"
-    },
-    {
-      "id": "googleplay-19de75f0-ed76-4ba3-91f3-c049ff897984",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "31 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“horrible prices”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=19de75f0-ed76-4ba3-91f3-c049ff897984"
-    },
-    {
-      "id": "googleplay-d3007f48-da15-42ad-b89f-7a35061f3305",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "29 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“sold me a pass for Oslo and Bergen, now Bergen is closed and i can't use my pass”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=d3007f48-da15-42ad-b89f-7a35061f3305"
-    },
-    {
-      "id": "googleplay-c89e0792-ecf5-4b95-86cf-0bbc4b2285c4",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "29 Aug 2026",
-      "sentiment": "Negative",
-      "quote": "“Terrible first experience with Voi. The app let me unlock a bike without clearly warning that it was already in a “no ride zone”, so the electric assistance was disabled and I was left pedalling a very heavy bike manually. My destination was also a no ride zone, so I then had to contact support just to end the ride. I…”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=c89e0792-ecf5-4b95-86cf-0bbc4b2285c4"
-    },
-    {
-      "id": "googleplay-5d18afc5-815f-42b0-84f9-e36374c723ac",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "28 Aug 2026",
-      "sentiment": "Negative",
-      "quote": "“Worst bike service ever. Nowhere near value for money and the recent speed restrictions to 15mph are an absolute joke. An absolute rip-off.”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=5d18afc5-815f-42b0-84f9-e36374c723ac"
-    },
-    {
-      "id": "googleplay-674d503d-65d0-49e0-a615-fc5bceb37e50",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "28 Aug 2026",
-      "sentiment": "Positive",
-      "quote": "“Great little scooter for doing the shopping 😁”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=674d503d-65d0-49e0-a615-fc5bceb37e50"
-    },
-    {
-      "id": "googleplay-db2988cd-2c25-46ff-88ff-1a393973aeed",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "27 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“customer service is absolutely garbage! no help whatsoever! Hardly any parking bays when I needed one and the next one was another 20 min bike ride away! Wouldn't end the ride and I ended up missing 2 trains then forced to ride the bike to the parking bay incurring fees I shouldn't have to pay for! Absolutely joke of…”",
-      "themes": [
-        "Support"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=db2988cd-2c25-46ff-88ff-1a393973aeed"
-    },
-    {
-      "id": "googleplay-2fc91422-5849-46f8-a30d-ae45734e917b",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "26 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“Finding a parking spot is nearly impossible. And the 'find nearest parking spot' Feature doesn't help either. The feature routes you to a parking spot with a dark blue line on gray background. its impossible to see for a normal human being. After using this feature (costing me 10€ extra because apparently dortmund onl…”",
-      "themes": [
-        "Parking data"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=2fc91422-5849-46f8-a30d-ae45734e917b"
-    },
-    {
-      "id": "googleplay-42b6bf46-caa3-45c6-a6d3-f040df11705f",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "26 Aug 2026",
-      "sentiment": "Positive",
-      "quote": "“Fantastic, I like it but a little expensive.”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=42b6bf46-caa3-45c6-a6d3-f040df11705f"
-    },
-    {
-      "id": "googleplay-1d7cfd68-b613-4202-9158-a57557e83678",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "25 Aug 2026",
-      "sentiment": "Positive",
-      "quote": "“I switched from Lime but am not staying. Likes: more availability in London, bikes are cleaner and in better condition than Lime, and you can always see bikes on the map, even if you've booked a bike. BUT the ride is not smooth. The speed is capped (standard) but the mechanism for controlling this makes the bike jerk…”",
-      "themes": [
-        "vs. Lime",
-        "Vehicle condition"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=1d7cfd68-b613-4202-9158-a57557e83678"
-    },
-    {
-      "id": "googleplay-f7f8d136-8dc7-4cf1-8fdc-a62dce11d2c4",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "25 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“cruising”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=f7f8d136-8dc7-4cf1-8fdc-a62dce11d2c4"
-    },
-    {
-      "id": "googleplay-23a35c7a-5f12-42d7-afd2-e955c993e170",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "24 Aug 2026",
-      "sentiment": "Mixed",
-      "quote": "“Nice ride”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=23a35c7a-5f12-42d7-afd2-e955c993e170"
     }
   ],
   "sentimentSummary": {
-    "negative": 10,
-    "mixed": 30,
-    "positive": 7
+    "negative": 1,
+    "mixed": 10,
+    "positive": 1
   },
   "themes": [
     {
       "label": "General feedback",
-      "count": 34,
+      "count": 6,
+      "trend": "down",
+      "delta": -28
+    },
+    {
+      "label": "Safety",
+      "count": 2,
+      "trend": "up",
+      "delta": 2
+    },
+    {
+      "label": "Phone holder",
+      "count": 1,
+      "trend": "up",
+      "delta": 1
+    },
+    {
+      "label": "Parking data",
+      "count": 1,
       "trend": "down",
       "delta": -1
     },
     {
-      "label": "Parking data",
-      "count": 2,
-      "trend": "flat",
-      "delta": 0
-    },
-    {
       "label": "Refunds",
-      "count": 2,
-      "trend": "flat",
-      "delta": 0
+      "count": 1,
+      "trend": "down",
+      "delta": -1
     },
     {
       "label": "First ride",
-      "count": 2,
-      "trend": "flat",
-      "delta": 0
-    },
-    {
-      "label": "vs. Lime",
-      "count": 2,
-      "trend": "flat",
-      "delta": 0
-    },
-    {
-      "label": "Billing",
-      "count": 2,
-      "trend": "flat",
-      "delta": 0
+      "count": 1,
+      "trend": "down",
+      "delta": -1
     }
   ],
   "sources": [
@@ -627,7 +204,7 @@
     },
     {
       "label": "Google Play",
-      "count": 43
+      "count": 10
     },
     {
       "label": "Reddit",
@@ -635,7 +212,7 @@
     },
     {
       "label": "News",
-      "count": 4
+      "count": 2
     },
     {
       "label": "X",
