@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-09-25T11:31:27.193Z",
-  "checkedLabel": "25 Sept 2026",
+  "generatedAt": "2026-09-26T11:06:29.219Z",
+  "checkedLabel": "26 Sept 2026",
   "windowLabel": "Last week",
   "rotateSeconds": 12,
   "posts": [
+    {
+      "id": "googleplay-2aac8968-d4ad-4cc6-aa3c-746dd5fbe3fc",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Positive",
+      "quote": "“Wow, it's amazing riding these bikes it's my first time I tried it, but I really enjoyed it, and I definitely will try again and again 🫠🥸”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=2aac8968-d4ad-4cc6-aa3c-746dd5fbe3fc"
+    },
     {
       "id": "news-13x4882",
       "source": "News",
@@ -15,6 +27,18 @@
         "General feedback"
       ],
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaDNIeVA0YnlLaGRYVWhuTUpIOXpaZkVfdE9EVEl2RVJkTDYzb05WaG4zWE9tVUJ4UjUwdGVNOVVCR3pHb3dFREl3RlZSeTNlcFZPSENaY2RuTTBnLXpzUDZkVmgzUk9QQlg4amZ0aWhEZ3pkejR3bHM2UllJNHo1ZldXMHcyLUg4LTRGRVBySHNRemdUWHJ0d2owcTJBcm5ndU9VZzMteWxLWnUtVnVTS3BxUk5iX0ZaTERmcg?oc=5"
+    },
+    {
+      "id": "googleplay-3f9461d9-be04-4439-b799-48193c0cede6",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“nice ride for first time i enjoy it”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=3f9461d9-be04-4439-b799-48193c0cede6"
     },
     {
       "id": "googleplay-e9462839-7a41-44d2-903c-59cad40a3156",
@@ -80,7 +104,7 @@
       "id": "googleplay-5640c46f-4045-4df5-b191-e17b0b77bf9f",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "22 Sept 2026",
       "sentiment": "Negative",
       "quote": "“terrible service... not only is the parking zones incredibly specific, meaning you can barely park close to anything you're aiming for. the 3 rides for free (advertised on the bikes themselves) is of course behind a voucher code they never mention while downloading the app. and are not retroactive.... avoid”",
       "themes": [
@@ -151,15 +175,15 @@
   ],
   "sentimentSummary": {
     "negative": 2,
-    "mixed": 9,
-    "positive": 1
+    "mixed": 10,
+    "positive": 2
   },
   "themes": [
     {
       "label": "General feedback",
-      "count": 8,
-      "trend": "down",
-      "delta": -27
+      "count": 10,
+      "trend": "up",
+      "delta": 2
     },
     {
       "label": "Safety",
@@ -170,14 +194,14 @@
     {
       "label": "First ride",
       "count": 1,
-      "trend": "down",
-      "delta": -1
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "Promo codes",
       "count": 1,
-      "trend": "up",
-      "delta": 1
+      "trend": "flat",
+      "delta": 0
     }
   ],
   "sources": [
@@ -191,7 +215,7 @@
     },
     {
       "label": "Google Play",
-      "count": 11
+      "count": 13
     },
     {
       "label": "Reddit",
