@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-27T11:44:43.508Z",
-  "checkedLabel": "27 Sept 2026",
+  "generatedAt": "2026-09-28T13:24:24.884Z",
+  "checkedLabel": "28 Sept 2026",
   "windowLabel": "Last week",
   "rotateSeconds": 12,
   "posts": [
@@ -32,7 +32,7 @@
       "id": "googleplay-2aac8968-d4ad-4cc6-aa3c-746dd5fbe3fc",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "25 Sept 2026",
       "sentiment": "Positive",
       "quote": "“Wow, it's amazing riding these bikes it's my first time I tried it, but I really enjoyed it, and I definitely will try again and again 🫠🥸”",
       "themes": [
@@ -44,7 +44,7 @@
       "id": "googleplay-3f9461d9-be04-4439-b799-48193c0cede6",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "24 Sept 2026",
       "sentiment": "Mixed",
       "quote": "“nice ride for first time i enjoy it”",
       "themes": [
@@ -147,31 +147,19 @@
         "Safety"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=29fe6817-581e-488c-8b5e-3523886b0849"
-    },
-    {
-      "id": "googleplay-57b73792-c469-42ed-a2d3-1f28e7bf7efa",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "20 Sept 2026",
-      "sentiment": "Positive",
-      "quote": "“fantastico, great service, make sure you book off 😄”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=57b73792-c469-42ed-a2d3-1f28e7bf7efa"
     }
   ],
   "sentimentSummary": {
     "negative": 2,
     "mixed": 8,
-    "positive": 3
+    "positive": 2
   },
   "themes": [
     {
       "label": "General feedback",
-      "count": 10,
-      "trend": "flat",
-      "delta": 0
+      "count": 9,
+      "trend": "down",
+      "delta": -1
     },
     {
       "label": "First ride",
@@ -188,8 +176,8 @@
     {
       "label": "Safety",
       "count": 1,
-      "trend": "down",
-      "delta": -1
+      "trend": "flat",
+      "delta": 0
     }
   ],
   "sources": [
@@ -203,7 +191,7 @@
     },
     {
       "label": "Google Play",
-      "count": 13
+      "count": 12
     },
     {
       "label": "Reddit",
