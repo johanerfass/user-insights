@@ -1,9 +1,33 @@
 {
-  "generatedAt": "2026-10-02T12:11:59.292Z",
-  "checkedLabel": "2 Oct 2026",
+  "generatedAt": "2026-10-03T11:21:49.769Z",
+  "checkedLabel": "3 Oct 2026",
   "windowLabel": "Last month",
   "rotateSeconds": 12,
   "posts": [
+    {
+      "id": "googleplay-b55bc7e0-b200-4d11-ba36-7df7c4d3753a",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“please stop micro managing my parking”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=b55bc7e0-b200-4d11-ba36-7df7c4d3753a"
+    },
+    {
+      "id": "googleplay-21da8a0e-4a3b-4cd5-a13b-25bee382fa9f",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“idiotically over complicated, why can't one see prices easily without downloading the app?”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=21da8a0e-4a3b-4cd5-a13b-25bee382fa9f"
+    },
     {
       "id": "googleplay-a7b5d7cd-f2cc-4d1b-b8b3-f6278e133427",
       "source": "Google Play",
@@ -32,7 +56,7 @@
       "id": "news-snpl64",
       "source": "News",
       "market": "EU-Startups",
-      "date": "Recent",
+      "date": "30 Sept 2026",
       "sentiment": "Mixed",
       "quote": "“Swedish micromobility company Voi secures €150 million RCF to redeem outstanding bonds and scale its fleet - EU-Startups”",
       "themes": [
@@ -44,7 +68,7 @@
       "id": "googleplay-8d9e803a-e1c2-4b50-9925-5be8374f89b7",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "30 Sept 2026",
       "sentiment": "Positive",
       "quote": "“great ride 👌”",
       "themes": [
@@ -112,18 +136,6 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=3a55970b-99dc-40fe-b689-637d8c44e142"
-    },
-    {
-      "id": "googleplay-5b1c56ed-b735-45d3-82a4-0629c01a0ffb",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "25 Sept 2026",
-      "sentiment": "Positive",
-      "quote": "“Excellent.”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=5b1c56ed-b735-45d3-82a4-0629c01a0ffb"
     },
     {
       "id": "news-6931g7",
@@ -515,10 +527,10 @@
     {
       "id": "news-1ah449i",
       "source": "News",
-      "market": "bbc.co.uk",
+      "market": "BBC",
       "date": "9 Sept 2026",
       "sentiment": "Mixed",
-      "quote": "“E-bike firm Voi refuses to leave Ealing after contract ends - bbc.co.uk”",
+      "quote": "“E-bike firm Voi refuses to leave Ealing after contract ends - BBC”",
       "themes": [
         "General feedback"
       ],
@@ -607,61 +619,49 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=e59e405a-2f70-49d8-acb0-a6cdd102cd9d"
-    },
-    {
-      "id": "googleplay-774677e0-3eef-4f79-a5dc-83321f07ca4e",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "3 Sept 2026",
-      "sentiment": "Positive",
-      "quote": "“The app is quite intuitive and works smoothly. I used the sharing service as a tourist for a few days and I liked it a lot”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=774677e0-3eef-4f79-a5dc-83321f07ca4e"
     }
   ],
   "sentimentSummary": {
     "negative": 10,
-    "mixed": 33,
-    "positive": 8
+    "mixed": 35,
+    "positive": 6
   },
   "themes": [
     {
       "label": "General feedback",
       "count": 35,
-      "trend": "up",
-      "delta": 25
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "First ride",
       "count": 5,
-      "trend": "up",
-      "delta": 4
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "Billing",
       "count": 3,
-      "trend": "up",
-      "delta": 2
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "Trust",
       "count": 2,
-      "trend": "up",
-      "delta": 1
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "Safety",
       "count": 2,
-      "trend": "up",
-      "delta": 2
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "Refunds",
       "count": 2,
-      "trend": "up",
-      "delta": 2
+      "trend": "flat",
+      "delta": 0
     }
   ],
   "sources": [
