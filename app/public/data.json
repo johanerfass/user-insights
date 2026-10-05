@@ -1,9 +1,22 @@
 {
-  "generatedAt": "2026-10-04T12:03:45.578Z",
-  "checkedLabel": "4 Oct 2026",
+  "generatedAt": "2026-10-05T14:07:40.480Z",
+  "checkedLabel": "5 Oct 2026",
   "windowLabel": "Last week",
   "rotateSeconds": 12,
   "posts": [
+    {
+      "id": "mastodon-mastodon.social-117383710601057352",
+      "source": "Mastodon",
+      "market": "@ArboristManuel@nrw.social",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Ich bin in der nächsten Woche in #Hamburg. Weil ich meinen Fuß noch etwas schonen möchte, habe ich überlegt. Vor Ort mit #eScooter mobil zu sein. Offenbar gibt es 5 Anbieter: #Lime, #Bolt, #Dott, #Voi und #RydeTechnology. Gibt es Empfehlungen? #HH #verkehrswende”",
+      "themes": [
+        "vs. Lime",
+        "vs. Dott"
+      ],
+      "url": "https://nrw.social/@ArboristManuel/117383710519668655"
+    },
     {
       "id": "news-h3njjr",
       "source": "News",
@@ -32,7 +45,7 @@
       "id": "googleplay-b55bc7e0-b200-4d11-ba36-7df7c4d3753a",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "1 Oct 2026",
       "sentiment": "Mixed",
       "quote": "“please stop micro managing my parking”",
       "themes": [
@@ -44,7 +57,7 @@
       "id": "googleplay-21da8a0e-4a3b-4cd5-a13b-25bee382fa9f",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "1 Oct 2026",
       "sentiment": "Mixed",
       "quote": "“idiotically over complicated, why can't one see prices easily without downloading the app?”",
       "themes": [
@@ -79,10 +92,10 @@
     {
       "id": "news-snpl64",
       "source": "News",
-      "market": "EU-Startups",
+      "market": "eu-startups.com",
       "date": "30 Sept 2026",
       "sentiment": "Mixed",
-      "quote": "“Swedish micromobility company Voi secures €150 million RCF to redeem outstanding bonds and scale its fleet - EU-Startups”",
+      "quote": "“Swedish micromobility company Voi secures €150 million RCF to redeem outstanding bonds and scale its fleet - eu-startups.com”",
       "themes": [
         "General feedback"
       ],
@@ -152,33 +165,45 @@
   ],
   "sentimentSummary": {
     "negative": 2,
-    "mixed": 8,
+    "mixed": 9,
     "positive": 2
   },
   "themes": [
     {
       "label": "General feedback",
       "count": 9,
-      "trend": "down",
-      "delta": -26
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "First ride",
       "count": 2,
-      "trend": "down",
-      "delta": -3
+      "trend": "flat",
+      "delta": 0
+    },
+    {
+      "label": "vs. Lime",
+      "count": 1,
+      "trend": "up",
+      "delta": 1
+    },
+    {
+      "label": "vs. Dott",
+      "count": 1,
+      "trend": "up",
+      "delta": 1
     },
     {
       "label": "Trust",
       "count": 1,
-      "trend": "down",
-      "delta": -1
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "Billing",
       "count": 1,
-      "trend": "down",
-      "delta": -2
+      "trend": "flat",
+      "delta": 0
     }
   ],
   "sources": [
@@ -208,7 +233,7 @@
     },
     {
       "label": "Mastodon",
-      "count": 0
+      "count": 1
     },
     {
       "label": "Bluesky",
