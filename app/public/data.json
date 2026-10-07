@@ -1,9 +1,33 @@
 {
-  "generatedAt": "2026-10-06T13:05:05.407Z",
-  "checkedLabel": "6 Oct 2026",
+  "generatedAt": "2026-10-07T12:59:38.275Z",
+  "checkedLabel": "7 Oct 2026",
   "windowLabel": "Last month",
   "rotateSeconds": 12,
   "posts": [
+    {
+      "id": "googleplay-d6ecd935-3630-4ca5-b418-31618d7444ee",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“App has been great until recently. Any time I try to submit parking photos, the app crashes, and then get penalised for not ending the ride correctly. Riders should not be penalised for a buggy app.”",
+      "themes": [
+        "App reliability"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=d6ecd935-3630-4ca5-b418-31618d7444ee"
+    },
+    {
+      "id": "googleplay-2fd71eea-20f3-4f9c-b9a0-f99b3e6c5edf",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Positive",
+      "quote": "“great ride great price”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=2fd71eea-20f3-4f9c-b9a0-f99b3e6c5edf"
+    },
     {
       "id": "googleplay-2fc64c09-0a4b-4d07-99b8-a8bcaf21bfdf",
       "source": "Google Play",
@@ -15,18 +39,6 @@
         "vs. Lime"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=2fc64c09-0a4b-4d07-99b8-a8bcaf21bfdf"
-    },
-    {
-      "id": "news-10bfqfw",
-      "source": "News",
-      "market": "Road.cc",
-      "date": "Recent",
-      "sentiment": "Mixed",
-      "quote": "“Voi wants next government to remove driving licence requirement for rental e-scooters - Road.cc”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONEFBTVg2VlR5Y3phdGFRSnRzQXJvS2o3dDVhOGFRVE1HZHJ6Tk5qNU9mTEZBWGxrMHJORk1paGJYTEVQY3Y2cEU3SGFERldFZkRycVBvMTE3WFo4cDg5czFlVG1SZEJqbHpQTzZnOUlFanFlemJ1TkZydUhuWm5zRFVXbmtfa2Z2cUdnbW5wNFY4THRJUVdORTJIQTFCa3pXb1Q2QzdzUHgxVEZVVzNoM3ZZNGlLTGlHNHFvT0lkOGR4QQ?oc=5"
     },
     {
       "id": "mastodon-mastodon.social-117383710601057352",
@@ -44,14 +56,26 @@
     {
       "id": "news-h3njjr",
       "source": "News",
-      "market": "portsmouth.co.uk",
-      "date": "Recent",
+      "market": "Portsmouth News",
+      "date": "3 Oct 2026",
       "sentiment": "Mixed",
-      "quote": "“Gosport Voi bike-share scheme wins council backing despite objections blunder - portsmouth.co.uk”",
+      "quote": "“Gosport Voi bike-share scheme wins council backing despite objections blunder - Portsmouth News”",
       "themes": [
         "General feedback"
       ],
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV2NSVGpNblNoclVZcS1QSXg3ZURMM1lpNVUyTG9hWjZBM2hUT2hJelZKZmJvNmU5cnd5QjRyNURNaHBIa3Z1VmZhUDFYV1lDUGxENWFzM1V3c29lMnFiYVRNQmVVelNqdzFIRFRTZ1pKSnB5bGdUVUl3MzBRcU1WN0ZUQy0tZ3VUS1hWOXBjQUVCVUxrdk93NXlXSlVyM3VDUUtTREF1NDBMSkFjaTBEX1RoRWJWNVhOM25BM0t3MUw?oc=5"
+    },
+    {
+      "id": "news-j89ygc",
+      "source": "News",
+      "market": "Daily Echo",
+      "date": "3 Oct 2026",
+      "sentiment": "Mixed",
+      "quote": "“Voi e-scooter drink driver banned from road - In The Dock - Daily Echo”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYlQ0UVh5Vzk3dGR1ZVNtX1BLdkNkRV9qRlF5TXB5SFgtREs3LXFIVnpxVHg5ZERmUFhZb0lyT2FwWmFTU2pmekItMmJwV3JwQk50dGcyUFdtLVFVYTVRT05UaVJSZzkxZW84MXJ4T1N2WDRZVEVHWDk1T01JUjNJaThqSjBKTzJ5a3N5bnhKRldTRHBQZnA0?oc=5"
     },
     {
       "id": "googleplay-b55bc7e0-b200-4d11-ba36-7df7c4d3753a",
@@ -632,61 +656,49 @@
         "General feedback"
       ],
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU1pXeG1zT3VhVWRyTEx2R2RGY0FBV0tJZm43cjFER3VfSEVUQjNZVGhtc194RlhVQ3E1YVpYamtzQXBheEh4RGpGeWdFNjFHWTJHNlFJVFVVZmp6WDc4cjhDMDlOaGphM21CNGM5cW12LVRqSDhIV1hJOUQ0dDB5WGhSdzLSAYoBQVVfeXFMT1gtci1UaDlJdXd3dmM3bEpNNHBva201eG9MczFFZWRDTWQyeTRCTUlXRWkzazBSNHhVTTlGcFdTWElDVThqUm9oRXdkeENNTkN6UXlMVm9qNVd3QmpzWWxfSWloa1JLd2tCUXd2ZnJUeGM1QjB6MFFGWWQ5Und2Z2hyUS1xWGZyQjFR?oc=5"
-    },
-    {
-      "id": "googleplay-ba1069fc-27da-405b-8342-eaaebefb866a",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "7 Sept 2026",
-      "sentiment": "Positive",
-      "quote": "“Great rides atrocious parking and customer service The bike purposefully wouldn't let you end rides in the ebike zone near my local station, regardless of how empty it was. This often meant having to end rides using the chatbot or by cycling away from the station to the next nearest spot. The whole thing strikes me as…”",
-      "themes": [
-        "Support"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=ba1069fc-27da-405b-8342-eaaebefb866a"
     }
   ],
   "sentimentSummary": {
     "negative": 9,
-    "mixed": 38,
+    "mixed": 39,
     "positive": 6
   },
   "themes": [
     {
       "label": "General feedback",
-      "count": 35,
-      "trend": "up",
-      "delta": 26
-    },
-    {
-      "label": "First ride",
-      "count": 5,
-      "trend": "up",
-      "delta": 3
-    },
-    {
-      "label": "vs. Lime",
-      "count": 3,
-      "trend": "up",
-      "delta": 2
-    },
-    {
-      "label": "Billing",
-      "count": 3,
-      "trend": "up",
-      "delta": 2
-    },
-    {
-      "label": "Trust",
-      "count": 2,
+      "count": 36,
       "trend": "up",
       "delta": 1
     },
     {
+      "label": "First ride",
+      "count": 5,
+      "trend": "flat",
+      "delta": 0
+    },
+    {
+      "label": "vs. Lime",
+      "count": 3,
+      "trend": "flat",
+      "delta": 0
+    },
+    {
+      "label": "Billing",
+      "count": 3,
+      "trend": "flat",
+      "delta": 0
+    },
+    {
+      "label": "Trust",
+      "count": 2,
+      "trend": "flat",
+      "delta": 0
+    },
+    {
       "label": "Safety",
       "count": 2,
-      "trend": "up",
-      "delta": 2
+      "trend": "flat",
+      "delta": 0
     }
   ],
   "sources": [
@@ -700,7 +712,7 @@
     },
     {
       "label": "Google Play",
-      "count": 44
+      "count": 45
     },
     {
       "label": "Reddit",
