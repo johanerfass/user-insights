@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-10-07T12:59:38.275Z",
-  "checkedLabel": "7 Oct 2026",
+  "generatedAt": "2026-10-08T13:07:15.116Z",
+  "checkedLabel": "8 Oct 2026",
   "windowLabel": "Last month",
   "rotateSeconds": 12,
   "posts": [
+    {
+      "id": "googleplay-fc180c6b-6650-44b3-8945-25bf45c5aa60",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Negative",
+      "quote": "“Poor coverage compared to other apps, I cycled to Balham which is pretty central as London goes and found it was a no parking zone and I had to cycle way back out of my way to park. Other bikes can be ridden here no problem. Bikes slower than others, and the phone holder isn't secure, mine slipped out into the road wh…”",
+      "themes": [
+        "Phone holder"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=fc180c6b-6650-44b3-8945-25bf45c5aa60"
+    },
     {
       "id": "googleplay-d6ecd935-3630-4ca5-b418-31618d7444ee",
       "source": "Google Play",
@@ -32,7 +44,7 @@
       "id": "googleplay-2fc64c09-0a4b-4d07-99b8-a8bcaf21bfdf",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "4 Oct 2026",
       "sentiment": "Mixed",
       "quote": "“Good scooters and so much better priced than lime.”",
       "themes": [
@@ -44,7 +56,7 @@
       "id": "mastodon-mastodon.social-117383710601057352",
       "source": "Mastodon",
       "market": "@ArboristManuel@nrw.social",
-      "date": "Recent",
+      "date": "4 Oct 2026",
       "sentiment": "Mixed",
       "quote": "“Ich bin in der nächsten Woche in #Hamburg. Weil ich meinen Fuß noch etwas schonen möchte, habe ich überlegt, vor Ort mit #eScooter mobil zu sein. Offenbar gibt es 5 Anbieter: #Lime, #Bolt, #Dott, #Voi und #RydeTechnology. Gibt es Empfehlungen? #HH #verkehrswende”",
       "themes": [
@@ -52,18 +64,6 @@
         "vs. Dott"
       ],
       "url": "https://nrw.social/@ArboristManuel/117383710519668655"
-    },
-    {
-      "id": "news-h3njjr",
-      "source": "News",
-      "market": "Portsmouth News",
-      "date": "3 Oct 2026",
-      "sentiment": "Mixed",
-      "quote": "“Gosport Voi bike-share scheme wins council backing despite objections blunder - Portsmouth News”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV2NSVGpNblNoclVZcS1QSXg3ZURMM1lpNVUyTG9hWjZBM2hUT2hJelZKZmJvNmU5cnd5QjRyNURNaHBIa3Z1VmZhUDFYV1lDUGxENWFzM1V3c29lMnFiYVRNQmVVelNqdzFIRFRTZ1pKSnB5bGdUVUl3MzBRcU1WN0ZUQy0tZ3VUS1hWOXBjQUVCVUxrdk93NXlXSlVyM3VDUUtTREF1NDBMSkFjaTBEX1RoRWJWNVhOM25BM0t3MUw?oc=5"
     },
     {
       "id": "news-j89ygc",
@@ -76,6 +76,18 @@
         "General feedback"
       ],
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYlQ0UVh5Vzk3dGR1ZVNtX1BLdkNkRV9qRlF5TXB5SFgtREs3LXFIVnpxVHg5ZERmUFhZb0lyT2FwWmFTU2pmekItMmJwV3JwQk50dGcyUFdtLVFVYTVRT05UaVJSZzkxZW84MXJ4T1N2WDRZVEVHWDk1T01JUjNJaThqSjBKTzJ5a3N5bnhKRldTRHBQZnA0?oc=5"
+    },
+    {
+      "id": "news-13x4882",
+      "source": "News",
+      "market": "Road.cc",
+      "date": "2 Oct 2026",
+      "sentiment": "Mixed",
+      "quote": "“Thieves have been nicking batteries from Voi e-scooters in the West Midlands - Road.cc”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaDNIeVA0YnlLaGRYVWhuTUpIOXpaZkVfdE9EVEl2RVJkTDYzb05WaG4zWE9tVUJ4UjUwdGVNOVVCR3pHb3dFREl3RlZSeTNlcFZPSENaY2RuTTBnLXpzUDZkVmgzUk9QQlg4amZ0aWhEZ3pkejR3bHM2UllJNHo1ZldXMHcyLUg4LTRGRVBySHNRemdUWHJ0d2owcTJBcm5ndU9VZzMteWxLWnUtVnVTS3BxUk5iX0ZaTERmcg?oc=5"
     },
     {
       "id": "googleplay-b55bc7e0-b200-4d11-ba36-7df7c4d3753a",
@@ -124,18 +136,6 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=761bb5d5-8942-47bd-a24e-73063e994db0"
-    },
-    {
-      "id": "news-snpl64",
-      "source": "News",
-      "market": "EU-Startups",
-      "date": "30 Sept 2026",
-      "sentiment": "Mixed",
-      "quote": "“Swedish micromobility company Voi secures €150 million RCF to redeem outstanding bonds and scale its fleet - EU-Startups”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVkNXeThlazdPM2w4VVJ0eTNtNDRhMWplU3NXNW13em9HY3JRb1Joci1ONk5jVmpXSWpfblpNQWZ6bVIzcWNqWHpDLTFYSHlRT1o0Y1hZdkJ2QmFDZlZxdFp6RkRRR0xKTGpXSjlzOTlVLVlVeVAwM0dmSTIyc3ZaeF9zMk9PQllMWGNCam9iWmJRVkY3VUN5ZUZhU1hCWnNXaXhiTXNzX01kcHdUUElaS0FrSl92c0ZIYVZVS0JlXzhvZmxvOGc1NFZaN2pjOWllZGFVRTkxdTl0TXc?oc=5"
     },
     {
       "id": "googleplay-8d9e803a-e1c2-4b50-9925-5be8374f89b7",
@@ -644,31 +644,19 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=ba208916-6254-4fc0-958d-284526f1283d"
-    },
-    {
-      "id": "news-8ya1j2",
-      "source": "News",
-      "market": "My London",
-      "date": "8 Sept 2026",
-      "sentiment": "Mixed",
-      "quote": "“Voi e-bike operator refusing to leave London borough after missing out on contract - My London”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU1pXeG1zT3VhVWRyTEx2R2RGY0FBV0tJZm43cjFER3VfSEVUQjNZVGhtc194RlhVQ3E1YVpYamtzQXBheEh4RGpGeWdFNjFHWTJHNlFJVFVVZmp6WDc4cjhDMDlOaGphM21CNGM5cW12LVRqSDhIV1hJOUQ0dDB5WGhSdzLSAYoBQVVfeXFMT1gtci1UaDlJdXd3dmM3bEpNNHBva201eG9MczFFZWRDTWQyeTRCTUlXRWkzazBSNHhVTTlGcFdTWElDVThqUm9oRXdkeENNTkN6UXlMVm9qNVd3QmpzWWxfSWloa1JLd2tCUXd2ZnJUeGM1QjB6MFFGWWQ5Und2Z2hyUS1xWGZyQjFR?oc=5"
     }
   ],
   "sentimentSummary": {
-    "negative": 9,
-    "mixed": 39,
+    "negative": 10,
+    "mixed": 37,
     "positive": 6
   },
   "themes": [
     {
       "label": "General feedback",
-      "count": 36,
-      "trend": "up",
-      "delta": 1
+      "count": 34,
+      "trend": "down",
+      "delta": -2
     },
     {
       "label": "First ride",
@@ -689,13 +677,13 @@
       "delta": 0
     },
     {
-      "label": "Trust",
+      "label": "Phone holder",
       "count": 2,
-      "trend": "flat",
-      "delta": 0
+      "trend": "up",
+      "delta": 2
     },
     {
-      "label": "Safety",
+      "label": "Trust",
       "count": 2,
       "trend": "flat",
       "delta": 0
@@ -712,7 +700,7 @@
     },
     {
       "label": "Google Play",
-      "count": 45
+      "count": 46
     },
     {
       "label": "Reddit",
@@ -720,7 +708,7 @@
     },
     {
       "label": "News",
-      "count": 8
+      "count": 6
     },
     {
       "label": "X",
