@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-08T13:07:15.116Z",
-  "checkedLabel": "8 Oct 2026",
+  "generatedAt": "2026-10-09T12:53:55.412Z",
+  "checkedLabel": "9 Oct 2026",
   "windowLabel": "Last month",
   "rotateSeconds": 12,
   "posts": [
@@ -20,7 +20,7 @@
       "id": "googleplay-d6ecd935-3630-4ca5-b418-31618d7444ee",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "6 Oct 2026",
       "sentiment": "Mixed",
       "quote": "“App has been great until recently. Any time I try to submit parking photos, the app crashes, and then get penalised for not ending the ride correctly. Riders should not be penalised for a buggy app.”",
       "themes": [
@@ -32,7 +32,7 @@
       "id": "googleplay-2fd71eea-20f3-4f9c-b9a0-f99b3e6c5edf",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "5 Oct 2026",
       "sentiment": "Positive",
       "quote": "“great ride great price”",
       "themes": [
@@ -64,6 +64,18 @@
         "vs. Dott"
       ],
       "url": "https://nrw.social/@ArboristManuel/117383710519668655"
+    },
+    {
+      "id": "news-h3njjr",
+      "source": "News",
+      "market": "Portsmouth News",
+      "date": "3 Oct 2026",
+      "sentiment": "Mixed",
+      "quote": "“Gosport Voi bike-share scheme wins council backing despite objections blunder - Portsmouth News”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV2NSVGpNblNoclVZcS1QSXg3ZURMM1lpNVUyTG9hWjZBM2hUT2hJelZKZmJvNmU5cnd5QjRyNURNaHBIa3Z1VmZhUDFYV1lDUGxENWFzM1V3c29lMnFiYVRNQmVVelNqdzFIRFRTZ1pKSnB5bGdUVUl3MzBRcU1WN0ZUQy0tZ3VUS1hWOXBjQUVCVUxrdk93NXlXSlVyM3VDUUtTREF1NDBMSkFjaTBEX1RoRWJWNVhOM25BM0t3MUw?oc=5"
     },
     {
       "id": "news-j89ygc",
@@ -427,18 +439,6 @@
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=08380c44-2219-45c2-be19-b55027760860"
     },
     {
-      "id": "news-v9ittd",
-      "source": "News",
-      "market": "Placera.se",
-      "date": "17 Sept 2026",
-      "sentiment": "Mixed",
-      "quote": "“Stark tillväxt för Voi - Placera.se”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE11R3p4Y3BwTFVqMTdHVXhHZXNmM0ZNemh6R0V4NDBMdkkwMS15VkdPRFFpYW9GelZsb205eURTSDQ4QlU3QlNqWnBCeTZXUkdFUFFwV0oxekdOMnhxdWpaYlFRWmJFZnFlTzN4TE05UXBydw?oc=5"
-    },
-    {
       "id": "googleplay-7602640e-6a0f-475a-ba99-374c2c30e1c1",
       "source": "Google Play",
       "market": "GB",
@@ -608,55 +608,19 @@
         "Refunds"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=70e4c154-6a21-4523-b1ac-a547f93c80b5"
-    },
-    {
-      "id": "googleplay-ea3b7307-4775-432f-8ff4-d8b25c0b4ea8",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "9 Sept 2026",
-      "sentiment": "Mixed",
-      "quote": "“🙂would like to be able to reduce power assist. and bike needs a cup holder/water bottle holder, please.”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=ea3b7307-4775-432f-8ff4-d8b25c0b4ea8"
-    },
-    {
-      "id": "news-c7afof",
-      "source": "News",
-      "market": "BBC",
-      "date": "9 Sept 2026",
-      "sentiment": "Mixed",
-      "quote": "“E-bike firm Voi refuses to leave Ealing after contract ends - BBC”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4TC0xaThueGNaRmZtczdLRUV6a0dyV1FuMVBMODd0d2tDZFBqMHJLalJ3RU4wa2kyRjFfZlRhdXd1R3ZxbFpPZldxVmI1Ymo2SW9qLThOd2haUQ?oc=5"
-    },
-    {
-      "id": "googleplay-ba208916-6254-4fc0-958d-284526f1283d",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "8 Sept 2026",
-      "sentiment": "Mixed",
-      "quote": "“Took my discount and could not even ride”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=ba208916-6254-4fc0-958d-284526f1283d"
     }
   ],
   "sentimentSummary": {
     "negative": 10,
-    "mixed": 37,
+    "mixed": 34,
     "positive": 6
   },
   "themes": [
     {
       "label": "General feedback",
-      "count": 34,
+      "count": 31,
       "trend": "down",
-      "delta": -2
+      "delta": -3
     },
     {
       "label": "First ride",
@@ -679,8 +643,8 @@
     {
       "label": "Phone holder",
       "count": 2,
-      "trend": "up",
-      "delta": 2
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "Trust",
@@ -700,7 +664,7 @@
     },
     {
       "label": "Google Play",
-      "count": 46
+      "count": 44
     },
     {
       "label": "Reddit",
@@ -708,7 +672,7 @@
     },
     {
       "label": "News",
-      "count": 6
+      "count": 5
     },
     {
       "label": "X",
