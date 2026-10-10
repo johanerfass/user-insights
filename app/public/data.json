@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-10-09T12:53:55.412Z",
-  "checkedLabel": "9 Oct 2026",
+  "generatedAt": "2026-10-10T12:11:49.043Z",
+  "checkedLabel": "10 Oct 2026",
   "windowLabel": "Last month",
   "rotateSeconds": 12,
   "posts": [
+    {
+      "id": "googleplay-59e9ce26-50c6-4d80-9111-05dc9dd09aa6",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Map is very hard to read in dark mode. Please add a setting toggle to always use light mode (without changing it for all apps in the system settings).”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=59e9ce26-50c6-4d80-9111-05dc9dd09aa6"
+    },
     {
       "id": "googleplay-fc180c6b-6650-44b3-8945-25bf45c5aa60",
       "source": "Google Play",
@@ -64,42 +76,6 @@
         "vs. Dott"
       ],
       "url": "https://nrw.social/@ArboristManuel/117383710519668655"
-    },
-    {
-      "id": "news-h3njjr",
-      "source": "News",
-      "market": "Portsmouth News",
-      "date": "3 Oct 2026",
-      "sentiment": "Mixed",
-      "quote": "“Gosport Voi bike-share scheme wins council backing despite objections blunder - Portsmouth News”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV2NSVGpNblNoclVZcS1QSXg3ZURMM1lpNVUyTG9hWjZBM2hUT2hJelZKZmJvNmU5cnd5QjRyNURNaHBIa3Z1VmZhUDFYV1lDUGxENWFzM1V3c29lMnFiYVRNQmVVelNqdzFIRFRTZ1pKSnB5bGdUVUl3MzBRcU1WN0ZUQy0tZ3VUS1hWOXBjQUVCVUxrdk93NXlXSlVyM3VDUUtTREF1NDBMSkFjaTBEX1RoRWJWNVhOM25BM0t3MUw?oc=5"
-    },
-    {
-      "id": "news-j89ygc",
-      "source": "News",
-      "market": "Daily Echo",
-      "date": "3 Oct 2026",
-      "sentiment": "Mixed",
-      "quote": "“Voi e-scooter drink driver banned from road - In The Dock - Daily Echo”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYlQ0UVh5Vzk3dGR1ZVNtX1BLdkNkRV9qRlF5TXB5SFgtREs3LXFIVnpxVHg5ZERmUFhZb0lyT2FwWmFTU2pmekItMmJwV3JwQk50dGcyUFdtLVFVYTVRT05UaVJSZzkxZW84MXJ4T1N2WDRZVEVHWDk1T01JUjNJaThqSjBKTzJ5a3N5bnhKRldTRHBQZnA0?oc=5"
-    },
-    {
-      "id": "news-13x4882",
-      "source": "News",
-      "market": "Road.cc",
-      "date": "2 Oct 2026",
-      "sentiment": "Mixed",
-      "quote": "“Thieves have been nicking batteries from Voi e-scooters in the West Midlands - Road.cc”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaDNIeVA0YnlLaGRYVWhuTUpIOXpaZkVfdE9EVEl2RVJkTDYzb05WaG4zWE9tVUJ4UjUwdGVNOVVCR3pHb3dFREl3RlZSeTNlcFZPSENaY2RuTTBnLXpzUDZkVmgzUk9QQlg4amZ0aWhEZ3pkejR3bHM2UllJNHo1ZldXMHcyLUg4LTRGRVBySHNRemdUWHJ0d2owcTJBcm5ndU9VZzMteWxLWnUtVnVTS3BxUk5iX0ZaTERmcg?oc=5"
     },
     {
       "id": "googleplay-b55bc7e0-b200-4d11-ba36-7df7c4d3753a",
@@ -571,62 +547,25 @@
         "Geofencing"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=35c8bbe7-c00e-4bc3-8ac5-603944c120f1"
-    },
-    {
-      "id": "googleplay-8de61b4d-bca3-464d-b855-265e912b1859",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "10 Sept 2026",
-      "sentiment": "Mixed",
-      "quote": "“the best e-scooter app 🛴”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=8de61b4d-bca3-464d-b855-265e912b1859"
-    },
-    {
-      "id": "googleplay-f71d7af4-fa4a-4e71-93df-5d91495ef25b",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "9 Sept 2026",
-      "sentiment": "Negative",
-      "quote": "“Wouldn't let me park back next to the two scooters I found it parked with so I had to double back and walk 5 minutes home anyway. which took more time and so cost me about a £1 to figure out where it would let me park and double back. A good experiment but has 2/3 the problem of buses, cost a fair bit (25p a minute) a…”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=f71d7af4-fa4a-4e71-93df-5d91495ef25b"
-    },
-    {
-      "id": "googleplay-70e4c154-6a21-4523-b1ac-a547f93c80b5",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "9 Sept 2026",
-      "sentiment": "Negative",
-      "quote": "“​Terrible false advertising. The bikes advertise 'First ride free' on the street, but they charge you anyway and claim it only applies to specific 'campaigns.' Customer service called my refund a 'goodwill gesture' instead of honoring their own promotion. Glasgow users, be fully warned—do not trust the free ride promo.”",
-      "themes": [
-        "First ride",
-        "Refunds"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=70e4c154-6a21-4523-b1ac-a547f93c80b5"
     }
   ],
   "sentimentSummary": {
-    "negative": 10,
-    "mixed": 34,
+    "negative": 8,
+    "mixed": 31,
     "positive": 6
   },
   "themes": [
     {
       "label": "General feedback",
-      "count": 31,
+      "count": 27,
       "trend": "down",
-      "delta": -3
+      "delta": -4
     },
     {
       "label": "First ride",
-      "count": 5,
-      "trend": "flat",
-      "delta": 0
+      "count": 4,
+      "trend": "down",
+      "delta": -1
     },
     {
       "label": "vs. Lime",
@@ -664,7 +603,7 @@
     },
     {
       "label": "Google Play",
-      "count": 44
+      "count": 42
     },
     {
       "label": "Reddit",
@@ -672,7 +611,7 @@
     },
     {
       "label": "News",
-      "count": 5
+      "count": 2
     },
     {
       "label": "X",
