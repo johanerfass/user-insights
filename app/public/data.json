@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-10T12:11:49.043Z",
-  "checkedLabel": "10 Oct 2026",
+  "generatedAt": "2026-10-11T12:29:31.794Z",
+  "checkedLabel": "11 Oct 2026",
   "windowLabel": "Last month",
   "rotateSeconds": 12,
   "posts": [
@@ -20,7 +20,7 @@
       "id": "googleplay-fc180c6b-6650-44b3-8945-25bf45c5aa60",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "7 Oct 2026",
       "sentiment": "Negative",
       "quote": "“Poor coverage compared to other apps, I cycled to Balham which is pretty central as London goes and found it was a no parking zone and I had to cycle way back out of my way to park. Other bikes can be ridden here no problem. Bikes slower than others, and the phone holder isn't secure, mine slipped out into the road wh…”",
       "themes": [
@@ -209,18 +209,6 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=5b1c56ed-b735-45d3-82a4-0629c01a0ffb"
-    },
-    {
-      "id": "news-6931g7",
-      "source": "News",
-      "market": "Dagens industri",
-      "date": "25 Sept 2026",
-      "sentiment": "Mixed",
-      "quote": "“Voi och Blablacar går samman i Frankrike - Dagens industri”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16WUs4UDlGNVdqN1pDUEI4dDVSYkVnTDJtSi1WZ0tYaUhLNWNYcTBJTDgtdEtuNFFlS180SzV6WG9vb2JhTDZWVHNZS3NMM1VpeGgwYUhNQkxGLTA3MHJqeGVjbTdRSDBob3QybUdJNTlGVkFKT2c?oc=5"
     },
     {
       "id": "googleplay-2aac8968-d4ad-4cc6-aa3c-746dd5fbe3fc",
@@ -511,61 +499,25 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=2afed03f-861b-4e7e-96be-1fc029adf5f4"
-    },
-    {
-      "id": "news-1cme9g5",
-      "source": "News",
-      "market": "HAZ",
-      "date": "11 Sept 2026",
-      "sentiment": "Mixed",
-      "quote": "“Falsch abgestellte E-Scooter in Ronnenberg: Anbieter Voi erklärt sein Sanktionssystem - HAZ”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxORUF2THJEWk5va3BCb0hmRDNzblVzNjZZZmJvZ1RJb21IY0ljdzQ4WWwyTWI2LWNPMC1URDM1MU1pVGp1aXY5OGNVUDhOa1pkV2w2YnIxRktJa3VrX0M1OFVuQ3k0eFExQm5Vd28zNUZZWEhscW1LanJfc1ltbUFFYnJXdXUzUXRncWdxLUdaemowdWtwdXVzRENYSUI4bzZCQkVPa2Z4LTkzMDRveExGNG5iMDJLYUdLRlZnLUo2WkROSldGT3d6b3lBMU9ZUExDNWRsdGFGRXljQVF5VDM1SlNhXzFBRFcxVlFaaHQ3cmFhNlh60gGQAkFVX3lxTE1raTFncV9oc2R0NTRtNGdGV1RMU25tZTRQdmR5S0F5WHR1d294eEdyLUlMNXhONENsSlJfeWF5YjRoMWFaQ0RCNk0ydEVwdUVRem9TWjJUN0hrQnNRdXd2VGVNejBoaXg5VWlWbF92ZlRaY0FwYm05QndxRzAycUxrMTVJcEpsZFRTTkc2NTlJYVhJY0xhaHNKSTVSTHBrbzhVMTNtalRlLUtTU0RGbUhaRi14U2RtdTF3UzR0UmRaN2QwLTgxZ1pzb1puSHVpejJXbTNEeDdpT3d0cnFPOUh4UEp0T1M2T3pSbVBoTDFnd0xTVk1aSFJnV2pzNjItZENmbVVtVUdVcHFKUEZCS29S?oc=5"
-    },
-    {
-      "id": "googleplay-fb975c1d-071a-4a96-b1dc-ddd8b1b134ce",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "10 Sept 2026",
-      "sentiment": "Negative",
-      "quote": "“awful. worst experience ever. they have like 3 parkings in London and all are far from where I needed to go. I lost my because of it. hate Voi. never again”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=fb975c1d-071a-4a96-b1dc-ddd8b1b134ce"
-    },
-    {
-      "id": "googleplay-35c8bbe7-c00e-4bc3-8ac5-603944c120f1",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "10 Sept 2026",
-      "sentiment": "Negative",
-      "quote": "“Had a frustrating experience recently when the scooter suddenly entered a slow zone on a public bike path. Scooter dropped to snail's pace of 5 to 6 km/hour while all the bikes on the same path speed past. Would have been faster to walk, but the slow zone was also a no-park zone in the app, so before you know it, you'…”",
-      "themes": [
-        "Geofencing"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=35c8bbe7-c00e-4bc3-8ac5-603944c120f1"
     }
   ],
   "sentimentSummary": {
-    "negative": 8,
-    "mixed": 31,
+    "negative": 6,
+    "mixed": 29,
     "positive": 6
   },
   "themes": [
     {
       "label": "General feedback",
-      "count": 27,
+      "count": 24,
       "trend": "down",
-      "delta": -4
+      "delta": -3
     },
     {
       "label": "First ride",
       "count": 4,
-      "trend": "down",
-      "delta": -1
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "vs. Lime",
@@ -603,7 +555,7 @@
     },
     {
       "label": "Google Play",
-      "count": 42
+      "count": 40
     },
     {
       "label": "Reddit",
@@ -611,7 +563,7 @@
     },
     {
       "label": "News",
-      "count": 2
+      "count": 0
     },
     {
       "label": "X",
