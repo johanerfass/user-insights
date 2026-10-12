@@ -1,14 +1,51 @@
 {
-  "generatedAt": "2026-10-11T12:29:31.794Z",
-  "checkedLabel": "11 Oct 2026",
+  "generatedAt": "2026-10-12T14:56:01.416Z",
+  "checkedLabel": "12 Oct 2026",
   "windowLabel": "Last month",
   "rotateSeconds": 12,
   "posts": [
     {
-      "id": "googleplay-59e9ce26-50c6-4d80-9111-05dc9dd09aa6",
+      "id": "news-9v14pn",
+      "source": "News",
+      "market": "Glasgow Times",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Glasgow Voi users brand removal of monthly pass option a ‘genuine disgrace’ - Glasgow Times”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVE9KSHR5T3RTaERJOGpLWHFSNEdLVUUtSDFxbzMyR3UxSXRwMFgxcHNkZkRUYnFxdHZ0WmJiLTJwdUk1RkJaeVp2dkJqM3RuN24zeW50bVh5Rm10NnFOWUJFU2VGczFRQlhrRF82bUJqcnQ4T0pSRmxFVjM0aVdpNGRLaS0wRXlpMW5YdGk1QW1oMEh0VzYtLTV6WGZGd09nMGlTdDJ1cVVvcFFORXZXbUE2akJMUQ?oc=5"
+    },
+    {
+      "id": "news-wccrog",
+      "source": "News",
+      "market": "FAZ",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Gefahr auf den Straßen: Lime, Voi und Bolt haften jetzt für ihre E-Scooter - FAZ”",
+      "themes": [
+        "vs. Lime",
+        "vs. Bolt"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOUk4Q1BTaEE4dDVRc2xydzFKXzVzRU5zbVRLMlZtdjZVdTVaU3h4NjVsMWJCQnpGWGNxdVJrN0VNdC1ucGFoZEVYSFBONVU3Qk1ieE04ODJtaDJ5YWNTRzA5NEx6U05SN3pRdzB2WU1sc09UVVRMUjhQMEtWblJRSHlFZ2wxY3h5c0xLNzFOdElsQk5mYW1xV29NX3RZMEU5SHRYZWZDYzMzMzFYQlVZbmJUZzNtTGlmQ2lCVkZaSGtweW8yaEJJanFuZVZpVUJQQzNzZVRKTmdhckE?oc=5"
+    },
+    {
+      "id": "googleplay-29181a3e-5f35-4439-af03-47191174fece",
       "source": "Google Play",
       "market": "GB",
       "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“this app is garbage, every time I need a bike to get to my job faster rather than walking, always I see this : error has occurred, try again later”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=29181a3e-5f35-4439-af03-47191174fece"
+    },
+    {
+      "id": "googleplay-59e9ce26-50c6-4d80-9111-05dc9dd09aa6",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "8 Oct 2026",
       "sentiment": "Mixed",
       "quote": "“Map is very hard to read in dark mode. Please add a setting toggle to always use light mode (without changing it for all apps in the system settings).”",
       "themes": [
@@ -503,25 +540,25 @@
   ],
   "sentimentSummary": {
     "negative": 6,
-    "mixed": 29,
+    "mixed": 32,
     "positive": 6
   },
   "themes": [
     {
       "label": "General feedback",
-      "count": 24,
-      "trend": "down",
-      "delta": -3
+      "count": 26,
+      "trend": "up",
+      "delta": 2
+    },
+    {
+      "label": "vs. Lime",
+      "count": 4,
+      "trend": "up",
+      "delta": 1
     },
     {
       "label": "First ride",
       "count": 4,
-      "trend": "flat",
-      "delta": 0
-    },
-    {
-      "label": "vs. Lime",
-      "count": 3,
       "trend": "flat",
       "delta": 0
     },
@@ -555,7 +592,7 @@
     },
     {
       "label": "Google Play",
-      "count": 40
+      "count": 41
     },
     {
       "label": "Reddit",
@@ -563,7 +600,7 @@
     },
     {
       "label": "News",
-      "count": 0
+      "count": 2
     },
     {
       "label": "X",
