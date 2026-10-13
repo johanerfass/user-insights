@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-12T14:56:01.416Z",
-  "checkedLabel": "12 Oct 2026",
+  "generatedAt": "2026-10-13T13:54:10.608Z",
+  "checkedLabel": "13 Oct 2026",
   "windowLabel": "Last month",
   "rotateSeconds": 12,
   "posts": [
@@ -511,60 +511,29 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=862fa1f7-7d75-4910-8cf4-99d1c64f887d"
-    },
-    {
-      "id": "googleplay-e39648dc-63ac-4702-a90c-d15f44b4f472",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "13 Sept 2026",
-      "sentiment": "Negative",
-      "quote": "“voi company scammers! first 10 min ride free !?? did ride 9 min get charged 1.60£ ! I know it's not a big amount to pay, but FREE it's meaning 0£ ! so my experience with company VOI scammers don't use them!”",
-      "themes": [
-        "Billing",
-        "Trust"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=e39648dc-63ac-4702-a90c-d15f44b4f472"
-    },
-    {
-      "id": "googleplay-2afed03f-861b-4e7e-96be-1fc029adf5f4",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "13 Sept 2026",
-      "sentiment": "Mixed",
-      "quote": "“Why do you encourage such laziness with these e scooters? I'm serious too, with these dumped everywhere taking up room on pathways it's made everywhere look like such a mess. People have legs to get around, people should use them.”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=2afed03f-861b-4e7e-96be-1fc029adf5f4"
     }
   ],
   "sentimentSummary": {
-    "negative": 6,
-    "mixed": 32,
+    "negative": 5,
+    "mixed": 31,
     "positive": 6
   },
   "themes": [
     {
       "label": "General feedback",
-      "count": 26,
-      "trend": "up",
-      "delta": 2
+      "count": 25,
+      "trend": "down",
+      "delta": -1
     },
     {
       "label": "vs. Lime",
-      "count": 4,
-      "trend": "up",
-      "delta": 1
-    },
-    {
-      "label": "First ride",
       "count": 4,
       "trend": "flat",
       "delta": 0
     },
     {
-      "label": "Billing",
-      "count": 3,
+      "label": "First ride",
+      "count": 4,
       "trend": "flat",
       "delta": 0
     },
@@ -575,10 +544,16 @@
       "delta": 0
     },
     {
-      "label": "Trust",
+      "label": "Billing",
       "count": 2,
-      "trend": "flat",
-      "delta": 0
+      "trend": "down",
+      "delta": -1
+    },
+    {
+      "label": "Safety",
+      "count": 2,
+      "trend": "up",
+      "delta": 2
     }
   ],
   "sources": [
@@ -592,7 +567,7 @@
     },
     {
       "label": "Google Play",
-      "count": 41
+      "count": 39
     },
     {
       "label": "Reddit",
