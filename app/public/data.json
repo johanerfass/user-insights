@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-10-13T13:54:10.608Z",
-  "checkedLabel": "13 Oct 2026",
+  "generatedAt": "2026-10-14T11:31:11.801Z",
+  "checkedLabel": "14 Oct 2026",
   "windowLabel": "Last month",
   "rotateSeconds": 12,
   "posts": [
+    {
+      "id": "googleplay-40c6d9dc-0cc8-4484-b3bc-fd0bfdca5188",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“ik heb voi plus en was altijd blij met voi maar nu moet je persee parkeren in speciale parkeer zones dat hoefte eerst niet en die parkeer zones zijn zo hinderlijk te bereiken dan denk je ff te fietsen om snel te zijn ben je als nog langer onderweg want je moet eerst terug fietsen en dan de rest lopen en de app maakt n…”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=40c6d9dc-0cc8-4484-b3bc-fd0bfdca5188"
+    },
     {
       "id": "news-9v14pn",
       "source": "News",
@@ -33,7 +45,7 @@
       "id": "googleplay-29181a3e-5f35-4439-af03-47191174fece",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "10 Oct 2026",
       "sentiment": "Mixed",
       "quote": "“this app is garbage, every time I need a bike to get to my job faster rather than walking, always I see this : error has occurred, try again later”",
       "themes": [
@@ -113,6 +125,18 @@
         "vs. Dott"
       ],
       "url": "https://nrw.social/@ArboristManuel/117383710519668655"
+    },
+    {
+      "id": "news-j89ygc",
+      "source": "News",
+      "market": "Daily Echo",
+      "date": "3 Oct 2026",
+      "sentiment": "Mixed",
+      "quote": "“Voi e-scooter drink driver banned from road - In The Dock - Daily Echo”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYlQ0UVh5Vzk3dGR1ZVNtX1BLdkNkRV9qRlF5TXB5SFgtREs3LXFIVnpxVHg5ZERmUFhZb0lyT2FwWmFTU2pmekItMmJwV3JwQk50dGcyUFdtLVFVYTVRT05UaVJSZzkxZW84MXJ4T1N2WDRZVEVHWDk1T01JUjNJaThqSjBKTzJ5a3N5bnhKRldTRHBQZnA0?oc=5"
     },
     {
       "id": "googleplay-b55bc7e0-b200-4d11-ba36-7df7c4d3753a",
@@ -487,30 +511,6 @@
         "Billing"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=cb708dd4-4524-4b9a-845b-ef171fb47686"
-    },
-    {
-      "id": "googleplay-07da7cde-d069-44bd-b1b4-dcfadf9b4fc0",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "14 Sept 2026",
-      "sentiment": "Mixed",
-      "quote": "“does not recognise any parking bays”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=07da7cde-d069-44bd-b1b4-dcfadf9b4fc0"
-    },
-    {
-      "id": "googleplay-862fa1f7-7d75-4910-8cf4-99d1c64f887d",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "13 Sept 2026",
-      "sentiment": "Mixed",
-      "quote": "“shittiest thing ever they just tryna rip people's money.”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=862fa1f7-7d75-4910-8cf4-99d1c64f887d"
     }
   ],
   "sentimentSummary": {
@@ -522,8 +522,8 @@
     {
       "label": "General feedback",
       "count": 25,
-      "trend": "down",
-      "delta": -1
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "vs. Lime",
@@ -546,14 +546,14 @@
     {
       "label": "Billing",
       "count": 2,
-      "trend": "down",
-      "delta": -1
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "Safety",
       "count": 2,
-      "trend": "up",
-      "delta": 2
+      "trend": "flat",
+      "delta": 0
     }
   ],
   "sources": [
@@ -567,7 +567,7 @@
     },
     {
       "label": "Google Play",
-      "count": 39
+      "count": 38
     },
     {
       "label": "Reddit",
@@ -575,7 +575,7 @@
     },
     {
       "label": "News",
-      "count": 2
+      "count": 3
     },
     {
       "label": "X",
