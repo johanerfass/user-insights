@@ -1,9 +1,33 @@
 {
-  "generatedAt": "2026-10-14T11:31:11.801Z",
-  "checkedLabel": "14 Oct 2026",
+  "generatedAt": "2026-10-15T11:08:47.719Z",
+  "checkedLabel": "15 Oct 2026",
   "windowLabel": "Last month",
   "rotateSeconds": 12,
   "posts": [
+    {
+      "id": "googleplay-4061b691-4426-4e06-aa81-c18b0b642d39",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“quick ride”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=4061b691-4426-4e06-aa81-c18b0b642d39"
+    },
+    {
+      "id": "googleplay-42094aaf-ff67-402d-9fce-af92e6ac33c8",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Positive",
+      "quote": "“Great app overall. Would love to see more bikes and a slightly cheaper rate”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=42094aaf-ff67-402d-9fce-af92e6ac33c8"
+    },
     {
       "id": "googleplay-40c6d9dc-0cc8-4484-b3bc-fd0bfdca5188",
       "source": "Google Play",
@@ -32,7 +56,7 @@
       "id": "news-wccrog",
       "source": "News",
       "market": "FAZ",
-      "date": "Recent",
+      "date": "12 Oct 2026",
       "sentiment": "Mixed",
       "quote": "“Gefahr auf den Straßen: Lime, Voi und Bolt haften jetzt für ihre E-Scooter - FAZ”",
       "themes": [
@@ -499,31 +523,19 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=4d496884-ba5b-4f67-82e0-48fe52efa870"
-    },
-    {
-      "id": "googleplay-cb708dd4-4524-4b9a-845b-ef171fb47686",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "14 Sept 2026",
-      "sentiment": "Mixed",
-      "quote": "“scummy app that continues billing you when you end the ride”",
-      "themes": [
-        "Billing"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=cb708dd4-4524-4b9a-845b-ef171fb47686"
     }
   ],
   "sentimentSummary": {
     "negative": 5,
     "mixed": 31,
-    "positive": 6
+    "positive": 7
   },
   "themes": [
     {
       "label": "General feedback",
-      "count": 25,
-      "trend": "flat",
-      "delta": 0
+      "count": 27,
+      "trend": "up",
+      "delta": 2
     },
     {
       "label": "vs. Lime",
@@ -544,16 +556,16 @@
       "delta": 0
     },
     {
-      "label": "Billing",
+      "label": "Safety",
       "count": 2,
       "trend": "flat",
       "delta": 0
     },
     {
-      "label": "Safety",
-      "count": 2,
-      "trend": "flat",
-      "delta": 0
+      "label": "vs. Bolt",
+      "count": 1,
+      "trend": "up",
+      "delta": 1
     }
   ],
   "sources": [
@@ -567,7 +579,7 @@
     },
     {
       "label": "Google Play",
-      "count": 38
+      "count": 39
     },
     {
       "label": "Reddit",
