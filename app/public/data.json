@@ -1,9 +1,34 @@
 {
-  "generatedAt": "2026-10-15T11:08:47.719Z",
-  "checkedLabel": "15 Oct 2026",
+  "generatedAt": "2026-10-16T11:03:27.556Z",
+  "checkedLabel": "16 Oct 2026",
   "windowLabel": "Last month",
   "rotateSeconds": 12,
   "posts": [
+    {
+      "id": "news-1ke64kp",
+      "source": "News",
+      "market": "ad-hoc-news.de",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“E-Scooter-Haftung: Lime, Voi und Bolt haften künftig für Schäden - ad-hoc-news.de”",
+      "themes": [
+        "vs. Lime",
+        "vs. Bolt"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQnBTYVh6TFowZ2hZejZtZXVEM0s4MHEwajkybGxnb0s2Q3dCUUtkOVZ5aXZ0SG1OZEtqSGJaNnYyWEtRUGtOODdKdDlrM0NVUG5TSE1ZSmlzcEVrWTNUTmtfcHJjV2h0Wlhoc0VHWTJESVJCc2JsQ2pXOXpMQi1Kci1tc3RmZVJzYXZMeU1CTVFiSVRfWmRhek5FaTROeHcxWUxXbTgwNXpicXF3TW0ybm1n?oc=5"
+    },
+    {
+      "id": "googleplay-97623940-d10c-472a-a435-e0ccd23b4f5b",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Positive",
+      "quote": "“I hate to say this but it saved me from quite a pickle when the metro was down”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=97623940-d10c-472a-a435-e0ccd23b4f5b"
+    },
     {
       "id": "googleplay-4061b691-4426-4e06-aa81-c18b0b642d39",
       "source": "Google Play",
@@ -32,7 +57,7 @@
       "id": "googleplay-40c6d9dc-0cc8-4484-b3bc-fd0bfdca5188",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "12 Oct 2026",
       "sentiment": "Mixed",
       "quote": "“ik heb voi plus en was altijd blij met voi maar nu moet je persee parkeren in speciale parkeer zones dat hoefte eerst niet en die parkeer zones zijn zo hinderlijk te bereiken dan denk je ff te fietsen om snel te zijn ben je als nog langer onderweg want je moet eerst terug fietsen en dan de rest lopen en de app maakt n…”",
       "themes": [
@@ -44,7 +69,7 @@
       "id": "news-9v14pn",
       "source": "News",
       "market": "Glasgow Times",
-      "date": "Recent",
+      "date": "12 Oct 2026",
       "sentiment": "Mixed",
       "quote": "“Glasgow Voi users brand removal of monthly pass option a ‘genuine disgrace’ - Glasgow Times”",
       "themes": [
@@ -149,18 +174,6 @@
         "vs. Dott"
       ],
       "url": "https://nrw.social/@ArboristManuel/117383710519668655"
-    },
-    {
-      "id": "news-j89ygc",
-      "source": "News",
-      "market": "Daily Echo",
-      "date": "3 Oct 2026",
-      "sentiment": "Mixed",
-      "quote": "“Voi e-scooter drink driver banned from road - In The Dock - Daily Echo”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYlQ0UVh5Vzk3dGR1ZVNtX1BLdkNkRV9qRlF5TXB5SFgtREs3LXFIVnpxVHg5ZERmUFhZb0lyT2FwWmFTU2pmekItMmJwV3JwQk50dGcyUFdtLVFVYTVRT05UaVJSZzkxZW84MXJ4T1N2WDRZVEVHWDk1T01JUjNJaThqSjBKTzJ5a3N5bnhKRldTRHBQZnA0?oc=5"
     },
     {
       "id": "googleplay-b55bc7e0-b200-4d11-ba36-7df7c4d3753a",
@@ -511,43 +524,37 @@
         "vs. Lime"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=610d1377-b5c9-4cca-bcb8-e17e7fac0bda"
-    },
-    {
-      "id": "googleplay-4d496884-ba5b-4f67-82e0-48fe52efa870",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "15 Sept 2026",
-      "sentiment": "Mixed",
-      "quote": "“App requires seeing your driving licence before you can unlock a scooter. I needed a scooter in a hurry and didn't have my licence with me, making this impossible and causing me to be late. Not sure why the app can't use driving licence details and confirm with DVLA?”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=4d496884-ba5b-4f67-82e0-48fe52efa870"
     }
   ],
   "sentimentSummary": {
     "negative": 5,
-    "mixed": 31,
-    "positive": 7
+    "mixed": 30,
+    "positive": 8
   },
   "themes": [
     {
       "label": "General feedback",
-      "count": 27,
-      "trend": "up",
-      "delta": 2
+      "count": 26,
+      "trend": "down",
+      "delta": -1
     },
     {
       "label": "vs. Lime",
-      "count": 4,
-      "trend": "flat",
-      "delta": 0
+      "count": 5,
+      "trend": "up",
+      "delta": 1
     },
     {
       "label": "First ride",
       "count": 4,
       "trend": "flat",
       "delta": 0
+    },
+    {
+      "label": "vs. Bolt",
+      "count": 2,
+      "trend": "up",
+      "delta": 1
     },
     {
       "label": "Phone holder",
@@ -560,12 +567,6 @@
       "count": 2,
       "trend": "flat",
       "delta": 0
-    },
-    {
-      "label": "vs. Bolt",
-      "count": 1,
-      "trend": "up",
-      "delta": 1
     }
   ],
   "sources": [
