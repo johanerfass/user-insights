@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-10-16T11:03:27.556Z",
-  "checkedLabel": "16 Oct 2026",
+  "generatedAt": "2026-10-17T10:23:41.040Z",
+  "checkedLabel": "17 Oct 2026",
   "windowLabel": "Last month",
   "rotateSeconds": 12,
   "posts": [
+    {
+      "id": "news-1q9qbno",
+      "source": "News",
+      "market": "Mitt i",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Deras privata gård blev parkering för Voi-hojar - Mitt i”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM0ZMY2lPRlBDUkFudEhKclpIc28wSzRxOTVLOUNKSUlWbWQ3dXF5enVWdDVuQkNlUzQ4WmRob2lNVUZFUnozeFNKQ01HeG5IaklCNGpQT2hwQ1FwVWtGbTJmRDNCbXo4UmpXTHVGNXIwSk9LRzZRZ1h2TkZZX2JheUpxUkI1cU92aGhoOVIyXzlyWTNDZUN6RnI2N2k3UQ?oc=5"
+    },
     {
       "id": "news-1ke64kp",
       "source": "News",
@@ -33,7 +45,7 @@
       "id": "googleplay-4061b691-4426-4e06-aa81-c18b0b642d39",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "13 Oct 2026",
       "sentiment": "Mixed",
       "quote": "“quick ride”",
       "themes": [
@@ -45,7 +57,7 @@
       "id": "googleplay-42094aaf-ff67-402d-9fce-af92e6ac33c8",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "13 Oct 2026",
       "sentiment": "Positive",
       "quote": "“Great app overall. Would love to see more bikes and a slightly cheaper rate”",
       "themes": [
@@ -499,62 +511,37 @@
         "Parking data"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=08380c44-2219-45c2-be19-b55027760860"
-    },
-    {
-      "id": "googleplay-7602640e-6a0f-475a-ba99-374c2c30e1c1",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "16 Sept 2026",
-      "sentiment": "Mixed",
-      "quote": "“I downloaded the app to help a friend. it was a first ride and got told I would get my money back but instead I got charge even more and now I've got no money. where is my refund??”",
-      "themes": [
-        "Refunds",
-        "First ride"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=7602640e-6a0f-475a-ba99-374c2c30e1c1"
-    },
-    {
-      "id": "googleplay-610d1377-b5c9-4cca-bcb8-e17e7fac0bda",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "16 Sept 2026",
-      "sentiment": "Mixed",
-      "quote": "“dog water app. slightly cheaper than lime (although they have been increasing thier prices and presumably will soon achieve parity) but you regularly have to bike 10 minutes (walk) away to park the bike. only useful for regular journeys where you know you can park close to where you're going, and at that point just bu…”",
-      "themes": [
-        "vs. Lime"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=610d1377-b5c9-4cca-bcb8-e17e7fac0bda"
     }
   ],
   "sentimentSummary": {
     "negative": 5,
-    "mixed": 30,
+    "mixed": 29,
     "positive": 8
   },
   "themes": [
     {
       "label": "General feedback",
-      "count": 26,
+      "count": 27,
+      "trend": "up",
+      "delta": 1
+    },
+    {
+      "label": "vs. Lime",
+      "count": 4,
       "trend": "down",
       "delta": -1
     },
     {
-      "label": "vs. Lime",
-      "count": 5,
-      "trend": "up",
-      "delta": 1
-    },
-    {
       "label": "First ride",
-      "count": 4,
-      "trend": "flat",
-      "delta": 0
+      "count": 3,
+      "trend": "down",
+      "delta": -1
     },
     {
       "label": "vs. Bolt",
       "count": 2,
-      "trend": "up",
-      "delta": 1
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "Phone holder",
@@ -580,7 +567,7 @@
     },
     {
       "label": "Google Play",
-      "count": 39
+      "count": 37
     },
     {
       "label": "Reddit",
@@ -588,7 +575,7 @@
     },
     {
       "label": "News",
-      "count": 3
+      "count": 4
     },
     {
       "label": "X",
