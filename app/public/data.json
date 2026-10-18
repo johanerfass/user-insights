@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-17T10:23:41.040Z",
-  "checkedLabel": "17 Oct 2026",
+  "generatedAt": "2026-10-18T10:41:44.114Z",
+  "checkedLabel": "18 Oct 2026",
   "windowLabel": "Last month",
   "rotateSeconds": 12,
   "posts": [
@@ -33,7 +33,7 @@
       "id": "googleplay-97623940-d10c-472a-a435-e0ccd23b4f5b",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "14 Oct 2026",
       "sentiment": "Positive",
       "quote": "“I hate to say this but it saved me from quite a pickle when the metro was down”",
       "themes": [
@@ -234,6 +234,18 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=761bb5d5-8942-47bd-a24e-73063e994db0"
+    },
+    {
+      "id": "news-snpl64",
+      "source": "News",
+      "market": "EU-Startups",
+      "date": "30 Sept 2026",
+      "sentiment": "Mixed",
+      "quote": "“Swedish micromobility company Voi secures €150 million RCF to redeem outstanding bonds and scale its fleet - EU-Startups”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVkNXeThlazdPM2w4VVJ0eTNtNDRhMWplU3NXNW13em9HY3JRb1Joci1ONk5jVmpXSWpfblpNQWZ6bVIzcWNqWHpDLTFYSHlRT1o0Y1hZdkJ2QmFDZlZxdFp6RkRRR0xKTGpXSjlzOTlVLVlVeVAwM0dmSTIyc3ZaeF9zMk9PQllMWGNCam9iWmJRVkY3VUN5ZUZhU1hCWnNXaXhiTXNzX01kcHdUUElaS0FrSl92c0ZIYVZVS0JlXzhvZmxvOGc1NFZaN2pjOWllZGFVRTkxdTl0TXc?oc=5"
     },
     {
       "id": "googleplay-8d9e803a-e1c2-4b50-9925-5be8374f89b7",
@@ -475,76 +487,34 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=5c800fff-b1b9-48ea-a74d-67f21ecb8e50"
-    },
-    {
-      "id": "googleplay-ef2146bd-65e4-49d2-8080-f9d53bcda8a5",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "17 Sept 2026",
-      "sentiment": "Mixed",
-      "quote": "“I'm sure it would be good but I can never park anywhere near where I want to go. I can cycle for 20 minutes and then have to.oark no.closer than I was when I started. I'm just in a different place that I have no desire to be. An absolutely pointless thing.”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=ef2146bd-65e4-49d2-8080-f9d53bcda8a5"
-    },
-    {
-      "id": "googleplay-65bcd11e-e0f5-496d-ac4e-598d223a37ae",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "17 Sept 2026",
-      "sentiment": "Mixed",
-      "quote": "“don't trust their phone holder though, my phone fell off”",
-      "themes": [
-        "Phone holder"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=65bcd11e-e0f5-496d-ac4e-598d223a37ae"
-    },
-    {
-      "id": "googleplay-08380c44-2219-45c2-be19-b55027760860",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "17 Sept 2026",
-      "sentiment": "Mixed",
-      "quote": "“Trash app and trash company run by imbeciles. The map in the app is GREY. There are \"no riding zones\" marked \"clearly\" on the map in... red? No. Yellow? No. They ALSO GREY!! What the actual f***? What idiot thought of this? So you look at the map, you look at your destination, find a parking spot near your destination…”",
-      "themes": [
-        "Parking data"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=08380c44-2219-45c2-be19-b55027760860"
     }
   ],
   "sentimentSummary": {
     "negative": 5,
-    "mixed": 29,
+    "mixed": 27,
     "positive": 8
   },
   "themes": [
     {
       "label": "General feedback",
       "count": 27,
-      "trend": "up",
-      "delta": 1
-    },
-    {
-      "label": "vs. Lime",
-      "count": 4,
-      "trend": "down",
-      "delta": -1
-    },
-    {
-      "label": "First ride",
-      "count": 3,
-      "trend": "down",
-      "delta": -1
-    },
-    {
-      "label": "vs. Bolt",
-      "count": 2,
       "trend": "flat",
       "delta": 0
     },
     {
-      "label": "Phone holder",
+      "label": "vs. Lime",
+      "count": 4,
+      "trend": "flat",
+      "delta": 0
+    },
+    {
+      "label": "First ride",
+      "count": 3,
+      "trend": "flat",
+      "delta": 0
+    },
+    {
+      "label": "vs. Bolt",
       "count": 2,
       "trend": "flat",
       "delta": 0
@@ -554,6 +524,12 @@
       "count": 2,
       "trend": "flat",
       "delta": 0
+    },
+    {
+      "label": "Phone holder",
+      "count": 1,
+      "trend": "down",
+      "delta": -1
     }
   ],
   "sources": [
@@ -567,7 +543,7 @@
     },
     {
       "label": "Google Play",
-      "count": 37
+      "count": 34
     },
     {
       "label": "Reddit",
@@ -575,7 +551,7 @@
     },
     {
       "label": "News",
-      "count": 4
+      "count": 5
     },
     {
       "label": "X",
