@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-10-18T10:41:44.114Z",
-  "checkedLabel": "18 Oct 2026",
+  "generatedAt": "2026-10-19T12:40:40.491Z",
+  "checkedLabel": "19 Oct 2026",
   "windowLabel": "Last month",
   "rotateSeconds": 12,
   "posts": [
+    {
+      "id": "news-12cpl4h",
+      "source": "News",
+      "market": "Road.cc",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Voi rolls out e-bikes with number plates in Cambridge, Kettering and Peterborough - Road.cc”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWTRhM0E2Vm5CNUdMVzhwa21jb3luVFVOZHpzNW9UdnRPRFRhZURET3k5Y1Z2eXpCTzRxaWV6WjU4SVdad2ZvYVEyREpyUUw1UkVOTUt6MU1lSGE2eTNoNWEzZDc3azZrTFM5TktWam9UcE5wNnZVWjBNdlVBNzJkSUk4RjZGQnN5d0dTQllWWHZtV1RBQm14aUcwdVNIVE1LLWtUV29UVHl2dXc1eTdwdTIwQnczQ2pWcEVESkxKeFg2QQ?oc=5"
+    },
     {
       "id": "news-1q9qbno",
       "source": "News",
@@ -20,7 +32,7 @@
       "id": "news-1ke64kp",
       "source": "News",
       "market": "ad-hoc-news.de",
-      "date": "Recent",
+      "date": "16 Oct 2026",
       "sentiment": "Mixed",
       "quote": "“E-Scooter-Haftung: Lime, Voi und Bolt haften künftig für Schäden - ad-hoc-news.de”",
       "themes": [
@@ -491,15 +503,15 @@
   ],
   "sentimentSummary": {
     "negative": 5,
-    "mixed": 27,
+    "mixed": 28,
     "positive": 8
   },
   "themes": [
     {
       "label": "General feedback",
-      "count": 27,
-      "trend": "flat",
-      "delta": 0
+      "count": 28,
+      "trend": "up",
+      "delta": 1
     },
     {
       "label": "vs. Lime",
@@ -528,8 +540,8 @@
     {
       "label": "Phone holder",
       "count": 1,
-      "trend": "down",
-      "delta": -1
+      "trend": "flat",
+      "delta": 0
     }
   ],
   "sources": [
@@ -551,7 +563,7 @@
     },
     {
       "label": "News",
-      "count": 5
+      "count": 6
     },
     {
       "label": "X",
