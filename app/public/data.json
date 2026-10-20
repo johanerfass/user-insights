@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-19T12:40:40.491Z",
-  "checkedLabel": "19 Oct 2026",
+  "generatedAt": "2026-10-20T11:12:34.356Z",
+  "checkedLabel": "20 Oct 2026",
   "windowLabel": "Last month",
   "rotateSeconds": 12,
   "posts": [
@@ -20,7 +20,7 @@
       "id": "news-1q9qbno",
       "source": "News",
       "market": "Mitt i",
-      "date": "Recent",
+      "date": "16 Oct 2026",
       "sentiment": "Mixed",
       "quote": "“Deras privata gård blev parkering för Voi-hojar - Mitt i”",
       "themes": [
@@ -475,43 +475,19 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=57b73792-c469-42ed-a2d3-1f28e7bf7efa"
-    },
-    {
-      "id": "googleplay-5f105040-81a1-48b9-b60c-d660c0865333",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "19 Sept 2026",
-      "sentiment": "Mixed",
-      "quote": "“wayyyy to expensive, accidently payed over €50 for 2 hours of biking. so please check if there is a cheaper option in the town you're wanting to ride a bike... lots of cities of local programs.”",
-      "themes": [
-        "Safety"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=5f105040-81a1-48b9-b60c-d660c0865333"
-    },
-    {
-      "id": "googleplay-5c800fff-b1b9-48ea-a74d-67f21ecb8e50",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "19 Sept 2026",
-      "sentiment": "Mixed",
-      "quote": "“Defective app. Every time I try to add a payment method, it loads forever. No error. I let it load for 5 minutes before giving up. I guess they don't want my business.”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=5c800fff-b1b9-48ea-a74d-67f21ecb8e50"
     }
   ],
   "sentimentSummary": {
     "negative": 5,
-    "mixed": 28,
+    "mixed": 26,
     "positive": 8
   },
   "themes": [
     {
       "label": "General feedback",
-      "count": 28,
-      "trend": "up",
-      "delta": 1
+      "count": 27,
+      "trend": "down",
+      "delta": -1
     },
     {
       "label": "vs. Lime",
@@ -532,16 +508,16 @@
       "delta": 0
     },
     {
-      "label": "Safety",
-      "count": 2,
-      "trend": "flat",
-      "delta": 0
-    },
-    {
       "label": "Phone holder",
       "count": 1,
       "trend": "flat",
       "delta": 0
+    },
+    {
+      "label": "App reliability",
+      "count": 1,
+      "trend": "up",
+      "delta": 1
     }
   ],
   "sources": [
@@ -555,7 +531,7 @@
     },
     {
       "label": "Google Play",
-      "count": 34
+      "count": 32
     },
     {
       "label": "Reddit",
