@@ -1,20 +1,32 @@
 {
-  "generatedAt": "2026-10-20T11:12:34.356Z",
-  "checkedLabel": "20 Oct 2026",
+  "generatedAt": "2026-10-21T11:28:14.335Z",
+  "checkedLabel": "21 Oct 2026",
   "windowLabel": "Last month",
   "rotateSeconds": 12,
   "posts": [
     {
-      "id": "news-12cpl4h",
+      "id": "news-oax1v0",
       "source": "News",
-      "market": "Road.cc",
+      "market": "www.velodisco.com",
       "date": "Recent",
       "sentiment": "Mixed",
-      "quote": "“Voi rolls out e-bikes with number plates in Cambridge, Kettering and Peterborough - Road.cc”",
+      "quote": "“London: Ealing gives itself the right to seize shared e-bikes without a court order, starting with Voi - www.velodisco.com”",
       "themes": [
         "General feedback"
       ],
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWTRhM0E2Vm5CNUdMVzhwa21jb3luVFVOZHpzNW9UdnRPRFRhZURET3k5Y1Z2eXpCTzRxaWV6WjU4SVdad2ZvYVEyREpyUUw1UkVOTUt6MU1lSGE2eTNoNWEzZDc3azZrTFM5TktWam9UcE5wNnZVWjBNdlVBNzJkSUk4RjZGQnN5d0dTQllWWHZtV1RBQm14aUcwdVNIVE1LLWtUV29UVHl2dXc1eTdwdTIwQnczQ2pWcEVESkxKeFg2QQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5RLVRlV2xGQ0YtRzZjbWktN1JSNFdHRUZucS1XeUdLVl90X1pxUXM2aVZWdTM3SWNVaGRaUDhhSGc3MDJjRmgybGYwdjJyQ0tXVDJSRDBXUHEzT2FuRzBzVDFtZ0I3cmt1OFNlV0xpVkw?oc=5"
+    },
+    {
+      "id": "news-wclnb2",
+      "source": "News",
+      "market": "Around Ealing",
+      "date": "17 Oct 2026",
+      "sentiment": "Mixed",
+      "quote": "“Voi bike AE - Around Ealing”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUzN1a1NUYUl0VkpEQk4tR0Rza0ZuT3BsYk81NkRrdkVHWHFKd2x2bVNSeVlmWjE0Ty1qeEJ6R0k3MjhZZWhFREIyTGRqLTJNUU9rNEhrNl9sTWlNeVdnQ1JIaGZmOFNJVDA5ZnBPS0NUZmpWNm56NHFpRWU3UmI0aGl3bldXdlFBdHhHLW5hRW9RaGRSQk5VYXNNVDBoUQ?oc=5"
     },
     {
       "id": "news-1q9qbno",
@@ -463,31 +475,19 @@
         "Safety"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=29fe6817-581e-488c-8b5e-3523886b0849"
-    },
-    {
-      "id": "googleplay-57b73792-c469-42ed-a2d3-1f28e7bf7efa",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "20 Sept 2026",
-      "sentiment": "Positive",
-      "quote": "“fantastico, great service, make sure you book off 😄”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=57b73792-c469-42ed-a2d3-1f28e7bf7efa"
     }
   ],
   "sentimentSummary": {
     "negative": 5,
-    "mixed": 26,
-    "positive": 8
+    "mixed": 27,
+    "positive": 7
   },
   "themes": [
     {
       "label": "General feedback",
       "count": 27,
-      "trend": "down",
-      "delta": -1
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "vs. Lime",
@@ -516,8 +516,8 @@
     {
       "label": "App reliability",
       "count": 1,
-      "trend": "up",
-      "delta": 1
+      "trend": "flat",
+      "delta": 0
     }
   ],
   "sources": [
@@ -531,7 +531,7 @@
     },
     {
       "label": "Google Play",
-      "count": 32
+      "count": 31
     },
     {
       "label": "Reddit",
@@ -539,7 +539,7 @@
     },
     {
       "label": "News",
-      "count": 6
+      "count": 7
     },
     {
       "label": "X",
