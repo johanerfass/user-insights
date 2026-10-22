@@ -1,9 +1,33 @@
 {
-  "generatedAt": "2026-10-21T11:28:14.335Z",
-  "checkedLabel": "21 Oct 2026",
+  "generatedAt": "2026-10-22T11:28:21.852Z",
+  "checkedLabel": "22 Oct 2026",
   "windowLabel": "Last month",
   "rotateSeconds": 12,
   "posts": [
+    {
+      "id": "news-cepa8z",
+      "source": "News",
+      "market": "Daily Echo",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Fears over e-scooters as council plans another Voi bay in Bitterne - Daily Echo”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVG14ZnVneEZpeXR0cGZKZTB6OFM2S2I5RWZiYk9PVUJXdEZMb0pCN21IV2szV3BFR3VCcEozTk1rdFJXYjNXb0pmRi16WFVEVmFJdXQxdVVjTVI0YXdubE5DUnVQTC1pTk1CS1NrVkNXbE1YY3JJeFNDd1hsNjZQYW1Ud0w4SXk4QzI5THIxOEJ5dw?oc=5"
+    },
+    {
+      "id": "mastodon-mastodon.social-117478703420725268",
+      "source": "Mastodon",
+      "market": "@nilz@norden.social",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Seit August versucht #Voi wiederholt, für eine in #Kopenhagen getätigte Fahrt 6,35 EUR von meiner #Kreditkarte abzurufen. Das hatte direkt vor Ort wohl nicht geklappt. Zurück in Deutschland wird mir das als \"verdächtiger Abruf\" in meiner #BankingApp angezeigt. Gebe ich frei, löst es aber noch keine Zahlung aus - die m…”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://norden.social/@nilz/117478703375154435"
+    },
     {
       "id": "news-oax1v0",
       "source": "News",
@@ -112,19 +136,6 @@
         "General feedback"
       ],
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVE9KSHR5T3RTaERJOGpLWHFSNEdLVUUtSDFxbzMyR3UxSXRwMFgxcHNkZkRUYnFxdHZ0WmJiLTJwdUk1RkJaeVp2dkJqM3RuN24zeW50bVh5Rm10NnFOWUJFU2VGczFRQlhrRF82bUJqcnQ4T0pSRmxFVjM0aVdpNGRLaS0wRXlpMW5YdGk1QW1oMEh0VzYtLTV6WGZGd09nMGlTdDJ1cVVvcFFORXZXbUE2akJMUQ?oc=5"
-    },
-    {
-      "id": "news-wccrog",
-      "source": "News",
-      "market": "FAZ",
-      "date": "12 Oct 2026",
-      "sentiment": "Mixed",
-      "quote": "“Gefahr auf den Straßen: Lime, Voi und Bolt haften jetzt für ihre E-Scooter - FAZ”",
-      "themes": [
-        "vs. Lime",
-        "vs. Bolt"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOUk4Q1BTaEE4dDVRc2xydzFKXzVzRU5zbVRLMlZtdjZVdTVaU3h4NjVsMWJCQnpGWGNxdVJrN0VNdC1ucGFoZEVYSFBONVU3Qk1ieE04ODJtaDJ5YWNTRzA5NEx6U05SN3pRdzB2WU1sc09UVVRMUjhQMEtWblJRSHlFZ2wxY3h5c0xLNzFOdElsQk5mYW1xV29NX3RZMEU5SHRYZWZDYzMzMzFYQlVZbmJUZzNtTGlmQ2lCVkZaSGtweW8yaEJJanFuZVZpVUJQQzNzZVRKTmdhckE?oc=5"
     },
     {
       "id": "googleplay-29181a3e-5f35-4439-af03-47191174fece",
@@ -451,49 +462,25 @@
         "Promo codes"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=5640c46f-4045-4df5-b191-e17b0b77bf9f"
-    },
-    {
-      "id": "googleplay-f0f0df72-a765-4ca6-918e-991e9c2328ca",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "22 Sept 2026",
-      "sentiment": "Mixed",
-      "quote": "“hab extra ein code geholt der laut app nicht gültig ist. nutzlos.”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=f0f0df72-a765-4ca6-918e-991e9c2328ca"
-    },
-    {
-      "id": "googleplay-29fe6817-581e-488c-8b5e-3523886b0849",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "21 Sept 2026",
-      "sentiment": "Negative",
-      "quote": "“Used to be quite dangerous when it started a few months ago as breaks would randomly engage - it is much better now!!”",
-      "themes": [
-        "Safety"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=29fe6817-581e-488c-8b5e-3523886b0849"
     }
   ],
   "sentimentSummary": {
-    "negative": 5,
+    "negative": 4,
     "mixed": 27,
     "positive": 7
   },
   "themes": [
     {
       "label": "General feedback",
-      "count": 27,
-      "trend": "flat",
-      "delta": 0
+      "count": 28,
+      "trend": "up",
+      "delta": 1
     },
     {
       "label": "vs. Lime",
-      "count": 4,
-      "trend": "flat",
-      "delta": 0
+      "count": 3,
+      "trend": "down",
+      "delta": -1
     },
     {
       "label": "First ride",
@@ -503,9 +490,9 @@
     },
     {
       "label": "vs. Bolt",
-      "count": 2,
-      "trend": "flat",
-      "delta": 0
+      "count": 1,
+      "trend": "down",
+      "delta": -1
     },
     {
       "label": "Phone holder",
@@ -531,7 +518,7 @@
     },
     {
       "label": "Google Play",
-      "count": 31
+      "count": 29
     },
     {
       "label": "Reddit",
@@ -547,7 +534,7 @@
     },
     {
       "label": "Mastodon",
-      "count": 1
+      "count": 2
     },
     {
       "label": "Bluesky",
