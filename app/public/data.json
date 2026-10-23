@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-22T11:28:21.852Z",
-  "checkedLabel": "22 Oct 2026",
+  "generatedAt": "2026-10-23T11:18:10.843Z",
+  "checkedLabel": "23 Oct 2026",
   "windowLabel": "Last month",
   "rotateSeconds": 12,
   "posts": [
@@ -17,6 +17,18 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVG14ZnVneEZpeXR0cGZKZTB6OFM2S2I5RWZiYk9PVUJXdEZMb0pCN21IV2szV3BFR3VCcEozTk1rdFJXYjNXb0pmRi16WFVEVmFJdXQxdVVjTVI0YXdubE5DUnVQTC1pTk1CS1NrVkNXbE1YY3JJeFNDd1hsNjZQYW1Ud0w4SXk4QzI5THIxOEJ5dw?oc=5"
     },
     {
+      "id": "googleplay-cffd7c9f-19e6-4af7-b17a-bbf3574c4478",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Can't log in (says there's no internet connection tho there is).”",
+      "themes": [
+        "App reliability"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=cffd7c9f-19e6-4af7-b17a-bbf3574c4478"
+    },
+    {
       "id": "mastodon-mastodon.social-117478703420725268",
       "source": "Mastodon",
       "market": "@nilz@norden.social",
@@ -27,30 +39,6 @@
         "General feedback"
       ],
       "url": "https://norden.social/@nilz/117478703375154435"
-    },
-    {
-      "id": "news-oax1v0",
-      "source": "News",
-      "market": "www.velodisco.com",
-      "date": "Recent",
-      "sentiment": "Mixed",
-      "quote": "“London: Ealing gives itself the right to seize shared e-bikes without a court order, starting with Voi - www.velodisco.com”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5RLVRlV2xGQ0YtRzZjbWktN1JSNFdHRUZucS1XeUdLVl90X1pxUXM2aVZWdTM3SWNVaGRaUDhhSGc3MDJjRmgybGYwdjJyQ0tXVDJSRDBXUHEzT2FuRzBzVDFtZ0I3cmt1OFNlV0xpVkw?oc=5"
-    },
-    {
-      "id": "news-wclnb2",
-      "source": "News",
-      "market": "Around Ealing",
-      "date": "17 Oct 2026",
-      "sentiment": "Mixed",
-      "quote": "“Voi bike AE - Around Ealing”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUzN1a1NUYUl0VkpEQk4tR0Rza0ZuT3BsYk81NkRrdkVHWHFKd2x2bVNSeVlmWjE0Ty1qeEJ6R0k3MjhZZWhFREIyTGRqLTJNUU9rNEhrNl9sTWlNeVdnQ1JIaGZmOFNJVDA5ZnBPS0NUZmpWNm56NHFpRWU3UmI0aGl3bldXdlFBdHhHLW5hRW9RaGRSQk5VYXNNVDBoUQ?oc=5"
     },
     {
       "id": "news-1q9qbno",
@@ -67,10 +55,10 @@
     {
       "id": "news-1ke64kp",
       "source": "News",
-      "market": "ad-hoc-news.de",
+      "market": "AD HOC NEWS",
       "date": "16 Oct 2026",
       "sentiment": "Mixed",
-      "quote": "“E-Scooter-Haftung: Lime, Voi und Bolt haften künftig für Schäden - ad-hoc-news.de”",
+      "quote": "“E-Scooter-Haftung: Lime, Voi und Bolt haften künftig für Schäden - AD HOC NEWS”",
       "themes": [
         "vs. Lime",
         "vs. Bolt"
@@ -124,18 +112,6 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=40c6d9dc-0cc8-4484-b3bc-fd0bfdca5188"
-    },
-    {
-      "id": "news-9v14pn",
-      "source": "News",
-      "market": "Glasgow Times",
-      "date": "12 Oct 2026",
-      "sentiment": "Mixed",
-      "quote": "“Glasgow Voi users brand removal of monthly pass option a ‘genuine disgrace’ - Glasgow Times”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVE9KSHR5T3RTaERJOGpLWHFSNEdLVUUtSDFxbzMyR3UxSXRwMFgxcHNkZkRUYnFxdHZ0WmJiLTJwdUk1RkJaeVp2dkJqM3RuN24zeW50bVh5Rm10NnFOWUJFU2VGczFRQlhrRF82bUJqcnQ4T0pSRmxFVjM0aVdpNGRLaS0wRXlpMW5YdGk1QW1oMEh0VzYtLTV6WGZGd09nMGlTdDJ1cVVvcFFORXZXbUE2akJMUQ?oc=5"
     },
     {
       "id": "googleplay-29181a3e-5f35-4439-af03-47191174fece",
@@ -450,37 +426,25 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=dd0e2a99-2d1a-4dbf-b55a-09d1a1bf9e3f"
-    },
-    {
-      "id": "googleplay-5640c46f-4045-4df5-b191-e17b0b77bf9f",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "22 Sept 2026",
-      "sentiment": "Negative",
-      "quote": "“terrible service... not only is the parking zones incredibly specific, meaning you can barely park close to anything you're aiming for. the 3 rides for free (advertised on the bikes themselves) is of course behind a voucher code they never mention while downloading the app. and are not retroactive.... avoid”",
-      "themes": [
-        "Promo codes"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=5640c46f-4045-4df5-b191-e17b0b77bf9f"
     }
   ],
   "sentimentSummary": {
-    "negative": 4,
-    "mixed": 27,
+    "negative": 3,
+    "mixed": 25,
     "positive": 7
   },
   "themes": [
     {
       "label": "General feedback",
-      "count": 28,
-      "trend": "up",
-      "delta": 1
+      "count": 25,
+      "trend": "down",
+      "delta": -3
     },
     {
       "label": "vs. Lime",
       "count": 3,
-      "trend": "down",
-      "delta": -1
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "First ride",
@@ -489,19 +453,19 @@
       "delta": 0
     },
     {
-      "label": "vs. Bolt",
-      "count": 1,
-      "trend": "down",
-      "delta": -1
+      "label": "App reliability",
+      "count": 2,
+      "trend": "up",
+      "delta": 1
     },
     {
-      "label": "Phone holder",
+      "label": "vs. Bolt",
       "count": 1,
       "trend": "flat",
       "delta": 0
     },
     {
-      "label": "App reliability",
+      "label": "Phone holder",
       "count": 1,
       "trend": "flat",
       "delta": 0
@@ -526,7 +490,7 @@
     },
     {
       "label": "News",
-      "count": 7
+      "count": 4
     },
     {
       "label": "X",
