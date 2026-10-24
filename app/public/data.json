@@ -1,9 +1,33 @@
 {
-  "generatedAt": "2026-10-23T11:18:10.843Z",
-  "checkedLabel": "23 Oct 2026",
+  "generatedAt": "2026-10-24T10:37:37.387Z",
+  "checkedLabel": "24 Oct 2026",
   "windowLabel": "Last month",
   "rotateSeconds": 12,
   "posts": [
+    {
+      "id": "news-xfz5mm",
+      "source": "News",
+      "market": "Bike Europe",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Voi revenue up 53% in Q3 as fleet grows 40% - Bike Europe”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PTFdQUE1ZZXVzbUpuZGFfc0I5a0dBcnpCUk1Oazg1UXJVNjBqZUFiRE1OcFhRN25UaHp1czUzLUlyZTNEUlA0UmxPZUpvTnpDeVc0ZGVGcENMRzJibWxNbXZMRExySE9PY1JjcnRGWW5XcWswRXZYYlJxMA?oc=5"
+    },
+    {
+      "id": "googleplay-8fdb4221-f270-48b9-a0d2-ed72cc25611f",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Fails to load properly. No map. \"Help\" is a page with two curly brackets, \"{}\". If parking area is \"full\" when you arrive you've wasted the whole trip as you'll have to go find another zone!”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=8fdb4221-f270-48b9-a0d2-ed72cc25611f"
+    },
     {
       "id": "news-cepa8z",
       "source": "News",
@@ -39,6 +63,30 @@
         "General feedback"
       ],
       "url": "https://norden.social/@nilz/117478703375154435"
+    },
+    {
+      "id": "news-oax1v0",
+      "source": "News",
+      "market": "www.velodisco.com",
+      "date": "20 Oct 2026",
+      "sentiment": "Mixed",
+      "quote": "“London: Ealing gives itself the right to seize shared e-bikes without a court order, starting with Voi - www.velodisco.com”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5RLVRlV2xGQ0YtRzZjbWktN1JSNFdHRUZucS1XeUdLVl90X1pxUXM2aVZWdTM3SWNVaGRaUDhhSGc3MDJjRmgybGYwdjJyQ0tXVDJSRDBXUHEzT2FuRzBzVDFtZ0I3cmt1OFNlV0xpVkw?oc=5"
+    },
+    {
+      "id": "news-wclnb2",
+      "source": "News",
+      "market": "Around Ealing",
+      "date": "17 Oct 2026",
+      "sentiment": "Mixed",
+      "quote": "“Voi bike AE - Around Ealing”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUzN1a1NUYUl0VkpEQk4tR0Rza0ZuT3BsYk81NkRrdkVHWHFKd2x2bVNSeVlmWjE0Ty1qeEJ6R0k3MjhZZWhFREIyTGRqLTJNUU9rNEhrNl9sTWlNeVdnQ1JIaGZmOFNJVDA5ZnBPS0NUZmpWNm56NHFpRWU3UmI0aGl3bldXdlFBdHhHLW5hRW9RaGRSQk5VYXNNVDBoUQ?oc=5"
     },
     {
       "id": "news-1q9qbno",
@@ -112,6 +160,31 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=40c6d9dc-0cc8-4484-b3bc-fd0bfdca5188"
+    },
+    {
+      "id": "news-9v14pn",
+      "source": "News",
+      "market": "Glasgow Times",
+      "date": "12 Oct 2026",
+      "sentiment": "Mixed",
+      "quote": "“Glasgow Voi users brand removal of monthly pass option a ‘genuine disgrace’ - Glasgow Times”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVE9KSHR5T3RTaERJOGpLWHFSNEdLVUUtSDFxbzMyR3UxSXRwMFgxcHNkZkRUYnFxdHZ0WmJiLTJwdUk1RkJaeVp2dkJqM3RuN24zeW50bVh5Rm10NnFOWUJFU2VGczFRQlhrRF82bUJqcnQ4T0pSRmxFVjM0aVdpNGRLaS0wRXlpMW5YdGk1QW1oMEh0VzYtLTV6WGZGd09nMGlTdDJ1cVVvcFFORXZXbUE2akJMUQ?oc=5"
+    },
+    {
+      "id": "news-wccrog",
+      "source": "News",
+      "market": "FAZ",
+      "date": "12 Oct 2026",
+      "sentiment": "Mixed",
+      "quote": "“Gefahr auf den Straßen: Lime, Voi und Bolt haften jetzt für ihre E-Scooter - FAZ”",
+      "themes": [
+        "vs. Lime",
+        "vs. Bolt"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOUk4Q1BTaEE4dDVRc2xydzFKXzVzRU5zbVRLMlZtdjZVdTVaU3h4NjVsMWJCQnpGWGNxdVJrN0VNdC1ucGFoZEVYSFBONVU3Qk1ieE04ODJtaDJ5YWNTRzA5NEx6U05SN3pRdzB2WU1sc09UVVRMUjhQMEtWblJRSHlFZ2wxY3h5c0xLNzFOdElsQk5mYW1xV29NX3RZMEU5SHRYZWZDYzMzMzFYQlVZbmJUZzNtTGlmQ2lCVkZaSGtweW8yaEJJanFuZVZpVUJQQzNzZVRKTmdhckE?oc=5"
     },
     {
       "id": "googleplay-29181a3e-5f35-4439-af03-47191174fece",
@@ -378,73 +451,25 @@
         "First ride"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=e9462839-7a41-44d2-903c-59cad40a3156"
-    },
-    {
-      "id": "googleplay-472194ad-d496-443a-87c6-cf0bdbf79d8a",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "24 Sept 2026",
-      "sentiment": "Mixed",
-      "quote": "“navigation is always dark and doesn't show you direction and is very hard to see in daylight. it forces you to drive more so you pay more and there is barely any parking and even if you pause to look for parking on the app which isn't clear it still charges you while the bike is locked. save yourself the stress and us…”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=472194ad-d496-443a-87c6-cf0bdbf79d8a"
-    },
-    {
-      "id": "googleplay-695be484-2860-4e1f-a46c-6e08fac8e4e7",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "24 Sept 2026",
-      "sentiment": "Mixed",
-      "quote": "“cannot get past the enter your email stage on the app, keeps saying error has occurred Update 24/09/26: Logged in after a week or so. On a separate note, I suspect some nefarious characters are out to destroy the brand. In the last two weeks alone, I have seen so many vandalised bikes. I have been using Voi for a numb…”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=695be484-2860-4e1f-a46c-6e08fac8e4e7"
-    },
-    {
-      "id": "googleplay-6950e060-753d-4d52-925d-1b74b54b9fc4",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "23 Sept 2026",
-      "sentiment": "Mixed",
-      "quote": "“i was forced to pay €5 even though I didn't apply”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=6950e060-753d-4d52-925d-1b74b54b9fc4"
-    },
-    {
-      "id": "googleplay-dd0e2a99-2d1a-4dbf-b55a-09d1a1bf9e3f",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "23 Sept 2026",
-      "sentiment": "Mixed",
-      "quote": "“doesn't deserve any star ⭐ , in middle of street did stop when I al ready start to us and I lose time and money now I'm late on work”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=dd0e2a99-2d1a-4dbf-b55a-09d1a1bf9e3f"
     }
   ],
   "sentimentSummary": {
     "negative": 3,
-    "mixed": 25,
+    "mixed": 27,
     "positive": 7
   },
   "themes": [
     {
       "label": "General feedback",
-      "count": 25,
-      "trend": "down",
-      "delta": -3
+      "count": 26,
+      "trend": "up",
+      "delta": 1
     },
     {
       "label": "vs. Lime",
-      "count": 3,
-      "trend": "flat",
-      "delta": 0
+      "count": 4,
+      "trend": "up",
+      "delta": 1
     },
     {
       "label": "First ride",
@@ -455,14 +480,14 @@
     {
       "label": "App reliability",
       "count": 2,
-      "trend": "up",
-      "delta": 1
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "vs. Bolt",
-      "count": 1,
-      "trend": "flat",
-      "delta": 0
+      "count": 2,
+      "trend": "up",
+      "delta": 1
     },
     {
       "label": "Phone holder",
@@ -482,7 +507,7 @@
     },
     {
       "label": "Google Play",
-      "count": 29
+      "count": 26
     },
     {
       "label": "Reddit",
@@ -490,7 +515,7 @@
     },
     {
       "label": "News",
-      "count": 4
+      "count": 9
     },
     {
       "label": "X",
