@@ -1,9 +1,57 @@
 {
-  "generatedAt": "2026-10-24T10:37:37.387Z",
-  "checkedLabel": "24 Oct 2026",
+  "generatedAt": "2026-10-25T11:01:35.313Z",
+  "checkedLabel": "25 Oct 2026",
   "windowLabel": "Last month",
   "rotateSeconds": 12,
   "posts": [
+    {
+      "id": "news-4vyybp",
+      "source": "News",
+      "market": "Mitt i",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Voi tog över föreningens privata mark – utan lov - Mitt i”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTUctdjY2aWhhNmxnZW1Ya2p1T3pkSzNFU2dGTWJkeGNZWTk0QXNJYWJjY2hlY0tMbHJqZjE0M2YyMzJKZ1g3Nmlmbi1VWmIwWkwyNW5LYy1tc3ZhOE1UYllyTTNoUkdqNnEweFpScHF6WmVOTC1wRjNaNjg3aTlIWW1VOUgzQkFyZHc1Znhua3Axbng2UmR0Q3lLb3R4ZGM?oc=5"
+    },
+    {
+      "id": "news-1gv43k5",
+      "source": "News",
+      "market": "www.velodisco.com",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Voi Q3 2026: net revenue up 53% to €88.2 million - www.velodisco.com”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE53dXpiUGMxMkIxamlaaDk0dllyQTZTVUxtNVM2U09xVWM2bFRpU0VIUl9xYjVUeC1pR2ZQQll4S0ZEdjhvTEplNG5iNFVVR0I2c1NQYW1uNmxSSW1vLTBDb3ZB?oc=5"
+    },
+    {
+      "id": "googleplay-9913d3db-1264-4ec7-83aa-3c231ff117bb",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Positive",
+      "quote": "“Nowhere convenient to park and too much for what it is. I tried to use it to get to the station, turned up at the station with 15 minutes to spare then had to cycle 10 minutes to go park it and missed my train. Will not be using it again.”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=9913d3db-1264-4ec7-83aa-3c231ff117bb"
+    },
+    {
+      "id": "googleplay-49b2f068-712c-4d06-b16d-35e62beec41b",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“les \"vélos\" n’en sont pas, ce sont des scooters electriques avec des pédales pour interrupteurs, très désagréable à conduire. les trajets sont hors de prix, plus de 4e pour 20 minutes. il est ecrit \"premier trajet offert\" sur les velos ce n’est pas le cas. je préférais les bicloo à Nantes et de très loin.”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=49b2f068-712c-4d06-b16d-35e62beec41b"
+    },
     {
       "id": "news-xfz5mm",
       "source": "News",
@@ -32,7 +80,7 @@
       "id": "news-cepa8z",
       "source": "News",
       "market": "Daily Echo",
-      "date": "Recent",
+      "date": "22 Oct 2026",
       "sentiment": "Mixed",
       "quote": "“Fears over e-scooters as council plans another Voi bay in Bitterne - Daily Echo”",
       "themes": [
@@ -44,7 +92,7 @@
       "id": "googleplay-cffd7c9f-19e6-4af7-b17a-bbf3574c4478",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "21 Oct 2026",
       "sentiment": "Mixed",
       "quote": "“Can't log in (says there's no internet connection tho there is).”",
       "themes": [
@@ -56,7 +104,7 @@
       "id": "mastodon-mastodon.social-117478703420725268",
       "source": "Mastodon",
       "market": "@nilz@norden.social",
-      "date": "Recent",
+      "date": "21 Oct 2026",
       "sentiment": "Mixed",
       "quote": "“Seit August versucht #Voi wiederholt, für eine in #Kopenhagen getätigte Fahrt 6,35 EUR von meiner #Kreditkarte abzurufen. Das hatte direkt vor Ort wohl nicht geklappt. Zurück in Deutschland wird mir das als \"verdächtiger Abruf\" in meiner #BankingApp angezeigt. Gebe ich frei, löst es aber noch keine Zahlung aus - die m…”",
       "themes": [
@@ -103,10 +151,10 @@
     {
       "id": "news-1ke64kp",
       "source": "News",
-      "market": "AD HOC NEWS",
+      "market": "ad-hoc-news.de",
       "date": "16 Oct 2026",
       "sentiment": "Mixed",
-      "quote": "“E-Scooter-Haftung: Lime, Voi und Bolt haften künftig für Schäden - AD HOC NEWS”",
+      "quote": "“E-Scooter-Haftung: Lime, Voi und Bolt haften künftig für Schäden - ad-hoc-news.de”",
       "themes": [
         "vs. Lime",
         "vs. Bolt"
@@ -415,65 +463,23 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=5b1c56ed-b735-45d3-82a4-0629c01a0ffb"
-    },
-    {
-      "id": "googleplay-2aac8968-d4ad-4cc6-aa3c-746dd5fbe3fc",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "25 Sept 2026",
-      "sentiment": "Positive",
-      "quote": "“Wow, it's amazing riding these bikes it's my first time I tried it, but I really enjoyed it, and I definitely will try again and again 🫠🥸”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=2aac8968-d4ad-4cc6-aa3c-746dd5fbe3fc"
-    },
-    {
-      "id": "googleplay-3f9461d9-be04-4439-b799-48193c0cede6",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "24 Sept 2026",
-      "sentiment": "Mixed",
-      "quote": "“nice ride for first time i enjoy it”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=3f9461d9-be04-4439-b799-48193c0cede6"
-    },
-    {
-      "id": "googleplay-e9462839-7a41-44d2-903c-59cad40a3156",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "24 Sept 2026",
-      "sentiment": "Mixed",
-      "quote": "“There are plenty of introduction offer codes advertised on local bikes and scooters but none of them work in the app so I am still refusing to do my first ride with Voi until I find an introduction offer code that works”",
-      "themes": [
-        "First ride"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=e9462839-7a41-44d2-903c-59cad40a3156"
     }
   ],
   "sentimentSummary": {
     "negative": 3,
-    "mixed": 27,
+    "mixed": 28,
     "positive": 7
   },
   "themes": [
     {
       "label": "General feedback",
-      "count": 26,
+      "count": 28,
       "trend": "up",
-      "delta": 1
+      "delta": 2
     },
     {
       "label": "vs. Lime",
       "count": 4,
-      "trend": "up",
-      "delta": 1
-    },
-    {
-      "label": "First ride",
-      "count": 3,
       "trend": "flat",
       "delta": 0
     },
@@ -486,8 +492,14 @@
     {
       "label": "vs. Bolt",
       "count": 2,
-      "trend": "up",
-      "delta": 1
+      "trend": "flat",
+      "delta": 0
+    },
+    {
+      "label": "First ride",
+      "count": 2,
+      "trend": "down",
+      "delta": -1
     },
     {
       "label": "Phone holder",
@@ -507,7 +519,7 @@
     },
     {
       "label": "Google Play",
-      "count": 26
+      "count": 25
     },
     {
       "label": "Reddit",
@@ -515,7 +527,7 @@
     },
     {
       "label": "News",
-      "count": 9
+      "count": 11
     },
     {
       "label": "X",
