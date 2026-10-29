@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-10-28T12:27:17.237Z",
-  "checkedLabel": "28 Oct 2026",
+  "generatedAt": "2026-10-29T12:37:52.732Z",
+  "checkedLabel": "29 Oct 2026",
   "windowLabel": "Last week",
   "rotateSeconds": 12,
   "posts": [
+    {
+      "id": "news-4vyybp",
+      "source": "News",
+      "market": "Mitt i Stockholm",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Voi tog över föreningens privata mark – utan lov - Mitt i Stockholm”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTUctdjY2aWhhNmxnZW1Ya2p1T3pkSzNFU2dGTWJkeGNZWTk0QXNJYWJjY2hlY0tMbHJqZjE0M2YyMzJKZ1g3Nmlmbi1VWmIwWkwyNW5LYy1tc3ZhOE1UYllyTTNoUkdqNnEweFpScHF6WmVOTC1wRjNaNjg3aTlIWW1VOUgzQkFyZHc1Znhua3Axbng2UmR0Q3lLb3R4ZGM?oc=5"
+    },
     {
       "id": "googleplay-30db4130-c18c-4f99-8c43-fd96072fdb36",
       "source": "Google Play",
@@ -44,7 +56,7 @@
       "id": "googleplay-cb176071-ef21-4ed5-aed1-e44caed0531f",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "26 Oct 2026",
       "sentiment": "Mixed",
       "quote": "“well \"free' trial still got charged for the subscription.. ride and app easy to handle but free month and ending up paying it same day...”",
       "themes": [
@@ -56,7 +68,7 @@
       "id": "news-9lqq44",
       "source": "News",
       "market": "TradingView",
-      "date": "Recent",
+      "date": "26 Oct 2026",
       "sentiment": "Mixed",
       "quote": "“Notice of extraordinary general meeting in Voi Technology AB (publ) - TradingView”",
       "themes": [
@@ -87,18 +99,6 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=cb695b2e-ec5b-41ab-8e9e-578d63767595"
-    },
-    {
-      "id": "news-4vyybp",
-      "source": "News",
-      "market": "Mitt i",
-      "date": "25 Oct 2026",
-      "sentiment": "Mixed",
-      "quote": "“Voi tog över föreningens privata mark – utan lov - Mitt i”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTUctdjY2aWhhNmxnZW1Ya2p1T3pkSzNFU2dGTWJkeGNZWTk0QXNJYWJjY2hlY0tMbHJqZjE0M2YyMzJKZ1g3Nmlmbi1VWmIwWkwyNW5LYy1tc3ZhOE1UYllyTTNoUkdqNnEweFpScHF6WmVOTC1wRjNaNjg3aTlIWW1VOUgzQkFyZHc1Znhua3Axbng2UmR0Q3lLb3R4ZGM?oc=5"
     },
     {
       "id": "googleplay-28f5cab1-d193-42ab-a187-520ac6244407",
@@ -161,65 +161,47 @@
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=8fdb4221-f270-48b9-a0d2-ed72cc25611f"
     },
     {
-      "id": "news-cepa8z",
+      "id": "news-1ckphdp",
       "source": "News",
-      "market": "Daily Echo",
+      "market": "Zag Daily",
       "date": "22 Oct 2026",
       "sentiment": "Mixed",
-      "quote": "“Fears over e-scooters as council plans another Voi bay in Bitterne - Daily Echo”",
+      "quote": "“Voi posts record quarter as revenue jumps 53% - Zag Daily”",
       "themes": [
         "General feedback"
       ],
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVG14ZnVneEZpeXR0cGZKZTB6OFM2S2I5RWZiYk9PVUJXdEZMb0pCN21IV2szV3BFR3VCcEozTk1rdFJXYjNXb0pmRi16WFVEVmFJdXQxdVVjTVI0YXdubE5DUnVQTC1pTk1CS1NrVkNXbE1YY3JJeFNDd1hsNjZQYW1Ud0w4SXk4QzI5THIxOEJ5dw?oc=5"
-    },
-    {
-      "id": "googleplay-cffd7c9f-19e6-4af7-b17a-bbf3574c4478",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "21 Oct 2026",
-      "sentiment": "Mixed",
-      "quote": "“Can't log in (says there's no internet connection tho there is).”",
-      "themes": [
-        "App reliability"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=cffd7c9f-19e6-4af7-b17a-bbf3574c4478"
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdEVfNDRBZnlQblM3dlFldEZqcDM3TW1IVjJsLXFTTWNKc0NSU1owcDZVSEhkQl9hMmdRZWVwWU5mMWN4UFFWMXFaN3JrTThVR3ZVdnNtTDNFS2kyYnJNeWEtOGZ1c3NuOU5nSzNZUnQyM2ZFWFJOZU5ma2Rva2x5c1JTbU9GR1E?oc=5"
     }
   ],
   "sentimentSummary": {
     "negative": 1,
-    "mixed": 12,
+    "mixed": 11,
     "positive": 2
   },
   "themes": [
     {
       "label": "General feedback",
       "count": 11,
-      "trend": "down",
-      "delta": -10
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "Billing",
       "count": 1,
-      "trend": "up",
-      "delta": 1
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "Trust",
       "count": 1,
-      "trend": "down",
-      "delta": -1
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "Refunds",
       "count": 1,
-      "trend": "up",
-      "delta": 1
-    },
-    {
-      "label": "App reliability",
-      "count": 1,
-      "trend": "down",
-      "delta": -1
+      "trend": "flat",
+      "delta": 0
     }
   ],
   "sources": [
@@ -233,7 +215,7 @@
     },
     {
       "label": "Google Play",
-      "count": 11
+      "count": 10
     },
     {
       "label": "Reddit",
