@@ -1,26 +1,50 @@
 {
-  "generatedAt": "2026-10-29T12:37:52.732Z",
-  "checkedLabel": "29 Oct 2026",
+  "generatedAt": "2026-10-30T12:28:52.450Z",
+  "checkedLabel": "30 Oct 2026",
   "windowLabel": "Last week",
   "rotateSeconds": 12,
   "posts": [
     {
-      "id": "news-4vyybp",
+      "id": "news-kqn7zk",
       "source": "News",
-      "market": "Mitt i Stockholm",
+      "market": "STV News",
       "date": "Recent",
       "sentiment": "Mixed",
-      "quote": "“Voi tog över föreningens privata mark – utan lov - Mitt i Stockholm”",
+      "quote": "“Glasgow’s Voi bikes pass two million hires in under a year - STV News”",
       "themes": [
         "General feedback"
       ],
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTUctdjY2aWhhNmxnZW1Ya2p1T3pkSzNFU2dGTWJkeGNZWTk0QXNJYWJjY2hlY0tMbHJqZjE0M2YyMzJKZ1g3Nmlmbi1VWmIwWkwyNW5LYy1tc3ZhOE1UYllyTTNoUkdqNnEweFpScHF6WmVOTC1wRjNaNjg3aTlIWW1VOUgzQkFyZHc1Znhua3Axbng2UmR0Q3lLb3R4ZGM?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVFpxV3B0TVQ5ZHlNUG91MmwwR2dJZVhfOThJVDMyeHhEMjN2SFNxZ1JRTFJiSFBTZlpESFFCVE1hTkRaN24ybzNaTnRsYnlUb3FkM1dMRmxNdUV4WTFTMGNOWlhxRGplS2U2RGRzYld0d1U3OFFwLU5uRlJiN3lZVnJOVVdJZ1Z3dDU0VkRuTHFTNkhG?oc=5"
+    },
+    {
+      "id": "news-1m8uqor",
+      "source": "News",
+      "market": "Glasgow Times",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“More than two million journeys made on Glasgow's Voi hire bikes in less than a year - Glasgow Times”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ3ZaRnRmUkFuUFpISm1ueExHemxsR3U0clZRTG9heTh2cEFTRDJSWnVmWlBsVjV6ZlIyaHhVUEhkemVYajVyM3ZqdlhYVDlrS0tDOFVKUC1YVWtveGdTV0l2VmZTNlI1ZmFZekZmS3JxdUpEYVR4WENDWC1EcFBMUEw3bVBKbF85TUo1WEVVRHlzaW5zeFFhUkR2Y0s?oc=5"
+    },
+    {
+      "id": "googleplay-34cb2a89-5a0c-44b9-8f9c-bc49c1e12254",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Positive",
+      "quote": "“So convenient and quick for short rides around the city when public transport doesn't suit.”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=34cb2a89-5a0c-44b9-8f9c-bc49c1e12254"
     },
     {
       "id": "googleplay-30db4130-c18c-4f99-8c43-fd96072fdb36",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "26 Oct 2026",
       "sentiment": "Mixed",
       "quote": "“it was sick geeze pretty class night”",
       "themes": [
@@ -32,7 +56,7 @@
       "id": "googleplay-49b2f068-712c-4d06-b16d-35e62beec41b",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "26 Oct 2026",
       "sentiment": "Mixed",
       "quote": "“les \"vélos\" n’en sont pas, ce sont des mobylettes electriques avec des pédales pour interrupteurs, très désagréable à conduire. les trajets sont hors de prix, plus de 4e pour 20 minutes. il est ecrit \"premier trajet offert\" sur les velos ce n’est pas le cas. je préférais les bicloo à Nantes et de très loin.”",
       "themes": [
@@ -44,7 +68,7 @@
       "id": "googleplay-1fdbdbaa-ff3e-4f49-aae8-379fd8bf2efe",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "26 Oct 2026",
       "sentiment": "Positive",
       "quote": "“it doesnt notify you when your pass runs out and doesnt make it obvious in the app so its easy to get caught out and have to pay full price”",
       "themes": [
@@ -147,36 +171,12 @@
         "General feedback"
       ],
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PTFdQUE1ZZXVzbUpuZGFfc0I5a0dBcnpCUk1Oazg1UXJVNjBqZUFiRE1OcFhRN25UaHp1czUzLUlyZTNEUlA0UmxPZUpvTnpDeVc0ZGVGcENMRzJibWxNbXZMRExySE9PY1JjcnRGWW5XcWswRXZYYlJxMA?oc=5"
-    },
-    {
-      "id": "googleplay-8fdb4221-f270-48b9-a0d2-ed72cc25611f",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "23 Oct 2026",
-      "sentiment": "Mixed",
-      "quote": "“Fails to load properly. No map. \"Help\" is a page with two curly brackets, \"{}\". If parking area is \"full\" when you arrive you've wasted the whole trip as you'll have to go find another zone!”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=8fdb4221-f270-48b9-a0d2-ed72cc25611f"
-    },
-    {
-      "id": "news-1ckphdp",
-      "source": "News",
-      "market": "Zag Daily",
-      "date": "22 Oct 2026",
-      "sentiment": "Mixed",
-      "quote": "“Voi posts record quarter as revenue jumps 53% - Zag Daily”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdEVfNDRBZnlQblM3dlFldEZqcDM3TW1IVjJsLXFTTWNKc0NSU1owcDZVSEhkQl9hMmdRZWVwWU5mMWN4UFFWMXFaN3JrTThVR3ZVdnNtTDNFS2kyYnJNeWEtOGZ1c3NuOU5nSzNZUnQyM2ZFWFJOZU5ma2Rva2x5c1JTbU9GR1E?oc=5"
     }
   ],
   "sentimentSummary": {
     "negative": 1,
-    "mixed": 11,
-    "positive": 2
+    "mixed": 10,
+    "positive": 3
   },
   "themes": [
     {
