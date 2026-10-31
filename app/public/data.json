@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-10-30T12:28:52.450Z",
-  "checkedLabel": "30 Oct 2026",
+  "generatedAt": "2026-10-31T11:57:47.930Z",
+  "checkedLabel": "31 Oct 2026",
   "windowLabel": "Last week",
   "rotateSeconds": 12,
   "posts": [
     {
-      "id": "news-kqn7zk",
+      "id": "news-1koy3d8",
       "source": "News",
-      "market": "STV News",
+      "market": "HurBra.se",
       "date": "Recent",
       "sentiment": "Mixed",
-      "quote": "“Glasgow’s Voi bikes pass two million hires in under a year - STV News”",
+      "quote": "“Voi elcyklar i Malmö 2026 – pris och jämförelse - HurBra.se”",
       "themes": [
         "General feedback"
       ],
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVFpxV3B0TVQ5ZHlNUG91MmwwR2dJZVhfOThJVDMyeHhEMjN2SFNxZ1JRTFJiSFBTZlpESFFCVE1hTkRaN24ybzNaTnRsYnlUb3FkM1dMRmxNdUV4WTFTMGNOWlhxRGplS2U2RGRzYld0d1U3OFFwLU5uRlJiN3lZVnJOVVdJZ1Z3dDU0VkRuTHFTNkhG?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14a2QtQ2YxTnJ2eXRiamVPaV94eWVhT2FJLU55R3plaUE0SWpHa3BQNG81Uk9MQkFHLU5JMVFFSEdFeXYwQTF2UkJfMTBxQ0cwRllWSg?oc=5"
     },
     {
       "id": "news-1m8uqor",
@@ -125,6 +125,18 @@
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=cb695b2e-ec5b-41ab-8e9e-578d63767595"
     },
     {
+      "id": "news-4vyybp",
+      "source": "News",
+      "market": "Mitt i Stockholm",
+      "date": "25 Oct 2026",
+      "sentiment": "Mixed",
+      "quote": "“Voi tog över föreningens privata mark – utan lov - Mitt i Stockholm”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTUctdjY2aWhhNmxnZW1Ya2p1T3pkSzNFU2dGTWJkeGNZWTk0QXNJYWJjY2hlY0tMbHJqZjE0M2YyMzJKZ1g3Nmlmbi1VWmIwWkwyNW5LYy1tc3ZhOE1UYllyTTNoUkdqNnEweFpScHF6WmVOTC1wRjNaNjg3aTlIWW1VOUgzQkFyZHc1Znhua3Axbng2UmR0Q3lLb3R4ZGM?oc=5"
+    },
+    {
       "id": "googleplay-28f5cab1-d193-42ab-a187-520ac6244407",
       "source": "Google Play",
       "market": "GB",
@@ -147,43 +159,19 @@
         "Refunds"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=ca9667af-162d-43e7-8d1f-d99989db9541"
-    },
-    {
-      "id": "googleplay-9913d3db-1264-4ec7-83aa-3c231ff117bb",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "24 Oct 2026",
-      "sentiment": "Positive",
-      "quote": "“Nowhere convenient to park and too much for what it is. I tried to use it to get to the station, turned up at the station with 15 minutes to spare then had to cycle 10 minutes to go park it and missed my train. Will not be using it again.”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=9913d3db-1264-4ec7-83aa-3c231ff117bb"
-    },
-    {
-      "id": "news-xfz5mm",
-      "source": "News",
-      "market": "Bike Europe",
-      "date": "23 Oct 2026",
-      "sentiment": "Mixed",
-      "quote": "“Voi revenue up 53% in Q3 as fleet grows 40% - Bike Europe”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PTFdQUE1ZZXVzbUpuZGFfc0I5a0dBcnpCUk1Oazg1UXJVNjBqZUFiRE1OcFhRN25UaHp1czUzLUlyZTNEUlA0UmxPZUpvTnpDeVc0ZGVGcENMRzJibWxNbXZMRExySE9PY1JjcnRGWW5XcWswRXZYYlJxMA?oc=5"
     }
   ],
   "sentimentSummary": {
     "negative": 1,
     "mixed": 10,
-    "positive": 3
+    "positive": 2
   },
   "themes": [
     {
       "label": "General feedback",
-      "count": 11,
-      "trend": "flat",
-      "delta": 0
+      "count": 10,
+      "trend": "down",
+      "delta": -1
     },
     {
       "label": "Billing",
@@ -215,7 +203,7 @@
     },
     {
       "label": "Google Play",
-      "count": 10
+      "count": 9
     },
     {
       "label": "Reddit",
