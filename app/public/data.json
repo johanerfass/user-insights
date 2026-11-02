@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-11-01T12:56:48.439Z",
-  "checkedLabel": "1 Nov 2026",
+  "generatedAt": "2026-11-02T15:15:25.175Z",
+  "checkedLabel": "2 Nov 2026",
   "windowLabel": "Last week",
   "rotateSeconds": 12,
   "posts": [
+    {
+      "id": "news-1wynhay",
+      "source": "News",
+      "market": "auroradesio.it",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Cambridge E Bikes - Voi E scooters e bikes for hire in Cambridge - auroradesio.it”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13S0xWdHE2UkRsNEhSVEhxX3NtTXYtZUU0Uzl2WlZRdS15OG41SzFuSnkxTVl6bVBEd09OLXhsTlpnS3I0X2xTdXE5akZqbnlaMTlJ?oc=5"
+    },
     {
       "id": "news-iwi60t",
       "source": "News",
@@ -15,6 +27,30 @@
         "General feedback"
       ],
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVWxQWjZJTV9BTGRPS0RnOHZWZV9XUWFnZFoxeGp5NWxyTTg5dE95X1VGbmpULU5oSUZMOGJ3eWItNmRxWkpseUJfRTllc2pSWC1hWFJmWU50RlBWQzFibTZIQUdVeXIwVnAwWGd6TFZ0MVpKMFpPN0V2eF9QTjJFSTVZV3pPaDdQTUFtb1dMd2FVVTgyTV8yNHdPM1NOTi1KNWZ1aw?oc=5"
+    },
+    {
+      "id": "googleplay-4ad6863a-6963-4c47-a8a6-7402689522e4",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Negative",
+      "quote": "“worst escooter service ever! i had to return the bike exactly where i started my ride cause there were no parking spots available”",
+      "themes": [
+        "Parking data"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=4ad6863a-6963-4c47-a8a6-7402689522e4"
+    },
+    {
+      "id": "googleplay-9206d433-437f-42e8-8dc7-ddd6294bca49",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Negative",
+      "quote": "“delay on power in bikes could lead to dangerous situations”",
+      "themes": [
+        "Safety"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=9206d433-437f-42e8-8dc7-ddd6294bca49"
     },
     {
       "id": "googleplay-a59054fd-3cbe-40db-a01e-8a5eca51ad72",
@@ -44,7 +80,7 @@
       "id": "news-1koy3d8",
       "source": "News",
       "market": "HurBra.se",
-      "date": "Recent",
+      "date": "30 Oct 2026",
       "sentiment": "Mixed",
       "quote": "“Voi elcyklar i Malmö 2026 – pris och jämförelse - HurBra.se”",
       "themes": [
@@ -56,7 +92,7 @@
       "id": "googleplay-29ed9b98-7a46-47ba-ad3a-53b68fb9aa7d",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "30 Oct 2026",
       "sentiment": "Mixed",
       "quote": "“Its a 50/50 service, student discount photo upload doesn't work at all so it's generally impossible to apply for it.”",
       "themes": [
@@ -68,7 +104,7 @@
       "id": "news-1m8uqor",
       "source": "News",
       "market": "Glasgow Times",
-      "date": "Recent",
+      "date": "29 Oct 2026",
       "sentiment": "Mixed",
       "quote": "“More than two million journeys made on Glasgow's Voi hire bikes in less than a year - Glasgow Times”",
       "themes": [
@@ -123,49 +159,31 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=1fdbdbaa-ff3e-4f49-aae8-379fd8bf2efe"
-    },
-    {
-      "id": "googleplay-cb176071-ef21-4ed5-aed1-e44caed0531f",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "26 Oct 2026",
-      "sentiment": "Mixed",
-      "quote": "“well \"free' trial still got charged for the subscription.. ride and app easy to handle but free month and ending up paying it same day...”",
-      "themes": [
-        "Billing"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=cb176071-ef21-4ed5-aed1-e44caed0531f"
-    },
-    {
-      "id": "news-9lqq44",
-      "source": "News",
-      "market": "TradingView",
-      "date": "26 Oct 2026",
-      "sentiment": "Mixed",
-      "quote": "“Notice of extraordinary general meeting in Voi Technology AB (publ) - TradingView”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQ3EyUkxxckhRemlaNm4wQ1ZOeDFka19JNmo5dlZuamZaM29Ia28yZG1fMllCTWZxTlFaOVdOWUEtYURtcDJNSWtYUW1PX1FuSktXbzZIU3JYeVlGNEphS0JiNjNtbFY2YTBhYTYyVV9OMmJNN2EtYnh4bmRPRjR6QTlmN0FwLWlHZGd0Nld3UnVyZ3hRb05fNHlMMERZRDF3RGVzVExxYWp4RGstZFMyZXQyR19xUGowaDN3ZHlWQUNKRnBWUjA2bkQ1Yw?oc=5"
     }
   ],
   "sentimentSummary": {
-    "negative": 0,
-    "mixed": 9,
+    "negative": 2,
+    "mixed": 8,
     "positive": 3
   },
   "themes": [
     {
       "label": "General feedback",
       "count": 11,
+      "trend": "flat",
+      "delta": 0
+    },
+    {
+      "label": "Parking data",
+      "count": 1,
       "trend": "up",
       "delta": 1
     },
     {
-      "label": "Billing",
+      "label": "Safety",
       "count": 1,
-      "trend": "flat",
-      "delta": 0
+      "trend": "up",
+      "delta": 1
     }
   ],
   "sources": [
@@ -179,7 +197,7 @@
     },
     {
       "label": "Google Play",
-      "count": 8
+      "count": 9
     },
     {
       "label": "Reddit",
