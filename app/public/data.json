@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-02T15:15:25.175Z",
-  "checkedLabel": "2 Nov 2026",
-  "windowLabel": "Last week",
+  "generatedAt": "2026-11-03T13:53:53.732Z",
+  "checkedLabel": "3 Nov 2026",
+  "windowLabel": "Last month",
   "rotateSeconds": 12,
   "posts": [
     {
@@ -56,7 +56,7 @@
       "id": "googleplay-a59054fd-3cbe-40db-a01e-8a5eca51ad72",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "31 Oct 2026",
       "sentiment": "Positive",
       "quote": "“very easy to download app and use. nice ride, if a little harsh on the suspension.”",
       "themes": [
@@ -68,7 +68,7 @@
       "id": "googleplay-284af156-b9a7-4869-a946-84a8fa17a37e",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "31 Oct 2026",
       "sentiment": "Mixed",
       "quote": "“Every other weekend the whole city centre is \"no ride/no parking”",
       "themes": [
@@ -159,28 +159,384 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=1fdbdbaa-ff3e-4f49-aae8-379fd8bf2efe"
+    },
+    {
+      "id": "googleplay-cb176071-ef21-4ed5-aed1-e44caed0531f",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "26 Oct 2026",
+      "sentiment": "Mixed",
+      "quote": "“well \"free' trial still got charged for the subscription.. ride and app easy to handle but free month and ending up paying it same day...”",
+      "themes": [
+        "Billing"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=cb176071-ef21-4ed5-aed1-e44caed0531f"
+    },
+    {
+      "id": "news-9lqq44",
+      "source": "News",
+      "market": "TradingView",
+      "date": "26 Oct 2026",
+      "sentiment": "Mixed",
+      "quote": "“Notice of extraordinary general meeting in Voi Technology AB (publ) - TradingView”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQ3EyUkxxckhRemlaNm4wQ1ZOeDFka19JNmo5dlZuamZaM29Ia28yZG1fMllCTWZxTlFaOVdOWUEtYURtcDJNSWtYUW1PX1FuSktXbzZIU3JYeVlGNEphS0JiNjNtbFY2YTBhYTYyVV9OMmJNN2EtYnh4bmRPRjR6QTlmN0FwLWlHZGd0Nld3UnVyZ3hRb05fNHlMMERZRDF3RGVzVExxYWp4RGstZFMyZXQyR19xUGowaDN3ZHlWQUNKRnBWUjA2bkQ1Yw?oc=5"
+    },
+    {
+      "id": "googleplay-14606f4d-b358-4b71-9647-b981d9ac93fa",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "25 Oct 2026",
+      "sentiment": "Negative",
+      "quote": "“proper scammers yo ride 20 min they'll charge you 7£ hahaha absolut joke don't even try it it's a waste of money get Uber or take a bus instead”",
+      "themes": [
+        "Trust"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=14606f4d-b358-4b71-9647-b981d9ac93fa"
+    },
+    {
+      "id": "googleplay-cb695b2e-ec5b-41ab-8e9e-578d63767595",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "25 Oct 2026",
+      "sentiment": "Mixed",
+      "quote": "“App opens a map but I cannot see any bikes for hire anywhere in Edinburgh. A waste of time looking.”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=cb695b2e-ec5b-41ab-8e9e-578d63767595"
+    },
+    {
+      "id": "news-4vyybp",
+      "source": "News",
+      "market": "Mitt i Stockholm",
+      "date": "25 Oct 2026",
+      "sentiment": "Mixed",
+      "quote": "“Voi tog över föreningens privata mark – utan lov - Mitt i Stockholm”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTUctdjY2aWhhNmxnZW1Ya2p1T3pkSzNFU2dGTWJkeGNZWTk0QXNJYWJjY2hlY0tMbHJqZjE0M2YyMzJKZ1g3Nmlmbi1VWmIwWkwyNW5LYy1tc3ZhOE1UYllyTTNoUkdqNnEweFpScHF6WmVOTC1wRjNaNjg3aTlIWW1VOUgzQkFyZHc1Znhua3Axbng2UmR0Q3lLb3R4ZGM?oc=5"
+    },
+    {
+      "id": "googleplay-28f5cab1-d193-42ab-a187-520ac6244407",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "24 Oct 2026",
+      "sentiment": "Mixed",
+      "quote": "“I thought pausing would stop the timer but instead I wasted valuable time unfortunately”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=28f5cab1-d193-42ab-a187-520ac6244407"
+    },
+    {
+      "id": "googleplay-ca9667af-162d-43e7-8d1f-d99989db9541",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "24 Oct 2026",
+      "sentiment": "Mixed",
+      "quote": "“They started really hiding that their purchases auto renew as a subscription now. scummy behaviour ... and ofc NO REFUNDS even when canceling within minutes of the payment being made without ever using it.”",
+      "themes": [
+        "Refunds"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=ca9667af-162d-43e7-8d1f-d99989db9541"
+    },
+    {
+      "id": "googleplay-9913d3db-1264-4ec7-83aa-3c231ff117bb",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "24 Oct 2026",
+      "sentiment": "Positive",
+      "quote": "“Nowhere convenient to park and too much for what it is. I tried to use it to get to the station, turned up at the station with 15 minutes to spare then had to cycle 10 minutes to go park it and missed my train. Will not be using it again.”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=9913d3db-1264-4ec7-83aa-3c231ff117bb"
+    },
+    {
+      "id": "news-xfz5mm",
+      "source": "News",
+      "market": "Bike Europe",
+      "date": "23 Oct 2026",
+      "sentiment": "Mixed",
+      "quote": "“Voi revenue up 53% in Q3 as fleet grows 40% - Bike Europe”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PTFdQUE1ZZXVzbUpuZGFfc0I5a0dBcnpCUk1Oazg1UXJVNjBqZUFiRE1OcFhRN25UaHp1czUzLUlyZTNEUlA0UmxPZUpvTnpDeVc0ZGVGcENMRzJibWxNbXZMRExySE9PY1JjcnRGWW5XcWswRXZYYlJxMA?oc=5"
+    },
+    {
+      "id": "googleplay-8fdb4221-f270-48b9-a0d2-ed72cc25611f",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "23 Oct 2026",
+      "sentiment": "Mixed",
+      "quote": "“Fails to load properly. No map. \"Help\" is a page with two curly brackets, \"{}\". If parking area is \"full\" when you arrive you've wasted the whole trip as you'll have to go find another zone!”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=8fdb4221-f270-48b9-a0d2-ed72cc25611f"
+    },
+    {
+      "id": "news-1ckphdp",
+      "source": "News",
+      "market": "Zag Daily",
+      "date": "22 Oct 2026",
+      "sentiment": "Mixed",
+      "quote": "“Voi posts record quarter as revenue jumps 53% - Zag Daily”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdEVfNDRBZnlQblM3dlFldEZqcDM3TW1IVjJsLXFTTWNKc0NSU1owcDZVSEhkQl9hMmdRZWVwWU5mMWN4UFFWMXFaN3JrTThVR3ZVdnNtTDNFS2kyYnJNeWEtOGZ1c3NuOU5nSzNZUnQyM2ZFWFJOZU5ma2Rva2x5c1JTbU9GR1E?oc=5"
+    },
+    {
+      "id": "googleplay-cffd7c9f-19e6-4af7-b17a-bbf3574c4478",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "21 Oct 2026",
+      "sentiment": "Mixed",
+      "quote": "“Can't log in (says there's no internet connection tho there is).”",
+      "themes": [
+        "App reliability"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=cffd7c9f-19e6-4af7-b17a-bbf3574c4478"
+    },
+    {
+      "id": "mastodon-mastodon.social-117478703420725268",
+      "source": "Mastodon",
+      "market": "@nilz@norden.social",
+      "date": "21 Oct 2026",
+      "sentiment": "Mixed",
+      "quote": "“Seit August versucht #Voi wiederholt, für eine in #Kopenhagen getätigte Fahrt 6,35 EUR von meiner #Kreditkarte abzurufen. Das hatte direkt vor Ort wohl nicht geklappt. Zurück in Deutschland wird mir das als \"verdächtiger Abruf\" in meiner #BankingApp angezeigt. Gebe ich frei, löst es aber noch keine Zahlung aus - die m…”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://norden.social/@nilz/117478703375154435"
+    },
+    {
+      "id": "news-1999oow",
+      "source": "News",
+      "market": "Expressen",
+      "date": "21 Oct 2026",
+      "sentiment": "Mixed",
+      "quote": "“Dan Ekborg frikänns och döms i Voi-olycka - Expressen”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qR3BTZ2dQREs0bnYxSlpDX0ZtMFQ4Qjl4QnF2NzJYQlZSX2xZTUNZRHFBQVY0Zks0eFBodTdBZUxUUkZLbXk1LXhxNWlYclRPS2hNYVJyZDFWUXZfbXJaeFZoVDJKUkNzSEw1Tg?oc=5"
+    },
+    {
+      "id": "news-1q9qbno",
+      "source": "News",
+      "market": "Mitt i",
+      "date": "16 Oct 2026",
+      "sentiment": "Mixed",
+      "quote": "“Deras privata gård blev parkering för Voi-hojar - Mitt i”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM0ZMY2lPRlBDUkFudEhKclpIc28wSzRxOTVLOUNKSUlWbWQ3dXF5enVWdDVuQkNlUzQ4WmRob2lNVUZFUnozeFNKQ01HeG5IaklCNGpQT2hwQ1FwVWtGbTJmRDNCbXo4UmpXTHVGNXIwSk9LRzZRZ1h2TkZZX2JheUpxUkI1cU92aGhoOVIyXzlyWTNDZUN6RnI2N2k3UQ?oc=5"
+    },
+    {
+      "id": "googleplay-97623940-d10c-472a-a435-e0ccd23b4f5b",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "14 Oct 2026",
+      "sentiment": "Positive",
+      "quote": "“I hate to say this but it saved me from quite a pickle when the metro was down”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=97623940-d10c-472a-a435-e0ccd23b4f5b"
+    },
+    {
+      "id": "googleplay-4061b691-4426-4e06-aa81-c18b0b642d39",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "13 Oct 2026",
+      "sentiment": "Mixed",
+      "quote": "“quick ride”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=4061b691-4426-4e06-aa81-c18b0b642d39"
+    },
+    {
+      "id": "googleplay-42094aaf-ff67-402d-9fce-af92e6ac33c8",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "13 Oct 2026",
+      "sentiment": "Positive",
+      "quote": "“Great app overall. Would love to see more bikes and a slightly cheaper rate”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=42094aaf-ff67-402d-9fce-af92e6ac33c8"
+    },
+    {
+      "id": "googleplay-40c6d9dc-0cc8-4484-b3bc-fd0bfdca5188",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "12 Oct 2026",
+      "sentiment": "Mixed",
+      "quote": "“ik heb voi plus en was altijd blij met voi maar nu moet je persee parkeren in speciale parkeer zones dat hoefte eerst niet en die parkeer zones zijn zo hinderlijk te bereiken dan denk je ff te fietsen om snel te zijn ben je als nog langer onderweg want je moet eerst terug fietsen en dan de rest lopen en de app maakt n…”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=40c6d9dc-0cc8-4484-b3bc-fd0bfdca5188"
+    },
+    {
+      "id": "news-9v14pn",
+      "source": "News",
+      "market": "Glasgow Times",
+      "date": "12 Oct 2026",
+      "sentiment": "Mixed",
+      "quote": "“Glasgow Voi users brand removal of monthly pass option a ‘genuine disgrace’ - Glasgow Times”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVE9KSHR5T3RTaERJOGpLWHFSNEdLVUUtSDFxbzMyR3UxSXRwMFgxcHNkZkRUYnFxdHZ0WmJiLTJwdUk1RkJaeVp2dkJqM3RuN24zeW50bVh5Rm10NnFOWUJFU2VGczFRQlhrRF82bUJqcnQ4T0pSRmxFVjM0aVdpNGRLaS0wRXlpMW5YdGk1QW1oMEh0VzYtLTV6WGZGd09nMGlTdDJ1cVVvcFFORXZXbUE2akJMUQ?oc=5"
+    },
+    {
+      "id": "news-wccrog",
+      "source": "News",
+      "market": "FAZ",
+      "date": "12 Oct 2026",
+      "sentiment": "Mixed",
+      "quote": "“Gefahr auf den Straßen: Lime, Voi und Bolt haften jetzt für ihre E-Scooter - FAZ”",
+      "themes": [
+        "vs. Lime",
+        "vs. Bolt"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOUk4Q1BTaEE4dDVRc2xydzFKXzVzRU5zbVRLMlZtdjZVdTVaU3h4NjVsMWJCQnpGWGNxdVJrN0VNdC1ucGFoZEVYSFBONVU3Qk1ieE04ODJtaDJ5YWNTRzA5NEx6U05SN3pRdzB2WU1sc09UVVRMUjhQMEtWblJRSHlFZ2wxY3h5c0xLNzFOdElsQk5mYW1xV29NX3RZMEU5SHRYZWZDYzMzMzFYQlVZbmJUZzNtTGlmQ2lCVkZaSGtweW8yaEJJanFuZVZpVUJQQzNzZVRKTmdhckE?oc=5"
+    },
+    {
+      "id": "googleplay-29181a3e-5f35-4439-af03-47191174fece",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "10 Oct 2026",
+      "sentiment": "Mixed",
+      "quote": "“this app is garbage, every time I need a bike to get to my job faster rather than walking, always I see this : error has occurred, try again later”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=29181a3e-5f35-4439-af03-47191174fece"
+    },
+    {
+      "id": "googleplay-59e9ce26-50c6-4d80-9111-05dc9dd09aa6",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "8 Oct 2026",
+      "sentiment": "Mixed",
+      "quote": "“Map is very hard to read in dark mode. Please add a setting toggle to always use light mode (without changing it for all apps in the system settings).”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=59e9ce26-50c6-4d80-9111-05dc9dd09aa6"
+    },
+    {
+      "id": "googleplay-fc180c6b-6650-44b3-8945-25bf45c5aa60",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "7 Oct 2026",
+      "sentiment": "Negative",
+      "quote": "“Poor coverage compared to other apps, I cycled to Balham which is pretty central as London goes and found it was a no parking zone and I had to cycle way back out of my way to park. Other bikes can be ridden here no problem. Bikes slower than others, and the phone holder isn't secure, mine slipped out into the road wh…”",
+      "themes": [
+        "Phone holder"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=fc180c6b-6650-44b3-8945-25bf45c5aa60"
+    },
+    {
+      "id": "googleplay-d6ecd935-3630-4ca5-b418-31618d7444ee",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "6 Oct 2026",
+      "sentiment": "Mixed",
+      "quote": "“App has been great until recently. Any time I try to submit parking photos, the app crashes, and then get penalised for not ending the ride correctly. Riders should not be penalised for a buggy app.”",
+      "themes": [
+        "App reliability"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=d6ecd935-3630-4ca5-b418-31618d7444ee"
+    },
+    {
+      "id": "googleplay-2fd71eea-20f3-4f9c-b9a0-f99b3e6c5edf",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "5 Oct 2026",
+      "sentiment": "Positive",
+      "quote": "“great ride great price”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=2fd71eea-20f3-4f9c-b9a0-f99b3e6c5edf"
+    },
+    {
+      "id": "googleplay-2fc64c09-0a4b-4d07-99b8-a8bcaf21bfdf",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "4 Oct 2026",
+      "sentiment": "Mixed",
+      "quote": "“Good scooters and so much better priced than lime.”",
+      "themes": [
+        "vs. Lime"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=2fc64c09-0a4b-4d07-99b8-a8bcaf21bfdf"
+    },
+    {
+      "id": "mastodon-mastodon.social-117383710601057352",
+      "source": "Mastodon",
+      "market": "@ArboristManuel@nrw.social",
+      "date": "4 Oct 2026",
+      "sentiment": "Mixed",
+      "quote": "“Ich bin in der nächsten Woche in #Hamburg. Weil ich meinen Fuß noch etwas schonen möchte, habe ich überlegt, vor Ort mit #eScooter mobil zu sein. Offenbar gibt es 5 Anbieter: #Lime, #Bolt, #Dott, #Voi und #RydeTechnology. Gibt es Empfehlungen? #HH #verkehrswende”",
+      "themes": [
+        "vs. Lime",
+        "vs. Dott"
+      ],
+      "url": "https://nrw.social/@ArboristManuel/117383710519668655"
     }
   ],
   "sentimentSummary": {
-    "negative": 2,
-    "mixed": 8,
-    "positive": 3
+    "negative": 4,
+    "mixed": 30,
+    "positive": 7
   },
   "themes": [
     {
       "label": "General feedback",
-      "count": 11,
-      "trend": "flat",
-      "delta": 0
+      "count": 30,
+      "trend": "up",
+      "delta": 19
+    },
+    {
+      "label": "vs. Lime",
+      "count": 3,
+      "trend": "up",
+      "delta": 3
+    },
+    {
+      "label": "App reliability",
+      "count": 2,
+      "trend": "up",
+      "delta": 2
     },
     {
       "label": "Parking data",
       "count": 1,
-      "trend": "up",
-      "delta": 1
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "Safety",
+      "count": 1,
+      "trend": "flat",
+      "delta": 0
+    },
+    {
+      "label": "Billing",
       "count": 1,
       "trend": "up",
       "delta": 1
@@ -197,7 +553,7 @@
     },
     {
       "label": "Google Play",
-      "count": 9
+      "count": 27
     },
     {
       "label": "Reddit",
@@ -205,7 +561,7 @@
     },
     {
       "label": "News",
-      "count": 4
+      "count": 12
     },
     {
       "label": "X",
@@ -213,7 +569,7 @@
     },
     {
       "label": "Mastodon",
-      "count": 0
+      "count": 2
     },
     {
       "label": "Bluesky",
