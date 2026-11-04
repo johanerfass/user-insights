@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-11-03T13:53:53.732Z",
-  "checkedLabel": "3 Nov 2026",
+  "generatedAt": "2026-11-04T14:03:52.710Z",
+  "checkedLabel": "4 Nov 2026",
   "windowLabel": "Last month",
   "rotateSeconds": 12,
   "posts": [
     {
-      "id": "news-1wynhay",
-      "source": "News",
-      "market": "auroradesio.it",
+      "id": "googleplay-4c5c6a96-64e2-481f-b5b5-a230d06e1b1c",
+      "source": "Google Play",
+      "market": "GB",
       "date": "Recent",
-      "sentiment": "Mixed",
-      "quote": "“Cambridge E Bikes - Voi E scooters e bikes for hire in Cambridge - auroradesio.it”",
+      "sentiment": "Positive",
+      "quote": "“Excellent marine travel service”",
       "themes": [
         "General feedback"
       ],
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13S0xWdHE2UkRsNEhSVEhxX3NtTXYtZUU0Uzl2WlZRdS15OG41SzFuSnkxTVl6bVBEd09OLXhsTlpnS3I0X2xTdXE5akZqbnlaMTlJ?oc=5"
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=4c5c6a96-64e2-481f-b5b5-a230d06e1b1c"
     },
     {
       "id": "news-iwi60t",
       "source": "News",
       "market": "Glasgow Times",
-      "date": "Recent",
+      "date": "1 Nov 2026",
       "sentiment": "Mixed",
       "quote": "“Glasgow council steps in after huge Voi bike price hike - Glasgow Times”",
       "themes": [
@@ -32,7 +32,7 @@
       "id": "googleplay-4ad6863a-6963-4c47-a8a6-7402689522e4",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "1 Nov 2026",
       "sentiment": "Negative",
       "quote": "“worst escooter service ever! i had to return the bike exactly where i started my ride cause there were no parking spots available”",
       "themes": [
@@ -44,7 +44,7 @@
       "id": "googleplay-9206d433-437f-42e8-8dc7-ddd6294bca49",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "1 Nov 2026",
       "sentiment": "Negative",
       "quote": "“delay on power in bikes could lead to dangerous situations”",
       "themes": [
@@ -99,18 +99,6 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=29ed9b98-7a46-47ba-ad3a-53b68fb9aa7d"
-    },
-    {
-      "id": "news-1m8uqor",
-      "source": "News",
-      "market": "Glasgow Times",
-      "date": "29 Oct 2026",
-      "sentiment": "Mixed",
-      "quote": "“More than two million journeys made on Glasgow's Voi hire bikes in less than a year - Glasgow Times”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ3ZaRnRmUkFuUFpISm1ueExHemxsR3U0clZRTG9heTh2cEFTRDJSWnVmWlBsVjV6ZlIyaHhVUEhkemVYajVyM3ZqdlhYVDlrS0tDOFVKUC1YVWtveGdTV0l2VmZTNlI1ZmFZekZmS3JxdUpEYVR4WENDWC1EcFBMUEw3bVBKbF85TUo1WEVVRHlzaW5zeFFhUkR2Y0s?oc=5"
     },
     {
       "id": "googleplay-34cb2a89-5a0c-44b9-8f9c-bc49c1e12254",
@@ -257,18 +245,6 @@
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=9913d3db-1264-4ec7-83aa-3c231ff117bb"
     },
     {
-      "id": "news-xfz5mm",
-      "source": "News",
-      "market": "Bike Europe",
-      "date": "23 Oct 2026",
-      "sentiment": "Mixed",
-      "quote": "“Voi revenue up 53% in Q3 as fleet grows 40% - Bike Europe”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PTFdQUE1ZZXVzbUpuZGFfc0I5a0dBcnpCUk1Oazg1UXJVNjBqZUFiRE1OcFhRN25UaHp1czUzLUlyZTNEUlA0UmxPZUpvTnpDeVc0ZGVGcENMRzJibWxNbXZMRExySE9PY1JjcnRGWW5XcWswRXZYYlJxMA?oc=5"
-    },
-    {
       "id": "googleplay-8fdb4221-f270-48b9-a0d2-ed72cc25611f",
       "source": "Google Play",
       "market": "GB",
@@ -303,30 +279,6 @@
         "App reliability"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=cffd7c9f-19e6-4af7-b17a-bbf3574c4478"
-    },
-    {
-      "id": "mastodon-mastodon.social-117478703420725268",
-      "source": "Mastodon",
-      "market": "@nilz@norden.social",
-      "date": "21 Oct 2026",
-      "sentiment": "Mixed",
-      "quote": "“Seit August versucht #Voi wiederholt, für eine in #Kopenhagen getätigte Fahrt 6,35 EUR von meiner #Kreditkarte abzurufen. Das hatte direkt vor Ort wohl nicht geklappt. Zurück in Deutschland wird mir das als \"verdächtiger Abruf\" in meiner #BankingApp angezeigt. Gebe ich frei, löst es aber noch keine Zahlung aus - die m…”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://norden.social/@nilz/117478703375154435"
-    },
-    {
-      "id": "news-1999oow",
-      "source": "News",
-      "market": "Expressen",
-      "date": "21 Oct 2026",
-      "sentiment": "Mixed",
-      "quote": "“Dan Ekborg frikänns och döms i Voi-olycka - Expressen”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qR3BTZ2dQREs0bnYxSlpDX0ZtMFQ4Qjl4QnF2NzJYQlZSX2xZTUNZRHFBQVY0Zks0eFBodTdBZUxUUkZLbXk1LXhxNWlYclRPS2hNYVJyZDFWUXZfbXJaeFZoVDJKUkNzSEw1Tg?oc=5"
     },
     {
       "id": "news-1q9qbno",
@@ -387,18 +339,6 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=40c6d9dc-0cc8-4484-b3bc-fd0bfdca5188"
-    },
-    {
-      "id": "news-9v14pn",
-      "source": "News",
-      "market": "Glasgow Times",
-      "date": "12 Oct 2026",
-      "sentiment": "Mixed",
-      "quote": "“Glasgow Voi users brand removal of monthly pass option a ‘genuine disgrace’ - Glasgow Times”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVE9KSHR5T3RTaERJOGpLWHFSNEdLVUUtSDFxbzMyR3UxSXRwMFgxcHNkZkRUYnFxdHZ0WmJiLTJwdUk1RkJaeVp2dkJqM3RuN24zeW50bVh5Rm10NnFOWUJFU2VGczFRQlhrRF82bUJqcnQ4T0pSRmxFVjM0aVdpNGRLaS0wRXlpMW5YdGk1QW1oMEh0VzYtLTV6WGZGd09nMGlTdDJ1cVVvcFFORXZXbUE2akJMUQ?oc=5"
     },
     {
       "id": "news-wccrog",
@@ -472,56 +412,25 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=2fd71eea-20f3-4f9c-b9a0-f99b3e6c5edf"
-    },
-    {
-      "id": "googleplay-2fc64c09-0a4b-4d07-99b8-a8bcaf21bfdf",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "4 Oct 2026",
-      "sentiment": "Mixed",
-      "quote": "“Good scooters and so much better priced than lime.”",
-      "themes": [
-        "vs. Lime"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=2fc64c09-0a4b-4d07-99b8-a8bcaf21bfdf"
-    },
-    {
-      "id": "mastodon-mastodon.social-117383710601057352",
-      "source": "Mastodon",
-      "market": "@ArboristManuel@nrw.social",
-      "date": "4 Oct 2026",
-      "sentiment": "Mixed",
-      "quote": "“Ich bin in der nächsten Woche in #Hamburg. Weil ich meinen Fuß noch etwas schonen möchte, habe ich überlegt, vor Ort mit #eScooter mobil zu sein. Offenbar gibt es 5 Anbieter: #Lime, #Bolt, #Dott, #Voi und #RydeTechnology. Gibt es Empfehlungen? #HH #verkehrswende”",
-      "themes": [
-        "vs. Lime",
-        "vs. Dott"
-      ],
-      "url": "https://nrw.social/@ArboristManuel/117383710519668655"
     }
   ],
   "sentimentSummary": {
     "negative": 4,
-    "mixed": 30,
-    "positive": 7
+    "mixed": 22,
+    "positive": 8
   },
   "themes": [
     {
       "label": "General feedback",
-      "count": 30,
-      "trend": "up",
-      "delta": 19
-    },
-    {
-      "label": "vs. Lime",
-      "count": 3,
-      "trend": "up",
-      "delta": 3
+      "count": 25,
+      "trend": "down",
+      "delta": -5
     },
     {
       "label": "App reliability",
       "count": 2,
-      "trend": "up",
-      "delta": 2
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "Parking data",
@@ -537,6 +446,12 @@
     },
     {
       "label": "Billing",
+      "count": 1,
+      "trend": "flat",
+      "delta": 0
+    },
+    {
+      "label": "Trust",
       "count": 1,
       "trend": "up",
       "delta": 1
@@ -561,7 +476,7 @@
     },
     {
       "label": "News",
-      "count": 12
+      "count": 7
     },
     {
       "label": "X",
@@ -569,7 +484,7 @@
     },
     {
       "label": "Mastodon",
-      "count": 2
+      "count": 0
     },
     {
       "label": "Bluesky",
