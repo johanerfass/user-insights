@@ -1,9 +1,33 @@
 {
-  "generatedAt": "2026-11-05T14:23:35.826Z",
-  "checkedLabel": "5 Nov 2026",
+  "generatedAt": "2026-11-06T13:59:40.891Z",
+  "checkedLabel": "6 Nov 2026",
   "windowLabel": "Last week",
   "rotateSeconds": 12,
   "posts": [
+    {
+      "id": "news-894lwp",
+      "source": "News",
+      "market": "The Herald",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“What use is a cheap Voi bike if you can never find one? - The Herald”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbFlEOEUyTFpiMWhGZTFmdmJRVC1icE1BU1ppeVJKMGJFMG5LT3pveFQ1NzRqeGYtSWxwbTVzeDljNjdVOHNDUXVCZUFhTFIxN1ZpaE5Cak1xVUlLR0sxdlhfZkYtckF4LTRValltZGFiS01tVnVxQWs0VEFCTUtTOVlyMS1TM2dzamxZakNR?oc=5"
+    },
+    {
+      "id": "news-12siyq3",
+      "source": "News",
+      "market": "General-Anzeiger Bonn",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Lime, Voi, Ryde und Co.: E-Scooter machen Gehweg in Bonn zum Hindernisparcours - General-Anzeiger Bonn”",
+      "themes": [
+        "vs. Lime"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdzJKa1ZsclB3SkR1N2pvNi1KVTRRQktFNFJ1OUdlM2ZKR0J5RWxDSnlwb1lzZ1JnMXN3bFVFanNtcFhXeTB0ZmhiTzJ0ek4wUTI0eVlkci1iaVhET1lkT1NVMndWYUM1SEQwOFhXMzNZMGRWS3cxY05JTllrbFlnSlhJMXZnTkJyeHNTRXpLakxPbkNOTWRfNkNR?oc=5"
+    },
     {
       "id": "mastodon-mastodon.social-117564129495139018",
       "source": "Mastodon",
@@ -68,7 +92,7 @@
       "id": "googleplay-4c5c6a96-64e2-481f-b5b5-a230d06e1b1c",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "2 Nov 2026",
       "sentiment": "Positive",
       "quote": "“Excellent marine travel service”",
       "themes": [
@@ -147,31 +171,25 @@
         "General feedback"
       ],
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14a2QtQ2YxTnJ2eXRiamVPaV94eWVhT2FJLU55R3plaUE0SWpHa3BQNG81Uk9MQkFHLU5JMVFFSEdFeXYwQTF2UkJfMTBxQ0cwRllWSg?oc=5"
-    },
-    {
-      "id": "googleplay-29ed9b98-7a46-47ba-ad3a-53b68fb9aa7d",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "30 Oct 2026",
-      "sentiment": "Mixed",
-      "quote": "“Its a 50/50 service, student discount photo upload doesn't work at all so it's generally impossible to apply for it.”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=29ed9b98-7a46-47ba-ad3a-53b68fb9aa7d"
     }
   ],
   "sentimentSummary": {
     "negative": 2,
-    "mixed": 8,
+    "mixed": 9,
     "positive": 3
   },
   "themes": [
     {
       "label": "General feedback",
       "count": 11,
-      "trend": "down",
-      "delta": -14
+      "trend": "flat",
+      "delta": 0
+    },
+    {
+      "label": "vs. Lime",
+      "count": 1,
+      "trend": "up",
+      "delta": 1
     },
     {
       "label": "Parking data",
@@ -197,7 +215,7 @@
     },
     {
       "label": "Google Play",
-      "count": 7
+      "count": 6
     },
     {
       "label": "Reddit",
@@ -205,7 +223,7 @@
     },
     {
       "label": "News",
-      "count": 3
+      "count": 5
     },
     {
       "label": "X",
