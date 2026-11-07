@@ -1,9 +1,46 @@
 {
-  "generatedAt": "2026-11-06T13:59:40.891Z",
-  "checkedLabel": "6 Nov 2026",
+  "generatedAt": "2026-11-07T12:43:57.097Z",
+  "checkedLabel": "7 Nov 2026",
   "windowLabel": "Last week",
   "rotateSeconds": 12,
   "posts": [
+    {
+      "id": "news-1xwqlbw",
+      "source": "News",
+      "market": "Road.cc",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“City of London councillor who rejected Voi reveals Lime role... and faces calls to quit; Plus Litespeed and Aurum go electric with new super-lightweight road e-bikes + more | electric bike reviews, buying advice and news - ebiketips - Road.cc”",
+      "themes": [
+        "vs. Lime"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQc1l2a3A4UDdXN0Y3RTVqUW1Gd1BoQVJ1ODNSUjFfRkN2WFhSZGJGUjlVeWFfaFBaZmVtTS1XcFhCOFotZ2NLa0xvQWRRMFVaSUNVR3ljMTJHVDVBdm5FN3pUM0NxNTdKMW1LNWRybEhoaWEzaWFVckl2ZENJWFRMNTVkN3lHNFl3YjYxMk1qZzlETTVzcERYYnl6OHlMcnZEWjhTQ0FvYnVEME5fTHRLb05wQkQ5WmNyMTRvaTdHcU01WkVKRXE1ZVB1dTNDZ3ZDcFpSd3Y0WUx5TkxoWDlyZURmUmxlODVwYnZ1WHdaQjduM3h3WHFsUlNrLW9yN3NUQ280c2JzQUZYbk9fRGxEVTF3b2J5QWFkS2pvbWFFb0pUTkNJUnlN?oc=5"
+    },
+    {
+      "id": "googleplay-c3439384-3e2e-4377-8e90-b150920f6c14",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Negative",
+      "quote": "“charged me £7 on my first ride!!! what a rip off, it caped you at 15mph which is also super annoying.”",
+      "themes": [
+        "Billing",
+        "First ride"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=c3439384-3e2e-4377-8e90-b150920f6c14"
+    },
+    {
+      "id": "googleplay-1cb2d941-b6bd-48af-bf85-859ad0f0151b",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“lol why can i not use one account on two devices that is archaic.”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=1cb2d941-b6bd-48af-bf85-859ad0f0151b"
+    },
     {
       "id": "news-894lwp",
       "source": "News",
@@ -80,7 +117,7 @@
       "id": "news-1gpr14g",
       "source": "News",
       "market": "The Glasgow Bell",
-      "date": "Recent",
+      "date": "4 Nov 2026",
       "sentiment": "Mixed",
       "quote": "“Did Glasgow fall for Voi too quickly? - The Glasgow Bell”",
       "themes": [
@@ -135,58 +172,34 @@
         "Safety"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=9206d433-437f-42e8-8dc7-ddd6294bca49"
-    },
-    {
-      "id": "googleplay-a59054fd-3cbe-40db-a01e-8a5eca51ad72",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "31 Oct 2026",
-      "sentiment": "Positive",
-      "quote": "“very easy to download app and use. nice ride, if a little harsh on the suspension.”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=a59054fd-3cbe-40db-a01e-8a5eca51ad72"
-    },
-    {
-      "id": "googleplay-284af156-b9a7-4869-a946-84a8fa17a37e",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "31 Oct 2026",
-      "sentiment": "Mixed",
-      "quote": "“Every other weekend the whole city centre is \"no ride/no parking”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=284af156-b9a7-4869-a946-84a8fa17a37e"
-    },
-    {
-      "id": "news-1koy3d8",
-      "source": "News",
-      "market": "HurBra.se",
-      "date": "30 Oct 2026",
-      "sentiment": "Mixed",
-      "quote": "“Voi elcyklar i Malmö 2026 – pris och jämförelse - HurBra.se”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14a2QtQ2YxTnJ2eXRiamVPaV94eWVhT2FJLU55R3plaUE0SWpHa3BQNG81Uk9MQkFHLU5JMVFFSEdFeXYwQTF2UkJfMTBxQ0cwRllWSg?oc=5"
     }
   ],
   "sentimentSummary": {
-    "negative": 2,
+    "negative": 3,
     "mixed": 9,
-    "positive": 3
+    "positive": 2
   },
   "themes": [
     {
       "label": "General feedback",
-      "count": 11,
-      "trend": "flat",
-      "delta": 0
+      "count": 9,
+      "trend": "down",
+      "delta": -2
     },
     {
       "label": "vs. Lime",
+      "count": 2,
+      "trend": "up",
+      "delta": 1
+    },
+    {
+      "label": "Billing",
+      "count": 1,
+      "trend": "up",
+      "delta": 1
+    },
+    {
+      "label": "First ride",
       "count": 1,
       "trend": "up",
       "delta": 1
