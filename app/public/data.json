@@ -1,9 +1,33 @@
 {
-  "generatedAt": "2026-11-09T15:43:31.048Z",
-  "checkedLabel": "9 Nov 2026",
+  "generatedAt": "2026-11-10T14:37:44.747Z",
+  "checkedLabel": "10 Nov 2026",
   "windowLabel": "Last week",
   "rotateSeconds": 12,
   "posts": [
+    {
+      "id": "news-113zyuy",
+      "source": "News",
+      "market": "Road.cc",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Voi pulls out of borough and slams “unfair, exclusionary” policies after council withdrew licence and threatened to impound bikes in garage | electric bike reviews, buying advice and news - ebiketips - Road.cc”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xQWNRd3pRWUpSRHBCckxaLU1mQk1HMGhYOUV5Zi1rSS1ZQlZaeUpjdUFCUzZQd1FucHZocnA1U0J1U2hMdFNob1BHcDBlSWtkUlNsT0NzVE1LeHYxRGxMUks1c3dfUjl2SVgxRm9MUkNyZw?oc=5"
+    },
+    {
+      "id": "news-12siyq3",
+      "source": "News",
+      "market": "General-Anzeiger Bonn",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Lime, Voi, Ryde und Co.: E-Scooter machen Gehweg in Bonn zum Hindernisparcours - General-Anzeiger Bonn”",
+      "themes": [
+        "vs. Lime"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdzJKa1ZsclB3SkR1N2pvNi1KVTRRQktFNFJ1OUdlM2ZKR0J5RWxDSnlwb1lzZ1JnMXN3bFVFanNtcFhXeTB0ZmhiTzJ0ek4wUTI0eVlkci1iaVhET1lkT1NVMndWYUM1SEQwOFhXMzNZMGRWS3cxY05JTllrbFlnSlhJMXZnTkJyeHNTRXpLakxPbkNOTWRfNkNR?oc=5"
+    },
     {
       "id": "news-gzqyqm",
       "source": "News",
@@ -17,10 +41,22 @@
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNX3IySUN5MzZKdXc0UHc0NDN6eWVwSURBTk9MQVo3SEEyOFhqZkxYeUduaEhMUUVCV1hHZ1RKaGR4UDB1b3l3Z3dnU0JLdnFpRl90eG9IeDJhVG5CSjJmQjI3LU1qbnlkSUM4Y2dzRzQ5RVZiNl9pODJCVkJtVE01ZHlDV0VsSWQzQTJ6R1hINXIwWXV5WEJkVG1VeWF0ejlZNHNjOTJmWmJWMUZlTXptVTJVbGlnVE1VMHJEQllxYWFjUDlCb3JNeFJCamdwSlA5Y3B3QnhEZEw5d2l1dkhhZk5KcVh4WC1Bc29V?oc=5"
     },
     {
-      "id": "googleplay-f4679aa4-4d02-437c-bab0-5cd19c9e023c",
+      "id": "googleplay-17ae9365-2e80-4198-819e-bb9da09c6d33",
       "source": "Google Play",
       "market": "GB",
       "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“we need option 24 hours pass in London”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=17ae9365-2e80-4198-819e-bb9da09c6d33"
+    },
+    {
+      "id": "googleplay-f4679aa4-4d02-437c-bab0-5cd19c9e023c",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "6 Nov 2026",
       "sentiment": "Positive",
       "quote": "“excellent except there should be clear guidance where parking is before you start off on your ride”",
       "themes": [
@@ -64,18 +100,6 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=1cb2d941-b6bd-48af-bf85-859ad0f0151b"
-    },
-    {
-      "id": "news-12siyq3",
-      "source": "News",
-      "market": "General-Anzeiger Bonn",
-      "date": "5 Nov 2026",
-      "sentiment": "Mixed",
-      "quote": "“Lime, Voi, Ryde und Co.: E-Scooter machen Gehweg in Bonn zum Hindernisparcours - General-Anzeiger Bonn”",
-      "themes": [
-        "vs. Lime"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdzJKa1ZsclB3SkR1N2pvNi1KVTRRQktFNFJ1OUdlM2ZKR0J5RWxDSnlwb1lzZ1JnMXN3bFVFanNtcFhXeTB0ZmhiTzJ0ek4wUTI0eVlkci1iaVhET1lkT1NVMndWYUM1SEQwOFhXMzNZMGRWS3cxY05JTllrbFlnSlhJMXZnTkJyeHNTRXpLakxPbkNOTWRfNkNR?oc=5"
     },
     {
       "id": "mastodon-mastodon.social-117564129495139018",
@@ -124,55 +148,31 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=6c944dd4-b83d-451a-bf09-5a5d7bd40542"
-    },
-    {
-      "id": "news-1gpr14g",
-      "source": "News",
-      "market": "The Glasgow Bell",
-      "date": "4 Nov 2026",
-      "sentiment": "Mixed",
-      "quote": "“Did Glasgow fall for Voi too quickly? - The Glasgow Bell”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZTExITEZENGtnQkFYaS1feVJIOE1yVlRrTlk0WXVybVNpS0xxbzFfMWZnM3p4RE5FWWdTMmlScGZwX01FU0xSSkVlc0tnTnIyQWFlbW1SSDFBYXR4aGt4WFVEaDg3Zzcy?oc=5"
-    },
-    {
-      "id": "googleplay-4c5c6a96-64e2-481f-b5b5-a230d06e1b1c",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "2 Nov 2026",
-      "sentiment": "Positive",
-      "quote": "“Excellent marine travel service”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=4c5c6a96-64e2-481f-b5b5-a230d06e1b1c"
     }
   ],
   "sentimentSummary": {
     "negative": 2,
-    "mixed": 7,
-    "positive": 3
+    "mixed": 8,
+    "positive": 2
   },
   "themes": [
     {
       "label": "General feedback",
       "count": 9,
-      "trend": "down",
-      "delta": -21
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "vs. Lime",
       "count": 2,
-      "trend": "down",
-      "delta": -1
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "Billing",
       "count": 1,
-      "trend": "down",
-      "delta": -1
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "First ride",
