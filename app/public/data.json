@@ -1,9 +1,22 @@
 {
-  "generatedAt": "2026-11-10T14:37:44.747Z",
-  "checkedLabel": "10 Nov 2026",
+  "generatedAt": "2026-11-11T13:52:29.834Z",
+  "checkedLabel": "11 Nov 2026",
   "windowLabel": "Last week",
   "rotateSeconds": 12,
   "posts": [
+    {
+      "id": "mastodon-mastodon.social-117594421443565373",
+      "source": "Mastodon",
+      "market": "@blackfordsaferoutes.co.uk@bsky.brid.gy",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“90mph?!!! We know how to geofence vehicles to keep them to the speed limit #Voi hire bikes can do that today So why can’t cars be made to stick to the speed limit? (And that’s before we even get on to AVs) RE: https://bsky.app/profile/did:plc:pchnq7klmm3ejqduuqaqrsd6/post/3mzyd4lmacc27”",
+      "themes": [
+        "Geofencing",
+        "Slow zones"
+      ],
+      "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:nwc73wefk6c27hdvv4mdjbhx/post/3mzyhbmafec2h"
+    },
     {
       "id": "news-113zyuy",
       "source": "News",
@@ -15,18 +28,6 @@
         "General feedback"
       ],
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xQWNRd3pRWUpSRHBCckxaLU1mQk1HMGhYOUV5Zi1rSS1ZQlZaeUpjdUFCUzZQd1FucHZocnA1U0J1U2hMdFNob1BHcDBlSWtkUlNsT0NzVE1LeHYxRGxMUks1c3dfUjl2SVgxRm9MUkNyZw?oc=5"
-    },
-    {
-      "id": "news-12siyq3",
-      "source": "News",
-      "market": "General-Anzeiger Bonn",
-      "date": "Recent",
-      "sentiment": "Mixed",
-      "quote": "“Lime, Voi, Ryde und Co.: E-Scooter machen Gehweg in Bonn zum Hindernisparcours - General-Anzeiger Bonn”",
-      "themes": [
-        "vs. Lime"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdzJKa1ZsclB3SkR1N2pvNi1KVTRRQktFNFJ1OUdlM2ZKR0J5RWxDSnlwb1lzZ1JnMXN3bFVFanNtcFhXeTB0ZmhiTzJ0ek4wUTI0eVlkci1iaVhET1lkT1NVMndWYUM1SEQwOFhXMzNZMGRWS3cxY05JTllrbFlnSlhJMXZnTkJyeHNTRXpLakxPbkNOTWRfNkNR?oc=5"
     },
     {
       "id": "news-gzqyqm",
@@ -163,10 +164,22 @@
       "delta": 0
     },
     {
+      "label": "Geofencing",
+      "count": 1,
+      "trend": "up",
+      "delta": 1
+    },
+    {
+      "label": "Slow zones",
+      "count": 1,
+      "trend": "up",
+      "delta": 1
+    },
+    {
       "label": "vs. Lime",
-      "count": 2,
-      "trend": "flat",
-      "delta": 0
+      "count": 1,
+      "trend": "down",
+      "delta": -1
     },
     {
       "label": "Billing",
@@ -200,7 +213,7 @@
     },
     {
       "label": "News",
-      "count": 4
+      "count": 3
     },
     {
       "label": "X",
@@ -208,7 +221,7 @@
     },
     {
       "label": "Mastodon",
-      "count": 3
+      "count": 4
     },
     {
       "label": "Bluesky",
