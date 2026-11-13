@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-11-12T14:54:08.821Z",
-  "checkedLabel": "12 Nov 2026",
+  "generatedAt": "2026-11-13T14:19:26.242Z",
+  "checkedLabel": "13 Nov 2026",
   "windowLabel": "Last month",
   "rotateSeconds": 12,
   "posts": [
+    {
+      "id": "news-8raxgy",
+      "source": "News",
+      "market": "EalingToday.co.uk",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Voi Completely Withdraws its e-bikes from Ealing Borough - EalingToday.co.uk”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpNzhJdzYwOFROUnRhcDg5UG4tM05UUFhBdnV1X01xM1N6ZFJZQUo2VHNLNVRtWXJhLU5RdEtza0d1QkRqQlYybkJJMHpobUluZnRlZks3UGljSUVHMnlkclBmZFhmZjl5cXpIWGE5bUI?oc=5"
+    },
     {
       "id": "mastodon-mastodon.social-117594421443565373",
       "source": "Mastodon",
@@ -21,25 +33,13 @@
       "id": "news-113zyuy",
       "source": "News",
       "market": "Road.cc",
-      "date": "Recent",
+      "date": "10 Nov 2026",
       "sentiment": "Mixed",
       "quote": "“Voi pulls out of borough and slams “unfair, exclusionary” policies after council withdrew licence and threatened to impound bikes in garage | electric bike reviews, buying advice and news - ebiketips - Road.cc”",
       "themes": [
         "General feedback"
       ],
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xQWNRd3pRWUpSRHBCckxaLU1mQk1HMGhYOUV5Zi1rSS1ZQlZaeUpjdUFCUzZQd1FucHZocnA1U0J1U2hMdFNob1BHcDBlSWtkUlNsT0NzVE1LeHYxRGxMUks1c3dfUjl2SVgxRm9MUkNyZw?oc=5"
-    },
-    {
-      "id": "news-gzqyqm",
-      "source": "News",
-      "market": "Northampton Chronicle and Echo",
-      "date": "9 Nov 2026",
-      "sentiment": "Negative",
-      "quote": "“Voi e-scooter rider fled after causing crash in Northampton town centre among these 43 cases in court - Northampton Chronicle and Echo”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNX3IySUN5MzZKdXc0UHc0NDN6eWVwSURBTk9MQVo3SEEyOFhqZkxYeUduaEhMUUVCV1hHZ1RKaGR4UDB1b3l3Z3dnU0JLdnFpRl90eG9IeDJhVG5CSjJmQjI3LU1qbnlkSUM4Y2dzRzQ5RVZiNl9pODJCVkJtVE01ZHlDV0VsSWQzQTJ6R1hINXIwWXV5WEJkVG1VeWF0ejlZNHNjOTJmWmJWMUZlTXptVTJVbGlnVE1VMHJEQllxYWFjUDlCb3JNeFJCamdwSlA5Y3B3QnhEZEw5d2l1dkhhZk5KcVh4WC1Bc29V?oc=5"
     },
     {
       "id": "googleplay-17ae9365-2e80-4198-819e-bb9da09c6d33",
@@ -64,6 +64,18 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=f4679aa4-4d02-437c-bab0-5cd19c9e023c"
+    },
+    {
+      "id": "news-1xwqlbw",
+      "source": "News",
+      "market": "Road.cc",
+      "date": "6 Nov 2026",
+      "sentiment": "Mixed",
+      "quote": "“City of London councillor who rejected Voi reveals Lime role... and faces calls to quit; Plus Litespeed and Aurum go electric with new super-lightweight road e-bikes + more | electric bike reviews, buying advice and news - ebiketips - Road.cc”",
+      "themes": [
+        "vs. Lime"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQc1l2a3A4UDdXN0Y3RTVqUW1Gd1BoQVJ1ODNSUjFfRkN2WFhSZGJGUjlVeWFfaFBaZmVtTS1XcFhCOFotZ2NLa0xvQWRRMFVaSUNVR3ljMTJHVDVBdm5FN3pUM0NxNTdKMW1LNWRybEhoaWEzaWFVckl2ZENJWFRMNTVkN3lHNFl3YjYxMk1qZzlETTVzcERYYnl6OHlMcnZEWjhTQ0FvYnVEME5fTHRLb05wQkQ5WmNyMTRvaTdHcU01WkVKRXE1ZVB1dTNDZ3ZDcFpSd3Y0WUx5TkxoWDlyZURmUmxlODVwYnZ1WHdaQjduM3h3WHFsUlNrLW9yN3NUQ280c2JzQUZYbk9fRGxEVTF3b2J5QWFkS2pvbWFFb0pUTkNJUnlN?oc=5"
     },
     {
       "id": "googleplay-c3439384-3e2e-4377-8e90-b150920f6c14",
@@ -393,10 +405,10 @@
     {
       "id": "news-1q9qbno",
       "source": "News",
-      "market": "Mitt i Stockholm",
+      "market": "Mitt i",
       "date": "16 Oct 2026",
       "sentiment": "Mixed",
-      "quote": "“Deras privata gård blev parkering för Voi-hojar - Mitt i Stockholm”",
+      "quote": "“Deras privata gård blev parkering för Voi-hojar - Mitt i”",
       "themes": [
         "General feedback"
       ],
@@ -413,49 +425,25 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=97623940-d10c-472a-a435-e0ccd23b4f5b"
-    },
-    {
-      "id": "googleplay-4061b691-4426-4e06-aa81-c18b0b642d39",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "13 Oct 2026",
-      "sentiment": "Mixed",
-      "quote": "“quick ride”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=4061b691-4426-4e06-aa81-c18b0b642d39"
-    },
-    {
-      "id": "googleplay-42094aaf-ff67-402d-9fce-af92e6ac33c8",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "13 Oct 2026",
-      "sentiment": "Positive",
-      "quote": "“Great app overall. Would love to see more bikes and a slightly cheaper rate”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=42094aaf-ff67-402d-9fce-af92e6ac33c8"
     }
   ],
   "sentimentSummary": {
-    "negative": 5,
-    "mixed": 23,
-    "positive": 8
+    "negative": 4,
+    "mixed": 24,
+    "positive": 7
   },
   "themes": [
     {
       "label": "General feedback",
-      "count": 28,
-      "trend": "up",
-      "delta": 19
+      "count": 26,
+      "trend": "down",
+      "delta": -2
     },
     {
       "label": "Billing",
       "count": 2,
-      "trend": "up",
-      "delta": 1
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "Geofencing",
@@ -470,16 +458,16 @@
       "delta": 0
     },
     {
+      "label": "vs. Lime",
+      "count": 1,
+      "trend": "up",
+      "delta": 1
+    },
+    {
       "label": "First ride",
       "count": 1,
       "trend": "flat",
       "delta": 0
-    },
-    {
-      "label": "Parking data",
-      "count": 1,
-      "trend": "up",
-      "delta": 1
     }
   ],
   "sources": [
@@ -493,7 +481,7 @@
     },
     {
       "label": "Google Play",
-      "count": 25
+      "count": 23
     },
     {
       "label": "Reddit",
@@ -501,7 +489,7 @@
     },
     {
       "label": "News",
-      "count": 7
+      "count": 8
     },
     {
       "label": "X",
