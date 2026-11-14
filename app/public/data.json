@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-11-13T14:19:26.242Z",
-  "checkedLabel": "13 Nov 2026",
+  "generatedAt": "2026-11-14T13:15:10.291Z",
+  "checkedLabel": "14 Nov 2026",
   "windowLabel": "Last month",
   "rotateSeconds": 12,
   "posts": [
+    {
+      "id": "googleplay-0090e5eb-e5d1-4e99-9927-9e7f775a082a",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Positive",
+      "quote": "“Very reliable.”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=0090e5eb-e5d1-4e99-9927-9e7f775a082a"
+    },
     {
       "id": "news-8raxgy",
       "source": "News",
@@ -20,7 +32,7 @@
       "id": "mastodon-mastodon.social-117594421443565373",
       "source": "Mastodon",
       "market": "@blackfordsaferoutes.co.uk@bsky.brid.gy",
-      "date": "Recent",
+      "date": "10 Nov 2026",
       "sentiment": "Mixed",
       "quote": "“90mph?!!! We know how to geofence vehicles to keep them to the speed limit #Voi hire bikes can do that today So why can’t cars be made to stick to the speed limit? (And that’s before we even get on to AVs) RE: https://bsky.app/profile/did:plc:pchnq7klmm3ejqduuqaqrsd6/post/3mzyd4lmacc27”",
       "themes": [
@@ -28,18 +40,6 @@
         "Slow zones"
       ],
       "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:nwc73wefk6c27hdvv4mdjbhx/post/3mzyhbmafec2h"
-    },
-    {
-      "id": "news-113zyuy",
-      "source": "News",
-      "market": "Road.cc",
-      "date": "10 Nov 2026",
-      "sentiment": "Mixed",
-      "quote": "“Voi pulls out of borough and slams “unfair, exclusionary” policies after council withdrew licence and threatened to impound bikes in garage | electric bike reviews, buying advice and news - ebiketips - Road.cc”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xQWNRd3pRWUpSRHBCckxaLU1mQk1HMGhYOUV5Zi1rSS1ZQlZaeUpjdUFCUzZQd1FucHZocnA1U0J1U2hMdFNob1BHcDBlSWtkUlNsT0NzVE1LeHYxRGxMUks1c3dfUjl2SVgxRm9MUkNyZw?oc=5"
     },
     {
       "id": "googleplay-17ae9365-2e80-4198-819e-bb9da09c6d33",
@@ -66,18 +66,6 @@
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=f4679aa4-4d02-437c-bab0-5cd19c9e023c"
     },
     {
-      "id": "news-1xwqlbw",
-      "source": "News",
-      "market": "Road.cc",
-      "date": "6 Nov 2026",
-      "sentiment": "Mixed",
-      "quote": "“City of London councillor who rejected Voi reveals Lime role... and faces calls to quit; Plus Litespeed and Aurum go electric with new super-lightweight road e-bikes + more | electric bike reviews, buying advice and news - ebiketips - Road.cc”",
-      "themes": [
-        "vs. Lime"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQc1l2a3A4UDdXN0Y3RTVqUW1Gd1BoQVJ1ODNSUjFfRkN2WFhSZGJGUjlVeWFfaFBaZmVtTS1XcFhCOFotZ2NLa0xvQWRRMFVaSUNVR3ljMTJHVDVBdm5FN3pUM0NxNTdKMW1LNWRybEhoaWEzaWFVckl2ZENJWFRMNTVkN3lHNFl3YjYxMk1qZzlETTVzcERYYnl6OHlMcnZEWjhTQ0FvYnVEME5fTHRLb05wQkQ5WmNyMTRvaTdHcU01WkVKRXE1ZVB1dTNDZ3ZDcFpSd3Y0WUx5TkxoWDlyZURmUmxlODVwYnZ1WHdaQjduM3h3WHFsUlNrLW9yN3NUQ280c2JzQUZYbk9fRGxEVTF3b2J5QWFkS2pvbWFFb0pUTkNJUnlN?oc=5"
-    },
-    {
       "id": "googleplay-c3439384-3e2e-4377-8e90-b150920f6c14",
       "source": "Google Play",
       "market": "GB",
@@ -101,6 +89,18 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=1cb2d941-b6bd-48af-bf85-859ad0f0151b"
+    },
+    {
+      "id": "news-894lwp",
+      "source": "News",
+      "market": "The Herald",
+      "date": "5 Nov 2026",
+      "sentiment": "Mixed",
+      "quote": "“What use is a cheap Voi bike if you can never find one? - The Herald”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbFlEOEUyTFpiMWhGZTFmdmJRVC1icE1BU1ppeVJKMGJFMG5LT3pveFQ1NzRqeGYtSWxwbTVzeDljNjdVOHNDUXVCZUFhTFIxN1ZpaE5Cak1xVUlLR0sxdlhfZkYtckF4LTRValltZGFiS01tVnVxQWs0VEFCTUtTOVlyMS1TM2dzamxZakNR?oc=5"
     },
     {
       "id": "mastodon-mastodon.social-117564129495139018",
@@ -321,10 +321,10 @@
     {
       "id": "news-4vyybp",
       "source": "News",
-      "market": "Mitt i Stockholm",
+      "market": "Mitt i",
       "date": "25 Oct 2026",
       "sentiment": "Mixed",
-      "quote": "“Voi tog över föreningens privata mark – utan lov - Mitt i Stockholm”",
+      "quote": "“Voi tog över föreningens privata mark – utan lov - Mitt i”",
       "themes": [
         "General feedback"
       ],
@@ -413,31 +413,19 @@
         "General feedback"
       ],
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM0ZMY2lPRlBDUkFudEhKclpIc28wSzRxOTVLOUNKSUlWbWQ3dXF5enVWdDVuQkNlUzQ4WmRob2lNVUZFUnozeFNKQ01HeG5IaklCNGpQT2hwQ1FwVWtGbTJmRDNCbXo4UmpXTHVGNXIwSk9LRzZRZ1h2TkZZX2JheUpxUkI1cU92aGhoOVIyXzlyWTNDZUN6RnI2N2k3UQ?oc=5"
-    },
-    {
-      "id": "googleplay-97623940-d10c-472a-a435-e0ccd23b4f5b",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "14 Oct 2026",
-      "sentiment": "Positive",
-      "quote": "“I hate to say this but it saved me from quite a pickle when the metro was down”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=97623940-d10c-472a-a435-e0ccd23b4f5b"
     }
   ],
   "sentimentSummary": {
     "negative": 4,
-    "mixed": 24,
+    "mixed": 23,
     "positive": 7
   },
   "themes": [
     {
       "label": "General feedback",
       "count": 26,
-      "trend": "down",
-      "delta": -2
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "Billing",
@@ -458,16 +446,16 @@
       "delta": 0
     },
     {
-      "label": "vs. Lime",
-      "count": 1,
-      "trend": "up",
-      "delta": 1
-    },
-    {
       "label": "First ride",
       "count": 1,
       "trend": "flat",
       "delta": 0
+    },
+    {
+      "label": "Parking data",
+      "count": 1,
+      "trend": "up",
+      "delta": 1
     }
   ],
   "sources": [
@@ -489,7 +477,7 @@
     },
     {
       "label": "News",
-      "count": 8
+      "count": 7
     },
     {
       "label": "X",
