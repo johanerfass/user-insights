@@ -1,9 +1,33 @@
 {
-  "generatedAt": "2026-11-16T15:19:03.923Z",
-  "checkedLabel": "16 Nov 2026",
+  "generatedAt": "2026-11-17T15:44:34.630Z",
+  "checkedLabel": "17 Nov 2026",
   "windowLabel": "Last month",
   "rotateSeconds": 12,
   "posts": [
+    {
+      "id": "news-10qdhz3",
+      "source": "News",
+      "market": "Northamptonshire Telegraph",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“3 million rides on Voi e-scooters in North Northants - Northamptonshire Telegraph”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ05GR3ZaWXRyRkpmQ0NKbHd6WXZHQ1FmbWs3VHNYbGZfNzlhWUFLYW1MaTg0bVNROWhyQUNfWkRQUmo1czBLbVhXLTd2NU8xUURKc1hIeElrYjNtTXg3Y0Q5dk4zTlJ5NW9yeW03MnlRUmV5TnpuR1RTMFNVU0ZmeGdlUjZKMHQ3LXJTQ21uazcxbE8wTkdjWFh3enhoS3ZMbW15Tg?oc=5"
+    },
+    {
+      "id": "news-1ms8poa",
+      "source": "News",
+      "market": "The Herald",
+      "date": "Recent",
+      "sentiment": "Negative",
+      "quote": "“Glasgow Voi to cut prices for higher-volume bundles after complaints over rises - The Herald”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa3NDQzNkYWcwaVpsYktuY3FBWHFrMElVVkF2OGd4RXJoR25oSGhrTUs2Q25oSjhRR3FJODNfYTRDMHdScjdJOW1DS3BzT3QwaS02eG81VTliVVBNdXEtSkVsT01ZY0IyZlBnTzI3T25EM0JuYmIzU2cxbi1meVZVaDVUWk04c19UZmYwS1V2TmFqbzFGMFBF?oc=5"
+    },
     {
       "id": "news-18msz2f",
       "source": "News",
@@ -187,18 +211,6 @@
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=284af156-b9a7-4869-a946-84a8fa17a37e"
     },
     {
-      "id": "googleplay-29ed9b98-7a46-47ba-ad3a-53b68fb9aa7d",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "30 Oct 2026",
-      "sentiment": "Mixed",
-      "quote": "“Its a 50/50 service, student discount photo upload doesn't work at all so it's generally impossible to apply for it.”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=29ed9b98-7a46-47ba-ad3a-53b68fb9aa7d"
-    },
-    {
       "id": "news-1koy3d8",
       "source": "News",
       "market": "HurBra.se",
@@ -209,6 +221,18 @@
         "General feedback"
       ],
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14a2QtQ2YxTnJ2eXRiamVPaV94eWVhT2FJLU55R3plaUE0SWpHa3BQNG81Uk9MQkFHLU5JMVFFSEdFeXYwQTF2UkJfMTBxQ0cwRllWSg?oc=5"
+    },
+    {
+      "id": "googleplay-29ed9b98-7a46-47ba-ad3a-53b68fb9aa7d",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "30 Oct 2026",
+      "sentiment": "Mixed",
+      "quote": "“Its a 50/50 service, student discount photo upload doesn't work at all so it's generally impossible to apply for it.”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=29ed9b98-7a46-47ba-ad3a-53b68fb9aa7d"
     },
     {
       "id": "googleplay-34cb2a89-5a0c-44b9-8f9c-bc49c1e12254",
@@ -389,19 +413,31 @@
         "App reliability"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=cffd7c9f-19e6-4af7-b17a-bbf3574c4478"
+    },
+    {
+      "id": "news-76byqd",
+      "source": "News",
+      "market": "Glasgow City Council",
+      "date": "21 Oct 2026",
+      "sentiment": "Mixed",
+      "quote": "“Glasgow's Voi bike hires pass two million - Glasgow City Council”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQ1BwSjdNZjNSZER2TWFPeFBSOGpZbnJxRTc2R1F4SmFkTUg4QV9DVWtWWFNkUFc4Q0VfcGp2TXg4WkJsLXZkejdqaFNfYkVzQXRTdFMxRTNUeUt4TzZvMjFyUHhuSTVCM2s1b1lrakV4Ql9pTUExUU9OUUF2QWI5a1lVd2N0MmpiQWc?oc=5"
     }
   ],
   "sentimentSummary": {
-    "negative": 5,
-    "mixed": 20,
+    "negative": 6,
+    "mixed": 22,
     "positive": 7
   },
   "themes": [
     {
       "label": "General feedback",
-      "count": 24,
-      "trend": "down",
-      "delta": -2
+      "count": 27,
+      "trend": "up",
+      "delta": 3
     },
     {
       "label": "Billing",
@@ -453,7 +489,7 @@
     },
     {
       "label": "News",
-      "count": 5
+      "count": 8
     },
     {
       "label": "X",
