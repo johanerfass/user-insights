@@ -1,9 +1,33 @@
 {
-  "generatedAt": "2026-11-17T15:44:34.630Z",
-  "checkedLabel": "17 Nov 2026",
+  "generatedAt": "2026-11-18T15:24:33.831Z",
+  "checkedLabel": "18 Nov 2026",
   "windowLabel": "Last month",
   "rotateSeconds": 12,
   "posts": [
+    {
+      "id": "news-3iravy",
+      "source": "News",
+      "market": "BBC",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“E-scooter operator Voi can double fleet size across Slough borough - BBC”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE44YXo5TktnQ2RLck9RcG9VSGttYXV6NEZnaGw1UzAxU1QwdjVFLUZQMmQ2ckRiVHBfSHpMQmdKU0dzeVdGS2dXTU1jRVpJQzlDZThGVmVwUmY3UURPR2c?oc=5"
+    },
+    {
+      "id": "news-so4kqd",
+      "source": "News",
+      "market": "Hackney Council News",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Hackney launches free e-bike training with incentives for delivery riders and Lime and Voi users - Hackney Council News”",
+      "themes": [
+        "vs. Lime"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBxdnhsT2lwUVBlR3k4c3NtaTZFYVUtZ0JtQ1JEVWtUUENMYXZIMnNNTml0cG81aS1oNG40bW9xajZqeVRXcUhrZ3NBeDNSX0pZZmQ2Ulk4ZjZUOEZscnJmUXRPTl9XT2ZJb2tzNlUyY29Kc0hzV2xjaU93?oc=5"
+    },
     {
       "id": "news-10qdhz3",
       "source": "News",
@@ -17,18 +41,6 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ05GR3ZaWXRyRkpmQ0NKbHd6WXZHQ1FmbWs3VHNYbGZfNzlhWUFLYW1MaTg0bVNROWhyQUNfWkRQUmo1czBLbVhXLTd2NU8xUURKc1hIeElrYjNtTXg3Y0Q5dk4zTlJ5NW9yeW03MnlRUmV5TnpuR1RTMFNVU0ZmeGdlUjZKMHQ3LXJTQ21uazcxbE8wTkdjWFh3enhoS3ZMbW15Tg?oc=5"
     },
     {
-      "id": "news-1ms8poa",
-      "source": "News",
-      "market": "The Herald",
-      "date": "Recent",
-      "sentiment": "Negative",
-      "quote": "“Glasgow Voi to cut prices for higher-volume bundles after complaints over rises - The Herald”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa3NDQzNkYWcwaVpsYktuY3FBWHFrMElVVkF2OGd4RXJoR25oSGhrTUs2Q25oSjhRR3FJODNfYTRDMHdScjdJOW1DS3BzT3QwaS02eG81VTliVVBNdXEtSkVsT01ZY0IyZlBnTzI3T25EM0JuYmIzU2cxbi1meVZVaDVUWk04c19UZmYwS1V2TmFqbzFGMFBF?oc=5"
-    },
-    {
       "id": "news-18msz2f",
       "source": "News",
       "market": "Glasgow Live",
@@ -39,6 +51,18 @@
         "General feedback"
       ],
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUVlwVlFMVWg1UTNGYk16R0xkNXo0cXQyLUVQcTV0a0lsdDNaS2pZUHlBWFRhY2hBM1RVem95UV90S3RKU2ZQYW4tZ2xobThCMWdDMS1Yc3ZQMkZuWUluNFdxay1oamgtZVp4V0QyNDdiM0Vmdm92RUxqZEZ3RUtJN2g4UHY1N0pXMEtoRtIBkgFBVV95cUxQUkhxS2FfbkQtUUE0ak9ZWkRlbXMtRUo3aFVyWVU2cEtQcnFON1VObGVfYUg1akRCckowOVNBZml3TklONDd4MExhanUzUFhpLW40bTJhM2ZaYUVsdlF5aHAwcFFtZzNYYjRxT2hSOWpuQVhnVk1tYWtKUEtPV2tOTVhZaDBHRXJPczU0WDVOVmQxZw?oc=5"
+    },
+    {
+      "id": "news-1rajlqs",
+      "source": "News",
+      "market": "Foro3D",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Voi startet mit seinen gemeinsam genutzten E-Bikes in Rezé und löst das Bicloo-System ab - Foro3D”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeG90aVFHc0dRTjUwUHFSVXEzQVZwb2tHQ19nWWZPbmVEdVQ1V3lXdHpydElPWHRYVVlESW14eEd3Vnl2a2RzODVZeU9oclZVa25DU2N0b3VfSkpWVHR0LWk0SFhtZ3B3X3oyZW9uUzJ3a3FUWUNUTXdHUVBRY3lWN0RySWxHWjI5NmdhVlkzaENhUlc1R1lmUkpHNlI5VW1EQUZGa0liQzZCblFfeVE1TERR?oc=5"
     },
     {
       "id": "googleplay-0090e5eb-e5d1-4e99-9927-9e7f775a082a",
@@ -295,18 +319,6 @@
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=cb176071-ef21-4ed5-aed1-e44caed0531f"
     },
     {
-      "id": "news-9lqq44",
-      "source": "News",
-      "market": "TradingView",
-      "date": "26 Oct 2026",
-      "sentiment": "Mixed",
-      "quote": "“Notice of extraordinary general meeting in Voi Technology AB (publ) - TradingView”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQ3EyUkxxckhRemlaNm4wQ1ZOeDFka19JNmo5dlZuamZaM29Ia28yZG1fMllCTWZxTlFaOVdOWUEtYURtcDJNSWtYUW1PX1FuSktXbzZIU3JYeVlGNEphS0JiNjNtbFY2YTBhYTYyVV9OMmJNN2EtYnh4bmRPRjR6QTlmN0FwLWlHZGd0Nld3UnVyZ3hRb05fNHlMMERZRDF3RGVzVExxYWp4RGstZFMyZXQyR19xUGowaDN3ZHlWQUNKRnBWUjA2bkQ1Yw?oc=5"
-    },
-    {
       "id": "googleplay-14606f4d-b358-4b71-9647-b981d9ac93fa",
       "source": "Google Play",
       "market": "GB",
@@ -428,22 +440,28 @@
     }
   ],
   "sentimentSummary": {
-    "negative": 6,
-    "mixed": 22,
+    "negative": 5,
+    "mixed": 24,
     "positive": 7
   },
   "themes": [
     {
       "label": "General feedback",
       "count": 27,
-      "trend": "up",
-      "delta": 3
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "Billing",
       "count": 2,
       "trend": "flat",
       "delta": 0
+    },
+    {
+      "label": "vs. Lime",
+      "count": 1,
+      "trend": "up",
+      "delta": 1
     },
     {
       "label": "Geofencing",
@@ -459,12 +477,6 @@
     },
     {
       "label": "First ride",
-      "count": 1,
-      "trend": "flat",
-      "delta": 0
-    },
-    {
-      "label": "Parking data",
       "count": 1,
       "trend": "flat",
       "delta": 0
@@ -489,7 +501,7 @@
     },
     {
       "label": "News",
-      "count": 8
+      "count": 9
     },
     {
       "label": "X",
