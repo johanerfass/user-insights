@@ -1,9 +1,33 @@
 {
-  "generatedAt": "2026-11-18T15:24:33.831Z",
-  "checkedLabel": "18 Nov 2026",
+  "generatedAt": "2026-11-19T15:30:04.115Z",
+  "checkedLabel": "19 Nov 2026",
   "windowLabel": "Last month",
   "rotateSeconds": 12,
   "posts": [
+    {
+      "id": "googleplay-662ba55f-eae9-4263-9b02-6ac774d494fa",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Positive",
+      "quote": "“easy to use bikes, good pricing structure”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=662ba55f-eae9-4263-9b02-6ac774d494fa"
+    },
+    {
+      "id": "googleplay-3065de1d-6e36-4615-bcc5-c9d7e708a1d1",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“my scooter wouldn't start and I had to spark for long time.”",
+      "themes": [
+        "Broken vehicles"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=3065de1d-6e36-4615-bcc5-c9d7e708a1d1"
+    },
     {
       "id": "news-3iravy",
       "source": "News",
@@ -17,34 +41,10 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE44YXo5TktnQ2RLck9RcG9VSGttYXV6NEZnaGw1UzAxU1QwdjVFLUZQMmQ2ckRiVHBfSHpMQmdKU0dzeVdGS2dXTU1jRVpJQzlDZThGVmVwUmY3UURPR2c?oc=5"
     },
     {
-      "id": "news-so4kqd",
-      "source": "News",
-      "market": "Hackney Council News",
-      "date": "Recent",
-      "sentiment": "Mixed",
-      "quote": "“Hackney launches free e-bike training with incentives for delivery riders and Lime and Voi users - Hackney Council News”",
-      "themes": [
-        "vs. Lime"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBxdnhsT2lwUVBlR3k4c3NtaTZFYVUtZ0JtQ1JEVWtUUENMYXZIMnNNTml0cG81aS1oNG40bW9xajZqeVRXcUhrZ3NBeDNSX0pZZmQ2Ulk4ZjZUOEZscnJmUXRPTl9XT2ZJb2tzNlUyY29Kc0hzV2xjaU93?oc=5"
-    },
-    {
-      "id": "news-10qdhz3",
-      "source": "News",
-      "market": "Northamptonshire Telegraph",
-      "date": "Recent",
-      "sentiment": "Mixed",
-      "quote": "“3 million rides on Voi e-scooters in North Northants - Northamptonshire Telegraph”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ05GR3ZaWXRyRkpmQ0NKbHd6WXZHQ1FmbWs3VHNYbGZfNzlhWUFLYW1MaTg0bVNROWhyQUNfWkRQUmo1czBLbVhXLTd2NU8xUURKc1hIeElrYjNtTXg3Y0Q5dk4zTlJ5NW9yeW03MnlRUmV5TnpuR1RTMFNVU0ZmeGdlUjZKMHQ3LXJTQ21uazcxbE8wTkdjWFh3enhoS3ZMbW15Tg?oc=5"
-    },
-    {
       "id": "news-18msz2f",
       "source": "News",
       "market": "Glasgow Live",
-      "date": "Recent",
+      "date": "16 Nov 2026",
       "sentiment": "Negative",
       "quote": "“Glasgow e-bike provider Voi to reduce prices after recent complaints - Glasgow Live”",
       "themes": [
@@ -56,7 +56,7 @@
       "id": "news-1rajlqs",
       "source": "News",
       "market": "Foro3D",
-      "date": "Recent",
+      "date": "16 Nov 2026",
       "sentiment": "Mixed",
       "quote": "“Voi startet mit seinen gemeinsam genutzten E-Bikes in Rezé und löst das Bicloo-System ab - Foro3D”",
       "themes": [
@@ -343,18 +343,6 @@
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=cb695b2e-ec5b-41ab-8e9e-578d63767595"
     },
     {
-      "id": "news-4vyybp",
-      "source": "News",
-      "market": "Mitt i",
-      "date": "25 Oct 2026",
-      "sentiment": "Mixed",
-      "quote": "“Voi tog över föreningens privata mark – utan lov - Mitt i”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTUctdjY2aWhhNmxnZW1Ya2p1T3pkSzNFU2dGTWJkeGNZWTk0QXNJYWJjY2hlY0tMbHJqZjE0M2YyMzJKZ1g3Nmlmbi1VWmIwWkwyNW5LYy1tc3ZhOE1UYllyTTNoUkdqNnEweFpScHF6WmVOTC1wRjNaNjg3aTlIWW1VOUgzQkFyZHc1Znhua3Axbng2UmR0Q3lLb3R4ZGM?oc=5"
-    },
-    {
       "id": "googleplay-28f5cab1-d193-42ab-a187-520ac6244407",
       "source": "Google Play",
       "market": "GB",
@@ -441,15 +429,15 @@
   ],
   "sentimentSummary": {
     "negative": 5,
-    "mixed": 24,
-    "positive": 7
+    "mixed": 22,
+    "positive": 8
   },
   "themes": [
     {
       "label": "General feedback",
-      "count": 27,
-      "trend": "flat",
-      "delta": 0
+      "count": 26,
+      "trend": "down",
+      "delta": -1
     },
     {
       "label": "Billing",
@@ -458,7 +446,7 @@
       "delta": 0
     },
     {
-      "label": "vs. Lime",
+      "label": "Broken vehicles",
       "count": 1,
       "trend": "up",
       "delta": 1
@@ -493,7 +481,7 @@
     },
     {
       "label": "Google Play",
-      "count": 23
+      "count": 25
     },
     {
       "label": "Reddit",
@@ -501,7 +489,7 @@
     },
     {
       "label": "News",
-      "count": 9
+      "count": 6
     },
     {
       "label": "X",
