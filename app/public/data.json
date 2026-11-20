@@ -1,9 +1,45 @@
 {
-  "generatedAt": "2026-11-19T15:30:04.115Z",
-  "checkedLabel": "19 Nov 2026",
+  "generatedAt": "2026-11-20T15:08:18.118Z",
+  "checkedLabel": "20 Nov 2026",
   "windowLabel": "Last month",
   "rotateSeconds": 12,
   "posts": [
+    {
+      "id": "news-1tr7mgq",
+      "source": "News",
+      "market": "Oxford Mail",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Oxford riders still pay more than Londoners despite Voi price cuts - Oxford Mail”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSWRSVTA4SEN0a0lPU05qUzVHRVpQb3VIc2VodjFPcWNWVl92eWl3VWloUW5xaDVneUItWDJWajkxNkxFNEoyY1FNc2NKMFc3TVYwYTZla21fMHY3MjJfTnZRQ0tnOWI2UlpGTTlnSW5WYmZ6bU12OXZiQzV2UWdsSTcxZzdndWtuU0Y2NUxEci1SYjBJ?oc=5"
+    },
+    {
+      "id": "googleplay-89baa21f-c574-4ec1-8a46-d8371f0b9c75",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Negative",
+      "quote": "“if get a good bike its good, but can get one that refuses to go above 11moh until ride nearly over, milking it using up your minutes. then there is the problem of parking, this one full, go to next, this one full, go to next, then you need a bike home as ages away but can't as know parking full”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=89baa21f-c574-4ec1-8a46-d8371f0b9c75"
+    },
+    {
+      "id": "googleplay-1e39b039-b8f4-4c60-8798-d3590790d0c2",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Negative",
+      "quote": "“Worst coverage in London! do not use this service, use the other competitors for a better experience.”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=1e39b039-b8f4-4c60-8798-d3590790d0c2"
+    },
     {
       "id": "googleplay-662ba55f-eae9-4263-9b02-6ac774d494fa",
       "source": "Google Play",
@@ -39,18 +75,6 @@
         "General feedback"
       ],
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE44YXo5TktnQ2RLck9RcG9VSGttYXV6NEZnaGw1UzAxU1QwdjVFLUZQMmQ2ckRiVHBfSHpMQmdKU0dzeVdGS2dXTU1jRVpJQzlDZThGVmVwUmY3UURPR2c?oc=5"
-    },
-    {
-      "id": "news-18msz2f",
-      "source": "News",
-      "market": "Glasgow Live",
-      "date": "16 Nov 2026",
-      "sentiment": "Negative",
-      "quote": "“Glasgow e-bike provider Voi to reduce prices after recent complaints - Glasgow Live”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUVlwVlFMVWg1UTNGYk16R0xkNXo0cXQyLUVQcTV0a0lsdDNaS2pZUHlBWFRhY2hBM1RVem95UV90S3RKU2ZQYW4tZ2xobThCMWdDMS1Yc3ZQMkZuWUluNFdxay1oamgtZVp4V0QyNDdiM0Vmdm92RUxqZEZ3RUtJN2g4UHY1N0pXMEtoRtIBkgFBVV95cUxQUkhxS2FfbkQtUUE0ak9ZWkRlbXMtRUo3aFVyWVU2cEtQcnFON1VObGVfYUg1akRCckowOVNBZml3TklONDd4MExhanUzUFhpLW40bTJhM2ZaYUVsdlF5aHAwcFFtZzNYYjRxT2hSOWpuQVhnVk1tYWtKUEtPV2tOTVhZaDBHRXJPczU0WDVOVmQxZw?oc=5"
     },
     {
       "id": "news-1rajlqs",
@@ -343,6 +367,18 @@
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=cb695b2e-ec5b-41ab-8e9e-578d63767595"
     },
     {
+      "id": "news-4vyybp",
+      "source": "News",
+      "market": "Mitt i",
+      "date": "25 Oct 2026",
+      "sentiment": "Mixed",
+      "quote": "“Voi tog över föreningens privata mark – utan lov - Mitt i”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTUctdjY2aWhhNmxnZW1Ya2p1T3pkSzNFU2dGTWJkeGNZWTk0QXNJYWJjY2hlY0tMbHJqZjE0M2YyMzJKZ1g3Nmlmbi1VWmIwWkwyNW5LYy1tc3ZhOE1UYllyTTNoUkdqNnEweFpScHF6WmVOTC1wRjNaNjg3aTlIWW1VOUgzQkFyZHc1Znhua3Axbng2UmR0Q3lLb3R4ZGM?oc=5"
+    },
+    {
       "id": "googleplay-28f5cab1-d193-42ab-a187-520ac6244407",
       "source": "Google Play",
       "market": "GB",
@@ -391,6 +427,18 @@
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=8fdb4221-f270-48b9-a0d2-ed72cc25611f"
     },
     {
+      "id": "news-xfz5mm",
+      "source": "News",
+      "market": "Bike Europe",
+      "date": "23 Oct 2026",
+      "sentiment": "Mixed",
+      "quote": "“Voi revenue up 53% in Q3 as fleet grows 40% - Bike Europe”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PTFdQUE1ZZXVzbUpuZGFfc0I5a0dBcnpCUk1Oazg1UXJVNjBqZUFiRE1OcFhRN25UaHp1czUzLUlyZTNEUlA0UmxPZUpvTnpDeVc0ZGVGcENMRzJibWxNbXZMRExySE9PY1JjcnRGWW5XcWswRXZYYlJxMA?oc=5"
+    },
+    {
       "id": "news-1ckphdp",
       "source": "News",
       "market": "Zag Daily",
@@ -413,31 +461,19 @@
         "App reliability"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=cffd7c9f-19e6-4af7-b17a-bbf3574c4478"
-    },
-    {
-      "id": "news-76byqd",
-      "source": "News",
-      "market": "Glasgow City Council",
-      "date": "21 Oct 2026",
-      "sentiment": "Mixed",
-      "quote": "“Glasgow's Voi bike hires pass two million - Glasgow City Council”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQ1BwSjdNZjNSZER2TWFPeFBSOGpZbnJxRTc2R1F4SmFkTUg4QV9DVWtWWFNkUFc4Q0VfcGp2TXg4WkJsLXZkejdqaFNfYkVzQXRTdFMxRTNUeUt4TzZvMjFyUHhuSTVCM2s1b1lrakV4Ql9pTUExUU9OUUF2QWI5a1lVd2N0MmpiQWc?oc=5"
     }
   ],
   "sentimentSummary": {
-    "negative": 5,
-    "mixed": 22,
+    "negative": 6,
+    "mixed": 24,
     "positive": 8
   },
   "themes": [
     {
       "label": "General feedback",
-      "count": 26,
-      "trend": "down",
-      "delta": -1
+      "count": 29,
+      "trend": "up",
+      "delta": 3
     },
     {
       "label": "Billing",
@@ -448,8 +484,8 @@
     {
       "label": "Broken vehicles",
       "count": 1,
-      "trend": "up",
-      "delta": 1
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "Geofencing",
@@ -481,7 +517,7 @@
     },
     {
       "label": "Google Play",
-      "count": 25
+      "count": 27
     },
     {
       "label": "Reddit",
@@ -489,7 +525,7 @@
     },
     {
       "label": "News",
-      "count": 6
+      "count": 7
     },
     {
       "label": "X",
