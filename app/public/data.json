@@ -1,9 +1,34 @@
 {
-  "generatedAt": "2026-11-22T14:21:23.599Z",
-  "checkedLabel": "22 Nov 2026",
+  "generatedAt": "2026-11-23T17:45:09.628Z",
+  "checkedLabel": "23 Nov 2026",
   "windowLabel": "Last month",
   "rotateSeconds": 12,
   "posts": [
+    {
+      "id": "news-19ar3zg",
+      "source": "News",
+      "market": "HAZ",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“„Anfangs herrschte wilder Westen“: Voi-Chefin Ina Wicker begrüßt Begrenzung von E-Scootern in Hannover - HAZ”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcGZfLVREU3BUTDJNTG5QRXBHVmgzRUtYOUx1azViVmNma1J3R1R1M002a0NSU2xEdWY1REN5UW9ZQ3pFOWVNWlFlR0t5UnZjMkF2WXdwUW9ibzQ5bGRWZFdTVFBvWkx4cDE1eWxVWVhHM3d2Rmd3QXB3ZDZDTnZLc3ZfaUJGclhiSEE0NkpuYjZnaUduY0FYZkhuYXZ3UUtyN0NKak95Y3dXYW5aazVFbDdKa1VZSkdVWXVDRUl1YUJjMnhFZXlhMjJsSXNOOGlJZVBnUWRFR0pFbkRmcWRwOHd6cDBXeUtDNE1HUGVhLXR6d9IBjgJBVV95cUxOUnAzSDc0ZV9NQ3lERXk3ZUZrX0F3d21vcGZzWjZ0cF9MYnJjempkZjZybjRwWWtKdU1hVW5tX2FUd0FEU2xNQzl6Q2gzMEFKT1lBU3RRQk9yUjE1UE1vYlpMODF3U1lMbkROYWlMd1lIbE9hbTlJTjF4RjRrZHJ1a1R3M0ZXX0g1dDJjc3RZZHNTYzBkNGd5TkFLaGNrRUJLOHJTeHpmR01qUk13QWNISy1heUNHNXhuVzRXUWZ1eGoyYkROa1NSelBzemxzREJmUGhSTC00bk5FWjdqdXdHYmpVYVRLdGw2VTZnbF9ZaVhpdGF6RVZTSXpvMEh5UjVSOGVCLUxDcS01RHV2RWc?oc=5"
+    },
+    {
+      "id": "googleplay-b9a23524-1efc-4ee6-8c6c-85a1ab013575",
+      "source": "Google Play",
+      "market": "GB",
+      "date": "Recent",
+      "sentiment": "Positive",
+      "quote": "“Rode with Voi a couple of times, good experience - nice bike quality and easier to navigate. However It would be useful to have a map filter that hides all vehicle icons and shows only parking zones/parking spots. When planning where to end a ride, the vehicle icons make the map cluttered and harder to read but apart…”",
+      "themes": [
+        "Parking data",
+        "Street clutter"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=b9a23524-1efc-4ee6-8c6c-85a1ab013575"
+    },
     {
       "id": "googleplay-1b7b1b1f-340a-4eb3-92f8-a6c0996835a3",
       "source": "Google Play",
@@ -20,7 +45,7 @@
       "id": "googleplay-540de622-518d-492c-ad1a-c72984ce768e",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "20 Nov 2026",
       "sentiment": "Mixed",
       "quote": "“Cheaper than Lime! More fun”",
       "themes": [
@@ -29,16 +54,16 @@
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=540de622-518d-492c-ad1a-c72984ce768e"
     },
     {
-      "id": "news-52r5pz",
+      "id": "news-1tr7mgq",
       "source": "News",
-      "market": "TransportXtra",
-      "date": "18 Nov 2026",
+      "market": "Oxford Mail",
+      "date": "19 Nov 2026",
       "sentiment": "Mixed",
-      "quote": "“Voi agrees to withdraw e-bikes from Ealing - TransportXtra”",
+      "quote": "“Oxford riders still pay more than Londoners despite Voi price cuts - Oxford Mail”",
       "themes": [
         "General feedback"
       ],
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeXoxMXduM08zQTNYaWlkLWhqUW9Ia2dabXZKV0hoVUxMdTQ0Mmd0ZExwemVBM3N4Si1LaVA3R1haNDI2WGdEYWs1SkJTb3JUUWViam9TV3dWOHhGU1BSbmJHWFVVS1hTbS1VSm9TWkhyQjVSOEFQdTZqaUliajJ5QWxEbHFIWjNXYjY5Y3F6VHlOLU54T0ZWNy1GQ0I5dnBUYlAxYjQ5VFJnb19PWXpmaUwzM3ZLR0NiYXc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSWRSVTA4SEN0a0lPU05qUzVHRVpQb3VIc2VodjFPcWNWVl92eWl3VWloUW5xaDVneUItWDJWajkxNkxFNEoyY1FNc2NKMFc3TVYwYTZla21fMHY3MjJfTnZRQ0tnOWI2UlpGTTlnSW5WYmZ6bU12OXZiQzV2UWdsSTcxZzdndWtuU0Y2NUxEci1SYjBJ?oc=5"
     },
     {
       "id": "googleplay-89baa21f-c574-4ec1-8a46-d8371f0b9c75",
@@ -101,30 +126,6 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE44YXo5TktnQ2RLck9RcG9VSGttYXV6NEZnaGw1UzAxU1QwdjVFLUZQMmQ2ckRiVHBfSHpMQmdKU0dzeVdGS2dXTU1jRVpJQzlDZThGVmVwUmY3UURPR2c?oc=5"
     },
     {
-      "id": "news-1ms8poa",
-      "source": "News",
-      "market": "The Herald",
-      "date": "16 Nov 2026",
-      "sentiment": "Negative",
-      "quote": "“Glasgow Voi to cut prices for higher-volume bundles after complaints over rises - The Herald”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa3NDQzNkYWcwaVpsYktuY3FBWHFrMElVVkF2OGd4RXJoR25oSGhrTUs2Q25oSjhRR3FJODNfYTRDMHdScjdJOW1DS3BzT3QwaS02eG81VTliVVBNdXEtSkVsT01ZY0IyZlBnTzI3T25EM0JuYmIzU2cxbi1meVZVaDVUWk04c19UZmYwS1V2TmFqbzFGMFBF?oc=5"
-    },
-    {
-      "id": "news-1rajlqs",
-      "source": "News",
-      "market": "Foro3D",
-      "date": "16 Nov 2026",
-      "sentiment": "Mixed",
-      "quote": "“Voi startet mit seinen gemeinsam genutzten E-Bikes in Rezé und löst das Bicloo-System ab - Foro3D”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeG90aVFHc0dRTjUwUHFSVXEzQVZwb2tHQ19nWWZPbmVEdVQ1V3lXdHpydElPWHRYVVlESW14eEd3Vnl2a2RzODVZeU9oclZVa25DU2N0b3VfSkpWVHR0LWk0SFhtZ3B3X3oyZW9uUzJ3a3FUWUNUTXdHUVBRY3lWN0RySWxHWjI5NmdhVlkzaENhUlc1R1lmUkpHNlI5VW1EQUZGa0liQzZCblFfeVE1TERR?oc=5"
-    },
-    {
       "id": "googleplay-0090e5eb-e5d1-4e99-9927-9e7f775a082a",
       "source": "Google Play",
       "market": "GB",
@@ -135,18 +136,6 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=0090e5eb-e5d1-4e99-9927-9e7f775a082a"
-    },
-    {
-      "id": "news-8raxgy",
-      "source": "News",
-      "market": "EalingToday.co.uk",
-      "date": "12 Nov 2026",
-      "sentiment": "Mixed",
-      "quote": "“Voi Completely Withdraws its e-bikes from Ealing Borough - EalingToday.co.uk”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpNzhJdzYwOFROUnRhcDg5UG4tM05UUFhBdnV1X01xM1N6ZFJZQUo2VHNLNVRtWXJhLU5RdEtza0d1QkRqQlYybkJJMHpobUluZnRlZks3UGljSUVHMnlkclBmZFhmZjl5cXpIWGE5bUI?oc=5"
     },
     {
       "id": "mastodon-mastodon.social-117594421443565373",
@@ -160,18 +149,6 @@
         "Slow zones"
       ],
       "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:nwc73wefk6c27hdvv4mdjbhx/post/3mzyhbmafec2h"
-    },
-    {
-      "id": "news-113zyuy",
-      "source": "News",
-      "market": "Road.cc",
-      "date": "10 Nov 2026",
-      "sentiment": "Mixed",
-      "quote": "“Voi pulls out of borough and slams “unfair, exclusionary” policies after council withdrew licence and threatened to impound bikes in garage | electric bike reviews, buying advice and news - ebiketips - Road.cc”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xQWNRd3pRWUpSRHBCckxaLU1mQk1HMGhYOUV5Zi1rSS1ZQlZaeUpjdUFCUzZQd1FucHZocnA1U0J1U2hMdFNob1BHcDBlSWtkUlNsT0NzVE1LeHYxRGxMUks1c3dfUjl2SVgxRm9MUkNyZw?oc=5"
     },
     {
       "id": "googleplay-17ae9365-2e80-4198-819e-bb9da09c6d33",
@@ -209,18 +186,6 @@
         "First ride"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=c3439384-3e2e-4377-8e90-b150920f6c14"
-    },
-    {
-      "id": "news-1xwqlbw",
-      "source": "News",
-      "market": "Road.cc",
-      "date": "6 Nov 2026",
-      "sentiment": "Mixed",
-      "quote": "“City of London councillor who rejected Voi reveals Lime role... and faces calls to quit; Plus Litespeed and Aurum go electric with new super-lightweight road e-bikes + more | electric bike reviews, buying advice and news - ebiketips - Road.cc”",
-      "themes": [
-        "vs. Lime"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQc1l2a3A4UDdXN0Y3RTVqUW1Gd1BoQVJ1ODNSUjFfRkN2WFhSZGJGUjlVeWFfaFBaZmVtTS1XcFhCOFotZ2NLa0xvQWRRMFVaSUNVR3ljMTJHVDVBdm5FN3pUM0NxNTdKMW1LNWRybEhoaWEzaWFVckl2ZENJWFRMNTVkN3lHNFl3YjYxMk1qZzlETTVzcERYYnl6OHlMcnZEWjhTQ0FvYnVEME5fTHRLb05wQkQ5WmNyMTRvaTdHcU01WkVKRXE1ZVB1dTNDZ3ZDcFpSd3Y0WUx5TkxoWDlyZURmUmxlODVwYnZ1WHdaQjduM3h3WHFsUlNrLW9yN3NUQ280c2JzQUZYbk9fRGxEVTF3b2J5QWFkS2pvbWFFb0pUTkNJUnlN?oc=5"
     },
     {
       "id": "googleplay-1cb2d941-b6bd-48af-bf85-859ad0f0151b",
@@ -281,42 +246,6 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=6c944dd4-b83d-451a-bf09-5a5d7bd40542"
-    },
-    {
-      "id": "news-1gpr14g",
-      "source": "News",
-      "market": "The Glasgow Bell",
-      "date": "4 Nov 2026",
-      "sentiment": "Mixed",
-      "quote": "“Did Glasgow fall for Voi too quickly? - The Glasgow Bell”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZTExITEZENGtnQkFYaS1feVJIOE1yVlRrTlk0WXVybVNpS0xxbzFfMWZnM3p4RE5FWWdTMmlScGZwX01FU0xSSkVlc0tnTnIyQWFlbW1SSDFBYXR4aGt4WFVEaDg3Zzcy?oc=5"
-    },
-    {
-      "id": "news-1d66p7f",
-      "source": "News",
-      "market": "EalingToday.co.uk",
-      "date": "4 Nov 2026",
-      "sentiment": "Mixed",
-      "quote": "“Voi's Refusal to Quit Ealing Angers Competitors - EalingToday.co.uk”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GTWdWczBlUUpoOElMYnBZNzlMRlZYclN6dS1xMjZXdUFWcloyWlZUeUNobmxXM0g4blRndTZqZHkwY0V5bDl5V2JwcG1HVWJvSjBzZF9CM2g2ZjRUc3FCZ2FnellyaVlrcEtDRWZGQmQ?oc=5"
-    },
-    {
-      "id": "news-1wynhay",
-      "source": "News",
-      "market": "auroradesio.it",
-      "date": "1 Nov 2026",
-      "sentiment": "Mixed",
-      "quote": "“Cambridge E Bikes - Voi E scooters e bikes for hire in Cambridge - auroradesio.it”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13S0xWdHE2UkRsNEhSVEhxX3NtTXYtZUU0Uzl2WlZRdS15OG41SzFuSnkxTVl6bVBEd09OLXhsTlpnS3I0X2xTdXE5akZqbnlaMTlJ?oc=5"
     },
     {
       "id": "googleplay-4ad6863a-6963-4c47-a8a6-7402689522e4",
@@ -475,6 +404,18 @@
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=cb695b2e-ec5b-41ab-8e9e-578d63767595"
     },
     {
+      "id": "news-4vyybp",
+      "source": "News",
+      "market": "Mitt i",
+      "date": "25 Oct 2026",
+      "sentiment": "Mixed",
+      "quote": "“Voi tog över föreningens privata mark – utan lov - Mitt i”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTUctdjY2aWhhNmxnZW1Ya2p1T3pkSzNFU2dGTWJkeGNZWTk0QXNJYWJjY2hlY0tMbHJqZjE0M2YyMzJKZ1g3Nmlmbi1VWmIwWkwyNW5LYy1tc3ZhOE1UYllyTTNoUkdqNnEweFpScHF6WmVOTC1wRjNaNjg3aTlIWW1VOUgzQkFyZHc1Znhua3Axbng2UmR0Q3lLb3R4ZGM?oc=5"
+    },
+    {
       "id": "googleplay-28f5cab1-d193-42ab-a187-520ac6244407",
       "source": "Google Play",
       "market": "GB",
@@ -497,37 +438,25 @@
         "Refunds"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=ca9667af-162d-43e7-8d1f-d99989db9541"
-    },
-    {
-      "id": "googleplay-9913d3db-1264-4ec7-83aa-3c231ff117bb",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "24 Oct 2026",
-      "sentiment": "Positive",
-      "quote": "“Nowhere convenient to park and too much for what it is. I tried to use it to get to the station, turned up at the station with 15 minutes to spare then had to cycle 10 minutes to go park it and missed my train. Will not be using it again.”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=9913d3db-1264-4ec7-83aa-3c231ff117bb"
     }
   ],
   "sentimentSummary": {
-    "negative": 7,
-    "mixed": 27,
+    "negative": 6,
+    "mixed": 22,
     "positive": 8
   },
   "themes": [
     {
       "label": "General feedback",
-      "count": 32,
-      "trend": "up",
-      "delta": 1
+      "count": 26,
+      "trend": "down",
+      "delta": -6
     },
     {
-      "label": "vs. Lime",
+      "label": "Parking data",
       "count": 2,
-      "trend": "flat",
-      "delta": 0
+      "trend": "up",
+      "delta": 2
     },
     {
       "label": "Billing",
@@ -536,19 +465,19 @@
       "delta": 0
     },
     {
+      "label": "Street clutter",
+      "count": 1,
+      "trend": "up",
+      "delta": 1
+    },
+    {
+      "label": "vs. Lime",
+      "count": 1,
+      "trend": "down",
+      "delta": -1
+    },
+    {
       "label": "Broken vehicles",
-      "count": 1,
-      "trend": "flat",
-      "delta": 0
-    },
-    {
-      "label": "Geofencing",
-      "count": 1,
-      "trend": "flat",
-      "delta": 0
-    },
-    {
-      "label": "Slow zones",
       "count": 1,
       "trend": "flat",
       "delta": 0
@@ -573,7 +502,7 @@
     },
     {
       "label": "News",
-      "count": 11
+      "count": 5
     },
     {
       "label": "X",
