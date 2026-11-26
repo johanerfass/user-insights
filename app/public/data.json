@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-25T16:58:45.181Z",
-  "checkedLabel": "25 Nov 2026",
+  "generatedAt": "2026-11-26T16:39:09.805Z",
+  "checkedLabel": "26 Nov 2026",
   "windowLabel": "Last month",
   "rotateSeconds": 12,
   "posts": [
@@ -40,6 +40,18 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=73584132-18a1-405f-b233-4e7bc786418c"
+    },
+    {
+      "id": "news-v4y50v",
+      "source": "News",
+      "market": "Foro3D",
+      "date": "23 Nov 2026",
+      "sentiment": "Mixed",
+      "quote": "“Nantes tauscht Bicloo gegen Voi: 2400 E-Bikes und 658 Stationen - Foro3D”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVnM4ZGIwa1p1TllJV1dhcE5SdnZyR0FwcGNTUzRFRmdaNEdSanB3eEFCNVY1Y1BRV0F3R3JrUkJWeEJMb2ZnSVhlZlkzNjZJVWhQYUFtLWc4RFhmVmhFb2hmNFhzRHFQcHlOcDVDSkFDNFlTN1lHSEVGclZsRjlJTmRRcS1JQ2I2T3EtTGcyanNwZWVVcjl4VmxEVF9kektjcjNBbWE1aDRwTENiaUE?oc=5"
     },
     {
       "id": "googleplay-b9a23524-1efc-4ee6-8c6c-85a1ab013575",
@@ -127,16 +139,16 @@
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=3065de1d-6e36-4615-bcc5-c9d7e708a1d1"
     },
     {
-      "id": "news-3iravy",
+      "id": "news-10qdhz3",
       "source": "News",
-      "market": "BBC",
+      "market": "Northamptonshire Telegraph",
       "date": "17 Nov 2026",
       "sentiment": "Mixed",
-      "quote": "“E-scooter operator Voi can double fleet size across Slough borough - BBC”",
+      "quote": "“3 million rides on Voi e-scooters in North Northants - Northamptonshire Telegraph”",
       "themes": [
         "General feedback"
       ],
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE44YXo5TktnQ2RLck9RcG9VSGttYXV6NEZnaGw1UzAxU1QwdjVFLUZQMmQ2ckRiVHBfSHpMQmdKU0dzeVdGS2dXTU1jRVpJQzlDZThGVmVwUmY3UURPR2c?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ05GR3ZaWXRyRkpmQ0NKbHd6WXZHQ1FmbWs3VHNYbGZfNzlhWUFLYW1MaTg0bVNROWhyQUNfWkRQUmo1czBLbVhXLTd2NU8xUURKc1hIeElrYjNtTXg3Y0Q5dk4zTlJ5NW9yeW03MnlRUmV5TnpuR1RTMFNVU0ZmeGdlUjZKMHQ3LXJTQ21uazcxbE8wTkdjWFh3enhoS3ZMbW15Tg?oc=5"
     },
     {
       "id": "googleplay-0090e5eb-e5d1-4e99-9927-9e7f775a082a",
@@ -149,6 +161,18 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=0090e5eb-e5d1-4e99-9927-9e7f775a082a"
+    },
+    {
+      "id": "news-8raxgy",
+      "source": "News",
+      "market": "EalingToday.co.uk",
+      "date": "12 Nov 2026",
+      "sentiment": "Mixed",
+      "quote": "“Voi Completely Withdraws its e-bikes from Ealing Borough - EalingToday.co.uk”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpNzhJdzYwOFROUnRhcDg5UG4tM05UUFhBdnV1X01xM1N6ZFJZQUo2VHNLNVRtWXJhLU5RdEtza0d1QkRqQlYybkJJMHpobUluZnRlZks3UGljSUVHMnlkclBmZFhmZjl5cXpIWGE5bUI?oc=5"
     },
     {
       "id": "mastodon-mastodon.social-117594421443565373",
@@ -261,6 +285,18 @@
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=6c944dd4-b83d-451a-bf09-5a5d7bd40542"
     },
     {
+      "id": "news-1d66p7f",
+      "source": "News",
+      "market": "EalingToday.co.uk",
+      "date": "4 Nov 2026",
+      "sentiment": "Mixed",
+      "quote": "“Voi's Refusal to Quit Ealing Angers Competitors - EalingToday.co.uk”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GTWdWczBlUUpoOElMYnBZNzlMRlZYclN6dS1xMjZXdUFWcloyWlZUeUNobmxXM0g4blRndTZqZHkwY0V5bDl5V2JwcG1HVWJvSjBzZF9CM2g2ZjRUc3FCZ2FnellyaVlrcEtDRWZGQmQ?oc=5"
+    },
+    {
       "id": "googleplay-4ad6863a-6963-4c47-a8a6-7402689522e4",
       "source": "Google Play",
       "market": "GB",
@@ -343,55 +379,31 @@
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=34cb2a89-5a0c-44b9-8f9c-bc49c1e12254"
-    },
-    {
-      "id": "googleplay-30db4130-c18c-4f99-8c43-fd96072fdb36",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "26 Oct 2026",
-      "sentiment": "Mixed",
-      "quote": "“it was sick geeze pretty class night”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=30db4130-c18c-4f99-8c43-fd96072fdb36"
-    },
-    {
-      "id": "googleplay-49b2f068-712c-4d06-b16d-35e62beec41b",
-      "source": "Google Play",
-      "market": "GB",
-      "date": "26 Oct 2026",
-      "sentiment": "Mixed",
-      "quote": "“les \"vélos\" n’en sont pas, ce sont des mobylettes electriques avec des pédales pour interrupteurs, très désagréable à conduire. les trajets sont hors de prix, plus de 4e pour 20 minutes. il est ecrit \"premier trajet offert\" sur les velos ce n’est pas le cas. je préférais les bicloo à Nantes et de très loin.”",
-      "themes": [
-        "General feedback"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=49b2f068-712c-4d06-b16d-35e62beec41b"
     }
   ],
   "sentimentSummary": {
     "negative": 5,
-    "mixed": 18,
+    "mixed": 19,
     "positive": 7
   },
   "themes": [
     {
       "label": "General feedback",
-      "count": 22,
+      "count": 23,
       "trend": "up",
-      "delta": 14
+      "delta": 1
     },
     {
       "label": "Slow zones",
       "count": 2,
-      "trend": "up",
-      "delta": 1
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "Parking data",
       "count": 2,
-      "trend": "up",
-      "delta": 1
+      "trend": "flat",
+      "delta": 0
     },
     {
       "label": "vs. Dott",
@@ -423,7 +435,7 @@
     },
     {
       "label": "Google Play",
-      "count": 23
+      "count": 21
     },
     {
       "label": "Reddit",
@@ -431,7 +443,7 @@
     },
     {
       "label": "News",
-      "count": 3
+      "count": 6
     },
     {
       "label": "X",
