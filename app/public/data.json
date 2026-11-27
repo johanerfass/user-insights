@@ -1,14 +1,26 @@
 {
-  "generatedAt": "2026-11-26T16:39:09.805Z",
-  "checkedLabel": "26 Nov 2026",
+  "generatedAt": "2026-11-27T16:24:46.306Z",
+  "checkedLabel": "27 Nov 2026",
   "windowLabel": "Last month",
   "rotateSeconds": 12,
   "posts": [
     {
+      "id": "news-jjkn07",
+      "source": "News",
+      "market": "Oxford Mail",
+      "date": "Recent",
+      "sentiment": "Mixed",
+      "quote": "“Voi e-scooters and e-bikes set for expansion across Oxfordshire - Oxford Mail”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVHZUSkx1X3R5eTlvQmV6RTZRUzlhWkhFZ3lxdzdIRHM0WkxJX1d1SWZaSzA5bm8zTXlqWGU3Z3lhOHVGQlhTWWdGZm1aNHAzUFRRdE1qS2l5WW45bVZIb0hnRmtIYnhsLTVlRFpwQmVIUTRoUW5WNnhtX25WNjFJUzF3RGVwTEM1cG1LcmVUYUlwdmRILTlJ?oc=5"
+    },
+    {
       "id": "googleplay-4c16846a-85c0-4c9d-9c77-df3f11d72e5e",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "24 Nov 2026",
       "sentiment": "Mixed",
       "quote": "“best aap for cycle rides in Copenhagen”",
       "themes": [
@@ -20,7 +32,7 @@
       "id": "news-1wsault",
       "source": "News",
       "market": "Future Transport-News",
-      "date": "Recent",
+      "date": "24 Nov 2026",
       "sentiment": "Mixed",
       "quote": "“Voi, Dott and Ryde: Helsinki's Proposed Evening Speed Limit Would Punish Responsible Users without Making Streets Safer - Future Transport-News”",
       "themes": [
@@ -33,13 +45,25 @@
       "id": "googleplay-73584132-18a1-405f-b233-4e7bc786418c",
       "source": "Google Play",
       "market": "GB",
-      "date": "Recent",
+      "date": "23 Nov 2026",
       "sentiment": "Mixed",
       "quote": "“All of sudden your company changed the parking zones, I used to park the bike near my workplace now I can't park my bike there and not even in 1km near by. That's ridiculous”",
       "themes": [
         "General feedback"
       ],
       "url": "https://play.google.com/store/apps/details?id=io.voiapp.voi&reviewId=73584132-18a1-405f-b233-4e7bc786418c"
+    },
+    {
+      "id": "news-19ar3zg",
+      "source": "News",
+      "market": "HAZ",
+      "date": "23 Nov 2026",
+      "sentiment": "Mixed",
+      "quote": "“„Anfangs herrschte wilder Westen“: Voi-Chefin Ina Wicker begrüßt Begrenzung von E-Scootern in Hannover - HAZ”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcGZfLVREU3BUTDJNTG5QRXBHVmgzRUtYOUx1azViVmNma1J3R1R1M002a0NSU2xEdWY1REN5UW9ZQ3pFOWVNWlFlR0t5UnZjMkF2WXdwUW9ibzQ5bGRWZFdTVFBvWkx4cDE1eWxVWVhHM3d2Rmd3QXB3ZDZDTnZLc3ZfaUJGclhiSEE0NkpuYjZnaUduY0FYZkhuYXZ3UUtyN0NKak95Y3dXYW5aazVFbDdKa1VZSkdVWXVDRUl1YUJjMnhFZXlhMjJsSXNOOGlJZVBnUWRFR0pFbkRmcWRwOHd6cDBXeUtDNE1HUGVhLXR6d9IBjgJBVV95cUxOUnAzSDc0ZV9NQ3lERXk3ZUZrX0F3d21vcGZzWjZ0cF9MYnJjempkZjZybjRwWWtKdU1hVW5tX2FUd0FEU2xNQzl6Q2gzMEFKT1lBU3RRQk9yUjE1UE1vYlpMODF3U1lMbkROYWlMd1lIbE9hbTlJTjF4RjRrZHJ1a1R3M0ZXX0g1dDJjc3RZZHNTYzBkNGd5TkFLaGNrRUJLOHJTeHpmR01qUk13QWNISy1heUNHNXhuVzRXUWZ1eGoyYkROa1NSelBzemxzREJmUGhSTC00bk5FWjdqdXdHYmpVYVRLdGw2VTZnbF9ZaVhpdGF6RVZTSXpvMEh5UjVSOGVCLUxDcS01RHV2RWc?oc=5"
     },
     {
       "id": "news-v4y50v",
@@ -186,6 +210,18 @@
         "Slow zones"
       ],
       "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:nwc73wefk6c27hdvv4mdjbhx/post/3mzyhbmafec2h"
+    },
+    {
+      "id": "news-113zyuy",
+      "source": "News",
+      "market": "Road.cc",
+      "date": "10 Nov 2026",
+      "sentiment": "Mixed",
+      "quote": "“Voi pulls out of borough and slams “unfair, exclusionary” policies after council withdrew licence and threatened to impound bikes in garage | electric bike reviews, buying advice and news - ebiketips - Road.cc”",
+      "themes": [
+        "General feedback"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xQWNRd3pRWUpSRHBCckxaLU1mQk1HMGhYOUV5Zi1rSS1ZQlZaeUpjdUFCUzZQd1FucHZocnA1U0J1U2hMdFNob1BHcDBlSWtkUlNsT0NzVE1LeHYxRGxMUks1c3dfUjl2SVgxRm9MUkNyZw?oc=5"
     },
     {
       "id": "googleplay-17ae9365-2e80-4198-819e-bb9da09c6d33",
@@ -383,15 +419,15 @@
   ],
   "sentimentSummary": {
     "negative": 5,
-    "mixed": 19,
+    "mixed": 22,
     "positive": 7
   },
   "themes": [
     {
       "label": "General feedback",
-      "count": 23,
+      "count": 26,
       "trend": "up",
-      "delta": 1
+      "delta": 3
     },
     {
       "label": "Slow zones",
@@ -443,7 +479,7 @@
     },
     {
       "label": "News",
-      "count": 6
+      "count": 9
     },
     {
       "label": "X",
